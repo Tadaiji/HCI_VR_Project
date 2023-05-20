@@ -1,0 +1,7 @@
+Hi, because videos are to big to store on Github you need to 
+download your own if you want to test it. You should use the 
+4K Downloader which can download 360 videos. Then but the 
+downloaded file onto the video component on the sphere.
+
+
+Downloader: https://www.4kdownload.com/de/products/videodownloader-10 
