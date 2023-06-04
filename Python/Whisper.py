@@ -3,7 +3,7 @@ import subprocess
 import re
 import whisper
 import torch
-import torch_directml
+#import torch_directml
 import json
 
 from pathlib import Path
@@ -51,7 +51,7 @@ def get_speakers(audio: str):
         notebook_login()
 
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
-                                        use_auth_token= access_token)
+                                        use_auth_token=access_token)
 
     dz = pipeline(audio)  
 
@@ -109,7 +109,7 @@ def grouping_diarization(diarization_file: str, audio_file: str):
         start = millisec(start) #- spacermilli
         end = millisec(end)  #- spacermilli
         gidx += 1
-        audio[start:end].export(r"Python\Videos_and_Audio\Audio_Sections\\" + str(gidx) + '.wav', format='wav') 
+        audio[start:end].export(r"Videos_and_Audio/Audio_Sections/" + str(gidx) + '.wav', format='wav')
         print(f"group {gidx}: {start}--{end}")
 
     return groups
@@ -133,16 +133,16 @@ def transcribe(groups: list):
     device = torch.device("cpu")
     if torch.cuda.is_available():
         device = torch.device("cuda")
-    else:    
-        dml = torch_directml.device()
+    #else:
+        #dml = torch_directml.device()
 
     model = whisper.load_model("medium", device = device)    
 
     for i in range(len(groups)):
-        audiof = r"Python\Videos_and_Audio\Audio_Sections\\" + str(i) + ".wav"
+        audiof = r"Videos_and_Audio/Audio_Sections/" + str(i) + ".wav"
         result = model.transcribe(audio=audiof, language = "en", word_timestamps= True, verbose = True)
 
-        with open(r"Python\Videos_and_Audio\Transcription_Sections\\" + str(i) + ".json", "w") as outfile:
+        with open(r"Videos_and_Audio/Transcription_Sections/" + str(i) + ".json", "w") as outfile:
             json.dump(result, outfile, indent = 4)
 
 """ This method combines the two outputs
@@ -170,7 +170,7 @@ def combine_speakers_transcribtion(groups):
 
         gidx += 1
 
-        captions = json.load(open(r"Python\Videos_and_Audio\Transcription_Sections\\" + str(gidx) + '.json'))['segments']
+        captions = json.load(open(r"Videos_and_Audio/Transcription_Sections/" + str(gidx) + '.json'))['segments']
 
         if captions:
             speaker = g[0].split()[-1]
@@ -188,7 +188,7 @@ def combine_speakers_transcribtion(groups):
                 #text.append(f'{w["word"]}')
             text.append('\n')
 
-    with open(r"Python\Videos_and_Audio\capspeaker.txt", "w", encoding='utf-8') as file:
+    with open(r"Videos_and_Audio/capspeaker.txt", "w", encoding='utf-8') as file:
         s = "".join(text)
         file.write(s)
         print(s+'\n')
@@ -222,17 +222,17 @@ def timeStr(t):
 
 
 ################# Program #################
-#print("Making .wav file")
-#get_wav(r"Python\Videos_and_Audio\Test.mp4")
+print("Making .wav file")
+#get_wav("Videos_and_Audio/Test.mp4")
 
-#print("Finding speakers")
-#get_speakers(r"Python\Videos_and_Audio\Test.mp4.wav")
+print("Finding speakers")
+#get_speakers(r"Videos_and_Audio/Test.mp4.wav")
 
-#print("Grouping speakers")
-#groups = grouping_diarization(r"diarization.txt", r"Python\Videos_and_Audio\Test.mp4.wav")
+print("Grouping speakers")
+groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test.mp4.wav")
 
 #print("Transcribing (This might take a while without CUDA support)")
 #transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
 
-#print("Finalizing Document")
-#combine_speakers_transcribtion(groups)
+print("Finalizing Document")
+combine_speakers_transcribtion(groups)
