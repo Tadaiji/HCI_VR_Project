@@ -13,20 +13,22 @@ from pydub import AudioSegment
 from datetime import timedelta
 
 ################# Global Vars #################
-meeting = "" #Path to the video
+meeting = "/Videos_and_Audio/Test2.mp4" #Path to the video
 model = "" #Whisper Model
 number_of_speakers = 0
 
 output_path = "/videos/"
-access_token = ""
-openai_key = ""
+access_token = "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"
+openai_key = "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"
 ################# Methods #################
 """ Extracts the audio of a video
 
 The implementation with the ffmpeg wrapper is missing
 """
-def get_wav(video: str): 
+def get_wav(video: str):
+    print("command")
     command = f"ffmpeg -i {video} -ab 160k -ac 2 -ar 44100 -vn {video}.wav"
+    print("subcommand")
     subprocess.call(command, shell=True)
     return ""
     
@@ -50,11 +52,13 @@ Returns:
 def get_speakers(audio: str):
     if not(access_token):
         from huggingface_hub import notebook_login
+        print("login")
         notebook_login()
 
+    print("pipeline")
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
                                         use_auth_token=access_token)
-
+    print("dz")
     dz = pipeline(audio)  
 
     with open("diarization.txt", "w") as text_file:
@@ -132,9 +136,11 @@ Returns:
 
 """
 def transcribe(groups: list):
+    print("transcribe")
     device = torch.device("cpu")
     if torch.cuda.is_available():
-        device = torch.device("cuda")
+        print("gpu")
+        device = torch.cuda.device(0)
     #else:
         #dml = torch_directml.device()
 
@@ -190,7 +196,7 @@ def combine_speakers_transcribtion(groups):
                 #text.append(f'{w["word"]}')
             text.append('\n')
 
-    with open(r"Videos_and_Audio/capspeaker.txt", "w", encoding='utf-8') as file:
+    with open(r"Videos_and_Audio/Transcription_Sections/capspeaker.txt", "w", encoding='utf-8') as file:
         s = "".join(text)
         file.write(s)
         print(s+'\n')
@@ -203,7 +209,7 @@ def summarize(textfile):
     openai.api_key = openai_key
     openai.Completion.create(
         model = "gpt-4-32k",
-        prompt = text + ""
+        prompt = text + "",
         maxtokens = 200,
         temperature = 0
     )
@@ -237,17 +243,17 @@ def timeStr(t):
 
 
 ################# Program #################
-print("Making .wav file")
-#get_wav("Videos_and_Audio/Test.mp4")
+#print("Making .wav file")
+#get_wav("Videos_and_Audio/Test2.mp4")
 
-print("Finding speakers")
-#get_speakers(r"Videos_and_Audio/Test.mp4.wav")
+#print("Finding speakers")
+#get_speakers(r"Videos_and_Audio/Test2.mp4.wav")
 
 print("Grouping speakers")
-groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test.mp4.wav")
+groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test2.mp4.wav")
 
-#print("Transcribing (This might take a while without CUDA support)")
-#transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
+print("Transcribing (This might take a while without CUDA support)")
+transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
 
 print("Finalizing Document")
 combine_speakers_transcribtion(groups)
