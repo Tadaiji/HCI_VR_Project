@@ -1,0 +1,126 @@
+[00:00:000.50 --> 00:00:004.12] [SPEAKER_00]  I come to Cambridge in 1941 as a 17-year-old.
+
+[00:00:005.68 --> 00:00:009.32] [SPEAKER_00]  And before, I mean, I'd always been interested in physics
+
+[00:00:009.32 --> 00:00:012.82] [SPEAKER_00]  and applied mathematics of all sorts.
+
+[00:00:013.64 --> 00:00:016.10] [SPEAKER_00]  And one of the textbooks that I bought as a prize
+
+[00:00:016.10 --> 00:00:017.84] [SPEAKER_00]  was a textbook in aerodynamics,
+
+[00:00:018.98 --> 00:00:021.56] [SPEAKER_00]  which I think was because of James Lighthill.
+
+[00:00:023.00 --> 00:00:026.76] [SPEAKER_00]  And so I thought of myself as becoming an aerodynamicist
+
+[00:00:026.76 --> 00:00:029.78] [SPEAKER_00]  as a serious possibility.
+
+[00:00:029.84 --> 00:00:031.82] [SPEAKER_00]  That seemed to be a field where mathematics
+
+[00:00:031.82 --> 00:00:033.90] [SPEAKER_00]  could really be helpful.
+
+[00:00:034.28 --> 00:00:035.68] [SPEAKER_00]  And flying, of course, was exciting.
+
+[00:00:036.92 --> 00:00:038.48] [SPEAKER_00]  But anyway, I arrived in Cambridge
+
+[00:00:038.48 --> 00:00:041.76] [SPEAKER_00]  and all the applied mathematicians were gone.
+
+[00:00:041.88 --> 00:00:043.66] [SPEAKER_00]  There was nobody there except Pure.
+
+[00:00:044.90 --> 00:00:047.62] [SPEAKER_00]  And all the applied mathematicians and physicists
+
+[00:00:047.62 --> 00:00:049.40] [SPEAKER_00]  were fighting the war.
+
+[00:00:049.92 --> 00:00:057.00] [SPEAKER_00]  And they had gone to do radar or crypto analysis
+
+[00:00:057.00 --> 00:00:058.18] [SPEAKER_00]  or various other things.
+
+[00:00:059.02 --> 00:01:000.54] [SPEAKER_00]  And so they'd all disappeared.
+
+[00:01:001.08 --> 00:01:003.18] [SPEAKER_00]  And all that was left was the pure mathematicians.
+
+[00:01:003.56 --> 00:01:006.42] [SPEAKER_00]  So I just had a wonderful feast of pure mathematics
+
+[00:01:006.42 --> 00:01:008.38] [SPEAKER_00]  for the two years that I was in Cambridge.
+
+[00:01:009.54 --> 00:01:013.76] [SPEAKER_00]  And I had the great luck to have Bezikovic as my tutor,
+
+[00:01:014.64 --> 00:01:015.98] [SPEAKER_00]  who was a great mathematician,
+
+[00:01:016.08 --> 00:01:020.00] [SPEAKER_00]  as well as being also a Russian,
+
+[00:01:020.06 --> 00:01:021.68] [SPEAKER_00]  so I could talk Russian with him.
+
+[00:01:022.34 --> 00:01:024.06] [SPEAKER_00]  We became very close friends.
+
+[00:01:024.68 --> 00:01:029.28] [SPEAKER_00]  And so with him, I actually did serious mathematics.
+
+[00:01:030.82 --> 00:01:038.88] [SPEAKER_00]  And I got, again, deep into problems
+
+[00:01:038.88 --> 00:01:041.54] [SPEAKER_00]  which I never solved,
+
+[00:01:041.54 --> 00:01:043.44] [SPEAKER_00]  but which gave me enormous satisfaction.
+
+[00:01:045.36 --> 00:01:048.82] [SPEAKER_00]  I remember Bezikovic gave me problems
+
+[00:01:048.82 --> 00:01:051.28] [SPEAKER_00]  which would have been too hard for a graduate student.
+
+[00:01:052.50 --> 00:01:054.84] [SPEAKER_00]  But nevertheless, they taught me a tremendous lot.
+
+[00:01:055.96 --> 00:02:001.80] [SPEAKER_01]  And he was primarily interested in measure theory and such problems?
+
+[00:02:001.74 --> 00:02:007.82] [SPEAKER_00]  Yes, he was also geometry, but it was metrical geometry rather than algebraic.
+
+[00:02:008.92 --> 00:02:019.04] [SPEAKER_00]  The kind of problem he gave to me was to understand the properties of measurable sets in fractional
+
+[00:02:019.04 --> 00:02:019.72] [SPEAKER_00]  dimensions.
+
+[00:02:022.78 --> 00:02:027.60] [SPEAKER_00]  It's hard enough in one dimension or two, but when it comes to fractional dimensions,
+
+[00:02:027.64 --> 00:02:028.70] [SPEAKER_00]  it gets worse.
+
+[00:02:029.14 --> 00:02:036.00] [SPEAKER_00]  Anyway, I had a great time struggling with that because nothing much came out of it except
+
+[00:02:036.00 --> 00:02:037.80] [SPEAKER_00]  just a taste for his style.
+
+[00:02:038.36 --> 00:02:041.90] [SPEAKER_00]  Bessicovitch's style has stayed with me all my life.
+
+[00:02:042.28 --> 00:02:046.42] [SPEAKER_00]  That's the way I do science in all fields.
+
+[00:02:048.14 --> 00:02:056.72] [SPEAKER_00]  It's a very distinctive style, which is kind of an architectural style in which you take
+
+[00:02:056.72 --> 00:03:009.96] [SPEAKER_00]  very simple components and then build hierarchical structures which become stage by stage bigger
+
+[00:03:009.96 --> 00:03:016.26] [SPEAKER_00]  and fewer as you build one story on another until finally you get the keystone at the
+
+[00:03:016.26 --> 00:03:016.48] [SPEAKER_00]  top.
+
+[00:03:017.34 --> 00:03:021.90] [SPEAKER_00]  So you have this hierarchical structure which played a big part in all Bessicovitch's work.
+
+[00:03:023.04 --> 00:03:028.60] [SPEAKER_00]  So out of these simple components you get this very powerful structure.
+
+[00:03:029.28 --> 00:03:034.02] [SPEAKER_00]  Then the theorem you want to prove falls out as a consequence of the overall structure.
+
+[00:03:034.44 --> 00:03:038.94] [SPEAKER_00]  So it's a kind of architectural style of reasoning which is very powerful.
+
+[00:03:039.34 --> 00:03:041.94] [SPEAKER_00]  I used that in quantum electrodynamics.
+
+[00:03:043.32 --> 00:03:048.10] [SPEAKER_01]  And you were conscious of that at the time in interacting with Bessicovitch, that this
+
+[00:03:048.10 --> 00:03:050.76] [SPEAKER_01]  is an approach of how he does mathematics?
+
+[00:03:050.74 --> 00:03:052.72] [SPEAKER_00]  I'm not sure whether I was conscious of it,
+
+[00:03:052.88 --> 00:03:054.14] [SPEAKER_00]  but certainly I absorbed it,
+
+[00:03:054.32 --> 00:03:057.42] [SPEAKER_00]  and it's very visible in everything that I do.
+
+[00:03:054.28 --> 00:03:054.66] [SPEAKER_01]  Yes.
+
+[00:03:054.66 --> 00:03:054.68] [SPEAKER_01]  Yes.
+
+[00:03:059.95 --> 00:04:006.31] [SPEAKER_01]  And so Bessie Kovach is an important resource for you.
+
+[00:04:006.65 --> 00:04:006.91] [SPEAKER_01]  Yes.
+
+[00:04:006.55 --> 00:04:016.43] [SPEAKER_00]  Yes, certainly the tools that I use are basically Bessie Kovach tools.
+

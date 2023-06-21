@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Python
+/Python/Videos_and_Audio/Audio_Sections/*
+/Python/Videos_and_Audio/Transcription_Sections/*
+/Python/Videos_and_Audio/Test.mp4.wav
+/Python/diarization.txt
