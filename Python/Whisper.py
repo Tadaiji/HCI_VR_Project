@@ -5,6 +5,7 @@ import whisper
 import torch
 #import torch_directml
 import json
+import openai
 
 from pathlib import Path
 from pyannote.audio import Pipeline
@@ -18,6 +19,7 @@ number_of_speakers = 0
 
 output_path = "/videos/"
 access_token = ""
+openai_key = ""
 ################# Methods #################
 """ Extracts the audio of a video
 
@@ -192,7 +194,20 @@ def combine_speakers_transcribtion(groups):
         s = "".join(text)
         file.write(s)
         print(s+'\n')
-        
+
+""" This method summarizes the given textfile using GPT4
+"""
+def summarize(textfile):
+    text  = ""
+    
+    openai.api_key = openai_key
+    openai.Completion.create(
+        model = "gpt-4-32k",
+        prompt = text + ""
+        maxtokens = 200,
+        temperature = 0
+    )
+
 ################# Helper Methods #################
 """ Helper Method to convert everything to millisecs
 

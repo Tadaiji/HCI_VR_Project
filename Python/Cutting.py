@@ -1,5 +1,5 @@
 import ffmpeg
-
+import os
 
 def cutVideo(timestamps: list, input_path: str, output_path: str):
     i = 0
@@ -92,13 +92,46 @@ def getTimestamps(filepath):
 
             timestamps.append([startStamp, endStamp])
 
-    print(timestamps[0])
     return timestamps
 
+def get_seconds(st):
+    h, m, s = st.split(":")
+    return int(h) * 3600 + int(m) * 60 + int(s)
+
+
+def generateFfmpeg(timestamps: list, input_path:str, output_path:str):
+    ffmpeg_timestamps = []
+    for timestamp in timestamps:
+        s = "between(t," + str(get_seconds(timestamp[0])) + "," + str(get_seconds(timestamp[1])) + ")" 
+        ffmpeg_timestamps.append(s)
+
+    #Video Stuff
+    command = "ffmpeg -i " + input_path + " -vf \"select='"
+    for ffmpeg_timestamp in ffmpeg_timestamps:
+        command += ffmpeg_timestamp + "+"
+    command = command[:-1] #remove the last +
+    command += "', setpts=N/FRAME_RATE/TB\""
+
+    #Audio Stuff
+    command += " -af \"aselect='"
+    for ffmpeg_timestamp in ffmpeg_timestamps:
+        command += ffmpeg_timestamp + "+"
+    command = command[:-1] #remove the last "+"
+    command += "', asetpts=N/SR/TB\" " + output_path
+
+    return command
+
+def cutVideo(command: str):
+    os.system(command)
 
 if __name__ == '__main__':
     #test_timestamps = [[0, 10], [15, 20], [25, 50]]
-    test_timestamps = getTimestamps("Videos_and_Audio/capspeaker.txt")
-    input_path = 'C:/Users/dschi/PycharmProjects/HCI_ffmpeg/360Video.mp4'
+    test_timestamps = getTimestamps(r"Python\\Videos_and_Audio\\CuttingTest.txt")
+    input_path = r'Python\\Videos_and_Audio\\Test.mp4'
     output_path = 'output.mp4'
-    cutVideo(test_timestamps, input_path, output_path)
+    command = generateFfmpeg(test_timestamps,input_path,output_path)
+    print(command)
+    cutVideo(command)
+
+
+    #cutVideo(test_timestamps, input_path, output_path)
