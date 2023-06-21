@@ -18,8 +18,8 @@ model = "" #Whisper Model
 number_of_speakers = 0
 
 output_path = "/videos/"
-access_token = "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"
-openai_key = "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"
+access_token = ""
+openai_key = ""
 ################# Methods #################
 """ Extracts the audio of a video
 
