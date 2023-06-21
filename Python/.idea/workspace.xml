@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9206fc5d-cbc9-415b-9b27-960a75e67965" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assets/New York City 8K - VR 360 Drive.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assets/New York City 8K - VR 360 Drive.mp4.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos_and_Audio/old_video/Test.mp4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Videos_and_Audio/CuttingTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Videos_and_Audio/Test.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Videos_and_Audio/old_video/Test.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Videos_and_Audio/capspeaker.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whisper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Whisper.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Qhr80xdl4tr5el3nKL5kPjIfHj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;AI__stuff&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dschi\Documents\GitHub\HCI_VR_Project\Python\Videos_and_Audio\old_video" />
+      <recent name="C:\Users\dschi\Documents\GitHub\HCI_VR_Project\Python\Videos_and_Audio\Transcription_Sections" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9206fc5d-cbc9-415b-9b27-960a75e67965" name="Changes" comment="" />
+      <created>1685816492107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685816492107</updated>
+    </task>
+    <servers />
+  </component>
+</project>
