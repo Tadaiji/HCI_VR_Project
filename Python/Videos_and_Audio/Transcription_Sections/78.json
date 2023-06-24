@@ -1,0 +1,304 @@
+{
+    "text": " Yeah, and there might be a value stream analytics story in there too, if we aggregate it all. It's a bummer that customizable value stream analytics is 12.9. But yeah, there might be.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.56,
+            "text": " Yeah, and there might be a value stream analytics story in there too, if we aggregate it all.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                293,
+                456,
+                1062,
+                312,
+                257,
+                2158,
+                4309,
+                15370,
+                1657,
+                294,
+                456,
+                886,
+                11,
+                498,
+                321,
+                26118,
+                309,
+                439,
+                13,
+                50794
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3044499588012695,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.0009834041120484471,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5681091547012329
+                },
+                {
+                    "word": " and",
+                    "start": 0.38,
+                    "end": 0.4,
+                    "probability": 0.3471675515174866
+                },
+                {
+                    "word": " there",
+                    "start": 0.4,
+                    "end": 0.46,
+                    "probability": 0.9907336235046387
+                },
+                {
+                    "word": " might",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.9943183064460754
+                },
+                {
+                    "word": " be",
+                    "start": 0.64,
+                    "end": 1.08,
+                    "probability": 0.9873821139335632
+                },
+                {
+                    "word": " a",
+                    "start": 1.08,
+                    "end": 4.3,
+                    "probability": 0.9094847440719604
+                },
+                {
+                    "word": " value",
+                    "start": 4.3,
+                    "end": 4.48,
+                    "probability": 0.17825153470039368
+                },
+                {
+                    "word": " stream",
+                    "start": 4.48,
+                    "end": 4.72,
+                    "probability": 0.9640094637870789
+                },
+                {
+                    "word": " analytics",
+                    "start": 4.72,
+                    "end": 5.18,
+                    "probability": 0.9367473125457764
+                },
+                {
+                    "word": " story",
+                    "start": 5.18,
+                    "end": 5.5,
+                    "probability": 0.9692983031272888
+                },
+                {
+                    "word": " in",
+                    "start": 5.5,
+                    "end": 5.72,
+                    "probability": 0.8444908261299133
+                },
+                {
+                    "word": " there",
+                    "start": 5.72,
+                    "end": 5.9,
+                    "probability": 0.9913904666900635
+                },
+                {
+                    "word": " too,",
+                    "start": 5.9,
+                    "end": 6.44,
+                    "probability": 0.6449692249298096
+                },
+                {
+                    "word": " if",
+                    "start": 7.38,
+                    "end": 7.54,
+                    "probability": 0.9611265659332275
+                },
+                {
+                    "word": " we",
+                    "start": 7.54,
+                    "end": 7.78,
+                    "probability": 0.9958912134170532
+                },
+                {
+                    "word": " aggregate",
+                    "start": 7.78,
+                    "end": 8.18,
+                    "probability": 0.9438115358352661
+                },
+                {
+                    "word": " it",
+                    "start": 8.18,
+                    "end": 8.42,
+                    "probability": 0.9523193836212158
+                },
+                {
+                    "word": " all.",
+                    "start": 8.42,
+                    "end": 8.56,
+                    "probability": 0.9924691319465637
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.92,
+            "end": 12.42,
+            "text": " It's a bummer that customizable value stream analytics is 12.9.",
+            "tokens": [
+                50794,
+                467,
+                311,
+                257,
+                13309,
+                936,
+                300,
+                47922,
+                2158,
+                4309,
+                15370,
+                307,
+                2272,
+                13,
+                24,
+                13,
+                51054
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3044499588012695,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.0009834041120484471,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 8.92,
+                    "end": 9.24,
+                    "probability": 0.9906263947486877
+                },
+                {
+                    "word": " a",
+                    "start": 9.24,
+                    "end": 9.3,
+                    "probability": 0.9808017611503601
+                },
+                {
+                    "word": " bummer",
+                    "start": 9.3,
+                    "end": 9.62,
+                    "probability": 0.99302539229393
+                },
+                {
+                    "word": " that",
+                    "start": 9.62,
+                    "end": 9.88,
+                    "probability": 0.9840041995048523
+                },
+                {
+                    "word": " customizable",
+                    "start": 9.88,
+                    "end": 10.36,
+                    "probability": 0.9708876609802246
+                },
+                {
+                    "word": " value",
+                    "start": 10.36,
+                    "end": 10.74,
+                    "probability": 0.965900719165802
+                },
+                {
+                    "word": " stream",
+                    "start": 10.74,
+                    "end": 10.94,
+                    "probability": 0.9793784022331238
+                },
+                {
+                    "word": " analytics",
+                    "start": 10.94,
+                    "end": 11.32,
+                    "probability": 0.997160792350769
+                },
+                {
+                    "word": " is",
+                    "start": 11.32,
+                    "end": 11.58,
+                    "probability": 0.7852143049240112
+                },
+                {
+                    "word": " 12",
+                    "start": 11.58,
+                    "end": 11.8,
+                    "probability": 0.9713467955589294
+                },
+                {
+                    "word": ".9.",
+                    "start": 11.8,
+                    "end": 12.42,
+                    "probability": 0.9890364110469818
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.92,
+            "end": 17.14,
+            "text": " But yeah, there might be.",
+            "tokens": [
+                51054,
+                583,
+                1338,
+                11,
+                456,
+                1062,
+                312,
+                13,
+                51222
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3044499588012695,
+            "compression_ratio": 1.4296875,
+            "no_speech_prob": 0.0009834041120484471,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 13.92,
+                    "end": 14.28,
+                    "probability": 0.8866115808486938
+                },
+                {
+                    "word": " yeah,",
+                    "start": 14.28,
+                    "end": 15.76,
+                    "probability": 0.7520110011100769
+                },
+                {
+                    "word": " there",
+                    "start": 16.78,
+                    "end": 16.9,
+                    "probability": 0.957975447177887
+                },
+                {
+                    "word": " might",
+                    "start": 16.9,
+                    "end": 17.06,
+                    "probability": 0.9984765648841858
+                },
+                {
+                    "word": " be.",
+                    "start": 17.06,
+                    "end": 17.14,
+                    "probability": 0.9990241527557373
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

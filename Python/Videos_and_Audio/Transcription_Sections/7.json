@@ -1,0 +1,185 @@
+{
+    "text": " Yeah, do y'all, does anybody have like a regular sync still? Are those all been canceled or is there?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.38,
+            "text": " Yeah, do y'all, does anybody have like a regular sync still?",
+            "tokens": [
+                50364,
+                865,
+                11,
+                360,
+                288,
+                6,
+                336,
+                11,
+                775,
+                4472,
+                362,
+                411,
+                257,
+                3890,
+                20271,
+                920,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29941097895304364,
+            "compression_ratio": 1.1477272727272727,
+            "no_speech_prob": 0.0064782206900417805,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6130931377410889
+                },
+                {
+                    "word": " do",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.8379585146903992
+                },
+                {
+                    "word": " y",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.6026221513748169
+                },
+                {
+                    "word": "'all,",
+                    "start": 0.74,
+                    "end": 1.02,
+                    "probability": 0.9962661862373352
+                },
+                {
+                    "word": " does",
+                    "start": 1.92,
+                    "end": 2.2,
+                    "probability": 0.5067892074584961
+                },
+                {
+                    "word": " anybody",
+                    "start": 2.2,
+                    "end": 2.56,
+                    "probability": 0.9929324388504028
+                },
+                {
+                    "word": " have",
+                    "start": 2.56,
+                    "end": 3.0,
+                    "probability": 0.9969149827957153
+                },
+                {
+                    "word": " like",
+                    "start": 3.0,
+                    "end": 3.4,
+                    "probability": 0.739573061466217
+                },
+                {
+                    "word": " a",
+                    "start": 3.4,
+                    "end": 3.9,
+                    "probability": 0.9690595865249634
+                },
+                {
+                    "word": " regular",
+                    "start": 3.9,
+                    "end": 4.34,
+                    "probability": 0.988819420337677
+                },
+                {
+                    "word": " sync",
+                    "start": 4.34,
+                    "end": 4.74,
+                    "probability": 0.8221389651298523
+                },
+                {
+                    "word": " still?",
+                    "start": 4.74,
+                    "end": 5.38,
+                    "probability": 0.7991220355033875
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.52,
+            "end": 7.92,
+            "text": " Are those all been canceled or is there?",
+            "tokens": [
+                50638,
+                2014,
+                729,
+                439,
+                668,
+                24839,
+                420,
+                307,
+                456,
+                30,
+                50770
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29941097895304364,
+            "compression_ratio": 1.1477272727272727,
+            "no_speech_prob": 0.0064782206900417805,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 5.52,
+                    "end": 5.7,
+                    "probability": 0.9407666325569153
+                },
+                {
+                    "word": " those",
+                    "start": 5.7,
+                    "end": 6.26,
+                    "probability": 0.9972553849220276
+                },
+                {
+                    "word": " all",
+                    "start": 6.26,
+                    "end": 6.86,
+                    "probability": 0.9823457598686218
+                },
+                {
+                    "word": " been",
+                    "start": 6.86,
+                    "end": 7.06,
+                    "probability": 0.6182786822319031
+                },
+                {
+                    "word": " canceled",
+                    "start": 7.06,
+                    "end": 7.4,
+                    "probability": 0.7376572489738464
+                },
+                {
+                    "word": " or",
+                    "start": 7.4,
+                    "end": 7.58,
+                    "probability": 0.5779102444648743
+                },
+                {
+                    "word": " is",
+                    "start": 7.58,
+                    "end": 7.68,
+                    "probability": 0.9655322432518005
+                },
+                {
+                    "word": " there?",
+                    "start": 7.68,
+                    "end": 7.92,
+                    "probability": 0.985737681388855
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

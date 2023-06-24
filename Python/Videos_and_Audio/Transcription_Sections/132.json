@@ -1,0 +1,74 @@
+{
+    "text": " Let's see who can find it faster.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.34,
+            "end": 2.94,
+            "text": " Let's see who can find it faster.",
+            "tokens": [
+                50364,
+                961,
+                311,
+                536,
+                567,
+                393,
+                915,
+                309,
+                4663,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3714252710342407,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.009392930194735527,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 1.34,
+                    "end": 1.74,
+                    "probability": 0.6128564476966858
+                },
+                {
+                    "word": " see",
+                    "start": 1.74,
+                    "end": 1.82,
+                    "probability": 0.9986924529075623
+                },
+                {
+                    "word": " who",
+                    "start": 1.82,
+                    "end": 1.98,
+                    "probability": 0.9810891151428223
+                },
+                {
+                    "word": " can",
+                    "start": 1.98,
+                    "end": 2.2,
+                    "probability": 0.9952675104141235
+                },
+                {
+                    "word": " find",
+                    "start": 2.2,
+                    "end": 2.38,
+                    "probability": 0.9972805976867676
+                },
+                {
+                    "word": " it",
+                    "start": 2.38,
+                    "end": 2.62,
+                    "probability": 0.9931898713111877
+                },
+                {
+                    "word": " faster.",
+                    "start": 2.62,
+                    "end": 2.94,
+                    "probability": 0.99693763256073
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

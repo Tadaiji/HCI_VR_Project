@@ -1,0 +1,30 @@
+{
+    "text": " Hmm",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.28,
+            "text": " Hmm",
+            "tokens": [
+                50364,
+                8239,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6733307242393494,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.7926877737045288,
+            "words": [
+                {
+                    "word": " Hmm",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.10243548452854156
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

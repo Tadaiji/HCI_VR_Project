@@ -1,0 +1,133 @@
+{
+    "text": " Yeah, we should. I think you asked me that before, right? Or someone asked me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 6.68,
+            "text": " Yeah, we should. I think you asked me that before, right? Or someone asked me.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                820,
+                13,
+                286,
+                519,
+                291,
+                2351,
+                385,
+                300,
+                949,
+                11,
+                558,
+                30,
+                1610,
+                1580,
+                2351,
+                385,
+                13,
+                50680
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24907425175542416,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.007219207938760519,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.12,
+                    "end": 0.64,
+                    "probability": 0.8122139573097229
+                },
+                {
+                    "word": " we",
+                    "start": 1.16,
+                    "end": 1.16,
+                    "probability": 0.9722387194633484
+                },
+                {
+                    "word": " should.",
+                    "start": 1.16,
+                    "end": 1.72,
+                    "probability": 0.9977332353591919
+                },
+                {
+                    "word": " I",
+                    "start": 2.38,
+                    "end": 2.58,
+                    "probability": 0.917387843132019
+                },
+                {
+                    "word": " think",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.9961687922477722
+                },
+                {
+                    "word": " you",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9805818200111389
+                },
+                {
+                    "word": " asked",
+                    "start": 3.02,
+                    "end": 3.16,
+                    "probability": 0.8758684396743774
+                },
+                {
+                    "word": " me",
+                    "start": 3.16,
+                    "end": 3.42,
+                    "probability": 0.9997128844261169
+                },
+                {
+                    "word": " that",
+                    "start": 3.42,
+                    "end": 3.88,
+                    "probability": 0.9893379211425781
+                },
+                {
+                    "word": " before,",
+                    "start": 3.88,
+                    "end": 4.34,
+                    "probability": 0.9750248789787292
+                },
+                {
+                    "word": " right?",
+                    "start": 4.48,
+                    "end": 4.94,
+                    "probability": 0.9914769530296326
+                },
+                {
+                    "word": " Or",
+                    "start": 5.82,
+                    "end": 5.94,
+                    "probability": 0.9275662899017334
+                },
+                {
+                    "word": " someone",
+                    "start": 5.94,
+                    "end": 6.16,
+                    "probability": 0.9850772023200989
+                },
+                {
+                    "word": " asked",
+                    "start": 6.16,
+                    "end": 6.36,
+                    "probability": 0.8684210777282715
+                },
+                {
+                    "word": " me.",
+                    "start": 6.36,
+                    "end": 6.68,
+                    "probability": 0.979464590549469
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

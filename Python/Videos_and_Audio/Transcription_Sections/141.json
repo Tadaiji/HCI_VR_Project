@@ -1,0 +1,127 @@
+{
+    "text": " It just seems like the right time to do this, right? Man.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.22,
+            "text": " It just seems like the right time to do this, right?",
+            "tokens": [
+                50364,
+                467,
+                445,
+                2544,
+                411,
+                264,
+                558,
+                565,
+                281,
+                360,
+                341,
+                11,
+                558,
+                30,
+                50502
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2927300214767456,
+            "compression_ratio": 0.9827586206896551,
+            "no_speech_prob": 0.045937679708004,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.5398603081703186
+                },
+                {
+                    "word": " just",
+                    "start": 0.12,
+                    "end": 0.3,
+                    "probability": 0.9701763987541199
+                },
+                {
+                    "word": " seems",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9978846907615662
+                },
+                {
+                    "word": " like",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.996799111366272
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.76,
+                    "probability": 0.997920572757721
+                },
+                {
+                    "word": " right",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.9976784586906433
+                },
+                {
+                    "word": " time",
+                    "start": 0.9,
+                    "end": 1.08,
+                    "probability": 0.9975670576095581
+                },
+                {
+                    "word": " to",
+                    "start": 1.08,
+                    "end": 1.28,
+                    "probability": 0.9982776641845703
+                },
+                {
+                    "word": " do",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.9988521337509155
+                },
+                {
+                    "word": " this,",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.9987277388572693
+                },
+                {
+                    "word": " right?",
+                    "start": 1.94,
+                    "end": 2.22,
+                    "probability": 0.997273862361908
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.38,
+            "end": 2.92,
+            "text": " Man.",
+            "tokens": [
+                50502,
+                2458,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2927300214767456,
+            "compression_ratio": 0.9827586206896551,
+            "no_speech_prob": 0.045937679708004,
+            "words": [
+                {
+                    "word": " Man.",
+                    "start": 2.38,
+                    "end": 2.92,
+                    "probability": 0.33396676182746887
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,642 @@
+{
+    "text": " Yeah, we tiered them. That's when we tiered them, right? Tier one, tier two, tier three. So this, where we are right now is we're looking at just tier one competitors. That's probably why I cut and paste them because those are all tier ones. So we're just focusing on tier one right now. So if they don't apply to that stage, don't worry about it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.48,
+            "end": 1.56,
+            "text": " Yeah, we tiered them.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                12362,
+                292,
+                552,
+                13,
+                50440
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.48,
+                    "end": 0.84,
+                    "probability": 0.22916807234287262
+                },
+                {
+                    "word": " we",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.38554418087005615
+                },
+                {
+                    "word": " tiered",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.5789358466863632
+                },
+                {
+                    "word": " them.",
+                    "start": 1.46,
+                    "end": 1.56,
+                    "probability": 0.7798007726669312
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.62,
+            "end": 2.7,
+            "text": " That's when we tiered them, right?",
+            "tokens": [
+                50440,
+                663,
+                311,
+                562,
+                321,
+                12362,
+                292,
+                552,
+                11,
+                558,
+                30,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 1.62,
+                    "end": 1.84,
+                    "probability": 0.979655385017395
+                },
+                {
+                    "word": " when",
+                    "start": 1.84,
+                    "end": 1.96,
+                    "probability": 0.9644556641578674
+                },
+                {
+                    "word": " we",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.995909571647644
+                },
+                {
+                    "word": " tiered",
+                    "start": 2.16,
+                    "end": 2.36,
+                    "probability": 0.9612992703914642
+                },
+                {
+                    "word": " them,",
+                    "start": 2.36,
+                    "end": 2.5,
+                    "probability": 0.9571557641029358
+                },
+                {
+                    "word": " right?",
+                    "start": 2.64,
+                    "end": 2.7,
+                    "probability": 0.9125246405601501
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.78,
+            "end": 3.94,
+            "text": " Tier one, tier two, tier three.",
+            "tokens": [
+                50496,
+                24224,
+                472,
+                11,
+                12362,
+                732,
+                11,
+                12362,
+                1045,
+                13,
+                50562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " Tier",
+                    "start": 2.78,
+                    "end": 2.86,
+                    "probability": 0.9833356142044067
+                },
+                {
+                    "word": " one,",
+                    "start": 2.86,
+                    "end": 3.1,
+                    "probability": 0.5269442200660706
+                },
+                {
+                    "word": " tier",
+                    "start": 3.24,
+                    "end": 3.32,
+                    "probability": 0.9629589319229126
+                },
+                {
+                    "word": " two,",
+                    "start": 3.32,
+                    "end": 3.58,
+                    "probability": 0.9808556437492371
+                },
+                {
+                    "word": " tier",
+                    "start": 3.66,
+                    "end": 3.74,
+                    "probability": 0.9913085699081421
+                },
+                {
+                    "word": " three.",
+                    "start": 3.74,
+                    "end": 3.94,
+                    "probability": 0.9943540096282959
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.26,
+            "end": 6.04,
+            "text": " So this, where we are right now",
+            "tokens": [
+                50562,
+                407,
+                341,
+                11,
+                689,
+                321,
+                366,
+                558,
+                586,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 4.26,
+                    "end": 4.28,
+                    "probability": 0.8990978598594666
+                },
+                {
+                    "word": " this,",
+                    "start": 4.28,
+                    "end": 4.76,
+                    "probability": 0.6713293790817261
+                },
+                {
+                    "word": " where",
+                    "start": 5.32,
+                    "end": 5.32,
+                    "probability": 0.6389307975769043
+                },
+                {
+                    "word": " we",
+                    "start": 5.32,
+                    "end": 5.5,
+                    "probability": 0.997075080871582
+                },
+                {
+                    "word": " are",
+                    "start": 5.5,
+                    "end": 5.62,
+                    "probability": 0.9976904392242432
+                },
+                {
+                    "word": " right",
+                    "start": 5.62,
+                    "end": 5.84,
+                    "probability": 0.9931902289390564
+                },
+                {
+                    "word": " now",
+                    "start": 5.84,
+                    "end": 6.04,
+                    "probability": 0.9993615746498108
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.04,
+            "end": 7.72,
+            "text": " is we're looking at just tier one competitors.",
+            "tokens": [
+                50664,
+                307,
+                321,
+                434,
+                1237,
+                412,
+                445,
+                12362,
+                472,
+                18333,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 6.04,
+                    "end": 6.2,
+                    "probability": 0.7465062737464905
+                },
+                {
+                    "word": " we're",
+                    "start": 6.2,
+                    "end": 6.36,
+                    "probability": 0.9685816168785095
+                },
+                {
+                    "word": " looking",
+                    "start": 6.36,
+                    "end": 6.52,
+                    "probability": 0.9890812635421753
+                },
+                {
+                    "word": " at",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.9973588585853577
+                },
+                {
+                    "word": " just",
+                    "start": 6.7,
+                    "end": 6.9,
+                    "probability": 0.9936059713363647
+                },
+                {
+                    "word": " tier",
+                    "start": 6.9,
+                    "end": 7.06,
+                    "probability": 0.9735583662986755
+                },
+                {
+                    "word": " one",
+                    "start": 7.06,
+                    "end": 7.32,
+                    "probability": 0.9845008850097656
+                },
+                {
+                    "word": " competitors.",
+                    "start": 7.32,
+                    "end": 7.72,
+                    "probability": 0.9877556562423706
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 8.04,
+            "end": 9.38,
+            "text": " That's probably why I cut and paste them",
+            "tokens": [
+                50764,
+                663,
+                311,
+                1391,
+                983,
+                286,
+                1723,
+                293,
+                9163,
+                552,
+                50834
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 8.04,
+                    "end": 8.34,
+                    "probability": 0.998868465423584
+                },
+                {
+                    "word": " probably",
+                    "start": 8.34,
+                    "end": 8.48,
+                    "probability": 0.996874213218689
+                },
+                {
+                    "word": " why",
+                    "start": 8.48,
+                    "end": 8.64,
+                    "probability": 0.9641875624656677
+                },
+                {
+                    "word": " I",
+                    "start": 8.64,
+                    "end": 8.78,
+                    "probability": 0.9697741866111755
+                },
+                {
+                    "word": " cut",
+                    "start": 8.78,
+                    "end": 8.88,
+                    "probability": 0.6745837330818176
+                },
+                {
+                    "word": " and",
+                    "start": 8.88,
+                    "end": 9.04,
+                    "probability": 0.9851790070533752
+                },
+                {
+                    "word": " paste",
+                    "start": 9.04,
+                    "end": 9.26,
+                    "probability": 0.8672823309898376
+                },
+                {
+                    "word": " them",
+                    "start": 9.26,
+                    "end": 9.38,
+                    "probability": 0.9221454858779907
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 9.38,
+            "end": 10.78,
+            "text": " because those are all tier ones.",
+            "tokens": [
+                50834,
+                570,
+                729,
+                366,
+                439,
+                12362,
+                2306,
+                13,
+                50948
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 9.38,
+                    "end": 9.58,
+                    "probability": 0.27038007974624634
+                },
+                {
+                    "word": " those",
+                    "start": 9.58,
+                    "end": 9.84,
+                    "probability": 0.9976739287376404
+                },
+                {
+                    "word": " are",
+                    "start": 9.84,
+                    "end": 10.06,
+                    "probability": 0.9977606534957886
+                },
+                {
+                    "word": " all",
+                    "start": 10.06,
+                    "end": 10.24,
+                    "probability": 0.9982144832611084
+                },
+                {
+                    "word": " tier",
+                    "start": 10.24,
+                    "end": 10.46,
+                    "probability": 0.9953719973564148
+                },
+                {
+                    "word": " ones.",
+                    "start": 10.46,
+                    "end": 10.78,
+                    "probability": 0.902807354927063
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 11.64,
+            "end": 13.42,
+            "text": " So we're just focusing on tier one right now.",
+            "tokens": [
+                50948,
+                407,
+                321,
+                434,
+                445,
+                8416,
+                322,
+                12362,
+                472,
+                558,
+                586,
+                13,
+                51042
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 11.64,
+                    "end": 11.74,
+                    "probability": 0.8149381279945374
+                },
+                {
+                    "word": " we're",
+                    "start": 11.74,
+                    "end": 11.9,
+                    "probability": 0.9641566872596741
+                },
+                {
+                    "word": " just",
+                    "start": 11.9,
+                    "end": 12.08,
+                    "probability": 0.9992727637290955
+                },
+                {
+                    "word": " focusing",
+                    "start": 12.08,
+                    "end": 12.36,
+                    "probability": 0.994494616985321
+                },
+                {
+                    "word": " on",
+                    "start": 12.36,
+                    "end": 12.6,
+                    "probability": 0.9987854361534119
+                },
+                {
+                    "word": " tier",
+                    "start": 12.6,
+                    "end": 12.78,
+                    "probability": 0.9914789795875549
+                },
+                {
+                    "word": " one",
+                    "start": 12.78,
+                    "end": 12.94,
+                    "probability": 0.9972655773162842
+                },
+                {
+                    "word": " right",
+                    "start": 12.94,
+                    "end": 13.2,
+                    "probability": 0.9902414679527283
+                },
+                {
+                    "word": " now.",
+                    "start": 13.2,
+                    "end": 13.42,
+                    "probability": 0.9995597004890442
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 13.62,
+            "end": 15.62,
+            "text": " So if they don't apply to that stage, don't worry about it.",
+            "tokens": [
+                51042,
+                407,
+                498,
+                436,
+                500,
+                380,
+                3079,
+                281,
+                300,
+                3233,
+                11,
+                500,
+                380,
+                3292,
+                466,
+                309,
+                13,
+                51176
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1906005211596219,
+            "compression_ratio": 1.6926829268292682,
+            "no_speech_prob": 0.013414883986115456,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 13.62,
+                    "end": 13.74,
+                    "probability": 0.995010495185852
+                },
+                {
+                    "word": " if",
+                    "start": 13.74,
+                    "end": 13.8,
+                    "probability": 0.968558669090271
+                },
+                {
+                    "word": " they",
+                    "start": 13.8,
+                    "end": 13.94,
+                    "probability": 0.9994950294494629
+                },
+                {
+                    "word": " don't",
+                    "start": 13.94,
+                    "end": 14.14,
+                    "probability": 0.9995205700397491
+                },
+                {
+                    "word": " apply",
+                    "start": 14.14,
+                    "end": 14.32,
+                    "probability": 0.9974517226219177
+                },
+                {
+                    "word": " to",
+                    "start": 14.32,
+                    "end": 14.5,
+                    "probability": 0.9946218729019165
+                },
+                {
+                    "word": " that",
+                    "start": 14.5,
+                    "end": 14.62,
+                    "probability": 0.9750128388404846
+                },
+                {
+                    "word": " stage,",
+                    "start": 14.62,
+                    "end": 14.86,
+                    "probability": 0.9967505931854248
+                },
+                {
+                    "word": " don't",
+                    "start": 14.86,
+                    "end": 15.08,
+                    "probability": 0.9976408183574677
+                },
+                {
+                    "word": " worry",
+                    "start": 15.08,
+                    "end": 15.26,
+                    "probability": 0.9995697140693665
+                },
+                {
+                    "word": " about",
+                    "start": 15.26,
+                    "end": 15.46,
+                    "probability": 0.9978380799293518
+                },
+                {
+                    "word": " it.",
+                    "start": 15.46,
+                    "end": 15.62,
+                    "probability": 0.4843802750110626
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

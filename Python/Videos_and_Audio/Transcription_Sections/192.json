@@ -1,0 +1,77 @@
+{
+    "text": " SnowiganR \u043f\u043b moc $ five",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.0,
+            "text": " SnowiganR \u043f\u043b moc",
+            "tokens": [
+                50364,
+                14827,
+                9552,
+                49,
+                9283,
+                34962,
+                51652
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -7.26277224222819,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.22843970358371735,
+            "words": [
+                {
+                    "word": " SnowiganR",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.00025711508972866187
+                },
+                {
+                    "word": " \u043f\u043b",
+                    "start": 0.58,
+                    "end": 0.84,
+                    "probability": 6.341025436995551e-05
+                },
+                {
+                    "word": " moc",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 1.0595754247333389e-06
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.0,
+            "end": 3.32,
+            "text": " $ five",
+            "tokens": [
+                51652,
+                1848,
+                1732,
+                51694
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -7.26277224222819,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.22843970358371735,
+            "words": [
+                {
+                    "word": " $",
+                    "start": 1.0,
+                    "end": 3.02,
+                    "probability": 4.3892152461921796e-05
+                },
+                {
+                    "word": " five",
+                    "start": 3.02,
+                    "end": 3.32,
+                    "probability": 2.8889897293993272e-05
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

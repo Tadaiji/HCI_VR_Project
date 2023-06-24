@@ -1,0 +1,142 @@
+{
+    "text": " We still have a regular sync. Yeah, we're on like the two week cadence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " We still have a regular sync.",
+            "tokens": [
+                50364,
+                492,
+                920,
+                362,
+                257,
+                3890,
+                20271,
+                13,
+                50462
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4034781248673149,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.026321889832615852,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.10029847919940948
+                },
+                {
+                    "word": " still",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.6406217217445374
+                },
+                {
+                    "word": " have",
+                    "start": 0.12,
+                    "end": 0.32,
+                    "probability": 0.9820547103881836
+                },
+                {
+                    "word": " a",
+                    "start": 0.32,
+                    "end": 0.48,
+                    "probability": 0.8124598264694214
+                },
+                {
+                    "word": " regular",
+                    "start": 0.48,
+                    "end": 0.74,
+                    "probability": 0.3286947011947632
+                },
+                {
+                    "word": " sync.",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.6451724171638489
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.96,
+            "end": 3.9,
+            "text": " Yeah, we're on like the two week cadence.",
+            "tokens": [
+                50462,
+                865,
+                11,
+                321,
+                434,
+                322,
+                411,
+                264,
+                732,
+                1243,
+                46109,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4034781248673149,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.026321889832615852,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.5236757397651672
+                },
+                {
+                    "word": " we're",
+                    "start": 2.26,
+                    "end": 2.42,
+                    "probability": 0.9836761355400085
+                },
+                {
+                    "word": " on",
+                    "start": 2.42,
+                    "end": 2.52,
+                    "probability": 0.9412688612937927
+                },
+                {
+                    "word": " like",
+                    "start": 2.52,
+                    "end": 2.72,
+                    "probability": 0.7399406433105469
+                },
+                {
+                    "word": " the",
+                    "start": 2.72,
+                    "end": 2.9,
+                    "probability": 0.569205641746521
+                },
+                {
+                    "word": " two",
+                    "start": 2.9,
+                    "end": 3.08,
+                    "probability": 0.9540437459945679
+                },
+                {
+                    "word": " week",
+                    "start": 3.08,
+                    "end": 3.58,
+                    "probability": 0.6262546181678772
+                },
+                {
+                    "word": " cadence.",
+                    "start": 3.58,
+                    "end": 3.9,
+                    "probability": 0.998068630695343
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

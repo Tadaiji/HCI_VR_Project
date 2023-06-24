@@ -1,0 +1,122 @@
+{
+    "text": " So just pick the ones out of that list that apply to our stage.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " So just pick the ones out of that list that apply to our stage.",
+            "tokens": [
+                50364,
+                407,
+                445,
+                1888,
+                264,
+                2306,
+                484,
+                295,
+                300,
+                1329,
+                300,
+                3079,
+                281,
+                527,
+                3233,
+                13,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.185975710550944,
+            "compression_ratio": 0.984375,
+            "no_speech_prob": 0.0002652242546901107,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7519440650939941
+                },
+                {
+                    "word": " just",
+                    "start": 0.22,
+                    "end": 0.46,
+                    "probability": 0.9008667469024658
+                },
+                {
+                    "word": " pick",
+                    "start": 0.46,
+                    "end": 0.62,
+                    "probability": 0.9696273803710938
+                },
+                {
+                    "word": " the",
+                    "start": 0.62,
+                    "end": 0.8,
+                    "probability": 0.996331512928009
+                },
+                {
+                    "word": " ones",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.9959339499473572
+                },
+                {
+                    "word": " out",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.9797277450561523
+                },
+                {
+                    "word": " of",
+                    "start": 1.14,
+                    "end": 1.26,
+                    "probability": 0.9974579215049744
+                },
+                {
+                    "word": " that",
+                    "start": 1.26,
+                    "end": 1.44,
+                    "probability": 0.9981136322021484
+                },
+                {
+                    "word": " list",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.9972646236419678
+                },
+                {
+                    "word": " that",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9047379493713379
+                },
+                {
+                    "word": " apply",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.8743044137954712
+                },
+                {
+                    "word": " to",
+                    "start": 2.1,
+                    "end": 2.36,
+                    "probability": 0.9786061644554138
+                },
+                {
+                    "word": " our",
+                    "start": 2.36,
+                    "end": 2.62,
+                    "probability": 0.9986206293106079
+                },
+                {
+                    "word": " stage.",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.6380628347396851
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

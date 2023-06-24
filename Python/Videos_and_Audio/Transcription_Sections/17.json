@@ -1,0 +1,179 @@
+{
+    "text": " I had two questions about that one. One is over what timeframe are we looking at? So.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.14,
+            "text": " I had two questions about that one.",
+            "tokens": [
+                50364,
+                286,
+                632,
+                732,
+                1651,
+                466,
+                300,
+                472,
+                13,
+                50456
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3471398530183015,
+            "compression_ratio": 1.0493827160493827,
+            "no_speech_prob": 0.00154679745901376,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.1,
+                    "probability": 0.7214087843894958
+                },
+                {
+                    "word": " had",
+                    "start": 0.1,
+                    "end": 0.34,
+                    "probability": 0.9800624251365662
+                },
+                {
+                    "word": " two",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.9925600290298462
+                },
+                {
+                    "word": " questions",
+                    "start": 0.6,
+                    "end": 1.08,
+                    "probability": 0.9993404746055603
+                },
+                {
+                    "word": " about",
+                    "start": 1.08,
+                    "end": 1.42,
+                    "probability": 0.9990418553352356
+                },
+                {
+                    "word": " that",
+                    "start": 1.42,
+                    "end": 1.66,
+                    "probability": 0.9973708391189575
+                },
+                {
+                    "word": " one.",
+                    "start": 1.66,
+                    "end": 2.14,
+                    "probability": 0.9962702989578247
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.14,
+            "end": 5.9,
+            "text": " One is over what timeframe are we looking at?",
+            "tokens": [
+                50506,
+                1485,
+                307,
+                670,
+                437,
+                34830,
+                366,
+                321,
+                1237,
+                412,
+                30,
+                50650
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3471398530183015,
+            "compression_ratio": 1.0493827160493827,
+            "no_speech_prob": 0.00154679745901376,
+            "words": [
+                {
+                    "word": " One",
+                    "start": 2.14,
+                    "end": 3.18,
+                    "probability": 0.8042594790458679
+                },
+                {
+                    "word": " is",
+                    "start": 3.18,
+                    "end": 3.66,
+                    "probability": 0.9957186579704285
+                },
+                {
+                    "word": " over",
+                    "start": 3.66,
+                    "end": 4.14,
+                    "probability": 0.5787703990936279
+                },
+                {
+                    "word": " what",
+                    "start": 4.14,
+                    "end": 4.42,
+                    "probability": 0.9120420217514038
+                },
+                {
+                    "word": " timeframe",
+                    "start": 4.42,
+                    "end": 4.82,
+                    "probability": 0.6495175361633301
+                },
+                {
+                    "word": " are",
+                    "start": 4.82,
+                    "end": 5.04,
+                    "probability": 0.7449905276298523
+                },
+                {
+                    "word": " we",
+                    "start": 5.04,
+                    "end": 5.22,
+                    "probability": 0.9984498023986816
+                },
+                {
+                    "word": " looking",
+                    "start": 5.22,
+                    "end": 5.44,
+                    "probability": 0.9936866164207458
+                },
+                {
+                    "word": " at?",
+                    "start": 5.44,
+                    "end": 5.9,
+                    "probability": 0.9993926286697388
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.92,
+            "end": 7.48,
+            "text": " So.",
+            "tokens": [
+                50724,
+                407,
+                13,
+                50738
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3471398530183015,
+            "compression_ratio": 1.0493827160493827,
+            "no_speech_prob": 0.00154679745901376,
+            "words": [
+                {
+                    "word": " So.",
+                    "start": 6.92,
+                    "end": 7.48,
+                    "probability": 0.9425294399261475
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

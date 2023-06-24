@@ -1,0 +1,95 @@
+{
+    "text": " Is that, do we have VS code listed on here?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.12,
+            "end": 3.92,
+            "text": " Is that, do we have VS code listed on here?",
+            "tokens": [
+                50364,
+                1119,
+                300,
+                11,
+                360,
+                321,
+                362,
+                25091,
+                3089,
+                10052,
+                322,
+                510,
+                30,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3306678454081217,
+            "compression_ratio": 0.8431372549019608,
+            "no_speech_prob": 0.0015722023090347648,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 1.12,
+                    "end": 1.64,
+                    "probability": 0.566318154335022
+                },
+                {
+                    "word": " that,",
+                    "start": 1.64,
+                    "end": 1.72,
+                    "probability": 0.5843679308891296
+                },
+                {
+                    "word": " do",
+                    "start": 2.16,
+                    "end": 2.34,
+                    "probability": 0.8539143800735474
+                },
+                {
+                    "word": " we",
+                    "start": 2.34,
+                    "end": 2.58,
+                    "probability": 0.998491644859314
+                },
+                {
+                    "word": " have",
+                    "start": 2.58,
+                    "end": 2.74,
+                    "probability": 0.9987128973007202
+                },
+                {
+                    "word": " VS",
+                    "start": 2.74,
+                    "end": 3.0,
+                    "probability": 0.7798417806625366
+                },
+                {
+                    "word": " code",
+                    "start": 3.0,
+                    "end": 3.26,
+                    "probability": 0.7802388072013855
+                },
+                {
+                    "word": " listed",
+                    "start": 3.26,
+                    "end": 3.56,
+                    "probability": 0.9986469149589539
+                },
+                {
+                    "word": " on",
+                    "start": 3.56,
+                    "end": 3.82,
+                    "probability": 0.9830263257026672
+                },
+                {
+                    "word": " here?",
+                    "start": 3.82,
+                    "end": 3.92,
+                    "probability": 0.9989896416664124
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,224 @@
+{
+    "text": " Yeah, I think it was copy pasted. Yeah. Each one of them has the same. Yeah. So each.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 2.26,
+            "text": " Yeah, I think it was copy pasted.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                309,
+                390,
+                5055,
+                1791,
+                292,
+                13,
+                50470
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5423435635036893,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.040486741811037064,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.6803795099258423
+                },
+                {
+                    "word": " I",
+                    "start": 0.54,
+                    "end": 1.04,
+                    "probability": 0.8242508172988892
+                },
+                {
+                    "word": " think",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9957966804504395
+                },
+                {
+                    "word": " it",
+                    "start": 1.22,
+                    "end": 1.34,
+                    "probability": 0.9480554461479187
+                },
+                {
+                    "word": " was",
+                    "start": 1.34,
+                    "end": 1.56,
+                    "probability": 0.9971078038215637
+                },
+                {
+                    "word": " copy",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.8356074690818787
+                },
+                {
+                    "word": " pasted.",
+                    "start": 1.76,
+                    "end": 2.26,
+                    "probability": 0.8328188955783844
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.28,
+            "end": 2.54,
+            "text": " Yeah.",
+            "tokens": [
+                50470,
+                865,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5423435635036893,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.040486741811037064,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 2.28,
+                    "end": 2.54,
+                    "probability": 0.48946142196655273
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.54,
+            "end": 3.38,
+            "text": " Each one of them has the same.",
+            "tokens": [
+                50484,
+                6947,
+                472,
+                295,
+                552,
+                575,
+                264,
+                912,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5423435635036893,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.040486741811037064,
+            "words": [
+                {
+                    "word": " Each",
+                    "start": 2.54,
+                    "end": 2.54,
+                    "probability": 0.008418742567300797
+                },
+                {
+                    "word": " one",
+                    "start": 2.54,
+                    "end": 2.74,
+                    "probability": 0.3749462962150574
+                },
+                {
+                    "word": " of",
+                    "start": 2.74,
+                    "end": 2.74,
+                    "probability": 0.5208487510681152
+                },
+                {
+                    "word": " them",
+                    "start": 2.74,
+                    "end": 2.88,
+                    "probability": 0.9868224859237671
+                },
+                {
+                    "word": " has",
+                    "start": 2.88,
+                    "end": 3.06,
+                    "probability": 0.9846376776695251
+                },
+                {
+                    "word": " the",
+                    "start": 3.06,
+                    "end": 3.28,
+                    "probability": 0.97267085313797
+                },
+                {
+                    "word": " same.",
+                    "start": 3.28,
+                    "end": 3.38,
+                    "probability": 0.9923836588859558
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 3.56,
+            "end": 3.6,
+            "text": " Yeah.",
+            "tokens": [
+                50532,
+                865,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5423435635036893,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.040486741811037064,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 3.56,
+                    "end": 3.6,
+                    "probability": 0.7945036888122559
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 3.62,
+            "end": 3.84,
+            "text": " So each.",
+            "tokens": [
+                50538,
+                407,
+                1184,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5423435635036893,
+            "compression_ratio": 1.0759493670886076,
+            "no_speech_prob": 0.040486741811037064,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 3.62,
+                    "end": 3.76,
+                    "probability": 0.9825284481048584
+                },
+                {
+                    "word": " each.",
+                    "start": 3.76,
+                    "end": 3.84,
+                    "probability": 0.7065413594245911
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

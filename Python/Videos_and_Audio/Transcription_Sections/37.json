@@ -1,0 +1,33 @@
+{
+    "text": " Measuring.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.24,
+            "text": " Measuring.",
+            "tokens": [
+                50364,
+                1923,
+                296,
+                1345,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8007187843322754,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.7166354060173035,
+            "words": [
+                {
+                    "word": " Measuring.",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.5248675551265478
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

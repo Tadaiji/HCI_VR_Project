@@ -1,0 +1,192 @@
+{
+    "text": " Did you just open the door for a NASCAR partnership? Hey, NASCAR goes fast and turns left because it get loud.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " Did you just open the door for a NASCAR partnership?",
+            "tokens": [
+                50364,
+                2589,
+                291,
+                445,
+                1269,
+                264,
+                2853,
+                337,
+                257,
+                10182,
+                35270,
+                9982,
+                30,
+                50524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3225815065445439,
+            "compression_ratio": 1.0784313725490196,
+            "no_speech_prob": 0.0012444115709513426,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.8139426708221436
+                },
+                {
+                    "word": " you",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9970608353614807
+                },
+                {
+                    "word": " just",
+                    "start": 0.42,
+                    "end": 0.78,
+                    "probability": 0.9918460249900818
+                },
+                {
+                    "word": " open",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.9740503430366516
+                },
+                {
+                    "word": " the",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.8024736046791077
+                },
+                {
+                    "word": " door",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9947640895843506
+                },
+                {
+                    "word": " for",
+                    "start": 1.56,
+                    "end": 1.84,
+                    "probability": 0.7300381064414978
+                },
+                {
+                    "word": " a",
+                    "start": 1.84,
+                    "end": 1.92,
+                    "probability": 0.5590816736221313
+                },
+                {
+                    "word": " NASCAR",
+                    "start": 1.92,
+                    "end": 2.4,
+                    "probability": 0.985275000333786
+                },
+                {
+                    "word": " partnership?",
+                    "start": 2.4,
+                    "end": 3.16,
+                    "probability": 0.9914747476577759
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.7,
+            "end": 7.98,
+            "text": " Hey, NASCAR goes fast and turns left because it get loud.",
+            "tokens": [
+                50524,
+                1911,
+                11,
+                10182,
+                35270,
+                1709,
+                2370,
+                293,
+                4523,
+                1411,
+                570,
+                309,
+                483,
+                6588,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3225815065445439,
+            "compression_ratio": 1.0784313725490196,
+            "no_speech_prob": 0.0012444115709513426,
+            "words": [
+                {
+                    "word": " Hey,",
+                    "start": 4.7,
+                    "end": 4.7,
+                    "probability": 0.557450532913208
+                },
+                {
+                    "word": " NASCAR",
+                    "start": 5.42,
+                    "end": 5.84,
+                    "probability": 0.9981206357479095
+                },
+                {
+                    "word": " goes",
+                    "start": 5.84,
+                    "end": 6.12,
+                    "probability": 0.9927162528038025
+                },
+                {
+                    "word": " fast",
+                    "start": 6.12,
+                    "end": 6.52,
+                    "probability": 0.9985596537590027
+                },
+                {
+                    "word": " and",
+                    "start": 6.52,
+                    "end": 6.76,
+                    "probability": 0.8315444588661194
+                },
+                {
+                    "word": " turns",
+                    "start": 6.76,
+                    "end": 6.94,
+                    "probability": 0.9820759296417236
+                },
+                {
+                    "word": " left",
+                    "start": 6.94,
+                    "end": 7.18,
+                    "probability": 0.9926865100860596
+                },
+                {
+                    "word": " because",
+                    "start": 7.18,
+                    "end": 7.42,
+                    "probability": 0.6460259556770325
+                },
+                {
+                    "word": " it",
+                    "start": 7.42,
+                    "end": 7.58,
+                    "probability": 0.8331655263900757
+                },
+                {
+                    "word": " get",
+                    "start": 7.58,
+                    "end": 7.72,
+                    "probability": 0.7181828022003174
+                },
+                {
+                    "word": " loud.",
+                    "start": 7.72,
+                    "end": 7.98,
+                    "probability": 0.9614539742469788
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

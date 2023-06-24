@@ -1,0 +1,583 @@
+{
+    "text": " And that, I think that's a pretty good note as well. We did that with like our Terraform module, right? There was like a community module, but now it's officially supported. So that's the, you know, that can be the line, yes or no, whether you can use the thing for a lot of businesses. So I think that's a good one too.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4,
+            "end": 4.94,
+            "text": " And that, I think that's a pretty good note as well.",
+            "tokens": [
+                50364,
+                400,
+                300,
+                11,
+                286,
+                519,
+                300,
+                311,
+                257,
+                1238,
+                665,
+                3637,
+                382,
+                731,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.4,
+                    "end": 0.88,
+                    "probability": 0.5800789594650269
+                },
+                {
+                    "word": " that,",
+                    "start": 0.88,
+                    "end": 0.88,
+                    "probability": 0.5693835020065308
+                },
+                {
+                    "word": " I",
+                    "start": 1.36,
+                    "end": 1.64,
+                    "probability": 0.9966951608657837
+                },
+                {
+                    "word": " think",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.9992396831512451
+                },
+                {
+                    "word": " that's",
+                    "start": 1.76,
+                    "end": 2.42,
+                    "probability": 0.9814162850379944
+                },
+                {
+                    "word": " a",
+                    "start": 2.42,
+                    "end": 2.56,
+                    "probability": 0.9803186058998108
+                },
+                {
+                    "word": " pretty",
+                    "start": 2.56,
+                    "end": 2.9,
+                    "probability": 0.9036173820495605
+                },
+                {
+                    "word": " good",
+                    "start": 2.9,
+                    "end": 3.82,
+                    "probability": 0.9987357258796692
+                },
+                {
+                    "word": " note",
+                    "start": 3.82,
+                    "end": 4.04,
+                    "probability": 0.9994115829467773
+                },
+                {
+                    "word": " as",
+                    "start": 4.04,
+                    "end": 4.44,
+                    "probability": 0.9700853228569031
+                },
+                {
+                    "word": " well.",
+                    "start": 4.44,
+                    "end": 4.94,
+                    "probability": 0.9997034668922424
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.92,
+            "end": 9.44,
+            "text": " We did that with like our Terraform module, right?",
+            "tokens": [
+                50678,
+                492,
+                630,
+                300,
+                365,
+                411,
+                527,
+                25366,
+                837,
+                10088,
+                11,
+                558,
+                30,
+                50835
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.92,
+                    "end": 6.42,
+                    "probability": 0.9943935871124268
+                },
+                {
+                    "word": " did",
+                    "start": 6.42,
+                    "end": 6.6,
+                    "probability": 0.9997368454933167
+                },
+                {
+                    "word": " that",
+                    "start": 6.6,
+                    "end": 6.88,
+                    "probability": 0.9994500279426575
+                },
+                {
+                    "word": " with",
+                    "start": 6.88,
+                    "end": 7.18,
+                    "probability": 0.9988356232643127
+                },
+                {
+                    "word": " like",
+                    "start": 7.18,
+                    "end": 7.54,
+                    "probability": 0.7963786721229553
+                },
+                {
+                    "word": " our",
+                    "start": 7.54,
+                    "end": 7.98,
+                    "probability": 0.9674630761146545
+                },
+                {
+                    "word": " Terraform",
+                    "start": 7.98,
+                    "end": 8.44,
+                    "probability": 0.896942675113678
+                },
+                {
+                    "word": " module,",
+                    "start": 8.44,
+                    "end": 9.02,
+                    "probability": 0.9694050550460815
+                },
+                {
+                    "word": " right?",
+                    "start": 9.32,
+                    "end": 9.44,
+                    "probability": 0.962672770023346
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.44,
+            "end": 10.96,
+            "text": " There was like a community module,",
+            "tokens": [
+                50835,
+                821,
+                390,
+                411,
+                257,
+                1768,
+                10088,
+                11,
+                50930
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 9.44,
+                    "end": 9.58,
+                    "probability": 0.9955517649650574
+                },
+                {
+                    "word": " was",
+                    "start": 9.58,
+                    "end": 9.68,
+                    "probability": 0.9869144558906555
+                },
+                {
+                    "word": " like",
+                    "start": 9.68,
+                    "end": 9.84,
+                    "probability": 0.9721614122390747
+                },
+                {
+                    "word": " a",
+                    "start": 9.84,
+                    "end": 10.06,
+                    "probability": 0.9981326460838318
+                },
+                {
+                    "word": " community",
+                    "start": 10.06,
+                    "end": 10.3,
+                    "probability": 0.9527974724769592
+                },
+                {
+                    "word": " module,",
+                    "start": 10.3,
+                    "end": 10.96,
+                    "probability": 0.9992260932922363
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.28,
+            "end": 13.16,
+            "text": " but now it's officially supported.",
+            "tokens": [
+                50930,
+                457,
+                586,
+                309,
+                311,
+                12053,
+                8104,
+                13,
+                51044
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 11.28,
+                    "end": 11.74,
+                    "probability": 0.9993298053741455
+                },
+                {
+                    "word": " now",
+                    "start": 11.74,
+                    "end": 12.04,
+                    "probability": 0.9985439777374268
+                },
+                {
+                    "word": " it's",
+                    "start": 12.04,
+                    "end": 12.26,
+                    "probability": 0.9968586266040802
+                },
+                {
+                    "word": " officially",
+                    "start": 12.26,
+                    "end": 12.56,
+                    "probability": 0.9990444779396057
+                },
+                {
+                    "word": " supported.",
+                    "start": 12.56,
+                    "end": 13.16,
+                    "probability": 0.9986783862113953
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.98,
+            "end": 18.24,
+            "text": " So that's the, you know, that can be the line, yes or no,",
+            "tokens": [
+                51044,
+                407,
+                300,
+                311,
+                264,
+                11,
+                291,
+                458,
+                11,
+                300,
+                393,
+                312,
+                264,
+                1622,
+                11,
+                2086,
+                420,
+                572,
+                11,
+                51275
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 13.98,
+                    "end": 13.98,
+                    "probability": 0.9370487928390503
+                },
+                {
+                    "word": " that's",
+                    "start": 13.98,
+                    "end": 14.86,
+                    "probability": 0.7695044577121735
+                },
+                {
+                    "word": " the,",
+                    "start": 14.86,
+                    "end": 16.04,
+                    "probability": 0.8040328025817871
+                },
+                {
+                    "word": " you",
+                    "start": 16.06,
+                    "end": 16.1,
+                    "probability": 0.62763512134552
+                },
+                {
+                    "word": " know,",
+                    "start": 16.1,
+                    "end": 16.6,
+                    "probability": 0.9996035695075989
+                },
+                {
+                    "word": " that",
+                    "start": 17.02,
+                    "end": 17.14,
+                    "probability": 0.9974682331085205
+                },
+                {
+                    "word": " can",
+                    "start": 17.14,
+                    "end": 17.26,
+                    "probability": 0.9169822931289673
+                },
+                {
+                    "word": " be",
+                    "start": 17.26,
+                    "end": 17.38,
+                    "probability": 0.9995939135551453
+                },
+                {
+                    "word": " the",
+                    "start": 17.38,
+                    "end": 17.54,
+                    "probability": 0.9989644289016724
+                },
+                {
+                    "word": " line,",
+                    "start": 17.54,
+                    "end": 17.74,
+                    "probability": 0.9933764338493347
+                },
+                {
+                    "word": " yes",
+                    "start": 17.86,
+                    "end": 17.94,
+                    "probability": 0.9816358089447021
+                },
+                {
+                    "word": " or",
+                    "start": 17.94,
+                    "end": 18.1,
+                    "probability": 0.9938307404518127
+                },
+                {
+                    "word": " no,",
+                    "start": 18.1,
+                    "end": 18.24,
+                    "probability": 0.9987702965736389
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 18.24,
+            "end": 21.74,
+            "text": " whether you can use the thing for a lot of businesses.",
+            "tokens": [
+                51275,
+                1968,
+                291,
+                393,
+                764,
+                264,
+                551,
+                337,
+                257,
+                688,
+                295,
+                6011,
+                13,
+                51454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " whether",
+                    "start": 18.24,
+                    "end": 18.4,
+                    "probability": 0.9992075562477112
+                },
+                {
+                    "word": " you",
+                    "start": 18.4,
+                    "end": 18.52,
+                    "probability": 0.9995185136795044
+                },
+                {
+                    "word": " can",
+                    "start": 18.52,
+                    "end": 18.7,
+                    "probability": 0.999441921710968
+                },
+                {
+                    "word": " use",
+                    "start": 18.7,
+                    "end": 18.88,
+                    "probability": 0.9992098808288574
+                },
+                {
+                    "word": " the",
+                    "start": 18.88,
+                    "end": 19.1,
+                    "probability": 0.9981874823570251
+                },
+                {
+                    "word": " thing",
+                    "start": 19.1,
+                    "end": 19.66,
+                    "probability": 0.999221920967102
+                },
+                {
+                    "word": " for",
+                    "start": 19.66,
+                    "end": 21.04,
+                    "probability": 0.8896299600601196
+                },
+                {
+                    "word": " a",
+                    "start": 21.04,
+                    "end": 21.12,
+                    "probability": 0.9997764229774475
+                },
+                {
+                    "word": " lot",
+                    "start": 21.12,
+                    "end": 21.24,
+                    "probability": 0.9919450879096985
+                },
+                {
+                    "word": " of",
+                    "start": 21.24,
+                    "end": 21.44,
+                    "probability": 0.9990448355674744
+                },
+                {
+                    "word": " businesses.",
+                    "start": 21.44,
+                    "end": 21.74,
+                    "probability": 0.9987362027168274
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 21.78,
+            "end": 23.38,
+            "text": " So I think that's a good one too.",
+            "tokens": [
+                51454,
+                407,
+                286,
+                519,
+                300,
+                311,
+                257,
+                665,
+                472,
+                886,
+                13,
+                51540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.13372292769582647,
+            "compression_ratio": 1.5841584158415842,
+            "no_speech_prob": 4.3992138671455905e-05,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 21.78,
+                    "end": 22.16,
+                    "probability": 0.9982247948646545
+                },
+                {
+                    "word": " I",
+                    "start": 22.16,
+                    "end": 22.4,
+                    "probability": 0.9446799755096436
+                },
+                {
+                    "word": " think",
+                    "start": 22.4,
+                    "end": 22.56,
+                    "probability": 0.9998190999031067
+                },
+                {
+                    "word": " that's",
+                    "start": 22.56,
+                    "end": 22.84,
+                    "probability": 0.9996393620967865
+                },
+                {
+                    "word": " a",
+                    "start": 22.84,
+                    "end": 22.9,
+                    "probability": 0.987968921661377
+                },
+                {
+                    "word": " good",
+                    "start": 22.9,
+                    "end": 22.98,
+                    "probability": 0.9998469352722168
+                },
+                {
+                    "word": " one",
+                    "start": 22.98,
+                    "end": 23.1,
+                    "probability": 0.9989495873451233
+                },
+                {
+                    "word": " too.",
+                    "start": 23.1,
+                    "end": 23.38,
+                    "probability": 0.7781519293785095
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

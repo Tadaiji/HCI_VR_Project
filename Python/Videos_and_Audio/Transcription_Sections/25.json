@@ -1,0 +1,53 @@
+{
+    "text": " Yeah, I like that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.94,
+            "text": " Yeah, I like that.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                411,
+                300,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5547002686394585,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.05871329829096794,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.27694636583328247
+                },
+                {
+                    "word": " I",
+                    "start": 0.76,
+                    "end": 0.9,
+                    "probability": 0.895522952079773
+                },
+                {
+                    "word": " like",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.8270405530929565
+                },
+                {
+                    "word": " that.",
+                    "start": 1.1,
+                    "end": 1.94,
+                    "probability": 0.9899789094924927
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

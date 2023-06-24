@@ -1,0 +1,38 @@
+{
+    "text": " being asked.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.62,
+            "text": " being asked.",
+            "tokens": [
+                50364,
+                885,
+                2351,
+                13,
+                50425
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.5508909225463867,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.45995935797691345,
+            "words": [
+                {
+                    "word": " being",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.004179161973297596
+                },
+                {
+                    "word": " asked.",
+                    "start": 0.28,
+                    "end": 0.62,
+                    "probability": 0.8507519364356995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

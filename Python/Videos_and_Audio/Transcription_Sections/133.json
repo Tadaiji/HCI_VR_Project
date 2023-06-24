@@ -1,0 +1,101 @@
+{
+    "text": " guarantee it not with the amount of tabs I have open.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 2.38,
+            "text": " guarantee it not with the amount of tabs I have open.",
+            "tokens": [
+                50364,
+                10815,
+                309,
+                406,
+                365,
+                264,
+                2372,
+                295,
+                20743,
+                286,
+                362,
+                1269,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4283397674560547,
+            "compression_ratio": 0.9137931034482759,
+            "no_speech_prob": 0.024358315393328667,
+            "words": [
+                {
+                    "word": " guarantee",
+                    "start": 0.08,
+                    "end": 0.48,
+                    "probability": 0.08081149309873581
+                },
+                {
+                    "word": " it",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.3230056166648865
+                },
+                {
+                    "word": " not",
+                    "start": 0.76,
+                    "end": 0.92,
+                    "probability": 0.7803528308868408
+                },
+                {
+                    "word": " with",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.9383682012557983
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.22,
+                    "probability": 0.9970501661300659
+                },
+                {
+                    "word": " amount",
+                    "start": 1.22,
+                    "end": 1.36,
+                    "probability": 0.9936556816101074
+                },
+                {
+                    "word": " of",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9981827735900879
+                },
+                {
+                    "word": " tabs",
+                    "start": 1.56,
+                    "end": 1.66,
+                    "probability": 0.9971275925636292
+                },
+                {
+                    "word": " I",
+                    "start": 1.66,
+                    "end": 1.9,
+                    "probability": 0.9536100029945374
+                },
+                {
+                    "word": " have",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9984210729598999
+                },
+                {
+                    "word": " open.",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.8168147802352905
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

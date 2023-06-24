@@ -1,0 +1,159 @@
+{
+    "text": " I'm not a big fan of the, it's deliverables. Is there a, can we say like?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.38,
+            "end": 4.04,
+            "text": " I'm not a big fan of the, it's deliverables.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                406,
+                257,
+                955,
+                3429,
+                295,
+                264,
+                11,
+                309,
+                311,
+                4239,
+                2965,
+                13,
+                50566
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323768036706107,
+            "compression_ratio": 0.9733333333333334,
+            "no_speech_prob": 0.035003259778022766,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.38,
+                    "end": 0.84,
+                    "probability": 0.718637153506279
+                },
+                {
+                    "word": " not",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.8792629241943359
+                },
+                {
+                    "word": " a",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.998683512210846
+                },
+                {
+                    "word": " big",
+                    "start": 1.2,
+                    "end": 1.36,
+                    "probability": 0.9949401617050171
+                },
+                {
+                    "word": " fan",
+                    "start": 1.36,
+                    "end": 1.6,
+                    "probability": 0.9994379878044128
+                },
+                {
+                    "word": " of",
+                    "start": 1.6,
+                    "end": 1.94,
+                    "probability": 0.9940774440765381
+                },
+                {
+                    "word": " the,",
+                    "start": 1.94,
+                    "end": 2.74,
+                    "probability": 0.6927628517150879
+                },
+                {
+                    "word": " it's",
+                    "start": 2.74,
+                    "end": 3.36,
+                    "probability": 0.8998621106147766
+                },
+                {
+                    "word": " deliverables.",
+                    "start": 3.36,
+                    "end": 4.04,
+                    "probability": 0.846772700548172
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.18,
+            "end": 5.7,
+            "text": " Is there a, can we say like?",
+            "tokens": [
+                50566,
+                1119,
+                456,
+                257,
+                11,
+                393,
+                321,
+                584,
+                411,
+                30,
+                50661
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.323768036706107,
+            "compression_ratio": 0.9733333333333334,
+            "no_speech_prob": 0.035003259778022766,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 4.18,
+                    "end": 4.18,
+                    "probability": 0.7564558982849121
+                },
+                {
+                    "word": " there",
+                    "start": 4.18,
+                    "end": 4.56,
+                    "probability": 0.9974744915962219
+                },
+                {
+                    "word": " a,",
+                    "start": 4.56,
+                    "end": 4.94,
+                    "probability": 0.5431728959083557
+                },
+                {
+                    "word": " can",
+                    "start": 5.04,
+                    "end": 5.08,
+                    "probability": 0.9755985736846924
+                },
+                {
+                    "word": " we",
+                    "start": 5.08,
+                    "end": 5.26,
+                    "probability": 0.998026430606842
+                },
+                {
+                    "word": " say",
+                    "start": 5.26,
+                    "end": 5.36,
+                    "probability": 0.9987742304801941
+                },
+                {
+                    "word": " like?",
+                    "start": 5.36,
+                    "end": 5.7,
+                    "probability": 0.9060989618301392
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

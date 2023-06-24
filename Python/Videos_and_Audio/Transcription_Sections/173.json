@@ -1,0 +1,442 @@
+{
+    "text": " Yeah, the only thing it might be missing, but I don't know how we do it without overcomplicating it is well, I guess less risk also implies higher quality. I guess that kind of bundles the quality and the security together. So I've talked myself out of not liking that. So yeah, good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.68,
+            "text": " Yeah, the only thing it might be missing, but I don't know how we do it without overcomplicating it is",
+            "tokens": [
+                50364,
+                865,
+                11,
+                264,
+                787,
+                551,
+                309,
+                1062,
+                312,
+                5361,
+                11,
+                457,
+                286,
+                500,
+                380,
+                458,
+                577,
+                321,
+                360,
+                309,
+                1553,
+                670,
+                1112,
+                4770,
+                990,
+                309,
+                307,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18026016853951118,
+            "compression_ratio": 1.518716577540107,
+            "no_speech_prob": 0.0005190889351069927,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.6179654002189636
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.9976987242698669
+                },
+                {
+                    "word": " only",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.9996285438537598
+                },
+                {
+                    "word": " thing",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.999138355255127
+                },
+                {
+                    "word": " it",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.8527809977531433
+                },
+                {
+                    "word": " might",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.9992005228996277
+                },
+                {
+                    "word": " be",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9996039271354675
+                },
+                {
+                    "word": " missing,",
+                    "start": 1.58,
+                    "end": 1.76,
+                    "probability": 0.9995651841163635
+                },
+                {
+                    "word": " but",
+                    "start": 1.8,
+                    "end": 2.0,
+                    "probability": 0.9966508746147156
+                },
+                {
+                    "word": " I",
+                    "start": 2.0,
+                    "end": 2.1,
+                    "probability": 0.995022177696228
+                },
+                {
+                    "word": " don't",
+                    "start": 2.1,
+                    "end": 2.22,
+                    "probability": 0.9994078576564789
+                },
+                {
+                    "word": " know",
+                    "start": 2.22,
+                    "end": 2.32,
+                    "probability": 0.999614953994751
+                },
+                {
+                    "word": " how",
+                    "start": 2.32,
+                    "end": 2.48,
+                    "probability": 0.9982178807258606
+                },
+                {
+                    "word": " we",
+                    "start": 2.48,
+                    "end": 2.66,
+                    "probability": 0.9992121458053589
+                },
+                {
+                    "word": " do",
+                    "start": 2.66,
+                    "end": 2.8,
+                    "probability": 0.9995054006576538
+                },
+                {
+                    "word": " it",
+                    "start": 2.8,
+                    "end": 2.96,
+                    "probability": 0.993457019329071
+                },
+                {
+                    "word": " without",
+                    "start": 2.96,
+                    "end": 3.34,
+                    "probability": 0.9735759496688843
+                },
+                {
+                    "word": " overcomplicating",
+                    "start": 3.34,
+                    "end": 4.38,
+                    "probability": 0.7740812674164772
+                },
+                {
+                    "word": " it",
+                    "start": 4.38,
+                    "end": 4.62,
+                    "probability": 0.9522091150283813
+                },
+                {
+                    "word": " is",
+                    "start": 4.62,
+                    "end": 5.68,
+                    "probability": 0.7820188999176025
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.68,
+            "end": 11.76,
+            "text": " well, I guess less risk also implies higher quality. I guess that kind of bundles the",
+            "tokens": [
+                50684,
+                731,
+                11,
+                286,
+                2041,
+                1570,
+                3148,
+                611,
+                18779,
+                2946,
+                3125,
+                13,
+                286,
+                2041,
+                300,
+                733,
+                295,
+                13882,
+                904,
+                264,
+                50940
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18026016853951118,
+            "compression_ratio": 1.518716577540107,
+            "no_speech_prob": 0.0005190889351069927,
+            "words": [
+                {
+                    "word": " well,",
+                    "start": 5.68,
+                    "end": 6.78,
+                    "probability": 0.1353444904088974
+                },
+                {
+                    "word": " I",
+                    "start": 6.9,
+                    "end": 6.9,
+                    "probability": 0.9931811690330505
+                },
+                {
+                    "word": " guess",
+                    "start": 6.9,
+                    "end": 7.1,
+                    "probability": 0.9996205568313599
+                },
+                {
+                    "word": " less",
+                    "start": 7.1,
+                    "end": 7.38,
+                    "probability": 0.6911942958831787
+                },
+                {
+                    "word": " risk",
+                    "start": 7.38,
+                    "end": 7.68,
+                    "probability": 0.9950962662696838
+                },
+                {
+                    "word": " also",
+                    "start": 7.68,
+                    "end": 8.04,
+                    "probability": 0.9889445900917053
+                },
+                {
+                    "word": " implies",
+                    "start": 8.04,
+                    "end": 8.42,
+                    "probability": 0.9986717700958252
+                },
+                {
+                    "word": " higher",
+                    "start": 8.42,
+                    "end": 8.72,
+                    "probability": 0.9961383938789368
+                },
+                {
+                    "word": " quality.",
+                    "start": 8.72,
+                    "end": 9.24,
+                    "probability": 0.9937028288841248
+                },
+                {
+                    "word": " I",
+                    "start": 10.02,
+                    "end": 10.16,
+                    "probability": 0.9656080603599548
+                },
+                {
+                    "word": " guess",
+                    "start": 10.16,
+                    "end": 10.44,
+                    "probability": 0.9993170499801636
+                },
+                {
+                    "word": " that",
+                    "start": 10.44,
+                    "end": 10.88,
+                    "probability": 0.9517275094985962
+                },
+                {
+                    "word": " kind",
+                    "start": 10.88,
+                    "end": 11.02,
+                    "probability": 0.9876290559768677
+                },
+                {
+                    "word": " of",
+                    "start": 11.02,
+                    "end": 11.24,
+                    "probability": 0.9997192025184631
+                },
+                {
+                    "word": " bundles",
+                    "start": 11.24,
+                    "end": 11.54,
+                    "probability": 0.9973218739032745
+                },
+                {
+                    "word": " the",
+                    "start": 11.54,
+                    "end": 11.76,
+                    "probability": 0.9747514724731445
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.76,
+            "end": 17.18,
+            "text": " quality and the security together. So I've talked myself out of not liking that. So yeah, good.",
+            "tokens": [
+                50940,
+                3125,
+                293,
+                264,
+                3825,
+                1214,
+                13,
+                407,
+                286,
+                600,
+                2825,
+                2059,
+                484,
+                295,
+                406,
+                16933,
+                300,
+                13,
+                407,
+                1338,
+                11,
+                665,
+                13,
+                51216
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18026016853951118,
+            "compression_ratio": 1.518716577540107,
+            "no_speech_prob": 0.0005190889351069927,
+            "words": [
+                {
+                    "word": " quality",
+                    "start": 11.76,
+                    "end": 12.04,
+                    "probability": 0.9994297623634338
+                },
+                {
+                    "word": " and",
+                    "start": 12.04,
+                    "end": 12.24,
+                    "probability": 0.9866437315940857
+                },
+                {
+                    "word": " the",
+                    "start": 12.24,
+                    "end": 12.44,
+                    "probability": 0.9251781702041626
+                },
+                {
+                    "word": " security",
+                    "start": 12.44,
+                    "end": 12.68,
+                    "probability": 0.998666524887085
+                },
+                {
+                    "word": " together.",
+                    "start": 12.68,
+                    "end": 13.2,
+                    "probability": 0.9989805817604065
+                },
+                {
+                    "word": " So",
+                    "start": 13.6,
+                    "end": 13.94,
+                    "probability": 0.964943528175354
+                },
+                {
+                    "word": " I've",
+                    "start": 13.94,
+                    "end": 14.54,
+                    "probability": 0.9384015798568726
+                },
+                {
+                    "word": " talked",
+                    "start": 14.54,
+                    "end": 14.66,
+                    "probability": 0.9677609205245972
+                },
+                {
+                    "word": " myself",
+                    "start": 14.66,
+                    "end": 15.0,
+                    "probability": 0.8827657103538513
+                },
+                {
+                    "word": " out",
+                    "start": 15.0,
+                    "end": 15.2,
+                    "probability": 0.9985284805297852
+                },
+                {
+                    "word": " of",
+                    "start": 15.2,
+                    "end": 15.9,
+                    "probability": 0.9974320530891418
+                },
+                {
+                    "word": " not",
+                    "start": 15.9,
+                    "end": 16.12,
+                    "probability": 0.9718314409255981
+                },
+                {
+                    "word": " liking",
+                    "start": 16.12,
+                    "end": 16.32,
+                    "probability": 0.9940345883369446
+                },
+                {
+                    "word": " that.",
+                    "start": 16.32,
+                    "end": 16.58,
+                    "probability": 0.998506486415863
+                },
+                {
+                    "word": " So",
+                    "start": 16.6,
+                    "end": 16.8,
+                    "probability": 0.9892894625663757
+                },
+                {
+                    "word": " yeah,",
+                    "start": 16.8,
+                    "end": 17.0,
+                    "probability": 0.7637006044387817
+                },
+                {
+                    "word": " good.",
+                    "start": 17.06,
+                    "end": 17.18,
+                    "probability": 0.9961842894554138
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

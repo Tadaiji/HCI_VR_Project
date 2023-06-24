@@ -1,0 +1,276 @@
+{
+    "text": " Okay, yeah. I went back and added them because based on discussion, like my, my, I wanted to take them off completely and just leave them as a partner, but we can't do that. So",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.98,
+            "text": " Okay, yeah. I went back and added them because based on discussion, like my, my, I wanted to take them off completely and just leave them as a partner, but we can't do that. So",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1338,
+                13,
+                286,
+                1437,
+                646,
+                293,
+                3869,
+                552,
+                570,
+                2361,
+                322,
+                5017,
+                11,
+                411,
+                452,
+                11,
+                452,
+                11,
+                286,
+                1415,
+                281,
+                747,
+                552,
+                766,
+                2584,
+                293,
+                445,
+                1856,
+                552,
+                382,
+                257,
+                4975,
+                11,
+                457,
+                321,
+                393,
+                380,
+                360,
+                300,
+                13,
+                407,
+                50866
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21250051000843878,
+            "compression_ratio": 1.3134328358208955,
+            "no_speech_prob": 0.0010810601525008678,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.4830632507801056
+                },
+                {
+                    "word": " yeah.",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.8848252892494202
+                },
+                {
+                    "word": " I",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.9885430335998535
+                },
+                {
+                    "word": " went",
+                    "start": 0.82,
+                    "end": 0.94,
+                    "probability": 0.9764900207519531
+                },
+                {
+                    "word": " back",
+                    "start": 0.94,
+                    "end": 1.16,
+                    "probability": 0.9987642765045166
+                },
+                {
+                    "word": " and",
+                    "start": 1.16,
+                    "end": 1.34,
+                    "probability": 0.9760023951530457
+                },
+                {
+                    "word": " added",
+                    "start": 1.34,
+                    "end": 1.42,
+                    "probability": 0.9721378684043884
+                },
+                {
+                    "word": " them",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.9836413860321045
+                },
+                {
+                    "word": " because",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9217810034751892
+                },
+                {
+                    "word": " based",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9216848015785217
+                },
+                {
+                    "word": " on",
+                    "start": 2.2,
+                    "end": 2.66,
+                    "probability": 0.9960687160491943
+                },
+                {
+                    "word": " discussion,",
+                    "start": 2.66,
+                    "end": 3.28,
+                    "probability": 0.8041245341300964
+                },
+                {
+                    "word": " like",
+                    "start": 3.76,
+                    "end": 3.76,
+                    "probability": 0.766451358795166
+                },
+                {
+                    "word": " my,",
+                    "start": 3.76,
+                    "end": 4.3,
+                    "probability": 0.7316759824752808
+                },
+                {
+                    "word": " my,",
+                    "start": 4.76,
+                    "end": 4.86,
+                    "probability": 0.5272819399833679
+                },
+                {
+                    "word": " I",
+                    "start": 5.08,
+                    "end": 5.4,
+                    "probability": 0.9971940517425537
+                },
+                {
+                    "word": " wanted",
+                    "start": 5.4,
+                    "end": 5.62,
+                    "probability": 0.9933178424835205
+                },
+                {
+                    "word": " to",
+                    "start": 5.62,
+                    "end": 5.88,
+                    "probability": 0.9993554949760437
+                },
+                {
+                    "word": " take",
+                    "start": 5.88,
+                    "end": 6.0,
+                    "probability": 0.9994014501571655
+                },
+                {
+                    "word": " them",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.9989185333251953
+                },
+                {
+                    "word": " off",
+                    "start": 6.24,
+                    "end": 6.5,
+                    "probability": 0.9956982135772705
+                },
+                {
+                    "word": " completely",
+                    "start": 6.5,
+                    "end": 7.0,
+                    "probability": 0.9969967603683472
+                },
+                {
+                    "word": " and",
+                    "start": 7.0,
+                    "end": 7.34,
+                    "probability": 0.9787631630897522
+                },
+                {
+                    "word": " just",
+                    "start": 7.34,
+                    "end": 7.6,
+                    "probability": 0.9992432594299316
+                },
+                {
+                    "word": " leave",
+                    "start": 7.6,
+                    "end": 7.74,
+                    "probability": 0.998188316822052
+                },
+                {
+                    "word": " them",
+                    "start": 7.74,
+                    "end": 7.86,
+                    "probability": 0.99455726146698
+                },
+                {
+                    "word": " as",
+                    "start": 7.86,
+                    "end": 8.04,
+                    "probability": 0.9991590976715088
+                },
+                {
+                    "word": " a",
+                    "start": 8.04,
+                    "end": 8.2,
+                    "probability": 0.9992419481277466
+                },
+                {
+                    "word": " partner,",
+                    "start": 8.2,
+                    "end": 8.42,
+                    "probability": 0.9989745616912842
+                },
+                {
+                    "word": " but",
+                    "start": 8.46,
+                    "end": 8.68,
+                    "probability": 0.9975703358650208
+                },
+                {
+                    "word": " we",
+                    "start": 8.68,
+                    "end": 9.06,
+                    "probability": 0.9985350370407104
+                },
+                {
+                    "word": " can't",
+                    "start": 9.06,
+                    "end": 9.38,
+                    "probability": 0.9794546961784363
+                },
+                {
+                    "word": " do",
+                    "start": 9.38,
+                    "end": 9.52,
+                    "probability": 0.9994218349456787
+                },
+                {
+                    "word": " that.",
+                    "start": 9.52,
+                    "end": 9.78,
+                    "probability": 0.9994202852249146
+                },
+                {
+                    "word": " So",
+                    "start": 9.88,
+                    "end": 9.98,
+                    "probability": 0.9872859120368958
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

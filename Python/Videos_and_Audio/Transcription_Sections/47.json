@@ -1,0 +1,293 @@
+{
+    "text": " We should reserve a spot for plan, but I'm going to have to go through and do some aggregating after this just go through the list of what shipped in the last 12 months and re bucket that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.66,
+            "text": " We should reserve a spot for plan, but I'm going to have to go through and do some aggregating after this just go through the list of what shipped in the last 12 months and re bucket that.",
+            "tokens": [
+                50364,
+                492,
+                820,
+                17824,
+                257,
+                4008,
+                337,
+                1393,
+                11,
+                457,
+                286,
+                478,
+                516,
+                281,
+                362,
+                281,
+                352,
+                807,
+                293,
+                360,
+                512,
+                16743,
+                990,
+                934,
+                341,
+                445,
+                352,
+                807,
+                264,
+                1329,
+                295,
+                437,
+                25312,
+                294,
+                264,
+                1036,
+                2272,
+                2493,
+                293,
+                319,
+                13058,
+                300,
+                13,
+                50849
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16088679631551106,
+            "compression_ratio": 1.3722627737226278,
+            "no_speech_prob": 0.0004952592425979674,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.6566354036331177
+                },
+                {
+                    "word": " should",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.9987055063247681
+                },
+                {
+                    "word": " reserve",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.9931628704071045
+                },
+                {
+                    "word": " a",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.996030867099762
+                },
+                {
+                    "word": " spot",
+                    "start": 0.92,
+                    "end": 1.12,
+                    "probability": 0.9990189075469971
+                },
+                {
+                    "word": " for",
+                    "start": 1.12,
+                    "end": 1.4,
+                    "probability": 0.9992665648460388
+                },
+                {
+                    "word": " plan,",
+                    "start": 1.4,
+                    "end": 1.62,
+                    "probability": 0.9525201916694641
+                },
+                {
+                    "word": " but",
+                    "start": 1.64,
+                    "end": 1.8,
+                    "probability": 0.9997194409370422
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.8,
+                    "end": 1.98,
+                    "probability": 0.6383834630250931
+                },
+                {
+                    "word": " going",
+                    "start": 1.98,
+                    "end": 2.06,
+                    "probability": 0.9146053194999695
+                },
+                {
+                    "word": " to",
+                    "start": 2.06,
+                    "end": 2.2,
+                    "probability": 0.9994766116142273
+                },
+                {
+                    "word": " have",
+                    "start": 2.2,
+                    "end": 2.36,
+                    "probability": 0.9997065663337708
+                },
+                {
+                    "word": " to",
+                    "start": 2.36,
+                    "end": 2.58,
+                    "probability": 0.9998718500137329
+                },
+                {
+                    "word": " go",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.9995672106742859
+                },
+                {
+                    "word": " through",
+                    "start": 2.88,
+                    "end": 3.22,
+                    "probability": 0.9996932744979858
+                },
+                {
+                    "word": " and",
+                    "start": 3.22,
+                    "end": 3.5,
+                    "probability": 0.9905474781990051
+                },
+                {
+                    "word": " do",
+                    "start": 3.5,
+                    "end": 3.8,
+                    "probability": 0.9975601434707642
+                },
+                {
+                    "word": " some",
+                    "start": 3.8,
+                    "end": 4.18,
+                    "probability": 0.9983882904052734
+                },
+                {
+                    "word": " aggregating",
+                    "start": 4.18,
+                    "end": 4.92,
+                    "probability": 0.9868949055671692
+                },
+                {
+                    "word": " after",
+                    "start": 4.92,
+                    "end": 5.3,
+                    "probability": 0.9138776063919067
+                },
+                {
+                    "word": " this",
+                    "start": 5.3,
+                    "end": 5.7,
+                    "probability": 0.9989100694656372
+                },
+                {
+                    "word": " just",
+                    "start": 5.7,
+                    "end": 5.94,
+                    "probability": 0.7305062413215637
+                },
+                {
+                    "word": " go",
+                    "start": 5.94,
+                    "end": 6.06,
+                    "probability": 0.9698241949081421
+                },
+                {
+                    "word": " through",
+                    "start": 6.06,
+                    "end": 6.24,
+                    "probability": 0.9994542002677917
+                },
+                {
+                    "word": " the",
+                    "start": 6.24,
+                    "end": 6.42,
+                    "probability": 0.9985529780387878
+                },
+                {
+                    "word": " list",
+                    "start": 6.42,
+                    "end": 6.58,
+                    "probability": 0.9996446371078491
+                },
+                {
+                    "word": " of",
+                    "start": 6.58,
+                    "end": 6.74,
+                    "probability": 0.9985333681106567
+                },
+                {
+                    "word": " what",
+                    "start": 6.74,
+                    "end": 6.9,
+                    "probability": 0.9921407699584961
+                },
+                {
+                    "word": " shipped",
+                    "start": 6.9,
+                    "end": 7.12,
+                    "probability": 0.27291229367256165
+                },
+                {
+                    "word": " in",
+                    "start": 7.12,
+                    "end": 7.3,
+                    "probability": 0.7945282459259033
+                },
+                {
+                    "word": " the",
+                    "start": 7.3,
+                    "end": 7.46,
+                    "probability": 0.9544366002082825
+                },
+                {
+                    "word": " last",
+                    "start": 7.46,
+                    "end": 7.6,
+                    "probability": 0.9991928935050964
+                },
+                {
+                    "word": " 12",
+                    "start": 7.6,
+                    "end": 7.78,
+                    "probability": 0.9830475449562073
+                },
+                {
+                    "word": " months",
+                    "start": 7.78,
+                    "end": 8.12,
+                    "probability": 0.9993821382522583
+                },
+                {
+                    "word": " and",
+                    "start": 8.12,
+                    "end": 8.98,
+                    "probability": 0.9468095898628235
+                },
+                {
+                    "word": " re",
+                    "start": 8.98,
+                    "end": 9.14,
+                    "probability": 0.5941355228424072
+                },
+                {
+                    "word": " bucket",
+                    "start": 9.14,
+                    "end": 9.36,
+                    "probability": 0.8999431729316711
+                },
+                {
+                    "word": " that.",
+                    "start": 9.36,
+                    "end": 9.66,
+                    "probability": 0.994748055934906
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

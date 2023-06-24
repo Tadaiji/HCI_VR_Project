@@ -1,0 +1,162 @@
+{
+    "text": " Yeah, for now, but then we'll move to tier two and tier three, then we'll look at those other.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.86,
+            "text": " Yeah, for now, but then we'll move to tier two and tier three, then we'll look at those other.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                337,
+                586,
+                11,
+                457,
+                550,
+                321,
+                603,
+                1286,
+                281,
+                12362,
+                732,
+                293,
+                12362,
+                1045,
+                11,
+                550,
+                321,
+                603,
+                574,
+                412,
+                729,
+                661,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3246138436453683,
+            "compression_ratio": 1.205128205128205,
+            "no_speech_prob": 0.02060856856405735,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2076515555381775
+                },
+                {
+                    "word": " for",
+                    "start": 0.36,
+                    "end": 0.44,
+                    "probability": 0.9875020980834961
+                },
+                {
+                    "word": " now,",
+                    "start": 0.44,
+                    "end": 0.64,
+                    "probability": 0.9993005990982056
+                },
+                {
+                    "word": " but",
+                    "start": 0.66,
+                    "end": 0.82,
+                    "probability": 0.9939792156219482
+                },
+                {
+                    "word": " then",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.9614704847335815
+                },
+                {
+                    "word": " we'll",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.9651262760162354
+                },
+                {
+                    "word": " move",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.9947992563247681
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.9953253269195557
+                },
+                {
+                    "word": " tier",
+                    "start": 1.58,
+                    "end": 1.74,
+                    "probability": 0.8011376857757568
+                },
+                {
+                    "word": " two",
+                    "start": 1.74,
+                    "end": 2.14,
+                    "probability": 0.9259295463562012
+                },
+                {
+                    "word": " and",
+                    "start": 2.14,
+                    "end": 2.38,
+                    "probability": 0.8674629330635071
+                },
+                {
+                    "word": " tier",
+                    "start": 2.38,
+                    "end": 2.52,
+                    "probability": 0.9626527428627014
+                },
+                {
+                    "word": " three,",
+                    "start": 2.52,
+                    "end": 3.12,
+                    "probability": 0.989926815032959
+                },
+                {
+                    "word": " then",
+                    "start": 3.32,
+                    "end": 3.6,
+                    "probability": 0.9931125044822693
+                },
+                {
+                    "word": " we'll",
+                    "start": 3.6,
+                    "end": 3.82,
+                    "probability": 0.99523064494133
+                },
+                {
+                    "word": " look",
+                    "start": 3.82,
+                    "end": 4.0,
+                    "probability": 0.9989515542984009
+                },
+                {
+                    "word": " at",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.9996234178543091
+                },
+                {
+                    "word": " those",
+                    "start": 4.18,
+                    "end": 4.58,
+                    "probability": 0.9973715543746948
+                },
+                {
+                    "word": " other.",
+                    "start": 4.58,
+                    "end": 4.86,
+                    "probability": 0.6025968194007874
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

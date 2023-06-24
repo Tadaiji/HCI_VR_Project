@@ -1,0 +1,602 @@
+{
+    "text": " I think from a competitive mindset and for me, I'm like, let's go hard. Let's put some red on there. That's just the way I think. Right. So but I bought it up and that for now, we're going to stick with the green. They recommended we stick with the green and see how it goes. But I don't know. I was feeling the red and yellow, too.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.98,
+            "end": 4.14,
+            "text": " I think from a competitive mindset and for me, I'm like, let's go hard.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                490,
+                257,
+                10043,
+                12543,
+                293,
+                337,
+                385,
+                11,
+                286,
+                478,
+                411,
+                11,
+                718,
+                311,
+                352,
+                1152,
+                13,
+                50566
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.98,
+                    "end": 1.34,
+                    "probability": 0.6890977621078491
+                },
+                {
+                    "word": " think",
+                    "start": 1.34,
+                    "end": 1.5,
+                    "probability": 0.925175130367279
+                },
+                {
+                    "word": " from",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.8608255386352539
+                },
+                {
+                    "word": " a",
+                    "start": 1.7,
+                    "end": 1.88,
+                    "probability": 0.9897899031639099
+                },
+                {
+                    "word": " competitive",
+                    "start": 1.88,
+                    "end": 2.22,
+                    "probability": 0.9666031002998352
+                },
+                {
+                    "word": " mindset",
+                    "start": 2.22,
+                    "end": 2.62,
+                    "probability": 0.9629292488098145
+                },
+                {
+                    "word": " and",
+                    "start": 2.62,
+                    "end": 2.82,
+                    "probability": 0.5694975256919861
+                },
+                {
+                    "word": " for",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.9328548908233643
+                },
+                {
+                    "word": " me,",
+                    "start": 2.94,
+                    "end": 3.06,
+                    "probability": 0.9993125200271606
+                },
+                {
+                    "word": " I'm",
+                    "start": 3.1,
+                    "end": 3.2,
+                    "probability": 0.9892801642417908
+                },
+                {
+                    "word": " like,",
+                    "start": 3.2,
+                    "end": 3.32,
+                    "probability": 0.9924127459526062
+                },
+                {
+                    "word": " let's",
+                    "start": 3.44,
+                    "end": 3.58,
+                    "probability": 0.8797361552715302
+                },
+                {
+                    "word": " go",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.9972533583641052
+                },
+                {
+                    "word": " hard.",
+                    "start": 3.72,
+                    "end": 4.14,
+                    "probability": 0.9955683350563049
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.52,
+            "end": 5.66,
+            "text": " Let's put some red on there.",
+            "tokens": [
+                50580,
+                961,
+                311,
+                829,
+                512,
+                2182,
+                322,
+                456,
+                13,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 4.52,
+                    "end": 4.64,
+                    "probability": 0.967523068189621
+                },
+                {
+                    "word": " put",
+                    "start": 4.64,
+                    "end": 4.74,
+                    "probability": 0.996561586856842
+                },
+                {
+                    "word": " some",
+                    "start": 4.74,
+                    "end": 4.9,
+                    "probability": 0.998015284538269
+                },
+                {
+                    "word": " red",
+                    "start": 4.9,
+                    "end": 5.06,
+                    "probability": 0.9161680936813354
+                },
+                {
+                    "word": " on",
+                    "start": 5.06,
+                    "end": 5.32,
+                    "probability": 0.9974641799926758
+                },
+                {
+                    "word": " there.",
+                    "start": 5.32,
+                    "end": 5.66,
+                    "probability": 0.9667412042617798
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.74,
+            "end": 8.44,
+            "text": " That's just the way I think. Right.",
+            "tokens": [
+                50702,
+                663,
+                311,
+                445,
+                264,
+                636,
+                286,
+                519,
+                13,
+                1779,
+                13,
+                50778
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 6.74,
+                    "end": 7.14,
+                    "probability": 0.8426630198955536
+                },
+                {
+                    "word": " just",
+                    "start": 7.14,
+                    "end": 7.36,
+                    "probability": 0.9921450018882751
+                },
+                {
+                    "word": " the",
+                    "start": 7.36,
+                    "end": 7.46,
+                    "probability": 0.9770528078079224
+                },
+                {
+                    "word": " way",
+                    "start": 7.46,
+                    "end": 7.56,
+                    "probability": 0.9993089437484741
+                },
+                {
+                    "word": " I",
+                    "start": 7.56,
+                    "end": 7.84,
+                    "probability": 0.973429799079895
+                },
+                {
+                    "word": " think.",
+                    "start": 7.84,
+                    "end": 8.0,
+                    "probability": 0.9988658428192139
+                },
+                {
+                    "word": " Right.",
+                    "start": 8.44,
+                    "end": 8.44,
+                    "probability": 0.29718726873397827
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.54,
+            "end": 11.18,
+            "text": " So but I bought it up and that for now, we're going to stick with the green.",
+            "tokens": [
+                50778,
+                407,
+                457,
+                286,
+                4243,
+                309,
+                493,
+                293,
+                300,
+                337,
+                586,
+                11,
+                321,
+                434,
+                516,
+                281,
+                2897,
+                365,
+                264,
+                3092,
+                13,
+                50922
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 8.54,
+                    "end": 8.82,
+                    "probability": 0.6870697736740112
+                },
+                {
+                    "word": " but",
+                    "start": 8.82,
+                    "end": 9.06,
+                    "probability": 0.3290712833404541
+                },
+                {
+                    "word": " I",
+                    "start": 9.06,
+                    "end": 9.22,
+                    "probability": 0.9473279714584351
+                },
+                {
+                    "word": " bought",
+                    "start": 9.22,
+                    "end": 9.38,
+                    "probability": 0.33872467279434204
+                },
+                {
+                    "word": " it",
+                    "start": 9.38,
+                    "end": 9.5,
+                    "probability": 0.9734189510345459
+                },
+                {
+                    "word": " up",
+                    "start": 9.5,
+                    "end": 9.58,
+                    "probability": 0.7620933055877686
+                },
+                {
+                    "word": " and",
+                    "start": 9.58,
+                    "end": 9.66,
+                    "probability": 0.4723707437515259
+                },
+                {
+                    "word": " that",
+                    "start": 9.66,
+                    "end": 9.8,
+                    "probability": 0.5632582306861877
+                },
+                {
+                    "word": " for",
+                    "start": 9.8,
+                    "end": 9.96,
+                    "probability": 0.9181464910507202
+                },
+                {
+                    "word": " now,",
+                    "start": 9.96,
+                    "end": 10.16,
+                    "probability": 0.9895345568656921
+                },
+                {
+                    "word": " we're",
+                    "start": 10.26,
+                    "end": 10.34,
+                    "probability": 0.9926043450832367
+                },
+                {
+                    "word": " going",
+                    "start": 10.34,
+                    "end": 10.38,
+                    "probability": 0.9116285443305969
+                },
+                {
+                    "word": " to",
+                    "start": 10.38,
+                    "end": 10.54,
+                    "probability": 0.9985936284065247
+                },
+                {
+                    "word": " stick",
+                    "start": 10.54,
+                    "end": 10.62,
+                    "probability": 0.9941161870956421
+                },
+                {
+                    "word": " with",
+                    "start": 10.62,
+                    "end": 10.8,
+                    "probability": 0.9967954754829407
+                },
+                {
+                    "word": " the",
+                    "start": 10.8,
+                    "end": 11.0,
+                    "probability": 0.9880537390708923
+                },
+                {
+                    "word": " green.",
+                    "start": 11.0,
+                    "end": 11.18,
+                    "probability": 0.9217566847801208
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.3,
+            "end": 14.28,
+            "text": " They recommended we stick with the green and see how it goes.",
+            "tokens": [
+                50922,
+                814,
+                9628,
+                321,
+                2897,
+                365,
+                264,
+                3092,
+                293,
+                536,
+                577,
+                309,
+                1709,
+                13,
+                51078
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 11.3,
+                    "end": 11.44,
+                    "probability": 0.9949526786804199
+                },
+                {
+                    "word": " recommended",
+                    "start": 11.44,
+                    "end": 11.92,
+                    "probability": 0.5923151969909668
+                },
+                {
+                    "word": " we",
+                    "start": 11.92,
+                    "end": 12.1,
+                    "probability": 0.5023671388626099
+                },
+                {
+                    "word": " stick",
+                    "start": 12.1,
+                    "end": 12.26,
+                    "probability": 0.7139297723770142
+                },
+                {
+                    "word": " with",
+                    "start": 12.26,
+                    "end": 12.56,
+                    "probability": 0.9923176765441895
+                },
+                {
+                    "word": " the",
+                    "start": 12.56,
+                    "end": 12.84,
+                    "probability": 0.9953967928886414
+                },
+                {
+                    "word": " green",
+                    "start": 12.84,
+                    "end": 13.02,
+                    "probability": 0.9937794804573059
+                },
+                {
+                    "word": " and",
+                    "start": 13.02,
+                    "end": 13.4,
+                    "probability": 0.9826595783233643
+                },
+                {
+                    "word": " see",
+                    "start": 13.4,
+                    "end": 13.68,
+                    "probability": 0.9864098429679871
+                },
+                {
+                    "word": " how",
+                    "start": 13.68,
+                    "end": 13.84,
+                    "probability": 0.9996286630630493
+                },
+                {
+                    "word": " it",
+                    "start": 13.84,
+                    "end": 13.98,
+                    "probability": 0.9856223464012146
+                },
+                {
+                    "word": " goes.",
+                    "start": 13.98,
+                    "end": 14.28,
+                    "probability": 0.9993876218795776
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.74,
+            "end": 17.78,
+            "text": " But I don't know. I was feeling the red and yellow, too.",
+            "tokens": [
+                51078,
+                583,
+                286,
+                500,
+                380,
+                458,
+                13,
+                286,
+                390,
+                2633,
+                264,
+                2182,
+                293,
+                5566,
+                11,
+                886,
+                13,
+                51248
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21110388245245423,
+            "compression_ratio": 1.5809523809523809,
+            "no_speech_prob": 0.0008419984369538724,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 14.74,
+                    "end": 14.74,
+                    "probability": 0.9963648915290833
+                },
+                {
+                    "word": " I",
+                    "start": 14.74,
+                    "end": 14.88,
+                    "probability": 0.9378947019577026
+                },
+                {
+                    "word": " don't",
+                    "start": 14.88,
+                    "end": 14.96,
+                    "probability": 0.9732946753501892
+                },
+                {
+                    "word": " know.",
+                    "start": 14.96,
+                    "end": 15.04,
+                    "probability": 0.9441748261451721
+                },
+                {
+                    "word": " I",
+                    "start": 15.04,
+                    "end": 15.1,
+                    "probability": 0.999483585357666
+                },
+                {
+                    "word": " was",
+                    "start": 15.1,
+                    "end": 15.3,
+                    "probability": 0.9996675252914429
+                },
+                {
+                    "word": " feeling",
+                    "start": 15.3,
+                    "end": 15.52,
+                    "probability": 0.9886908531188965
+                },
+                {
+                    "word": " the",
+                    "start": 15.52,
+                    "end": 16.08,
+                    "probability": 0.9692965149879456
+                },
+                {
+                    "word": " red",
+                    "start": 16.08,
+                    "end": 16.36,
+                    "probability": 0.841496467590332
+                },
+                {
+                    "word": " and",
+                    "start": 16.36,
+                    "end": 16.78,
+                    "probability": 0.9623495936393738
+                },
+                {
+                    "word": " yellow,",
+                    "start": 16.78,
+                    "end": 17.16,
+                    "probability": 0.989526629447937
+                },
+                {
+                    "word": " too.",
+                    "start": 17.78,
+                    "end": 17.78,
+                    "probability": 0.9901466965675354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

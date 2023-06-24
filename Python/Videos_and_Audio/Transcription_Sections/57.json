@@ -1,0 +1,154 @@
+{
+    "text": " Was it within the past year or longer? I thought it was within the past year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.5,
+            "end": 4.22,
+            "text": " Was it within the past year or longer?",
+            "tokens": [
+                50364,
+                3027,
+                309,
+                1951,
+                264,
+                1791,
+                1064,
+                420,
+                2854,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2964989206065302,
+            "compression_ratio": 1.2419354838709677,
+            "no_speech_prob": 0.03955591842532158,
+            "words": [
+                {
+                    "word": " Was",
+                    "start": 1.5,
+                    "end": 1.9,
+                    "probability": 0.6944342255592346
+                },
+                {
+                    "word": " it",
+                    "start": 1.9,
+                    "end": 2.08,
+                    "probability": 0.8873100876808167
+                },
+                {
+                    "word": " within",
+                    "start": 2.08,
+                    "end": 2.24,
+                    "probability": 0.9932611584663391
+                },
+                {
+                    "word": " the",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9992846846580505
+                },
+                {
+                    "word": " past",
+                    "start": 2.44,
+                    "end": 2.64,
+                    "probability": 0.9959194660186768
+                },
+                {
+                    "word": " year",
+                    "start": 2.64,
+                    "end": 3.34,
+                    "probability": 0.9986572265625
+                },
+                {
+                    "word": " or",
+                    "start": 3.34,
+                    "end": 3.94,
+                    "probability": 0.7167425155639648
+                },
+                {
+                    "word": " longer?",
+                    "start": 3.94,
+                    "end": 4.22,
+                    "probability": 0.9992625117301941
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.08,
+            "end": 7.8,
+            "text": " I thought it was within the past year.",
+            "tokens": [
+                50614,
+                286,
+                1194,
+                309,
+                390,
+                1951,
+                264,
+                1791,
+                1064,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2964989206065302,
+            "compression_ratio": 1.2419354838709677,
+            "no_speech_prob": 0.03955591842532158,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 6.08,
+                    "end": 6.2,
+                    "probability": 0.9824715256690979
+                },
+                {
+                    "word": " thought",
+                    "start": 6.2,
+                    "end": 6.36,
+                    "probability": 0.9984607696533203
+                },
+                {
+                    "word": " it",
+                    "start": 6.36,
+                    "end": 6.46,
+                    "probability": 0.995622456073761
+                },
+                {
+                    "word": " was",
+                    "start": 6.46,
+                    "end": 6.94,
+                    "probability": 0.9994551539421082
+                },
+                {
+                    "word": " within",
+                    "start": 6.94,
+                    "end": 7.32,
+                    "probability": 0.9905033111572266
+                },
+                {
+                    "word": " the",
+                    "start": 7.32,
+                    "end": 7.48,
+                    "probability": 0.9991262555122375
+                },
+                {
+                    "word": " past",
+                    "start": 7.48,
+                    "end": 7.68,
+                    "probability": 0.9960888624191284
+                },
+                {
+                    "word": " year.",
+                    "start": 7.68,
+                    "end": 7.8,
+                    "probability": 0.9723194241523743
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

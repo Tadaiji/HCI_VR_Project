@@ -1,0 +1,193 @@
+{
+    "text": " This was the, honestly, so when I first got this, it didn't have this and it didn't have anything under security.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.1,
+            "end": 9.84,
+            "text": " This was the, honestly, so when I first got this, it didn't have this and it didn't have",
+            "tokens": [
+                50364,
+                639,
+                390,
+                264,
+                11,
+                6095,
+                11,
+                370,
+                562,
+                286,
+                700,
+                658,
+                341,
+                11,
+                309,
+                994,
+                380,
+                362,
+                341,
+                293,
+                309,
+                994,
+                380,
+                362,
+                50848
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3116481602191925,
+            "compression_ratio": 1.2555555555555555,
+            "no_speech_prob": 0.007451637182384729,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 1.1,
+                    "end": 1.7,
+                    "probability": 0.2600727379322052
+                },
+                {
+                    "word": " was",
+                    "start": 1.7,
+                    "end": 1.24,
+                    "probability": 0.645369827747345
+                },
+                {
+                    "word": " the,",
+                    "start": 1.24,
+                    "end": 2.3,
+                    "probability": 0.9050577878952026
+                },
+                {
+                    "word": " honestly,",
+                    "start": 4.08,
+                    "end": 4.2,
+                    "probability": 0.8241834044456482
+                },
+                {
+                    "word": " so",
+                    "start": 4.54,
+                    "end": 4.56,
+                    "probability": 0.8485615849494934
+                },
+                {
+                    "word": " when",
+                    "start": 4.56,
+                    "end": 5.04,
+                    "probability": 0.5062460899353027
+                },
+                {
+                    "word": " I",
+                    "start": 5.04,
+                    "end": 5.32,
+                    "probability": 0.9978153705596924
+                },
+                {
+                    "word": " first",
+                    "start": 5.32,
+                    "end": 5.54,
+                    "probability": 0.9972811937332153
+                },
+                {
+                    "word": " got",
+                    "start": 5.54,
+                    "end": 5.84,
+                    "probability": 0.9987068176269531
+                },
+                {
+                    "word": " this,",
+                    "start": 5.84,
+                    "end": 6.44,
+                    "probability": 0.99757319688797
+                },
+                {
+                    "word": " it",
+                    "start": 6.78,
+                    "end": 6.84,
+                    "probability": 0.9951884746551514
+                },
+                {
+                    "word": " didn't",
+                    "start": 6.84,
+                    "end": 7.12,
+                    "probability": 0.999067097902298
+                },
+                {
+                    "word": " have",
+                    "start": 7.12,
+                    "end": 7.34,
+                    "probability": 0.9994760155677795
+                },
+                {
+                    "word": " this",
+                    "start": 7.34,
+                    "end": 8.12,
+                    "probability": 0.9942184686660767
+                },
+                {
+                    "word": " and",
+                    "start": 8.12,
+                    "end": 9.36,
+                    "probability": 0.44679370522499084
+                },
+                {
+                    "word": " it",
+                    "start": 9.36,
+                    "end": 9.42,
+                    "probability": 0.9938482642173767
+                },
+                {
+                    "word": " didn't",
+                    "start": 9.42,
+                    "end": 9.64,
+                    "probability": 0.9990927577018738
+                },
+                {
+                    "word": " have",
+                    "start": 9.64,
+                    "end": 9.84,
+                    "probability": 0.9985414743423462
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.84,
+            "end": 10.74,
+            "text": " anything under security.",
+            "tokens": [
+                50848,
+                1340,
+                833,
+                3825,
+                13,
+                50956
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3116481602191925,
+            "compression_ratio": 1.2555555555555555,
+            "no_speech_prob": 0.007451637182384729,
+            "words": [
+                {
+                    "word": " anything",
+                    "start": 9.84,
+                    "end": 10.06,
+                    "probability": 0.9939574003219604
+                },
+                {
+                    "word": " under",
+                    "start": 10.06,
+                    "end": 10.34,
+                    "probability": 0.9955433011054993
+                },
+                {
+                    "word": " security.",
+                    "start": 10.34,
+                    "end": 10.74,
+                    "probability": 0.9787371158599854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

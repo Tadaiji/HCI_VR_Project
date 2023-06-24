@@ -1,0 +1,30 @@
+{
+    "text": " then",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.4,
+            "text": " then",
+            "tokens": [
+                50364,
+                550,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7084366083145142,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.2634716331958771,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.19329220056533813
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,252 @@
+{
+    "text": " So this one is a PR driven to some degree. What about like a new Ben Christie's product keynote at commit? Are we dovetailing this with that?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 3.08,
+            "text": " So this one is a PR driven to some degree.",
+            "tokens": [
+                50364,
+                407,
+                341,
+                472,
+                307,
+                257,
+                11568,
+                9555,
+                281,
+                512,
+                4314,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3902263879776001,
+            "compression_ratio": 1.184873949579832,
+            "no_speech_prob": 0.006087960209697485,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.06,
+                    "end": 0.58,
+                    "probability": 0.1892484575510025
+                },
+                {
+                    "word": " this",
+                    "start": 0.58,
+                    "end": 0.9,
+                    "probability": 0.4693553149700165
+                },
+                {
+                    "word": " one",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.9369414448738098
+                },
+                {
+                    "word": " is",
+                    "start": 1.1,
+                    "end": 1.48,
+                    "probability": 0.9985575079917908
+                },
+                {
+                    "word": " a",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.7259199023246765
+                },
+                {
+                    "word": " PR",
+                    "start": 1.72,
+                    "end": 1.96,
+                    "probability": 0.9929057359695435
+                },
+                {
+                    "word": " driven",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9751303791999817
+                },
+                {
+                    "word": " to",
+                    "start": 2.3,
+                    "end": 2.54,
+                    "probability": 0.9736893177032471
+                },
+                {
+                    "word": " some",
+                    "start": 2.54,
+                    "end": 2.64,
+                    "probability": 0.9985419511795044
+                },
+                {
+                    "word": " degree.",
+                    "start": 2.64,
+                    "end": 3.08,
+                    "probability": 0.9993983507156372
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.28,
+            "end": 6.98,
+            "text": " What about like a new Ben Christie's product keynote at commit?",
+            "tokens": [
+                50522,
+                708,
+                466,
+                411,
+                257,
+                777,
+                3964,
+                46111,
+                311,
+                1674,
+                33896,
+                412,
+                5599,
+                30,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3902263879776001,
+            "compression_ratio": 1.184873949579832,
+            "no_speech_prob": 0.006087960209697485,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 3.28,
+                    "end": 3.4,
+                    "probability": 0.9930408000946045
+                },
+                {
+                    "word": " about",
+                    "start": 3.4,
+                    "end": 3.6,
+                    "probability": 0.9988582134246826
+                },
+                {
+                    "word": " like",
+                    "start": 3.6,
+                    "end": 3.88,
+                    "probability": 0.8887571096420288
+                },
+                {
+                    "word": " a",
+                    "start": 3.88,
+                    "end": 4.04,
+                    "probability": 0.8700911402702332
+                },
+                {
+                    "word": " new",
+                    "start": 4.04,
+                    "end": 4.14,
+                    "probability": 0.6360989809036255
+                },
+                {
+                    "word": " Ben",
+                    "start": 4.14,
+                    "end": 4.3,
+                    "probability": 0.09832300990819931
+                },
+                {
+                    "word": " Christie's",
+                    "start": 4.3,
+                    "end": 5.32,
+                    "probability": 0.9441761374473572
+                },
+                {
+                    "word": " product",
+                    "start": 5.32,
+                    "end": 5.68,
+                    "probability": 0.9897913932800293
+                },
+                {
+                    "word": " keynote",
+                    "start": 5.68,
+                    "end": 6.28,
+                    "probability": 0.9421274065971375
+                },
+                {
+                    "word": " at",
+                    "start": 6.28,
+                    "end": 6.72,
+                    "probability": 0.6780478358268738
+                },
+                {
+                    "word": " commit?",
+                    "start": 6.72,
+                    "end": 6.98,
+                    "probability": 0.9748657941818237
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.34,
+            "end": 9.04,
+            "text": " Are we dovetailing this with that?",
+            "tokens": [
+                50714,
+                2014,
+                321,
+                360,
+                9771,
+                23315,
+                341,
+                365,
+                300,
+                30,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3902263879776001,
+            "compression_ratio": 1.184873949579832,
+            "no_speech_prob": 0.006087960209697485,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 7.34,
+                    "end": 7.34,
+                    "probability": 0.864277720451355
+                },
+                {
+                    "word": " we",
+                    "start": 7.34,
+                    "end": 7.86,
+                    "probability": 0.9891701340675354
+                },
+                {
+                    "word": " dovetailing",
+                    "start": 7.86,
+                    "end": 8.26,
+                    "probability": 0.8119460940361023
+                },
+                {
+                    "word": " this",
+                    "start": 8.26,
+                    "end": 8.52,
+                    "probability": 0.9519304037094116
+                },
+                {
+                    "word": " with",
+                    "start": 8.52,
+                    "end": 8.74,
+                    "probability": 0.9867706298828125
+                },
+                {
+                    "word": " that?",
+                    "start": 8.74,
+                    "end": 9.04,
+                    "probability": 0.9885302186012268
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

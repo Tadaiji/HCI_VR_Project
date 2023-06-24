@@ -1,0 +1,76 @@
+{
+    "text": " for tier one except Jenkins and Cloubys.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.74,
+            "text": " for tier one except Jenkins and Cloubys.",
+            "tokens": [
+                50364,
+                337,
+                12362,
+                472,
+                3993,
+                41273,
+                293,
+                2033,
+                263,
+                65,
+                749,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6444313185555595,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.017112569883465767,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.370559960603714
+                },
+                {
+                    "word": " tier",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.6728560328483582
+                },
+                {
+                    "word": " one",
+                    "start": 0.56,
+                    "end": 0.76,
+                    "probability": 0.7513497471809387
+                },
+                {
+                    "word": " except",
+                    "start": 0.76,
+                    "end": 1.38,
+                    "probability": 0.941670298576355
+                },
+                {
+                    "word": " Jenkins",
+                    "start": 1.38,
+                    "end": 1.88,
+                    "probability": 0.8948163390159607
+                },
+                {
+                    "word": " and",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9686623215675354
+                },
+                {
+                    "word": " Cloubys.",
+                    "start": 2.2,
+                    "end": 2.74,
+                    "probability": 0.36719556897878647
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

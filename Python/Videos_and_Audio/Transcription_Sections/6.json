@@ -1,0 +1,449 @@
+{
+    "text": " Yeah, same, not in real time, but source feedback. I got one person to respond so far. So it may end up Cindy being you and I just picking the one that we want to do, and then they can back us up if we don't get any more feedback.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 3.56,
+            "text": " Yeah, same, not in real time, but source feedback.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                912,
+                11,
+                406,
+                294,
+                957,
+                565,
+                11,
+                457,
+                4009,
+                5824,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26797065182008606,
+            "compression_ratio": 1.4465408805031446,
+            "no_speech_prob": 7.96647509559989e-05,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.12,
+                    "end": 0.52,
+                    "probability": 0.45185282826423645
+                },
+                {
+                    "word": " same,",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.9102795124053955
+                },
+                {
+                    "word": " not",
+                    "start": 1.06,
+                    "end": 1.14,
+                    "probability": 0.9471279382705688
+                },
+                {
+                    "word": " in",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.8921465873718262
+                },
+                {
+                    "word": " real",
+                    "start": 1.32,
+                    "end": 1.76,
+                    "probability": 0.5678215026855469
+                },
+                {
+                    "word": " time,",
+                    "start": 1.76,
+                    "end": 2.18,
+                    "probability": 0.885388195514679
+                },
+                {
+                    "word": " but",
+                    "start": 2.56,
+                    "end": 2.56,
+                    "probability": 0.9051676988601685
+                },
+                {
+                    "word": " source",
+                    "start": 2.56,
+                    "end": 3.06,
+                    "probability": 0.5539085268974304
+                },
+                {
+                    "word": " feedback.",
+                    "start": 3.06,
+                    "end": 3.56,
+                    "probability": 0.8178883194923401
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.96,
+            "end": 5.98,
+            "text": " I got one person to respond so far.",
+            "tokens": [
+                50556,
+                286,
+                658,
+                472,
+                954,
+                281,
+                4196,
+                370,
+                1400,
+                13,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26797065182008606,
+            "compression_ratio": 1.4465408805031446,
+            "no_speech_prob": 7.96647509559989e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.96,
+                    "end": 4.04,
+                    "probability": 0.6246722936630249
+                },
+                {
+                    "word": " got",
+                    "start": 4.04,
+                    "end": 4.14,
+                    "probability": 0.7937492728233337
+                },
+                {
+                    "word": " one",
+                    "start": 4.14,
+                    "end": 4.38,
+                    "probability": 0.9966883063316345
+                },
+                {
+                    "word": " person",
+                    "start": 4.38,
+                    "end": 4.64,
+                    "probability": 0.9976029992103577
+                },
+                {
+                    "word": " to",
+                    "start": 4.64,
+                    "end": 4.84,
+                    "probability": 0.8213667273521423
+                },
+                {
+                    "word": " respond",
+                    "start": 4.84,
+                    "end": 5.1,
+                    "probability": 0.9854044318199158
+                },
+                {
+                    "word": " so",
+                    "start": 5.1,
+                    "end": 5.4,
+                    "probability": 0.9569323658943176
+                },
+                {
+                    "word": " far.",
+                    "start": 5.4,
+                    "end": 5.98,
+                    "probability": 0.9980757236480713
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.34,
+            "end": 8.3,
+            "text": " So it may end up Cindy being you and I just",
+            "tokens": [
+                50668,
+                407,
+                309,
+                815,
+                917,
+                493,
+                32185,
+                885,
+                291,
+                293,
+                286,
+                445,
+                50775
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26797065182008606,
+            "compression_ratio": 1.4465408805031446,
+            "no_speech_prob": 7.96647509559989e-05,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.34,
+                    "end": 6.34,
+                    "probability": 0.9589279890060425
+                },
+                {
+                    "word": " it",
+                    "start": 6.34,
+                    "end": 6.36,
+                    "probability": 0.6245505213737488
+                },
+                {
+                    "word": " may",
+                    "start": 6.36,
+                    "end": 6.5,
+                    "probability": 0.9805476665496826
+                },
+                {
+                    "word": " end",
+                    "start": 6.5,
+                    "end": 6.72,
+                    "probability": 0.9971576929092407
+                },
+                {
+                    "word": " up",
+                    "start": 6.72,
+                    "end": 6.94,
+                    "probability": 0.9986190795898438
+                },
+                {
+                    "word": " Cindy",
+                    "start": 6.94,
+                    "end": 7.18,
+                    "probability": 0.8716816902160645
+                },
+                {
+                    "word": " being",
+                    "start": 7.18,
+                    "end": 7.6,
+                    "probability": 0.8994340896606445
+                },
+                {
+                    "word": " you",
+                    "start": 7.6,
+                    "end": 7.82,
+                    "probability": 0.941413938999176
+                },
+                {
+                    "word": " and",
+                    "start": 7.82,
+                    "end": 7.96,
+                    "probability": 0.8862714767456055
+                },
+                {
+                    "word": " I",
+                    "start": 7.96,
+                    "end": 8.06,
+                    "probability": 0.9946500658988953
+                },
+                {
+                    "word": " just",
+                    "start": 8.06,
+                    "end": 8.3,
+                    "probability": 0.9255034923553467
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.3,
+            "end": 9.48,
+            "text": " picking the one that we want to do,",
+            "tokens": [
+                50775,
+                8867,
+                264,
+                472,
+                300,
+                321,
+                528,
+                281,
+                360,
+                11,
+                50846
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26797065182008606,
+            "compression_ratio": 1.4465408805031446,
+            "no_speech_prob": 7.96647509559989e-05,
+            "words": [
+                {
+                    "word": " picking",
+                    "start": 8.3,
+                    "end": 8.44,
+                    "probability": 0.8060596585273743
+                },
+                {
+                    "word": " the",
+                    "start": 8.44,
+                    "end": 8.64,
+                    "probability": 0.9951286315917969
+                },
+                {
+                    "word": " one",
+                    "start": 8.64,
+                    "end": 8.7,
+                    "probability": 0.998097836971283
+                },
+                {
+                    "word": " that",
+                    "start": 8.7,
+                    "end": 8.86,
+                    "probability": 0.9822103977203369
+                },
+                {
+                    "word": " we",
+                    "start": 8.86,
+                    "end": 8.98,
+                    "probability": 0.9994055032730103
+                },
+                {
+                    "word": " want",
+                    "start": 8.98,
+                    "end": 9.08,
+                    "probability": 0.9623101949691772
+                },
+                {
+                    "word": " to",
+                    "start": 9.08,
+                    "end": 9.24,
+                    "probability": 0.999372661113739
+                },
+                {
+                    "word": " do,",
+                    "start": 9.24,
+                    "end": 9.48,
+                    "probability": 0.9990436434745789
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.54,
+            "end": 15.16,
+            "text": " and then they can back us up if we don't get any more feedback.",
+            "tokens": [
+                50846,
+                293,
+                550,
+                436,
+                393,
+                646,
+                505,
+                493,
+                498,
+                321,
+                500,
+                380,
+                483,
+                604,
+                544,
+                5824,
+                13,
+                51184
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26797065182008606,
+            "compression_ratio": 1.4465408805031446,
+            "no_speech_prob": 7.96647509559989e-05,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 9.54,
+                    "end": 9.72,
+                    "probability": 0.9971600770950317
+                },
+                {
+                    "word": " then",
+                    "start": 9.72,
+                    "end": 9.92,
+                    "probability": 0.9957773685455322
+                },
+                {
+                    "word": " they",
+                    "start": 9.92,
+                    "end": 10.1,
+                    "probability": 0.9799772500991821
+                },
+                {
+                    "word": " can",
+                    "start": 10.1,
+                    "end": 10.42,
+                    "probability": 0.9922009110450745
+                },
+                {
+                    "word": " back",
+                    "start": 10.42,
+                    "end": 10.64,
+                    "probability": 0.9771032333374023
+                },
+                {
+                    "word": " us",
+                    "start": 10.64,
+                    "end": 10.8,
+                    "probability": 0.6527185440063477
+                },
+                {
+                    "word": " up",
+                    "start": 10.8,
+                    "end": 11.62,
+                    "probability": 0.994266927242279
+                },
+                {
+                    "word": " if",
+                    "start": 11.62,
+                    "end": 14.2,
+                    "probability": 0.49297022819519043
+                },
+                {
+                    "word": " we",
+                    "start": 14.2,
+                    "end": 14.32,
+                    "probability": 0.9983474016189575
+                },
+                {
+                    "word": " don't",
+                    "start": 14.32,
+                    "end": 14.5,
+                    "probability": 0.9995566010475159
+                },
+                {
+                    "word": " get",
+                    "start": 14.5,
+                    "end": 14.6,
+                    "probability": 0.9975195527076721
+                },
+                {
+                    "word": " any",
+                    "start": 14.6,
+                    "end": 14.74,
+                    "probability": 0.9362041354179382
+                },
+                {
+                    "word": " more",
+                    "start": 14.74,
+                    "end": 14.86,
+                    "probability": 0.9996503591537476
+                },
+                {
+                    "word": " feedback.",
+                    "start": 14.86,
+                    "end": 15.16,
+                    "probability": 0.9979166388511658
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

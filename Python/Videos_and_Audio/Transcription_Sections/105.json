@@ -1,0 +1,45 @@
+{
+    "text": " someone asked me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.64,
+            "text": " someone asked me.",
+            "tokens": [
+                50364,
+                1580,
+                2351,
+                385,
+                13,
+                50396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7340925080435616,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.09707684814929962,
+            "words": [
+                {
+                    "word": " someone",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.3597560226917267
+                },
+                {
+                    "word": " asked",
+                    "start": 0.32,
+                    "end": 0.54,
+                    "probability": 0.6545479893684387
+                },
+                {
+                    "word": " me.",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.9493439197540283
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

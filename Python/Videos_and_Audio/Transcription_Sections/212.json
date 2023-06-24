@@ -1,0 +1,130 @@
+{
+    "text": " I mean, it's strong. All those are, you know, those are good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.9,
+            "text": " I mean, it's strong.",
+            "tokens": [
+                50364,
+                286,
+                914,
+                11,
+                309,
+                311,
+                2068,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3531145842179008,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.011141914874315262,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.19753052294254303
+                },
+                {
+                    "word": " mean,",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9354246854782104
+                },
+                {
+                    "word": " it's",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9267028272151947
+                },
+                {
+                    "word": " strong.",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9923356175422668
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.2,
+            "end": 4.22,
+            "text": " All those are, you know, those are good.",
+            "tokens": [
+                50414,
+                1057,
+                729,
+                366,
+                11,
+                291,
+                458,
+                11,
+                729,
+                366,
+                665,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3531145842179008,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.011141914874315262,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 1.2,
+                    "end": 1.24,
+                    "probability": 0.9631339907646179
+                },
+                {
+                    "word": " those",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9819924831390381
+                },
+                {
+                    "word": " are,",
+                    "start": 1.4,
+                    "end": 1.94,
+                    "probability": 0.9800242781639099
+                },
+                {
+                    "word": " you",
+                    "start": 1.94,
+                    "end": 2.12,
+                    "probability": 0.942222535610199
+                },
+                {
+                    "word": " know,",
+                    "start": 2.12,
+                    "end": 2.84,
+                    "probability": 0.9995595812797546
+                },
+                {
+                    "word": " those",
+                    "start": 3.8,
+                    "end": 3.84,
+                    "probability": 0.3938557803630829
+                },
+                {
+                    "word": " are",
+                    "start": 3.84,
+                    "end": 4.1,
+                    "probability": 0.9947499632835388
+                },
+                {
+                    "word": " good.",
+                    "start": 4.1,
+                    "end": 4.22,
+                    "probability": 0.9981355667114258
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

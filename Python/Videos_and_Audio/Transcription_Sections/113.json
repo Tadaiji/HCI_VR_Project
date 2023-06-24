@@ -1,0 +1,60 @@
+{
+    "text": " Well, I thought it was.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 0.5,
+            "text": " Well, I thought it was.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                1194,
+                309,
+                390,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5591678142547607,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.6252586841583252,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.1,
+                    "end": 0.26,
+                    "probability": 0.1766386479139328
+                },
+                {
+                    "word": " I",
+                    "start": 0.34,
+                    "end": 0.36,
+                    "probability": 0.9264985918998718
+                },
+                {
+                    "word": " thought",
+                    "start": 0.36,
+                    "end": 0.4,
+                    "probability": 0.992968738079071
+                },
+                {
+                    "word": " it",
+                    "start": 0.4,
+                    "end": 0.5,
+                    "probability": 0.9702076315879822
+                },
+                {
+                    "word": " was.",
+                    "start": 0.5,
+                    "end": 0.5,
+                    "probability": 0.990336537361145
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

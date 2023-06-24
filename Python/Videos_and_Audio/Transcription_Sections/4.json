@@ -1,0 +1,628 @@
+{
+    "text": " That's so I guess the next. So it looks like Ty put in some folks, it looks like this looks good. So that let's see, need support from GTM teams. So I guess the ask would be to work with your GTM teams. So, let me ask it. I saw some slack I think in our slack. But did you all. Were you all able to connect with like your GTM teams.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.62,
+            "end": 5.98,
+            "text": " That's so I guess the next. So it looks like",
+            "tokens": [
+                50364,
+                663,
+                311,
+                370,
+                286,
+                2041,
+                264,
+                958,
+                13,
+                407,
+                309,
+                1542,
+                411,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23435947351288378,
+            "compression_ratio": 1.4065040650406504,
+            "no_speech_prob": 0.008572368882596493,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.62,
+                    "end": 1.34,
+                    "probability": 0.5581364557147026
+                },
+                {
+                    "word": " so",
+                    "start": 1.34,
+                    "end": 1.96,
+                    "probability": 0.45032739639282227
+                },
+                {
+                    "word": " I",
+                    "start": 1.96,
+                    "end": 2.06,
+                    "probability": 0.737363338470459
+                },
+                {
+                    "word": " guess",
+                    "start": 2.06,
+                    "end": 2.28,
+                    "probability": 0.9997139573097229
+                },
+                {
+                    "word": " the",
+                    "start": 2.28,
+                    "end": 2.62,
+                    "probability": 0.6206938028335571
+                },
+                {
+                    "word": " next.",
+                    "start": 2.62,
+                    "end": 3.0,
+                    "probability": 0.8700853586196899
+                },
+                {
+                    "word": " So",
+                    "start": 3.48,
+                    "end": 3.48,
+                    "probability": 0.9703831076622009
+                },
+                {
+                    "word": " it",
+                    "start": 3.48,
+                    "end": 3.6,
+                    "probability": 0.8427872061729431
+                },
+                {
+                    "word": " looks",
+                    "start": 3.6,
+                    "end": 3.8,
+                    "probability": 0.9984714388847351
+                },
+                {
+                    "word": " like",
+                    "start": 3.8,
+                    "end": 5.98,
+                    "probability": 0.9959455132484436
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.98,
+            "end": 9.26,
+            "text": " Ty put in",
+            "tokens": [
+                50664,
+                5569,
+                829,
+                294,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23435947351288378,
+            "compression_ratio": 1.4065040650406504,
+            "no_speech_prob": 0.008572368882596493,
+            "words": [
+                {
+                    "word": " Ty",
+                    "start": 5.98,
+                    "end": 6.84,
+                    "probability": 0.5903489589691162
+                },
+                {
+                    "word": " put",
+                    "start": 6.84,
+                    "end": 8.0,
+                    "probability": 0.9121195077896118
+                },
+                {
+                    "word": " in",
+                    "start": 8.0,
+                    "end": 9.26,
+                    "probability": 0.9966897964477539
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.26,
+            "end": 13.62,
+            "text": " some folks, it looks like this looks good.",
+            "tokens": [
+                50814,
+                512,
+                4024,
+                11,
+                309,
+                1542,
+                411,
+                341,
+                1542,
+                665,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23435947351288378,
+            "compression_ratio": 1.4065040650406504,
+            "no_speech_prob": 0.008572368882596493,
+            "words": [
+                {
+                    "word": " some",
+                    "start": 9.26,
+                    "end": 10.0,
+                    "probability": 0.9425135254859924
+                },
+                {
+                    "word": " folks,",
+                    "start": 10.0,
+                    "end": 10.5,
+                    "probability": 0.9971886277198792
+                },
+                {
+                    "word": " it",
+                    "start": 10.66,
+                    "end": 10.82,
+                    "probability": 0.9821406602859497
+                },
+                {
+                    "word": " looks",
+                    "start": 10.82,
+                    "end": 11.04,
+                    "probability": 0.9989031553268433
+                },
+                {
+                    "word": " like",
+                    "start": 11.04,
+                    "end": 11.84,
+                    "probability": 0.9982784986495972
+                },
+                {
+                    "word": " this",
+                    "start": 11.84,
+                    "end": 12.56,
+                    "probability": 0.9657960534095764
+                },
+                {
+                    "word": " looks",
+                    "start": 12.56,
+                    "end": 12.76,
+                    "probability": 0.998675525188446
+                },
+                {
+                    "word": " good.",
+                    "start": 12.76,
+                    "end": 13.62,
+                    "probability": 0.9993614554405212
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.76,
+            "end": 15.78,
+            "text": " So that",
+            "tokens": [
+                51064,
+                407,
+                300,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23435947351288378,
+            "compression_ratio": 1.4065040650406504,
+            "no_speech_prob": 0.008572368882596493,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 14.76,
+                    "end": 14.76,
+                    "probability": 0.7388132214546204
+                },
+                {
+                    "word": " that",
+                    "start": 14.76,
+                    "end": 15.78,
+                    "probability": 0.5460715889930725
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 15.78,
+            "end": 23.34,
+            "text": " let's see, need support from GTM teams. So I guess the ask would be",
+            "tokens": [
+                51214,
+                718,
+                311,
+                536,
+                11,
+                643,
+                1406,
+                490,
+                17530,
+                44,
+                5491,
+                13,
+                407,
+                286,
+                2041,
+                264,
+                1029,
+                576,
+                312,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23435947351288378,
+            "compression_ratio": 1.4065040650406504,
+            "no_speech_prob": 0.008572368882596493,
+            "words": [
+                {
+                    "word": " let's",
+                    "start": 15.78,
+                    "end": 17.78,
+                    "probability": 0.6637627184391022
+                },
+                {
+                    "word": " see,",
+                    "start": 17.78,
+                    "end": 18.26,
+                    "probability": 0.9981085062026978
+                },
+                {
+                    "word": " need",
+                    "start": 18.4,
+                    "end": 18.5,
+                    "probability": 0.3130059838294983
+                },
+                {
+                    "word": " support",
+                    "start": 18.5,
+                    "end": 18.8,
+                    "probability": 0.9937299489974976
+                },
+                {
+                    "word": " from",
+                    "start": 18.8,
+                    "end": 19.04,
+                    "probability": 0.9935020804405212
+                },
+                {
+                    "word": " GTM",
+                    "start": 19.04,
+                    "end": 19.4,
+                    "probability": 0.9374132454395294
+                },
+                {
+                    "word": " teams.",
+                    "start": 19.4,
+                    "end": 19.56,
+                    "probability": 0.9544524550437927
+                },
+                {
+                    "word": " So",
+                    "start": 19.92,
+                    "end": 20.18,
+                    "probability": 0.993429958820343
+                },
+                {
+                    "word": " I",
+                    "start": 20.18,
+                    "end": 20.36,
+                    "probability": 0.9801328182220459
+                },
+                {
+                    "word": " guess",
+                    "start": 20.36,
+                    "end": 20.7,
+                    "probability": 0.9996629953384399
+                },
+                {
+                    "word": " the",
+                    "start": 20.7,
+                    "end": 21.18,
+                    "probability": 0.9886389970779419
+                },
+                {
+                    "word": " ask",
+                    "start": 21.18,
+                    "end": 21.46,
+                    "probability": 0.9877618551254272
+                },
+                {
+                    "word": " would",
+                    "start": 21.46,
+                    "end": 21.74,
+                    "probability": 0.9986318945884705
+                },
+                {
+                    "word": " be",
+                    "start": 21.74,
+                    "end": 23.34,
+                    "probability": 0.9995027780532837
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2334,
+            "start": 25.06,
+            "end": 37.96,
+            "text": " to work with your GTM teams. So, let me ask it. I saw some slack I think in our slack. But did you all. Were you all able to connect with like your GTM teams.",
+            "tokens": [
+                50364,
+                281,
+                589,
+                365,
+                428,
+                17530,
+                44,
+                5491,
+                13,
+                407,
+                11,
+                718,
+                385,
+                1029,
+                309,
+                13,
+                286,
+                1866,
+                512,
+                29767,
+                286,
+                519,
+                294,
+                527,
+                29767,
+                13,
+                583,
+                630,
+                291,
+                439,
+                13,
+                12448,
+                291,
+                439,
+                1075,
+                281,
+                1745,
+                365,
+                411,
+                428,
+                17530,
+                44,
+                5491,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2643013207808785,
+            "compression_ratio": 1.3389830508474576,
+            "no_speech_prob": 0.010942818596959114,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 25.06,
+                    "end": 25.7,
+                    "probability": 0.27690252661705017
+                },
+                {
+                    "word": " work",
+                    "start": 25.7,
+                    "end": 26.06,
+                    "probability": 0.9721723794937134
+                },
+                {
+                    "word": " with",
+                    "start": 26.06,
+                    "end": 26.36,
+                    "probability": 0.9992889165878296
+                },
+                {
+                    "word": " your",
+                    "start": 26.36,
+                    "end": 26.72,
+                    "probability": 0.9978402853012085
+                },
+                {
+                    "word": " GTM",
+                    "start": 26.72,
+                    "end": 27.28,
+                    "probability": 0.9004022181034088
+                },
+                {
+                    "word": " teams.",
+                    "start": 27.28,
+                    "end": 27.6,
+                    "probability": 0.7483048439025879
+                },
+                {
+                    "word": " So,",
+                    "start": 28.12,
+                    "end": 28.12,
+                    "probability": 0.7472528219223022
+                },
+                {
+                    "word": " let",
+                    "start": 28.12,
+                    "end": 28.84,
+                    "probability": 0.618331253528595
+                },
+                {
+                    "word": " me",
+                    "start": 28.84,
+                    "end": 29.06,
+                    "probability": 0.9991815686225891
+                },
+                {
+                    "word": " ask",
+                    "start": 29.06,
+                    "end": 29.22,
+                    "probability": 0.9803163409233093
+                },
+                {
+                    "word": " it.",
+                    "start": 29.22,
+                    "end": 29.62,
+                    "probability": 0.1670331507921219
+                },
+                {
+                    "word": " I",
+                    "start": 29.84,
+                    "end": 29.94,
+                    "probability": 0.9961930513381958
+                },
+                {
+                    "word": " saw",
+                    "start": 29.94,
+                    "end": 30.24,
+                    "probability": 0.9995532631874084
+                },
+                {
+                    "word": " some",
+                    "start": 30.24,
+                    "end": 30.64,
+                    "probability": 0.9898338317871094
+                },
+                {
+                    "word": " slack",
+                    "start": 30.64,
+                    "end": 30.96,
+                    "probability": 0.9520040154457092
+                },
+                {
+                    "word": " I",
+                    "start": 30.96,
+                    "end": 31.12,
+                    "probability": 0.8544470071792603
+                },
+                {
+                    "word": " think",
+                    "start": 31.12,
+                    "end": 31.24,
+                    "probability": 0.9991263747215271
+                },
+                {
+                    "word": " in",
+                    "start": 31.24,
+                    "end": 31.44,
+                    "probability": 0.726336658000946
+                },
+                {
+                    "word": " our",
+                    "start": 31.44,
+                    "end": 31.64,
+                    "probability": 0.9160022735595703
+                },
+                {
+                    "word": " slack.",
+                    "start": 31.64,
+                    "end": 31.98,
+                    "probability": 0.9557787179946899
+                },
+                {
+                    "word": " But",
+                    "start": 32.64,
+                    "end": 32.84,
+                    "probability": 0.9693548679351807
+                },
+                {
+                    "word": " did",
+                    "start": 32.84,
+                    "end": 33.36,
+                    "probability": 0.8668762445449829
+                },
+                {
+                    "word": " you",
+                    "start": 33.36,
+                    "end": 33.6,
+                    "probability": 0.9806116223335266
+                },
+                {
+                    "word": " all.",
+                    "start": 33.6,
+                    "end": 34.6,
+                    "probability": 0.9936750531196594
+                },
+                {
+                    "word": " Were",
+                    "start": 35.02,
+                    "end": 35.34,
+                    "probability": 0.4791067838668823
+                },
+                {
+                    "word": " you",
+                    "start": 35.34,
+                    "end": 35.42,
+                    "probability": 0.784552812576294
+                },
+                {
+                    "word": " all",
+                    "start": 35.42,
+                    "end": 35.56,
+                    "probability": 0.9655590653419495
+                },
+                {
+                    "word": " able",
+                    "start": 35.56,
+                    "end": 35.66,
+                    "probability": 0.9994562268257141
+                },
+                {
+                    "word": " to",
+                    "start": 35.66,
+                    "end": 35.96,
+                    "probability": 0.9998601675033569
+                },
+                {
+                    "word": " connect",
+                    "start": 35.96,
+                    "end": 36.14,
+                    "probability": 0.9989975094795227
+                },
+                {
+                    "word": " with",
+                    "start": 36.14,
+                    "end": 36.48,
+                    "probability": 0.999710738658905
+                },
+                {
+                    "word": " like",
+                    "start": 36.48,
+                    "end": 36.72,
+                    "probability": 0.9689644575119019
+                },
+                {
+                    "word": " your",
+                    "start": 36.72,
+                    "end": 37.04,
+                    "probability": 0.9956983327865601
+                },
+                {
+                    "word": " GTM",
+                    "start": 37.04,
+                    "end": 37.48,
+                    "probability": 0.9692625999450684
+                },
+                {
+                    "word": " teams.",
+                    "start": 37.48,
+                    "end": 37.96,
+                    "probability": 0.9889914989471436
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

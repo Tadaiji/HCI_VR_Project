@@ -1,0 +1,533 @@
+{
+    "text": " Yeah. All right. Let's go with vulnerability management for now. I now would agree on that one. And I would say that some of these we did do some press around and the fuzzing acquisitions was one thing. So we might not get a second chance at that. Yeah, but that's kind of old.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.56,
+            "end": 0.96,
+            "text": " Yeah.",
+            "tokens": [
+                50364,
+                865,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.03876747563481331
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.36,
+            "end": 2.66,
+            "text": " All right.",
+            "tokens": [
+                50414,
+                1057,
+                558,
+                13,
+                50522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 1.36,
+                    "end": 1.36,
+                    "probability": 0.20136557519435883
+                },
+                {
+                    "word": " right.",
+                    "start": 1.36,
+                    "end": 2.66,
+                    "probability": 0.9966709017753601
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.76,
+            "end": 4.7,
+            "text": " Let's go with vulnerability management for now.",
+            "tokens": [
+                50522,
+                961,
+                311,
+                352,
+                365,
+                24210,
+                4592,
+                337,
+                586,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 2.76,
+                    "end": 3.12,
+                    "probability": 0.9620242118835449
+                },
+                {
+                    "word": " go",
+                    "start": 3.12,
+                    "end": 3.34,
+                    "probability": 0.6475788354873657
+                },
+                {
+                    "word": " with",
+                    "start": 3.34,
+                    "end": 3.48,
+                    "probability": 0.9953248500823975
+                },
+                {
+                    "word": " vulnerability",
+                    "start": 3.48,
+                    "end": 3.86,
+                    "probability": 0.8629022836685181
+                },
+                {
+                    "word": " management",
+                    "start": 3.86,
+                    "end": 4.26,
+                    "probability": 0.9934466481208801
+                },
+                {
+                    "word": " for",
+                    "start": 4.26,
+                    "end": 4.5,
+                    "probability": 0.9747394919395447
+                },
+                {
+                    "word": " now.",
+                    "start": 4.5,
+                    "end": 4.7,
+                    "probability": 0.99846351146698
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.2,
+            "end": 6.54,
+            "text": " I now would agree on that one.",
+            "tokens": [
+                50598,
+                286,
+                586,
+                576,
+                3986,
+                322,
+                300,
+                472,
+                13,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 5.2,
+                    "end": 5.4,
+                    "probability": 0.9165613651275635
+                },
+                {
+                    "word": " now",
+                    "start": 5.4,
+                    "end": 5.58,
+                    "probability": 0.7441187500953674
+                },
+                {
+                    "word": " would",
+                    "start": 5.58,
+                    "end": 5.76,
+                    "probability": 0.8548556566238403
+                },
+                {
+                    "word": " agree",
+                    "start": 5.76,
+                    "end": 5.86,
+                    "probability": 0.9993628859519958
+                },
+                {
+                    "word": " on",
+                    "start": 5.86,
+                    "end": 6.04,
+                    "probability": 0.9982907176017761
+                },
+                {
+                    "word": " that",
+                    "start": 6.04,
+                    "end": 6.24,
+                    "probability": 0.9997106194496155
+                },
+                {
+                    "word": " one.",
+                    "start": 6.24,
+                    "end": 6.54,
+                    "probability": 0.9987887740135193
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.68,
+            "end": 13.08,
+            "text": " And I would say that some of these we did do some press around and the fuzzing acquisitions",
+            "tokens": [
+                50702,
+                400,
+                286,
+                576,
+                584,
+                300,
+                512,
+                295,
+                613,
+                321,
+                630,
+                360,
+                512,
+                1886,
+                926,
+                293,
+                264,
+                283,
+                3334,
+                8781,
+                17883,
+                2451,
+                51016
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.68,
+                    "end": 6.82,
+                    "probability": 0.9588940143585205
+                },
+                {
+                    "word": " I",
+                    "start": 6.82,
+                    "end": 7.0,
+                    "probability": 0.9826861619949341
+                },
+                {
+                    "word": " would",
+                    "start": 7.0,
+                    "end": 7.22,
+                    "probability": 0.9996542930603027
+                },
+                {
+                    "word": " say",
+                    "start": 7.22,
+                    "end": 7.48,
+                    "probability": 0.9996806383132935
+                },
+                {
+                    "word": " that",
+                    "start": 7.48,
+                    "end": 7.94,
+                    "probability": 0.9959297776222229
+                },
+                {
+                    "word": " some",
+                    "start": 7.94,
+                    "end": 9.3,
+                    "probability": 0.833796501159668
+                },
+                {
+                    "word": " of",
+                    "start": 9.3,
+                    "end": 9.42,
+                    "probability": 0.9994813799858093
+                },
+                {
+                    "word": " these",
+                    "start": 9.42,
+                    "end": 9.54,
+                    "probability": 0.9986222982406616
+                },
+                {
+                    "word": " we",
+                    "start": 9.54,
+                    "end": 9.74,
+                    "probability": 0.7015230059623718
+                },
+                {
+                    "word": " did",
+                    "start": 9.74,
+                    "end": 9.98,
+                    "probability": 0.9994811415672302
+                },
+                {
+                    "word": " do",
+                    "start": 9.98,
+                    "end": 10.16,
+                    "probability": 0.9938289523124695
+                },
+                {
+                    "word": " some",
+                    "start": 10.16,
+                    "end": 10.38,
+                    "probability": 0.9954207539558411
+                },
+                {
+                    "word": " press",
+                    "start": 10.38,
+                    "end": 10.54,
+                    "probability": 0.8132078051567078
+                },
+                {
+                    "word": " around",
+                    "start": 10.54,
+                    "end": 10.94,
+                    "probability": 0.9172229170799255
+                },
+                {
+                    "word": " and",
+                    "start": 10.94,
+                    "end": 11.54,
+                    "probability": 0.3916489779949188
+                },
+                {
+                    "word": " the",
+                    "start": 11.54,
+                    "end": 12.06,
+                    "probability": 0.9891786575317383
+                },
+                {
+                    "word": " fuzzing",
+                    "start": 12.06,
+                    "end": 12.4,
+                    "probability": 0.961122453212738
+                },
+                {
+                    "word": " acquisitions",
+                    "start": 12.4,
+                    "end": 13.08,
+                    "probability": 0.9961654245853424
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.08,
+            "end": 14.18,
+            "text": " was one thing.",
+            "tokens": [
+                51016,
+                390,
+                472,
+                551,
+                13,
+                51066
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " was",
+                    "start": 13.08,
+                    "end": 13.66,
+                    "probability": 0.9945276379585266
+                },
+                {
+                    "word": " one",
+                    "start": 13.66,
+                    "end": 13.96,
+                    "probability": 0.9991714954376221
+                },
+                {
+                    "word": " thing.",
+                    "start": 13.96,
+                    "end": 14.18,
+                    "probability": 0.9994227886199951
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 14.66,
+            "end": 15.66,
+            "text": " So we might not get a second chance at that.",
+            "tokens": [
+                51066,
+                407,
+                321,
+                1062,
+                406,
+                483,
+                257,
+                1150,
+                2931,
+                412,
+                300,
+                13,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 14.66,
+                    "end": 14.66,
+                    "probability": 0.8553495407104492
+                },
+                {
+                    "word": " we",
+                    "start": 14.66,
+                    "end": 14.74,
+                    "probability": 0.9268165230751038
+                },
+                {
+                    "word": " might",
+                    "start": 14.74,
+                    "end": 14.88,
+                    "probability": 0.9969717264175415
+                },
+                {
+                    "word": " not",
+                    "start": 14.88,
+                    "end": 15.04,
+                    "probability": 0.9748445153236389
+                },
+                {
+                    "word": " get",
+                    "start": 15.04,
+                    "end": 15.18,
+                    "probability": 0.87038254737854
+                },
+                {
+                    "word": " a",
+                    "start": 15.18,
+                    "end": 15.3,
+                    "probability": 0.8344451785087585
+                },
+                {
+                    "word": " second",
+                    "start": 15.3,
+                    "end": 15.5,
+                    "probability": 0.9624437689781189
+                },
+                {
+                    "word": " chance",
+                    "start": 15.5,
+                    "end": 15.66,
+                    "probability": 0.25843745470046997
+                },
+                {
+                    "word": " at",
+                    "start": 15.66,
+                    "end": 15.66,
+                    "probability": 0.860243022441864
+                },
+                {
+                    "word": " that.",
+                    "start": 15.66,
+                    "end": 15.66,
+                    "probability": 0.9907296299934387
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 15.68,
+            "end": 16.52,
+            "text": " Yeah, but that's kind of old.",
+            "tokens": [
+                51116,
+                865,
+                11,
+                457,
+                300,
+                311,
+                733,
+                295,
+                1331,
+                13,
+                51192
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31217749913533527,
+            "compression_ratio": 1.4578947368421054,
+            "no_speech_prob": 0.001726737478747964,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 15.68,
+                    "end": 15.68,
+                    "probability": 0.6880756616592407
+                },
+                {
+                    "word": " but",
+                    "start": 15.68,
+                    "end": 15.68,
+                    "probability": 0.3350363075733185
+                },
+                {
+                    "word": " that's",
+                    "start": 15.68,
+                    "end": 15.84,
+                    "probability": 0.9770800769329071
+                },
+                {
+                    "word": " kind",
+                    "start": 15.84,
+                    "end": 15.98,
+                    "probability": 0.9143821597099304
+                },
+                {
+                    "word": " of",
+                    "start": 15.98,
+                    "end": 16.18,
+                    "probability": 0.9943827390670776
+                },
+                {
+                    "word": " old.",
+                    "start": 16.18,
+                    "end": 16.52,
+                    "probability": 0.9918714761734009
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

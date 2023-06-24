@@ -1,0 +1,496 @@
+{
+    "text": " each room has the same. So each sheet has ADO, Atlassian, GitHub, Jenkins, JFrog and Cloudpeace. So that may not be relevant for monitor, for configure, it would be a different set of competitors that we need to include, which I think we already identified a while back. I think we identified top three competitors for every stage.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.1,
+            "text": " each room has the same. So each sheet has ADO, Atlassian, GitHub, Jenkins, JFrog and Cloudpeace.",
+            "tokens": [
+                50364,
+                1184,
+                1808,
+                575,
+                264,
+                912,
+                13,
+                407,
+                1184,
+                8193,
+                575,
+                9135,
+                46,
+                11,
+                11000,
+                640,
+                952,
+                11,
+                23331,
+                11,
+                41273,
+                11,
+                40951,
+                6675,
+                293,
+                8061,
+                43099,
+                13,
+                50768
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25193115602056665,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.0007785928319208324,
+            "words": [
+                {
+                    "word": " each",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.19794601202011108
+                },
+                {
+                    "word": " room",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.08510244637727737
+                },
+                {
+                    "word": " has",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.9822704195976257
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.28,
+                    "probability": 0.9796513915061951
+                },
+                {
+                    "word": " same.",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.9944355487823486
+                },
+                {
+                    "word": " So",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.6193057298660278
+                },
+                {
+                    "word": " each",
+                    "start": 1.82,
+                    "end": 2.1,
+                    "probability": 0.8593786358833313
+                },
+                {
+                    "word": " sheet",
+                    "start": 2.1,
+                    "end": 2.4,
+                    "probability": 0.9904300570487976
+                },
+                {
+                    "word": " has",
+                    "start": 2.4,
+                    "end": 3.82,
+                    "probability": 0.988922119140625
+                },
+                {
+                    "word": " ADO,",
+                    "start": 3.82,
+                    "end": 5.2,
+                    "probability": 0.8625133335590363
+                },
+                {
+                    "word": " Atlassian,",
+                    "start": 5.42,
+                    "end": 5.8,
+                    "probability": 0.9287658333778381
+                },
+                {
+                    "word": " GitHub,",
+                    "start": 5.96,
+                    "end": 6.2,
+                    "probability": 0.8367727994918823
+                },
+                {
+                    "word": " Jenkins,",
+                    "start": 6.42,
+                    "end": 6.68,
+                    "probability": 0.998994767665863
+                },
+                {
+                    "word": " JFrog",
+                    "start": 7.0,
+                    "end": 7.24,
+                    "probability": 0.91440150141716
+                },
+                {
+                    "word": " and",
+                    "start": 7.24,
+                    "end": 7.5,
+                    "probability": 0.5175426006317139
+                },
+                {
+                    "word": " Cloudpeace.",
+                    "start": 7.5,
+                    "end": 8.1,
+                    "probability": 0.5626399219036102
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.58,
+            "end": 14.2,
+            "text": " So that may not be relevant for monitor, for configure, it would be a different set of",
+            "tokens": [
+                50768,
+                407,
+                300,
+                815,
+                406,
+                312,
+                7340,
+                337,
+                6002,
+                11,
+                337,
+                22162,
+                11,
+                309,
+                576,
+                312,
+                257,
+                819,
+                992,
+                295,
+                51076
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25193115602056665,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.0007785928319208324,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 8.58,
+                    "end": 9.2,
+                    "probability": 0.7340604066848755
+                },
+                {
+                    "word": " that",
+                    "start": 9.2,
+                    "end": 10.08,
+                    "probability": 0.9587995409965515
+                },
+                {
+                    "word": " may",
+                    "start": 10.08,
+                    "end": 10.26,
+                    "probability": 0.9806786179542542
+                },
+                {
+                    "word": " not",
+                    "start": 10.26,
+                    "end": 10.46,
+                    "probability": 0.9995427131652832
+                },
+                {
+                    "word": " be",
+                    "start": 10.46,
+                    "end": 10.7,
+                    "probability": 0.9995465874671936
+                },
+                {
+                    "word": " relevant",
+                    "start": 10.7,
+                    "end": 11.02,
+                    "probability": 0.9988341927528381
+                },
+                {
+                    "word": " for",
+                    "start": 11.02,
+                    "end": 11.34,
+                    "probability": 0.9908491373062134
+                },
+                {
+                    "word": " monitor,",
+                    "start": 11.34,
+                    "end": 11.64,
+                    "probability": 0.604210376739502
+                },
+                {
+                    "word": " for",
+                    "start": 12.14,
+                    "end": 12.4,
+                    "probability": 0.8575607538223267
+                },
+                {
+                    "word": " configure,",
+                    "start": 12.4,
+                    "end": 12.86,
+                    "probability": 0.6975358724594116
+                },
+                {
+                    "word": " it",
+                    "start": 13.06,
+                    "end": 13.06,
+                    "probability": 0.9915823340415955
+                },
+                {
+                    "word": " would",
+                    "start": 13.06,
+                    "end": 13.16,
+                    "probability": 0.9716368317604065
+                },
+                {
+                    "word": " be",
+                    "start": 13.16,
+                    "end": 13.32,
+                    "probability": 0.999618411064148
+                },
+                {
+                    "word": " a",
+                    "start": 13.32,
+                    "end": 13.5,
+                    "probability": 0.9978552460670471
+                },
+                {
+                    "word": " different",
+                    "start": 13.5,
+                    "end": 13.68,
+                    "probability": 0.9993802309036255
+                },
+                {
+                    "word": " set",
+                    "start": 13.68,
+                    "end": 13.88,
+                    "probability": 0.9990633130073547
+                },
+                {
+                    "word": " of",
+                    "start": 13.88,
+                    "end": 14.2,
+                    "probability": 0.999415397644043
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.2,
+            "end": 19.72,
+            "text": " competitors that we need to include, which I think we already identified a while back. I think we",
+            "tokens": [
+                51076,
+                18333,
+                300,
+                321,
+                643,
+                281,
+                4090,
+                11,
+                597,
+                286,
+                519,
+                321,
+                1217,
+                9234,
+                257,
+                1339,
+                646,
+                13,
+                286,
+                519,
+                321,
+                51336
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25193115602056665,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.0007785928319208324,
+            "words": [
+                {
+                    "word": " competitors",
+                    "start": 14.2,
+                    "end": 14.88,
+                    "probability": 0.8981914520263672
+                },
+                {
+                    "word": " that",
+                    "start": 14.88,
+                    "end": 15.24,
+                    "probability": 0.9843807220458984
+                },
+                {
+                    "word": " we",
+                    "start": 15.24,
+                    "end": 15.44,
+                    "probability": 0.9990746974945068
+                },
+                {
+                    "word": " need",
+                    "start": 15.44,
+                    "end": 15.58,
+                    "probability": 0.9994019269943237
+                },
+                {
+                    "word": " to",
+                    "start": 15.58,
+                    "end": 15.92,
+                    "probability": 0.9989823698997498
+                },
+                {
+                    "word": " include,",
+                    "start": 15.92,
+                    "end": 16.18,
+                    "probability": 0.9994766116142273
+                },
+                {
+                    "word": " which",
+                    "start": 16.48,
+                    "end": 16.58,
+                    "probability": 0.9982351064682007
+                },
+                {
+                    "word": " I",
+                    "start": 16.58,
+                    "end": 16.72,
+                    "probability": 0.9809792041778564
+                },
+                {
+                    "word": " think",
+                    "start": 16.72,
+                    "end": 16.88,
+                    "probability": 0.9997953772544861
+                },
+                {
+                    "word": " we",
+                    "start": 16.88,
+                    "end": 17.12,
+                    "probability": 0.9924173355102539
+                },
+                {
+                    "word": " already",
+                    "start": 17.12,
+                    "end": 17.56,
+                    "probability": 0.9930012226104736
+                },
+                {
+                    "word": " identified",
+                    "start": 17.56,
+                    "end": 18.32,
+                    "probability": 0.9953165054321289
+                },
+                {
+                    "word": " a",
+                    "start": 18.32,
+                    "end": 18.56,
+                    "probability": 0.9592561721801758
+                },
+                {
+                    "word": " while",
+                    "start": 18.56,
+                    "end": 18.72,
+                    "probability": 0.9981853365898132
+                },
+                {
+                    "word": " back.",
+                    "start": 18.72,
+                    "end": 18.98,
+                    "probability": 0.9961867928504944
+                },
+                {
+                    "word": " I",
+                    "start": 19.12,
+                    "end": 19.12,
+                    "probability": 0.9745851159095764
+                },
+                {
+                    "word": " think",
+                    "start": 19.12,
+                    "end": 19.34,
+                    "probability": 0.9997332692146301
+                },
+                {
+                    "word": " we",
+                    "start": 19.34,
+                    "end": 19.72,
+                    "probability": 0.993560791015625
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.72,
+            "end": 22.78,
+            "text": " identified top three competitors for every stage.",
+            "tokens": [
+                51336,
+                9234,
+                1192,
+                1045,
+                18333,
+                337,
+                633,
+                3233,
+                13,
+                51496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25193115602056665,
+            "compression_ratio": 1.5467289719626167,
+            "no_speech_prob": 0.0007785928319208324,
+            "words": [
+                {
+                    "word": " identified",
+                    "start": 19.72,
+                    "end": 20.78,
+                    "probability": 0.9841179847717285
+                },
+                {
+                    "word": " top",
+                    "start": 20.78,
+                    "end": 21.18,
+                    "probability": 0.9579705595970154
+                },
+                {
+                    "word": " three",
+                    "start": 21.18,
+                    "end": 21.48,
+                    "probability": 0.9393959641456604
+                },
+                {
+                    "word": " competitors",
+                    "start": 21.48,
+                    "end": 22.0,
+                    "probability": 0.997857391834259
+                },
+                {
+                    "word": " for",
+                    "start": 22.0,
+                    "end": 22.32,
+                    "probability": 0.9958048462867737
+                },
+                {
+                    "word": " every",
+                    "start": 22.32,
+                    "end": 22.54,
+                    "probability": 0.9991470575332642
+                },
+                {
+                    "word": " stage.",
+                    "start": 22.54,
+                    "end": 22.78,
+                    "probability": 0.9951287508010864
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

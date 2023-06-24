@@ -1,0 +1,299 @@
+{
+    "text": " And I agree. That's why I put this one at top, was for that parody. And then so it sounds like kind of y'all's thoughts are that's good as well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.78,
+            "text": " And I agree.",
+            "tokens": [
+                50364,
+                400,
+                286,
+                3986,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2816833058993022,
+            "compression_ratio": 1.2413793103448276,
+            "no_speech_prob": 0.0015973421977832913,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.581257700920105
+                },
+                {
+                    "word": " I",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.6578903198242188
+                },
+                {
+                    "word": " agree.",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9863989353179932
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.42,
+            "end": 4.54,
+            "text": " That's why I put this one at top, was for that parody.",
+            "tokens": [
+                50428,
+                663,
+                311,
+                983,
+                286,
+                829,
+                341,
+                472,
+                412,
+                1192,
+                11,
+                390,
+                337,
+                300,
+                43386,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2816833058993022,
+            "compression_ratio": 1.2413793103448276,
+            "no_speech_prob": 0.0015973421977832913,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 1.42,
+                    "end": 1.86,
+                    "probability": 0.9481426477432251
+                },
+                {
+                    "word": " why",
+                    "start": 1.86,
+                    "end": 2.18,
+                    "probability": 0.177103191614151
+                },
+                {
+                    "word": " I",
+                    "start": 2.18,
+                    "end": 2.4,
+                    "probability": 0.9901700615882874
+                },
+                {
+                    "word": " put",
+                    "start": 2.4,
+                    "end": 2.48,
+                    "probability": 0.9961522221565247
+                },
+                {
+                    "word": " this",
+                    "start": 2.48,
+                    "end": 2.7,
+                    "probability": 0.9979329109191895
+                },
+                {
+                    "word": " one",
+                    "start": 2.7,
+                    "end": 2.84,
+                    "probability": 0.9926908612251282
+                },
+                {
+                    "word": " at",
+                    "start": 2.84,
+                    "end": 3.04,
+                    "probability": 0.8003007769584656
+                },
+                {
+                    "word": " top,",
+                    "start": 3.04,
+                    "end": 3.34,
+                    "probability": 0.6855506896972656
+                },
+                {
+                    "word": " was",
+                    "start": 3.58,
+                    "end": 3.68,
+                    "probability": 0.5961441397666931
+                },
+                {
+                    "word": " for",
+                    "start": 3.68,
+                    "end": 3.88,
+                    "probability": 0.9879119992256165
+                },
+                {
+                    "word": " that",
+                    "start": 3.88,
+                    "end": 4.14,
+                    "probability": 0.9962465167045593
+                },
+                {
+                    "word": " parody.",
+                    "start": 4.14,
+                    "end": 4.54,
+                    "probability": 0.9449995756149292
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.0,
+            "end": 8.22,
+            "text": " And then so it sounds like kind of y'all's thoughts",
+            "tokens": [
+                50634,
+                400,
+                550,
+                370,
+                309,
+                3263,
+                411,
+                733,
+                295,
+                288,
+                6,
+                336,
+                311,
+                4598,
+                50776
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2816833058993022,
+            "compression_ratio": 1.2413793103448276,
+            "no_speech_prob": 0.0015973421977832913,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 5.0,
+                    "end": 5.58,
+                    "probability": 0.7166914343833923
+                },
+                {
+                    "word": " then",
+                    "start": 5.58,
+                    "end": 5.82,
+                    "probability": 0.9070802330970764
+                },
+                {
+                    "word": " so",
+                    "start": 5.82,
+                    "end": 5.92,
+                    "probability": 0.617453396320343
+                },
+                {
+                    "word": " it",
+                    "start": 5.92,
+                    "end": 6.04,
+                    "probability": 0.8548205494880676
+                },
+                {
+                    "word": " sounds",
+                    "start": 6.04,
+                    "end": 6.28,
+                    "probability": 0.9944885969161987
+                },
+                {
+                    "word": " like",
+                    "start": 6.28,
+                    "end": 6.52,
+                    "probability": 0.9830495715141296
+                },
+                {
+                    "word": " kind",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.6730205416679382
+                },
+                {
+                    "word": " of",
+                    "start": 6.7,
+                    "end": 7.14,
+                    "probability": 0.9948953986167908
+                },
+                {
+                    "word": " y",
+                    "start": 7.14,
+                    "end": 7.26,
+                    "probability": 0.8850911259651184
+                },
+                {
+                    "word": "'all's",
+                    "start": 7.26,
+                    "end": 8.08,
+                    "probability": 0.87557053565979
+                },
+                {
+                    "word": " thoughts",
+                    "start": 8.08,
+                    "end": 8.22,
+                    "probability": 0.987246036529541
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.22,
+            "end": 9.76,
+            "text": " are that's good as well.",
+            "tokens": [
+                50776,
+                366,
+                300,
+                311,
+                665,
+                382,
+                731,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2816833058993022,
+            "compression_ratio": 1.2413793103448276,
+            "no_speech_prob": 0.0015973421977832913,
+            "words": [
+                {
+                    "word": " are",
+                    "start": 8.22,
+                    "end": 8.42,
+                    "probability": 0.5483695268630981
+                },
+                {
+                    "word": " that's",
+                    "start": 8.42,
+                    "end": 9.06,
+                    "probability": 0.8447169363498688
+                },
+                {
+                    "word": " good",
+                    "start": 9.06,
+                    "end": 9.32,
+                    "probability": 0.9011916518211365
+                },
+                {
+                    "word": " as",
+                    "start": 9.32,
+                    "end": 9.6,
+                    "probability": 0.9559335112571716
+                },
+                {
+                    "word": " well.",
+                    "start": 9.6,
+                    "end": 9.76,
+                    "probability": 0.9996209144592285
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

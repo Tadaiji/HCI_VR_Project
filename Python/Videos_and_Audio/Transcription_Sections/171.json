@@ -1,0 +1,210 @@
+{
+    "text": " No, but you can say more speed, less risk. I like that one the best. I don't like the last one.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " No, but you can say more speed, less risk.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                457,
+                291,
+                393,
+                584,
+                544,
+                3073,
+                11,
+                1570,
+                3148,
+                13,
+                50474
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19866302434135885,
+            "compression_ratio": 1.130952380952381,
+            "no_speech_prob": 0.0017263240879401565,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7979828715324402
+                },
+                {
+                    "word": " but",
+                    "start": 0.46,
+                    "end": 0.46,
+                    "probability": 0.9976067543029785
+                },
+                {
+                    "word": " you",
+                    "start": 0.46,
+                    "end": 0.6,
+                    "probability": 0.9962873458862305
+                },
+                {
+                    "word": " can",
+                    "start": 0.6,
+                    "end": 0.8,
+                    "probability": 0.9994100332260132
+                },
+                {
+                    "word": " say",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9487969279289246
+                },
+                {
+                    "word": " more",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9675797820091248
+                },
+                {
+                    "word": " speed,",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9888589382171631
+                },
+                {
+                    "word": " less",
+                    "start": 1.76,
+                    "end": 1.9,
+                    "probability": 0.9991832375526428
+                },
+                {
+                    "word": " risk.",
+                    "start": 1.9,
+                    "end": 2.2,
+                    "probability": 0.997581958770752
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.22,
+            "end": 3.28,
+            "text": " I like that one the best.",
+            "tokens": [
+                50474,
+                286,
+                411,
+                300,
+                472,
+                264,
+                1151,
+                13,
+                50528
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19866302434135885,
+            "compression_ratio": 1.130952380952381,
+            "no_speech_prob": 0.0017263240879401565,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 2.22,
+                    "end": 2.36,
+                    "probability": 0.997961163520813
+                },
+                {
+                    "word": " like",
+                    "start": 2.36,
+                    "end": 2.54,
+                    "probability": 0.9873534440994263
+                },
+                {
+                    "word": " that",
+                    "start": 2.54,
+                    "end": 2.76,
+                    "probability": 0.9990873336791992
+                },
+                {
+                    "word": " one",
+                    "start": 2.76,
+                    "end": 2.88,
+                    "probability": 0.9820157289505005
+                },
+                {
+                    "word": " the",
+                    "start": 2.88,
+                    "end": 3.06,
+                    "probability": 0.9038894176483154
+                },
+                {
+                    "word": " best.",
+                    "start": 3.06,
+                    "end": 3.28,
+                    "probability": 0.9992263317108154
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.32,
+            "end": 4.38,
+            "text": " I don't like the last one.",
+            "tokens": [
+                50528,
+                286,
+                500,
+                380,
+                411,
+                264,
+                1036,
+                472,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19866302434135885,
+            "compression_ratio": 1.130952380952381,
+            "no_speech_prob": 0.0017263240879401565,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.32,
+                    "end": 3.42,
+                    "probability": 0.9987704157829285
+                },
+                {
+                    "word": " don't",
+                    "start": 3.42,
+                    "end": 3.58,
+                    "probability": 0.9991956949234009
+                },
+                {
+                    "word": " like",
+                    "start": 3.58,
+                    "end": 3.74,
+                    "probability": 0.9989857077598572
+                },
+                {
+                    "word": " the",
+                    "start": 3.74,
+                    "end": 3.88,
+                    "probability": 0.9853965640068054
+                },
+                {
+                    "word": " last",
+                    "start": 3.88,
+                    "end": 4.12,
+                    "probability": 0.999277651309967
+                },
+                {
+                    "word": " one.",
+                    "start": 4.12,
+                    "end": 4.38,
+                    "probability": 0.9975544810295105
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

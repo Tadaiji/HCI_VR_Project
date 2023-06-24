@@ -1,0 +1,108 @@
+{
+    "text": " and we talk about it on Monday and our little social port.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.54,
+            "end": 4.6,
+            "text": " and we talk about it on Monday and our little social port.",
+            "tokens": [
+                50364,
+                293,
+                321,
+                751,
+                466,
+                309,
+                322,
+                8138,
+                293,
+                527,
+                707,
+                2093,
+                2436,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5389449000358582,
+            "compression_ratio": 0.9354838709677419,
+            "no_speech_prob": 0.029269633814692497,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 1.54,
+                    "end": 2.06,
+                    "probability": 0.10140038281679153
+                },
+                {
+                    "word": " we",
+                    "start": 2.06,
+                    "end": 2.12,
+                    "probability": 0.5277833342552185
+                },
+                {
+                    "word": " talk",
+                    "start": 2.12,
+                    "end": 2.44,
+                    "probability": 0.6672871708869934
+                },
+                {
+                    "word": " about",
+                    "start": 2.44,
+                    "end": 2.7,
+                    "probability": 0.9983710646629333
+                },
+                {
+                    "word": " it",
+                    "start": 2.7,
+                    "end": 2.82,
+                    "probability": 0.9940541386604309
+                },
+                {
+                    "word": " on",
+                    "start": 2.82,
+                    "end": 2.96,
+                    "probability": 0.9884499311447144
+                },
+                {
+                    "word": " Monday",
+                    "start": 2.96,
+                    "end": 3.18,
+                    "probability": 0.9413882493972778
+                },
+                {
+                    "word": " and",
+                    "start": 3.18,
+                    "end": 3.38,
+                    "probability": 0.5144250988960266
+                },
+                {
+                    "word": " our",
+                    "start": 3.38,
+                    "end": 4.08,
+                    "probability": 0.7425428032875061
+                },
+                {
+                    "word": " little",
+                    "start": 4.08,
+                    "end": 4.08,
+                    "probability": 0.9657184481620789
+                },
+                {
+                    "word": " social",
+                    "start": 4.08,
+                    "end": 4.34,
+                    "probability": 0.9542107582092285
+                },
+                {
+                    "word": " port.",
+                    "start": 4.34,
+                    "end": 4.6,
+                    "probability": 0.394427627325058
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

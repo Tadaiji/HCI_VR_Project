@@ -1,0 +1,1221 @@
+{
+    "text": " Yeah, and this is something we don't do, which I agree. Like, we don't often stop as a company and just kind of look at our wins. I was really, I don't know, did y'all, did anybody miss, what do we call it, assembly, the assembly? If you missed it, I recommend it. I laugh because like what assembly reminds me of is like, when I was in like a young child in grade school, they'd have this big stack of like carpet, they were like squares of carpet. And you go like, you go into the gym and you pull off a square of carpet and all the children would sit on a square of carpet. And that was like, you'd have an assembly. So that's what it is.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " Yeah, and this is something we don't do, which I agree.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                293,
+                341,
+                307,
+                746,
+                321,
+                500,
+                380,
+                360,
+                11,
+                597,
+                286,
+                3986,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.3807334303855896
+                },
+                {
+                    "word": " and",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.6639964580535889
+                },
+                {
+                    "word": " this",
+                    "start": 0.38,
+                    "end": 0.48,
+                    "probability": 0.9985525012016296
+                },
+                {
+                    "word": " is",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.9988266825675964
+                },
+                {
+                    "word": " something",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.9988747239112854
+                },
+                {
+                    "word": " we",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.9837051630020142
+                },
+                {
+                    "word": " don't",
+                    "start": 1.02,
+                    "end": 1.22,
+                    "probability": 0.9990895986557007
+                },
+                {
+                    "word": " do,",
+                    "start": 1.22,
+                    "end": 1.36,
+                    "probability": 0.9986538887023926
+                },
+                {
+                    "word": " which",
+                    "start": 1.38,
+                    "end": 1.56,
+                    "probability": 0.9959049820899963
+                },
+                {
+                    "word": " I",
+                    "start": 1.56,
+                    "end": 2.24,
+                    "probability": 0.9864925742149353
+                },
+                {
+                    "word": " agree.",
+                    "start": 2.24,
+                    "end": 2.6,
+                    "probability": 0.9032677412033081
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.32,
+            "end": 8.26,
+            "text": " Like, we don't often stop as a company",
+            "tokens": [
+                50496,
+                1743,
+                11,
+                321,
+                500,
+                380,
+                2049,
+                1590,
+                382,
+                257,
+                2237,
+                50777
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " Like,",
+                    "start": 3.32,
+                    "end": 3.42,
+                    "probability": 0.3110752999782562
+                },
+                {
+                    "word": " we",
+                    "start": 3.5,
+                    "end": 3.5,
+                    "probability": 0.9976200461387634
+                },
+                {
+                    "word": " don't",
+                    "start": 3.5,
+                    "end": 4.66,
+                    "probability": 0.9990163743495941
+                },
+                {
+                    "word": " often",
+                    "start": 4.66,
+                    "end": 5.76,
+                    "probability": 0.6901211738586426
+                },
+                {
+                    "word": " stop",
+                    "start": 5.76,
+                    "end": 7.64,
+                    "probability": 0.9767681360244751
+                },
+                {
+                    "word": " as",
+                    "start": 7.64,
+                    "end": 7.88,
+                    "probability": 0.9792391657829285
+                },
+                {
+                    "word": " a",
+                    "start": 7.88,
+                    "end": 8.04,
+                    "probability": 0.9988486766815186
+                },
+                {
+                    "word": " company",
+                    "start": 8.04,
+                    "end": 8.26,
+                    "probability": 0.9996985197067261
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.26,
+            "end": 9.92,
+            "text": " and just kind of look at our wins.",
+            "tokens": [
+                50777,
+                293,
+                445,
+                733,
+                295,
+                574,
+                412,
+                527,
+                10641,
+                13,
+                50876
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 8.26,
+                    "end": 8.4,
+                    "probability": 0.9728646278381348
+                },
+                {
+                    "word": " just",
+                    "start": 8.4,
+                    "end": 8.6,
+                    "probability": 0.997060239315033
+                },
+                {
+                    "word": " kind",
+                    "start": 8.6,
+                    "end": 8.78,
+                    "probability": 0.9511950016021729
+                },
+                {
+                    "word": " of",
+                    "start": 8.78,
+                    "end": 8.98,
+                    "probability": 0.9992648959159851
+                },
+                {
+                    "word": " look",
+                    "start": 8.98,
+                    "end": 9.08,
+                    "probability": 0.9986900687217712
+                },
+                {
+                    "word": " at",
+                    "start": 9.08,
+                    "end": 9.24,
+                    "probability": 0.9995597004890442
+                },
+                {
+                    "word": " our",
+                    "start": 9.24,
+                    "end": 9.46,
+                    "probability": 0.9990085959434509
+                },
+                {
+                    "word": " wins.",
+                    "start": 9.46,
+                    "end": 9.92,
+                    "probability": 0.9891068339347839
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.76,
+            "end": 10.76,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": []
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.12,
+            "end": 15.5,
+            "text": " I was really, I don't know, did y'all, did anybody miss,",
+            "tokens": [
+                50966,
+                286,
+                390,
+                534,
+                11,
+                286,
+                500,
+                380,
+                458,
+                11,
+                630,
+                288,
+                6,
+                336,
+                11,
+                630,
+                4472,
+                1713,
+                11,
+                51184
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 12.12,
+                    "end": 12.3,
+                    "probability": 0.5932361483573914
+                },
+                {
+                    "word": " was",
+                    "start": 12.3,
+                    "end": 12.54,
+                    "probability": 0.9475451707839966
+                },
+                {
+                    "word": " really,",
+                    "start": 12.54,
+                    "end": 13.18,
+                    "probability": 0.994468092918396
+                },
+                {
+                    "word": " I",
+                    "start": 13.3,
+                    "end": 13.3,
+                    "probability": 0.6795454621315002
+                },
+                {
+                    "word": " don't",
+                    "start": 13.3,
+                    "end": 13.44,
+                    "probability": 0.9867141544818878
+                },
+                {
+                    "word": " know,",
+                    "start": 13.44,
+                    "end": 13.54,
+                    "probability": 0.39733457565307617
+                },
+                {
+                    "word": " did",
+                    "start": 13.54,
+                    "end": 13.66,
+                    "probability": 0.9913376569747925
+                },
+                {
+                    "word": " y",
+                    "start": 13.66,
+                    "end": 13.76,
+                    "probability": 0.6230766177177429
+                },
+                {
+                    "word": "'all,",
+                    "start": 13.76,
+                    "end": 14.04,
+                    "probability": 0.9982429444789886
+                },
+                {
+                    "word": " did",
+                    "start": 14.16,
+                    "end": 14.36,
+                    "probability": 0.995080828666687
+                },
+                {
+                    "word": " anybody",
+                    "start": 14.36,
+                    "end": 14.66,
+                    "probability": 0.9973894953727722
+                },
+                {
+                    "word": " miss,",
+                    "start": 14.66,
+                    "end": 15.5,
+                    "probability": 0.9965523481369019
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.46,
+            "end": 19.34,
+            "text": " what do we call it, assembly, the assembly?",
+            "tokens": [
+                51184,
+                437,
+                360,
+                321,
+                818,
+                309,
+                11,
+                12103,
+                11,
+                264,
+                12103,
+                30,
+                51320
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " what",
+                    "start": 16.46,
+                    "end": 16.58,
+                    "probability": 0.9759949445724487
+                },
+                {
+                    "word": " do",
+                    "start": 16.58,
+                    "end": 16.7,
+                    "probability": 0.9759540557861328
+                },
+                {
+                    "word": " we",
+                    "start": 16.7,
+                    "end": 16.88,
+                    "probability": 0.9987945556640625
+                },
+                {
+                    "word": " call",
+                    "start": 16.88,
+                    "end": 17.06,
+                    "probability": 0.9996637105941772
+                },
+                {
+                    "word": " it,",
+                    "start": 17.06,
+                    "end": 17.5,
+                    "probability": 0.9983572363853455
+                },
+                {
+                    "word": " assembly,",
+                    "start": 17.94,
+                    "end": 18.42,
+                    "probability": 0.7518953680992126
+                },
+                {
+                    "word": " the",
+                    "start": 18.66,
+                    "end": 18.98,
+                    "probability": 0.9404182434082031
+                },
+                {
+                    "word": " assembly?",
+                    "start": 18.98,
+                    "end": 19.34,
+                    "probability": 0.9668698310852051
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 21.88,
+            "end": 24.04,
+            "text": " If you missed it, I recommend it.",
+            "tokens": [
+                51488,
+                759,
+                291,
+                6721,
+                309,
+                11,
+                286,
+                2748,
+                309,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 21.88,
+                    "end": 22.7,
+                    "probability": 0.7920927405357361
+                },
+                {
+                    "word": " you",
+                    "start": 22.7,
+                    "end": 22.96,
+                    "probability": 0.9967341423034668
+                },
+                {
+                    "word": " missed",
+                    "start": 22.96,
+                    "end": 23.12,
+                    "probability": 0.986263632774353
+                },
+                {
+                    "word": " it,",
+                    "start": 23.12,
+                    "end": 23.28,
+                    "probability": 0.951259970664978
+                },
+                {
+                    "word": " I",
+                    "start": 23.32,
+                    "end": 23.38,
+                    "probability": 0.9980373978614807
+                },
+                {
+                    "word": " recommend",
+                    "start": 23.38,
+                    "end": 23.72,
+                    "probability": 0.8588302135467529
+                },
+                {
+                    "word": " it.",
+                    "start": 23.72,
+                    "end": 24.04,
+                    "probability": 0.6906824707984924
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 24.04,
+            "end": 27.16,
+            "text": " I laugh because like what assembly reminds me of is like,",
+            "tokens": [
+                51564,
+                286,
+                5801,
+                570,
+                411,
+                437,
+                12103,
+                12025,
+                385,
+                295,
+                307,
+                411,
+                11,
+                51716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2678225407233605,
+            "compression_ratio": 1.569377990430622,
+            "no_speech_prob": 0.003943181596696377,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 24.04,
+                    "end": 24.26,
+                    "probability": 0.5513110160827637
+                },
+                {
+                    "word": " laugh",
+                    "start": 24.26,
+                    "end": 24.52,
+                    "probability": 0.6039864420890808
+                },
+                {
+                    "word": " because",
+                    "start": 24.52,
+                    "end": 24.9,
+                    "probability": 0.9240638017654419
+                },
+                {
+                    "word": " like",
+                    "start": 24.9,
+                    "end": 25.22,
+                    "probability": 0.6393091082572937
+                },
+                {
+                    "word": " what",
+                    "start": 25.22,
+                    "end": 25.54,
+                    "probability": 0.5276184678077698
+                },
+                {
+                    "word": " assembly",
+                    "start": 25.54,
+                    "end": 25.78,
+                    "probability": 0.9546875953674316
+                },
+                {
+                    "word": " reminds",
+                    "start": 25.78,
+                    "end": 26.18,
+                    "probability": 0.9990934133529663
+                },
+                {
+                    "word": " me",
+                    "start": 26.18,
+                    "end": 26.42,
+                    "probability": 0.9980393052101135
+                },
+                {
+                    "word": " of",
+                    "start": 26.42,
+                    "end": 26.54,
+                    "probability": 0.9972788691520691
+                },
+                {
+                    "word": " is",
+                    "start": 26.54,
+                    "end": 26.7,
+                    "probability": 0.6587810516357422
+                },
+                {
+                    "word": " like,",
+                    "start": 26.7,
+                    "end": 27.16,
+                    "probability": 0.9237574338912964
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2716,
+            "start": 27.16,
+            "end": 30.54,
+            "text": " when I was in like a young child in grade school,",
+            "tokens": [
+                50364,
+                562,
+                286,
+                390,
+                294,
+                411,
+                257,
+                2037,
+                1440,
+                294,
+                7204,
+                1395,
+                11,
+                50574
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " when",
+                    "start": 27.16,
+                    "end": 27.3,
+                    "probability": 0.07657715678215027
+                },
+                {
+                    "word": " I",
+                    "start": 27.3,
+                    "end": 27.46,
+                    "probability": 0.9807538390159607
+                },
+                {
+                    "word": " was",
+                    "start": 27.46,
+                    "end": 27.76,
+                    "probability": 0.9971814155578613
+                },
+                {
+                    "word": " in",
+                    "start": 27.76,
+                    "end": 28.04,
+                    "probability": 0.9391507506370544
+                },
+                {
+                    "word": " like",
+                    "start": 28.04,
+                    "end": 28.48,
+                    "probability": 0.769229531288147
+                },
+                {
+                    "word": " a",
+                    "start": 28.48,
+                    "end": 29.0,
+                    "probability": 0.8671932816505432
+                },
+                {
+                    "word": " young",
+                    "start": 29.0,
+                    "end": 29.2,
+                    "probability": 0.9980117082595825
+                },
+                {
+                    "word": " child",
+                    "start": 29.2,
+                    "end": 29.5,
+                    "probability": 0.9967977404594421
+                },
+                {
+                    "word": " in",
+                    "start": 29.5,
+                    "end": 29.76,
+                    "probability": 0.8357468843460083
+                },
+                {
+                    "word": " grade",
+                    "start": 29.76,
+                    "end": 29.9,
+                    "probability": 0.9686992168426514
+                },
+                {
+                    "word": " school,",
+                    "start": 29.9,
+                    "end": 30.54,
+                    "probability": 0.9985858201980591
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2716,
+            "start": 31.32,
+            "end": 33.44,
+            "text": " they'd have this big stack of like carpet,",
+            "tokens": [
+                50574,
+                436,
+                1116,
+                362,
+                341,
+                955,
+                8630,
+                295,
+                411,
+                18119,
+                11,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " they'd",
+                    "start": 31.32,
+                    "end": 31.7,
+                    "probability": 0.7354041635990143
+                },
+                {
+                    "word": " have",
+                    "start": 31.7,
+                    "end": 31.78,
+                    "probability": 0.8899042010307312
+                },
+                {
+                    "word": " this",
+                    "start": 31.78,
+                    "end": 31.98,
+                    "probability": 0.9808823466300964
+                },
+                {
+                    "word": " big",
+                    "start": 31.98,
+                    "end": 32.28,
+                    "probability": 0.9989035129547119
+                },
+                {
+                    "word": " stack",
+                    "start": 32.28,
+                    "end": 32.6,
+                    "probability": 0.9982122182846069
+                },
+                {
+                    "word": " of",
+                    "start": 32.6,
+                    "end": 32.86,
+                    "probability": 0.9971491694450378
+                },
+                {
+                    "word": " like",
+                    "start": 32.86,
+                    "end": 33.14,
+                    "probability": 0.8411408066749573
+                },
+                {
+                    "word": " carpet,",
+                    "start": 33.14,
+                    "end": 33.44,
+                    "probability": 0.9803503751754761
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2716,
+            "start": 33.68,
+            "end": 34.92,
+            "text": " they were like squares of carpet.",
+            "tokens": [
+                50684,
+                436,
+                645,
+                411,
+                19368,
+                295,
+                18119,
+                13,
+                50778
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 33.68,
+                    "end": 33.68,
+                    "probability": 0.8634666800498962
+                },
+                {
+                    "word": " were",
+                    "start": 33.68,
+                    "end": 33.84,
+                    "probability": 0.45398762822151184
+                },
+                {
+                    "word": " like",
+                    "start": 33.84,
+                    "end": 34.08,
+                    "probability": 0.9845763444900513
+                },
+                {
+                    "word": " squares",
+                    "start": 34.08,
+                    "end": 34.34,
+                    "probability": 0.967698335647583
+                },
+                {
+                    "word": " of",
+                    "start": 34.34,
+                    "end": 34.62,
+                    "probability": 0.9991132616996765
+                },
+                {
+                    "word": " carpet.",
+                    "start": 34.62,
+                    "end": 34.92,
+                    "probability": 0.9988976716995239
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2716,
+            "start": 35.48,
+            "end": 37.58,
+            "text": " And you go like, you go into the gym",
+            "tokens": [
+                50778,
+                400,
+                291,
+                352,
+                411,
+                11,
+                291,
+                352,
+                666,
+                264,
+                9222,
+                50908
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 35.48,
+                    "end": 35.62,
+                    "probability": 0.92791748046875
+                },
+                {
+                    "word": " you",
+                    "start": 35.62,
+                    "end": 35.76,
+                    "probability": 0.9923345446586609
+                },
+                {
+                    "word": " go",
+                    "start": 35.76,
+                    "end": 35.92,
+                    "probability": 0.938227653503418
+                },
+                {
+                    "word": " like,",
+                    "start": 35.92,
+                    "end": 36.2,
+                    "probability": 0.5424222946166992
+                },
+                {
+                    "word": " you",
+                    "start": 36.36,
+                    "end": 36.48,
+                    "probability": 0.9951207041740417
+                },
+                {
+                    "word": " go",
+                    "start": 36.48,
+                    "end": 36.64,
+                    "probability": 0.9750732779502869
+                },
+                {
+                    "word": " into",
+                    "start": 36.64,
+                    "end": 36.82,
+                    "probability": 0.9915617108345032
+                },
+                {
+                    "word": " the",
+                    "start": 36.82,
+                    "end": 37.14,
+                    "probability": 0.9995777010917664
+                },
+                {
+                    "word": " gym",
+                    "start": 37.14,
+                    "end": 37.58,
+                    "probability": 0.999432384967804
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2716,
+            "start": 37.58,
+            "end": 40.06,
+            "text": " and you pull off a square of carpet",
+            "tokens": [
+                50908,
+                293,
+                291,
+                2235,
+                766,
+                257,
+                3732,
+                295,
+                18119,
+                51012
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 37.58,
+                    "end": 38.26,
+                    "probability": 0.2970566153526306
+                },
+                {
+                    "word": " you",
+                    "start": 38.26,
+                    "end": 38.5,
+                    "probability": 0.9975327253341675
+                },
+                {
+                    "word": " pull",
+                    "start": 38.5,
+                    "end": 38.76,
+                    "probability": 0.8827952146530151
+                },
+                {
+                    "word": " off",
+                    "start": 38.76,
+                    "end": 39.08,
+                    "probability": 0.9909098744392395
+                },
+                {
+                    "word": " a",
+                    "start": 39.08,
+                    "end": 39.38,
+                    "probability": 0.39595338702201843
+                },
+                {
+                    "word": " square",
+                    "start": 39.38,
+                    "end": 39.64,
+                    "probability": 0.9981525540351868
+                },
+                {
+                    "word": " of",
+                    "start": 39.64,
+                    "end": 39.88,
+                    "probability": 0.9854819774627686
+                },
+                {
+                    "word": " carpet",
+                    "start": 39.88,
+                    "end": 40.06,
+                    "probability": 0.999092698097229
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2716,
+            "start": 40.06,
+            "end": 43.16,
+            "text": " and all the children would sit on a square of carpet.",
+            "tokens": [
+                51012,
+                293,
+                439,
+                264,
+                2227,
+                576,
+                1394,
+                322,
+                257,
+                3732,
+                295,
+                18119,
+                13,
+                51166
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 40.06,
+                    "end": 40.32,
+                    "probability": 0.8984496593475342
+                },
+                {
+                    "word": " all",
+                    "start": 40.32,
+                    "end": 40.48,
+                    "probability": 0.9991123080253601
+                },
+                {
+                    "word": " the",
+                    "start": 40.48,
+                    "end": 40.7,
+                    "probability": 0.9963401556015015
+                },
+                {
+                    "word": " children",
+                    "start": 40.7,
+                    "end": 41.22,
+                    "probability": 0.9989443421363831
+                },
+                {
+                    "word": " would",
+                    "start": 41.22,
+                    "end": 41.86,
+                    "probability": 0.9921797513961792
+                },
+                {
+                    "word": " sit",
+                    "start": 41.86,
+                    "end": 42.12,
+                    "probability": 0.9992871880531311
+                },
+                {
+                    "word": " on",
+                    "start": 42.12,
+                    "end": 42.34,
+                    "probability": 0.9992959499359131
+                },
+                {
+                    "word": " a",
+                    "start": 42.34,
+                    "end": 42.56,
+                    "probability": 0.9908559322357178
+                },
+                {
+                    "word": " square",
+                    "start": 42.56,
+                    "end": 42.68,
+                    "probability": 0.9996821880340576
+                },
+                {
+                    "word": " of",
+                    "start": 42.68,
+                    "end": 42.96,
+                    "probability": 0.9938598871231079
+                },
+                {
+                    "word": " carpet.",
+                    "start": 42.96,
+                    "end": 43.16,
+                    "probability": 0.999467670917511
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2716,
+            "start": 43.2,
+            "end": 44.76,
+            "text": " And that was like, you'd have an assembly.",
+            "tokens": [
+                51166,
+                400,
+                300,
+                390,
+                411,
+                11,
+                291,
+                1116,
+                362,
+                364,
+                12103,
+                13,
+                51284
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 43.2,
+                    "end": 43.36,
+                    "probability": 0.9731361865997314
+                },
+                {
+                    "word": " that",
+                    "start": 43.36,
+                    "end": 43.46,
+                    "probability": 0.9929919242858887
+                },
+                {
+                    "word": " was",
+                    "start": 43.46,
+                    "end": 43.64,
+                    "probability": 0.9982125759124756
+                },
+                {
+                    "word": " like,",
+                    "start": 43.64,
+                    "end": 43.78,
+                    "probability": 0.9815727472305298
+                },
+                {
+                    "word": " you'd",
+                    "start": 43.92,
+                    "end": 44.04,
+                    "probability": 0.9952436089515686
+                },
+                {
+                    "word": " have",
+                    "start": 44.04,
+                    "end": 44.14,
+                    "probability": 0.9988970756530762
+                },
+                {
+                    "word": " an",
+                    "start": 44.14,
+                    "end": 44.4,
+                    "probability": 0.9981312155723572
+                },
+                {
+                    "word": " assembly.",
+                    "start": 44.4,
+                    "end": 44.76,
+                    "probability": 0.9949977397918701
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2716,
+            "start": 45.9,
+            "end": 47.24,
+            "text": " So that's what it is.",
+            "tokens": [
+                51284,
+                407,
+                300,
+                311,
+                437,
+                309,
+                307,
+                13,
+                51368
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.233497051482505,
+            "compression_ratio": 1.7377049180327868,
+            "no_speech_prob": 0.007808031048625708,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 45.9,
+                    "end": 45.9,
+                    "probability": 0.5375117659568787
+                },
+                {
+                    "word": " that's",
+                    "start": 45.9,
+                    "end": 46.8,
+                    "probability": 0.8657722771167755
+                },
+                {
+                    "word": " what",
+                    "start": 46.8,
+                    "end": 47.02,
+                    "probability": 0.5613107681274414
+                },
+                {
+                    "word": " it",
+                    "start": 47.02,
+                    "end": 47.12,
+                    "probability": 0.3000807464122772
+                },
+                {
+                    "word": " is.",
+                    "start": 47.12,
+                    "end": 47.24,
+                    "probability": 0.44606250524520874
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

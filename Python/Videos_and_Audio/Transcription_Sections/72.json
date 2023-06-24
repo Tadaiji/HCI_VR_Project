@@ -1,0 +1,254 @@
+{
+    "text": " I'm just kind of scanning the list. I would probably say like Kubernetes agent is something that we've made a lot of investment in. Although.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " I'm just kind of scanning the list.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                445,
+                733,
+                295,
+                27019,
+                264,
+                1329,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2026968491383088,
+            "compression_ratio": 1.236842105263158,
+            "no_speech_prob": 0.00031983095686882734,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.9067183434963226
+                },
+                {
+                    "word": " just",
+                    "start": 0.32,
+                    "end": 0.5,
+                    "probability": 0.9986885190010071
+                },
+                {
+                    "word": " kind",
+                    "start": 0.5,
+                    "end": 0.64,
+                    "probability": 0.96828293800354
+                },
+                {
+                    "word": " of",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9995026588439941
+                },
+                {
+                    "word": " scanning",
+                    "start": 0.88,
+                    "end": 1.1,
+                    "probability": 0.9938940405845642
+                },
+                {
+                    "word": " the",
+                    "start": 1.1,
+                    "end": 1.46,
+                    "probability": 0.993410050868988
+                },
+                {
+                    "word": " list.",
+                    "start": 1.46,
+                    "end": 2.24,
+                    "probability": 0.9983750581741333
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.24,
+            "end": 5.0,
+            "text": " I would probably say like Kubernetes agent",
+            "tokens": [
+                50484,
+                286,
+                576,
+                1391,
+                584,
+                411,
+                23145,
+                9461,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2026968491383088,
+            "compression_ratio": 1.236842105263158,
+            "no_speech_prob": 0.00031983095686882734,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 2.24,
+                    "end": 2.7,
+                    "probability": 0.9308886528015137
+                },
+                {
+                    "word": " would",
+                    "start": 2.7,
+                    "end": 2.84,
+                    "probability": 0.8372547030448914
+                },
+                {
+                    "word": " probably",
+                    "start": 2.84,
+                    "end": 3.08,
+                    "probability": 0.9855573773384094
+                },
+                {
+                    "word": " say",
+                    "start": 3.08,
+                    "end": 3.42,
+                    "probability": 0.9981825351715088
+                },
+                {
+                    "word": " like",
+                    "start": 3.42,
+                    "end": 4.08,
+                    "probability": 0.9339483380317688
+                },
+                {
+                    "word": " Kubernetes",
+                    "start": 4.08,
+                    "end": 4.42,
+                    "probability": 0.3968309462070465
+                },
+                {
+                    "word": " agent",
+                    "start": 4.42,
+                    "end": 5.0,
+                    "probability": 0.9585813879966736
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.0,
+            "end": 8.98,
+            "text": " is something that we've made a lot of investment in.",
+            "tokens": [
+                50654,
+                307,
+                746,
+                300,
+                321,
+                600,
+                1027,
+                257,
+                688,
+                295,
+                6078,
+                294,
+                13,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2026968491383088,
+            "compression_ratio": 1.236842105263158,
+            "no_speech_prob": 0.00031983095686882734,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 5.0,
+                    "end": 6.12,
+                    "probability": 0.9441604614257812
+                },
+                {
+                    "word": " something",
+                    "start": 6.12,
+                    "end": 6.34,
+                    "probability": 0.9996852874755859
+                },
+                {
+                    "word": " that",
+                    "start": 6.34,
+                    "end": 6.56,
+                    "probability": 0.9995390176773071
+                },
+                {
+                    "word": " we've",
+                    "start": 6.56,
+                    "end": 6.96,
+                    "probability": 0.9995984137058258
+                },
+                {
+                    "word": " made",
+                    "start": 6.96,
+                    "end": 7.08,
+                    "probability": 0.9998154044151306
+                },
+                {
+                    "word": " a",
+                    "start": 7.08,
+                    "end": 7.14,
+                    "probability": 0.9993575215339661
+                },
+                {
+                    "word": " lot",
+                    "start": 7.14,
+                    "end": 7.32,
+                    "probability": 0.99991774559021
+                },
+                {
+                    "word": " of",
+                    "start": 7.32,
+                    "end": 7.5,
+                    "probability": 0.9998729228973389
+                },
+                {
+                    "word": " investment",
+                    "start": 7.5,
+                    "end": 7.8,
+                    "probability": 0.9993346333503723
+                },
+                {
+                    "word": " in.",
+                    "start": 7.8,
+                    "end": 8.98,
+                    "probability": 0.9991474151611328
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.98,
+            "end": 9.9,
+            "text": " Although.",
+            "tokens": [
+                50828,
+                5780,
+                13,
+                50856
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2026968491383088,
+            "compression_ratio": 1.236842105263158,
+            "no_speech_prob": 0.00031983095686882734,
+            "words": [
+                {
+                    "word": " Although.",
+                    "start": 8.98,
+                    "end": 9.9,
+                    "probability": 0.9769911170005798
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

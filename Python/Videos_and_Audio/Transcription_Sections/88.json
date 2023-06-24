@@ -1,0 +1,564 @@
+{
+    "text": " I thought we were going to be using those competitors to compare against. So I just wanted your input on what, because I saw some of you have compared with the five competitors already listed over there. They may not be relevant. For example, cloud beads may not be relevant for monitor stage at all. So that's what I wanted to check with you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.34,
+            "text": " I thought we were going to be using those competitors to compare against.",
+            "tokens": [
+                50364,
+                286,
+                1194,
+                321,
+                645,
+                516,
+                281,
+                312,
+                1228,
+                729,
+                18333,
+                281,
+                6794,
+                1970,
+                13,
+                50601
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.9063622951507568
+                },
+                {
+                    "word": " thought",
+                    "start": 0.3,
+                    "end": 0.4,
+                    "probability": 0.9941001534461975
+                },
+                {
+                    "word": " we",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.9560021162033081
+                },
+                {
+                    "word": " were",
+                    "start": 0.6,
+                    "end": 0.72,
+                    "probability": 0.989727795124054
+                },
+                {
+                    "word": " going",
+                    "start": 0.72,
+                    "end": 0.8,
+                    "probability": 0.6575514674186707
+                },
+                {
+                    "word": " to",
+                    "start": 0.8,
+                    "end": 0.9,
+                    "probability": 0.9986528158187866
+                },
+                {
+                    "word": " be",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.9980359673500061
+                },
+                {
+                    "word": " using",
+                    "start": 1.12,
+                    "end": 1.34,
+                    "probability": 0.9991831183433533
+                },
+                {
+                    "word": " those",
+                    "start": 1.34,
+                    "end": 1.84,
+                    "probability": 0.995200514793396
+                },
+                {
+                    "word": " competitors",
+                    "start": 1.84,
+                    "end": 2.5,
+                    "probability": 0.9937060475349426
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 3.5,
+                    "probability": 0.9952320456504822
+                },
+                {
+                    "word": " compare",
+                    "start": 3.5,
+                    "end": 3.82,
+                    "probability": 0.9882049560546875
+                },
+                {
+                    "word": " against.",
+                    "start": 3.82,
+                    "end": 4.34,
+                    "probability": 0.9928505420684814
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.88,
+            "end": 11.78,
+            "text": " So I just wanted your input on what, because I saw some of you have compared with the five",
+            "tokens": [
+                50601,
+                407,
+                286,
+                445,
+                1415,
+                428,
+                4846,
+                322,
+                437,
+                11,
+                570,
+                286,
+                1866,
+                512,
+                295,
+                291,
+                362,
+                5347,
+                365,
+                264,
+                1732,
+                50938
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 4.88,
+                    "end": 4.88,
+                    "probability": 0.8764410018920898
+                },
+                {
+                    "word": " I",
+                    "start": 4.88,
+                    "end": 5.06,
+                    "probability": 0.9476456642150879
+                },
+                {
+                    "word": " just",
+                    "start": 5.06,
+                    "end": 5.3,
+                    "probability": 0.9980226755142212
+                },
+                {
+                    "word": " wanted",
+                    "start": 5.3,
+                    "end": 5.5,
+                    "probability": 0.9585728645324707
+                },
+                {
+                    "word": " your",
+                    "start": 5.5,
+                    "end": 6.2,
+                    "probability": 0.92194664478302
+                },
+                {
+                    "word": " input",
+                    "start": 6.2,
+                    "end": 6.88,
+                    "probability": 0.8011553287506104
+                },
+                {
+                    "word": " on",
+                    "start": 6.88,
+                    "end": 7.22,
+                    "probability": 0.9514045119285583
+                },
+                {
+                    "word": " what,",
+                    "start": 7.22,
+                    "end": 7.54,
+                    "probability": 0.9692386388778687
+                },
+                {
+                    "word": " because",
+                    "start": 7.92,
+                    "end": 8.12,
+                    "probability": 0.9773004055023193
+                },
+                {
+                    "word": " I",
+                    "start": 8.12,
+                    "end": 8.36,
+                    "probability": 0.9754331707954407
+                },
+                {
+                    "word": " saw",
+                    "start": 8.36,
+                    "end": 8.6,
+                    "probability": 0.990990400314331
+                },
+                {
+                    "word": " some",
+                    "start": 8.6,
+                    "end": 9.88,
+                    "probability": 0.8971098065376282
+                },
+                {
+                    "word": " of",
+                    "start": 9.88,
+                    "end": 10.1,
+                    "probability": 0.9949721097946167
+                },
+                {
+                    "word": " you",
+                    "start": 10.1,
+                    "end": 10.26,
+                    "probability": 0.9988914132118225
+                },
+                {
+                    "word": " have",
+                    "start": 10.26,
+                    "end": 10.46,
+                    "probability": 0.9949892163276672
+                },
+                {
+                    "word": " compared",
+                    "start": 10.46,
+                    "end": 10.82,
+                    "probability": 0.9953725934028625
+                },
+                {
+                    "word": " with",
+                    "start": 10.82,
+                    "end": 11.18,
+                    "probability": 0.9786110520362854
+                },
+                {
+                    "word": " the",
+                    "start": 11.18,
+                    "end": 11.46,
+                    "probability": 0.9961538910865784
+                },
+                {
+                    "word": " five",
+                    "start": 11.46,
+                    "end": 11.78,
+                    "probability": 0.9932540059089661
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.78,
+            "end": 14.3,
+            "text": " competitors already listed over there.",
+            "tokens": [
+                50938,
+                18333,
+                1217,
+                10052,
+                670,
+                456,
+                13,
+                51070
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " competitors",
+                    "start": 11.78,
+                    "end": 12.22,
+                    "probability": 0.9951980710029602
+                },
+                {
+                    "word": " already",
+                    "start": 12.22,
+                    "end": 12.74,
+                    "probability": 0.9848441481590271
+                },
+                {
+                    "word": " listed",
+                    "start": 12.74,
+                    "end": 13.14,
+                    "probability": 0.9977922439575195
+                },
+                {
+                    "word": " over",
+                    "start": 13.14,
+                    "end": 13.52,
+                    "probability": 0.9974453449249268
+                },
+                {
+                    "word": " there.",
+                    "start": 13.52,
+                    "end": 14.3,
+                    "probability": 0.9922071099281311
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.12,
+            "end": 16.36,
+            "text": " They may not be relevant.",
+            "tokens": [
+                51070,
+                814,
+                815,
+                406,
+                312,
+                7340,
+                13,
+                51188
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 15.12,
+                    "end": 15.54,
+                    "probability": 0.6590087413787842
+                },
+                {
+                    "word": " may",
+                    "start": 15.54,
+                    "end": 15.74,
+                    "probability": 0.9895390868186951
+                },
+                {
+                    "word": " not",
+                    "start": 15.74,
+                    "end": 15.88,
+                    "probability": 0.9991080164909363
+                },
+                {
+                    "word": " be",
+                    "start": 15.88,
+                    "end": 16.1,
+                    "probability": 0.9978718757629395
+                },
+                {
+                    "word": " relevant.",
+                    "start": 16.1,
+                    "end": 16.36,
+                    "probability": 0.9972556233406067
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 16.58,
+            "end": 20.14,
+            "text": " For example, cloud beads may not be relevant for monitor stage at all.",
+            "tokens": [
+                51188,
+                1171,
+                1365,
+                11,
+                4588,
+                20369,
+                815,
+                406,
+                312,
+                7340,
+                337,
+                6002,
+                3233,
+                412,
+                439,
+                13,
+                51423
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " For",
+                    "start": 16.58,
+                    "end": 16.64,
+                    "probability": 0.9965459704399109
+                },
+                {
+                    "word": " example,",
+                    "start": 16.64,
+                    "end": 17.08,
+                    "probability": 0.9994924068450928
+                },
+                {
+                    "word": " cloud",
+                    "start": 17.3,
+                    "end": 17.44,
+                    "probability": 0.6963926553726196
+                },
+                {
+                    "word": " beads",
+                    "start": 17.44,
+                    "end": 17.7,
+                    "probability": 0.45649635791778564
+                },
+                {
+                    "word": " may",
+                    "start": 17.7,
+                    "end": 17.9,
+                    "probability": 0.9727439284324646
+                },
+                {
+                    "word": " not",
+                    "start": 17.9,
+                    "end": 18.02,
+                    "probability": 0.9984222650527954
+                },
+                {
+                    "word": " be",
+                    "start": 18.02,
+                    "end": 18.2,
+                    "probability": 0.9969664216041565
+                },
+                {
+                    "word": " relevant",
+                    "start": 18.2,
+                    "end": 18.56,
+                    "probability": 0.9986586570739746
+                },
+                {
+                    "word": " for",
+                    "start": 18.56,
+                    "end": 19.04,
+                    "probability": 0.9970331192016602
+                },
+                {
+                    "word": " monitor",
+                    "start": 19.04,
+                    "end": 19.42,
+                    "probability": 0.7561119198799133
+                },
+                {
+                    "word": " stage",
+                    "start": 19.42,
+                    "end": 19.72,
+                    "probability": 0.8244295716285706
+                },
+                {
+                    "word": " at",
+                    "start": 19.72,
+                    "end": 19.94,
+                    "probability": 0.9797439575195312
+                },
+                {
+                    "word": " all.",
+                    "start": 19.94,
+                    "end": 20.14,
+                    "probability": 0.9989161491394043
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.8,
+            "end": 22.88,
+            "text": " So that's what I wanted to check with you.",
+            "tokens": [
+                51423,
+                407,
+                300,
+                311,
+                437,
+                286,
+                1415,
+                281,
+                1520,
+                365,
+                291,
+                13,
+                51506
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20477990543141084,
+            "compression_ratio": 1.6179245283018868,
+            "no_speech_prob": 7.251033093780279e-05,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 20.8,
+                    "end": 21.28,
+                    "probability": 0.9925428628921509
+                },
+                {
+                    "word": " that's",
+                    "start": 21.28,
+                    "end": 21.56,
+                    "probability": 0.9950062334537506
+                },
+                {
+                    "word": " what",
+                    "start": 21.56,
+                    "end": 21.64,
+                    "probability": 0.9878879189491272
+                },
+                {
+                    "word": " I",
+                    "start": 21.64,
+                    "end": 21.82,
+                    "probability": 0.9995447993278503
+                },
+                {
+                    "word": " wanted",
+                    "start": 21.82,
+                    "end": 21.98,
+                    "probability": 0.9964308738708496
+                },
+                {
+                    "word": " to",
+                    "start": 21.98,
+                    "end": 22.24,
+                    "probability": 0.999408483505249
+                },
+                {
+                    "word": " check",
+                    "start": 22.24,
+                    "end": 22.46,
+                    "probability": 0.9994161128997803
+                },
+                {
+                    "word": " with",
+                    "start": 22.46,
+                    "end": 22.74,
+                    "probability": 0.9641765356063843
+                },
+                {
+                    "word": " you.",
+                    "start": 22.74,
+                    "end": 22.88,
+                    "probability": 0.9833934903144836
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

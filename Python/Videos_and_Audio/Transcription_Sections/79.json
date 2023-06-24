@@ -1,0 +1,207 @@
+{
+    "text": " Cool, I'm just gonna ping you on this Cormac to add a top five plan. Cool. I think.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.3,
+            "text": " Cool, I'm just gonna ping you on this Cormac",
+            "tokens": [
+                50364,
+                8561,
+                11,
+                286,
+                478,
+                445,
+                799,
+                26151,
+                291,
+                322,
+                341,
+                383,
+                687,
+                326,
+                50479
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3125592680538402,
+            "compression_ratio": 1.0246913580246915,
+            "no_speech_prob": 9.312695328844711e-05,
+            "words": [
+                {
+                    "word": " Cool,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8622163534164429
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.3,
+                    "end": 0.58,
+                    "probability": 0.8061892688274384
+                },
+                {
+                    "word": " just",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.7403869032859802
+                },
+                {
+                    "word": " gonna",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.5600318908691406
+                },
+                {
+                    "word": " ping",
+                    "start": 0.96,
+                    "end": 1.42,
+                    "probability": 0.0771685466170311
+                },
+                {
+                    "word": " you",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.9916979074478149
+                },
+                {
+                    "word": " on",
+                    "start": 1.6,
+                    "end": 1.78,
+                    "probability": 0.9932100176811218
+                },
+                {
+                    "word": " this",
+                    "start": 1.78,
+                    "end": 2.0,
+                    "probability": 0.9884634613990784
+                },
+                {
+                    "word": " Cormac",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.8584793408711752
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.3,
+            "end": 5.44,
+            "text": " to add a top five plan.",
+            "tokens": [
+                50479,
+                281,
+                909,
+                257,
+                1192,
+                1732,
+                1393,
+                13,
+                50646
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3125592680538402,
+            "compression_ratio": 1.0246913580246915,
+            "no_speech_prob": 9.312695328844711e-05,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 2.3,
+                    "end": 2.62,
+                    "probability": 0.9487618803977966
+                },
+                {
+                    "word": " add",
+                    "start": 2.62,
+                    "end": 3.38,
+                    "probability": 0.9948809146881104
+                },
+                {
+                    "word": " a",
+                    "start": 3.38,
+                    "end": 4.46,
+                    "probability": 0.8565122485160828
+                },
+                {
+                    "word": " top",
+                    "start": 4.46,
+                    "end": 4.74,
+                    "probability": 0.8952950239181519
+                },
+                {
+                    "word": " five",
+                    "start": 4.74,
+                    "end": 5.0,
+                    "probability": 0.8487616181373596
+                },
+                {
+                    "word": " plan.",
+                    "start": 5.0,
+                    "end": 5.44,
+                    "probability": 0.9913842678070068
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.4,
+            "end": 12.1,
+            "text": " Cool.",
+            "tokens": [
+                50946,
+                8561,
+                13,
+                50984
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3125592680538402,
+            "compression_ratio": 1.0246913580246915,
+            "no_speech_prob": 9.312695328844711e-05,
+            "words": [
+                {
+                    "word": " Cool.",
+                    "start": 10.4,
+                    "end": 12.1,
+                    "probability": 0.938796877861023
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.44,
+            "end": 14.54,
+            "text": " I think.",
+            "tokens": [
+                51064,
+                286,
+                519,
+                13,
+                51106
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3125592680538402,
+            "compression_ratio": 1.0246913580246915,
+            "no_speech_prob": 9.312695328844711e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 13.44,
+                    "end": 14.06,
+                    "probability": 0.6432912945747375
+                },
+                {
+                    "word": " think.",
+                    "start": 14.06,
+                    "end": 14.54,
+                    "probability": 0.9989226460456848
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

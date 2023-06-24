@@ -1,0 +1,354 @@
+{
+    "text": " That is a matter of fact that I go back and add a last name because I based on conversation I think we have to do it. I don't think we can leave them all. I don't know if they'll look at this first.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 7.2,
+            "text": " That is a matter of fact that I go back and add a last name because I based on conversation I think we have to do it. I don't think we can leave them all.",
+            "tokens": [
+                50364,
+                663,
+                307,
+                257,
+                1871,
+                295,
+                1186,
+                300,
+                286,
+                352,
+                646,
+                293,
+                909,
+                257,
+                1036,
+                1315,
+                570,
+                286,
+                2361,
+                322,
+                3761,
+                286,
+                519,
+                321,
+                362,
+                281,
+                360,
+                309,
+                13,
+                286,
+                500,
+                380,
+                519,
+                321,
+                393,
+                1856,
+                552,
+                439,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23896635146368117,
+            "compression_ratio": 1.3391304347826087,
+            "no_speech_prob": 0.004066320136189461,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.06,
+                    "end": 0.36,
+                    "probability": 0.3718433082103729
+                },
+                {
+                    "word": " is",
+                    "start": 0.36,
+                    "end": 0.56,
+                    "probability": 0.7783624529838562
+                },
+                {
+                    "word": " a",
+                    "start": 0.56,
+                    "end": 0.64,
+                    "probability": 0.7431598901748657
+                },
+                {
+                    "word": " matter",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.9877930283546448
+                },
+                {
+                    "word": " of",
+                    "start": 0.72,
+                    "end": 0.84,
+                    "probability": 0.9832774996757507
+                },
+                {
+                    "word": " fact",
+                    "start": 0.84,
+                    "end": 0.9,
+                    "probability": 0.9996106028556824
+                },
+                {
+                    "word": " that",
+                    "start": 0.9,
+                    "end": 1.04,
+                    "probability": 0.8869124054908752
+                },
+                {
+                    "word": " I",
+                    "start": 1.04,
+                    "end": 1.12,
+                    "probability": 0.9754363298416138
+                },
+                {
+                    "word": " go",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.9838094711303711
+                },
+                {
+                    "word": " back",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9996073842048645
+                },
+                {
+                    "word": " and",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9470221996307373
+                },
+                {
+                    "word": " add",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.9080588817596436
+                },
+                {
+                    "word": " a",
+                    "start": 1.76,
+                    "end": 1.86,
+                    "probability": 0.4838915169239044
+                },
+                {
+                    "word": " last",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.8604029417037964
+                },
+                {
+                    "word": " name",
+                    "start": 2.06,
+                    "end": 2.18,
+                    "probability": 0.5805751085281372
+                },
+                {
+                    "word": " because",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.8377780318260193
+                },
+                {
+                    "word": " I",
+                    "start": 2.34,
+                    "end": 2.96,
+                    "probability": 0.6479025483131409
+                },
+                {
+                    "word": " based",
+                    "start": 2.96,
+                    "end": 3.3,
+                    "probability": 0.874152421951294
+                },
+                {
+                    "word": " on",
+                    "start": 3.3,
+                    "end": 3.56,
+                    "probability": 0.9991559982299805
+                },
+                {
+                    "word": " conversation",
+                    "start": 3.56,
+                    "end": 3.96,
+                    "probability": 0.9960399866104126
+                },
+                {
+                    "word": " I",
+                    "start": 3.96,
+                    "end": 4.16,
+                    "probability": 0.32367822527885437
+                },
+                {
+                    "word": " think",
+                    "start": 4.16,
+                    "end": 4.26,
+                    "probability": 0.9999041557312012
+                },
+                {
+                    "word": " we",
+                    "start": 4.26,
+                    "end": 4.42,
+                    "probability": 0.999546468257904
+                },
+                {
+                    "word": " have",
+                    "start": 4.42,
+                    "end": 4.6,
+                    "probability": 0.9997531771659851
+                },
+                {
+                    "word": " to",
+                    "start": 4.6,
+                    "end": 4.74,
+                    "probability": 0.99981290102005
+                },
+                {
+                    "word": " do",
+                    "start": 4.74,
+                    "end": 4.9,
+                    "probability": 0.9997702240943909
+                },
+                {
+                    "word": " it.",
+                    "start": 4.9,
+                    "end": 5.14,
+                    "probability": 0.9984099864959717
+                },
+                {
+                    "word": " I",
+                    "start": 5.32,
+                    "end": 5.32,
+                    "probability": 0.9980549812316895
+                },
+                {
+                    "word": " don't",
+                    "start": 5.32,
+                    "end": 5.42,
+                    "probability": 0.9998179078102112
+                },
+                {
+                    "word": " think",
+                    "start": 5.42,
+                    "end": 5.52,
+                    "probability": 0.9997518658638
+                },
+                {
+                    "word": " we",
+                    "start": 5.52,
+                    "end": 5.64,
+                    "probability": 0.9998117089271545
+                },
+                {
+                    "word": " can",
+                    "start": 5.64,
+                    "end": 5.78,
+                    "probability": 0.9997498393058777
+                },
+                {
+                    "word": " leave",
+                    "start": 5.78,
+                    "end": 5.92,
+                    "probability": 0.9701513648033142
+                },
+                {
+                    "word": " them",
+                    "start": 5.92,
+                    "end": 6.16,
+                    "probability": 0.9981112480163574
+                },
+                {
+                    "word": " all.",
+                    "start": 6.16,
+                    "end": 7.2,
+                    "probability": 0.6981232166290283
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 720,
+            "start": 8.18,
+            "end": 9.46,
+            "text": " I don't know if they'll look at this first.",
+            "tokens": [
+                50414,
+                286,
+                500,
+                380,
+                458,
+                498,
+                436,
+                603,
+                574,
+                412,
+                341,
+                700,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5602184931437174,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.8643016219139099,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 8.18,
+                    "end": 8.48,
+                    "probability": 0.1631941795349121
+                },
+                {
+                    "word": " don't",
+                    "start": 8.48,
+                    "end": 8.66,
+                    "probability": 0.8649185299873352
+                },
+                {
+                    "word": " know",
+                    "start": 8.66,
+                    "end": 8.78,
+                    "probability": 0.4028248190879822
+                },
+                {
+                    "word": " if",
+                    "start": 8.78,
+                    "end": 8.86,
+                    "probability": 0.9151625633239746
+                },
+                {
+                    "word": " they'll",
+                    "start": 8.86,
+                    "end": 9.02,
+                    "probability": 0.6139739751815796
+                },
+                {
+                    "word": " look",
+                    "start": 9.02,
+                    "end": 9.04,
+                    "probability": 0.8408785462379456
+                },
+                {
+                    "word": " at",
+                    "start": 9.04,
+                    "end": 9.18,
+                    "probability": 0.9923819899559021
+                },
+                {
+                    "word": " this",
+                    "start": 9.18,
+                    "end": 9.3,
+                    "probability": 0.819488525390625
+                },
+                {
+                    "word": " first.",
+                    "start": 9.3,
+                    "end": 9.46,
+                    "probability": 0.2035478949546814
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

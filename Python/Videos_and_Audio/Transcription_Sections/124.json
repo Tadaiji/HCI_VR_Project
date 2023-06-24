@@ -1,0 +1,419 @@
+{
+    "text": " Be and be I think if we took that a step further to be good to even describe it in the way that doesn't just say our product stage and use like a value based description of what monitor and configure mean because otherwise we're just no that's not going to do any good for us.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 13.32,
+            "text": " Be and be I think if we took that a step further to be good to even describe it in the way that doesn't just say our product stage and use like a value based description of what monitor and configure mean because otherwise we're just no that's not going to do any good for us.",
+            "tokens": [
+                50364,
+                879,
+                293,
+                312,
+                286,
+                519,
+                498,
+                321,
+                1890,
+                300,
+                257,
+                1823,
+                3052,
+                281,
+                312,
+                665,
+                281,
+                754,
+                6786,
+                309,
+                294,
+                264,
+                636,
+                300,
+                1177,
+                380,
+                445,
+                584,
+                527,
+                1674,
+                3233,
+                293,
+                764,
+                411,
+                257,
+                2158,
+                2361,
+                3855,
+                295,
+                437,
+                6002,
+                293,
+                22162,
+                914,
+                570,
+                5911,
+                321,
+                434,
+                445,
+                572,
+                300,
+                311,
+                406,
+                516,
+                281,
+                360,
+                604,
+                665,
+                337,
+                505,
+                13,
+                51026
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19750054677327475,
+            "compression_ratio": 1.5593220338983051,
+            "no_speech_prob": 0.00023047988361213356,
+            "words": [
+                {
+                    "word": " Be",
+                    "start": 0.16,
+                    "end": 0.52,
+                    "probability": 0.1714055985212326
+                },
+                {
+                    "word": " and",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.2115214467048645
+                },
+                {
+                    "word": " be",
+                    "start": 0.66,
+                    "end": 0.8,
+                    "probability": 0.9481544494628906
+                },
+                {
+                    "word": " I",
+                    "start": 0.8,
+                    "end": 0.94,
+                    "probability": 0.7964905500411987
+                },
+                {
+                    "word": " think",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9994912147521973
+                },
+                {
+                    "word": " if",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.684853732585907
+                },
+                {
+                    "word": " we",
+                    "start": 1.26,
+                    "end": 1.38,
+                    "probability": 0.9994729161262512
+                },
+                {
+                    "word": " took",
+                    "start": 1.38,
+                    "end": 1.52,
+                    "probability": 0.9962375164031982
+                },
+                {
+                    "word": " that",
+                    "start": 1.52,
+                    "end": 1.7,
+                    "probability": 0.985866367816925
+                },
+                {
+                    "word": " a",
+                    "start": 1.7,
+                    "end": 1.8,
+                    "probability": 0.8636450171470642
+                },
+                {
+                    "word": " step",
+                    "start": 1.8,
+                    "end": 1.9,
+                    "probability": 0.9990527033805847
+                },
+                {
+                    "word": " further",
+                    "start": 1.9,
+                    "end": 2.16,
+                    "probability": 0.9939857125282288
+                },
+                {
+                    "word": " to",
+                    "start": 2.16,
+                    "end": 2.32,
+                    "probability": 0.4554469585418701
+                },
+                {
+                    "word": " be",
+                    "start": 2.32,
+                    "end": 2.42,
+                    "probability": 0.9988288283348083
+                },
+                {
+                    "word": " good",
+                    "start": 2.42,
+                    "end": 2.6,
+                    "probability": 0.9952393770217896
+                },
+                {
+                    "word": " to",
+                    "start": 2.6,
+                    "end": 2.76,
+                    "probability": 0.9167007207870483
+                },
+                {
+                    "word": " even",
+                    "start": 2.76,
+                    "end": 2.9,
+                    "probability": 0.9976049661636353
+                },
+                {
+                    "word": " describe",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.9355387091636658
+                },
+                {
+                    "word": " it",
+                    "start": 3.28,
+                    "end": 3.44,
+                    "probability": 0.9426697492599487
+                },
+                {
+                    "word": " in",
+                    "start": 3.44,
+                    "end": 3.5,
+                    "probability": 0.9942277669906616
+                },
+                {
+                    "word": " the",
+                    "start": 3.5,
+                    "end": 3.62,
+                    "probability": 0.5142362713813782
+                },
+                {
+                    "word": " way",
+                    "start": 3.62,
+                    "end": 3.72,
+                    "probability": 0.9996386766433716
+                },
+                {
+                    "word": " that",
+                    "start": 3.72,
+                    "end": 3.96,
+                    "probability": 0.9779881238937378
+                },
+                {
+                    "word": " doesn't",
+                    "start": 3.96,
+                    "end": 4.22,
+                    "probability": 0.9781667292118073
+                },
+                {
+                    "word": " just",
+                    "start": 4.22,
+                    "end": 4.38,
+                    "probability": 0.9940901398658752
+                },
+                {
+                    "word": " say",
+                    "start": 4.38,
+                    "end": 4.56,
+                    "probability": 0.9918724894523621
+                },
+                {
+                    "word": " our",
+                    "start": 4.56,
+                    "end": 4.82,
+                    "probability": 0.9670376777648926
+                },
+                {
+                    "word": " product",
+                    "start": 4.82,
+                    "end": 5.0,
+                    "probability": 0.9761876463890076
+                },
+                {
+                    "word": " stage",
+                    "start": 5.0,
+                    "end": 5.3,
+                    "probability": 0.9949662089347839
+                },
+                {
+                    "word": " and",
+                    "start": 5.3,
+                    "end": 5.48,
+                    "probability": 0.9890267252922058
+                },
+                {
+                    "word": " use",
+                    "start": 5.48,
+                    "end": 5.58,
+                    "probability": 0.9831430315971375
+                },
+                {
+                    "word": " like",
+                    "start": 5.58,
+                    "end": 5.78,
+                    "probability": 0.989102840423584
+                },
+                {
+                    "word": " a",
+                    "start": 5.78,
+                    "end": 5.96,
+                    "probability": 0.9941897392272949
+                },
+                {
+                    "word": " value",
+                    "start": 5.96,
+                    "end": 6.18,
+                    "probability": 0.9981527924537659
+                },
+                {
+                    "word": " based",
+                    "start": 6.18,
+                    "end": 6.86,
+                    "probability": 0.8931955099105835
+                },
+                {
+                    "word": " description",
+                    "start": 6.86,
+                    "end": 7.54,
+                    "probability": 0.9556898474693298
+                },
+                {
+                    "word": " of",
+                    "start": 7.54,
+                    "end": 7.74,
+                    "probability": 0.9985692501068115
+                },
+                {
+                    "word": " what",
+                    "start": 7.74,
+                    "end": 7.9,
+                    "probability": 0.9991315007209778
+                },
+                {
+                    "word": " monitor",
+                    "start": 7.9,
+                    "end": 8.32,
+                    "probability": 0.8559660911560059
+                },
+                {
+                    "word": " and",
+                    "start": 8.32,
+                    "end": 8.54,
+                    "probability": 0.8376933336257935
+                },
+                {
+                    "word": " configure",
+                    "start": 8.54,
+                    "end": 8.8,
+                    "probability": 0.754867672920227
+                },
+                {
+                    "word": " mean",
+                    "start": 8.8,
+                    "end": 9.14,
+                    "probability": 0.8061405420303345
+                },
+                {
+                    "word": " because",
+                    "start": 9.14,
+                    "end": 9.46,
+                    "probability": 0.809959352016449
+                },
+                {
+                    "word": " otherwise",
+                    "start": 9.46,
+                    "end": 9.9,
+                    "probability": 0.987356424331665
+                },
+                {
+                    "word": " we're",
+                    "start": 9.9,
+                    "end": 10.78,
+                    "probability": 0.8492622077465057
+                },
+                {
+                    "word": " just",
+                    "start": 10.78,
+                    "end": 11.04,
+                    "probability": 0.9984968900680542
+                },
+                {
+                    "word": " no",
+                    "start": 11.04,
+                    "end": 11.24,
+                    "probability": 0.33967825770378113
+                },
+                {
+                    "word": " that's",
+                    "start": 11.24,
+                    "end": 11.52,
+                    "probability": 0.9097171425819397
+                },
+                {
+                    "word": " not",
+                    "start": 11.52,
+                    "end": 11.62,
+                    "probability": 0.995799720287323
+                },
+                {
+                    "word": " going",
+                    "start": 11.62,
+                    "end": 11.72,
+                    "probability": 0.8050727248191833
+                },
+                {
+                    "word": " to",
+                    "start": 11.72,
+                    "end": 11.8,
+                    "probability": 0.9949362277984619
+                },
+                {
+                    "word": " do",
+                    "start": 11.8,
+                    "end": 11.88,
+                    "probability": 0.9876013398170471
+                },
+                {
+                    "word": " any",
+                    "start": 11.88,
+                    "end": 12.24,
+                    "probability": 0.9966222047805786
+                },
+                {
+                    "word": " good",
+                    "start": 12.24,
+                    "end": 12.8,
+                    "probability": 0.997365415096283
+                },
+                {
+                    "word": " for",
+                    "start": 12.8,
+                    "end": 13.12,
+                    "probability": 0.9370369911193848
+                },
+                {
+                    "word": " us.",
+                    "start": 13.12,
+                    "end": 13.32,
+                    "probability": 0.9856764078140259
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

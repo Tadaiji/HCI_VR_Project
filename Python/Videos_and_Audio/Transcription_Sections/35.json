@@ -1,0 +1,452 @@
+{
+    "text": " I was looking at maybe MAU as a metric to perhaps measure whether customers have started using that, are interested in using that or not. We probably may not have it for everything, but at least some of it, wherever we have it, it's probably something we can.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.06,
+            "text": " I was looking at maybe MAU as a metric to perhaps measure",
+            "tokens": [
+                50364,
+                286,
+                390,
+                1237,
+                412,
+                1310,
+                376,
+                2340,
+                382,
+                257,
+                20678,
+                281,
+                4317,
+                3481,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.925757110118866
+                },
+                {
+                    "word": " was",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.9974537491798401
+                },
+                {
+                    "word": " looking",
+                    "start": 0.52,
+                    "end": 1.16,
+                    "probability": 0.5786142945289612
+                },
+                {
+                    "word": " at",
+                    "start": 1.16,
+                    "end": 3.0,
+                    "probability": 0.9934453964233398
+                },
+                {
+                    "word": " maybe",
+                    "start": 3.0,
+                    "end": 3.68,
+                    "probability": 0.7518499493598938
+                },
+                {
+                    "word": " MAU",
+                    "start": 3.68,
+                    "end": 4.24,
+                    "probability": 0.7414049804210663
+                },
+                {
+                    "word": " as",
+                    "start": 4.24,
+                    "end": 4.86,
+                    "probability": 0.9204923510551453
+                },
+                {
+                    "word": " a",
+                    "start": 4.86,
+                    "end": 5.06,
+                    "probability": 0.8783540725708008
+                },
+                {
+                    "word": " metric",
+                    "start": 5.06,
+                    "end": 5.38,
+                    "probability": 0.9985191226005554
+                },
+                {
+                    "word": " to",
+                    "start": 5.38,
+                    "end": 6.14,
+                    "probability": 0.939639151096344
+                },
+                {
+                    "word": " perhaps",
+                    "start": 6.14,
+                    "end": 6.7,
+                    "probability": 0.9443279504776001
+                },
+                {
+                    "word": " measure",
+                    "start": 6.7,
+                    "end": 7.06,
+                    "probability": 0.9925520420074463
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.06,
+            "end": 10.56,
+            "text": " whether customers have started using that, are interested",
+            "tokens": [
+                50714,
+                1968,
+                4581,
+                362,
+                1409,
+                1228,
+                300,
+                11,
+                366,
+                3102,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " whether",
+                    "start": 7.06,
+                    "end": 7.32,
+                    "probability": 0.8752306699752808
+                },
+                {
+                    "word": " customers",
+                    "start": 7.32,
+                    "end": 7.8,
+                    "probability": 0.8896177411079407
+                },
+                {
+                    "word": " have",
+                    "start": 7.8,
+                    "end": 8.06,
+                    "probability": 0.9502682685852051
+                },
+                {
+                    "word": " started",
+                    "start": 8.06,
+                    "end": 8.48,
+                    "probability": 0.9922677874565125
+                },
+                {
+                    "word": " using",
+                    "start": 8.48,
+                    "end": 8.94,
+                    "probability": 0.9895744919776917
+                },
+                {
+                    "word": " that,",
+                    "start": 8.94,
+                    "end": 9.46,
+                    "probability": 0.9659146070480347
+                },
+                {
+                    "word": " are",
+                    "start": 9.84,
+                    "end": 10.12,
+                    "probability": 0.898253321647644
+                },
+                {
+                    "word": " interested",
+                    "start": 10.12,
+                    "end": 10.56,
+                    "probability": 0.9979992508888245
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.56,
+            "end": 12.0,
+            "text": " in using that or not.",
+            "tokens": [
+                50892,
+                294,
+                1228,
+                300,
+                420,
+                406,
+                13,
+                50994
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 10.56,
+                    "end": 10.84,
+                    "probability": 0.9957184195518494
+                },
+                {
+                    "word": " using",
+                    "start": 10.84,
+                    "end": 11.14,
+                    "probability": 0.9983481168746948
+                },
+                {
+                    "word": " that",
+                    "start": 11.14,
+                    "end": 11.52,
+                    "probability": 0.9958613514900208
+                },
+                {
+                    "word": " or",
+                    "start": 11.52,
+                    "end": 11.72,
+                    "probability": 0.934194803237915
+                },
+                {
+                    "word": " not.",
+                    "start": 11.72,
+                    "end": 12.0,
+                    "probability": 0.992701530456543
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.66,
+            "end": 14.74,
+            "text": " We probably may not have it for everything,",
+            "tokens": [
+                50994,
+                492,
+                1391,
+                815,
+                406,
+                362,
+                309,
+                337,
+                1203,
+                11,
+                51104
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 12.66,
+                    "end": 12.92,
+                    "probability": 0.9957422614097595
+                },
+                {
+                    "word": " probably",
+                    "start": 12.92,
+                    "end": 13.26,
+                    "probability": 0.9966824650764465
+                },
+                {
+                    "word": " may",
+                    "start": 13.26,
+                    "end": 13.48,
+                    "probability": 0.9873721599578857
+                },
+                {
+                    "word": " not",
+                    "start": 13.48,
+                    "end": 13.76,
+                    "probability": 0.9996625185012817
+                },
+                {
+                    "word": " have",
+                    "start": 13.76,
+                    "end": 13.94,
+                    "probability": 0.9994939565658569
+                },
+                {
+                    "word": " it",
+                    "start": 13.94,
+                    "end": 14.12,
+                    "probability": 0.9987949132919312
+                },
+                {
+                    "word": " for",
+                    "start": 14.12,
+                    "end": 14.42,
+                    "probability": 0.9979780316352844
+                },
+                {
+                    "word": " everything,",
+                    "start": 14.42,
+                    "end": 14.74,
+                    "probability": 0.9983710646629333
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.92,
+            "end": 17.5,
+            "text": " but at least some of it, wherever we have it,",
+            "tokens": [
+                51104,
+                457,
+                412,
+                1935,
+                512,
+                295,
+                309,
+                11,
+                8660,
+                321,
+                362,
+                309,
+                11,
+                51266
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 14.92,
+                    "end": 15.04,
+                    "probability": 0.9982302784919739
+                },
+                {
+                    "word": " at",
+                    "start": 15.04,
+                    "end": 15.2,
+                    "probability": 0.9954835176467896
+                },
+                {
+                    "word": " least",
+                    "start": 15.2,
+                    "end": 15.68,
+                    "probability": 0.9998220801353455
+                },
+                {
+                    "word": " some",
+                    "start": 15.68,
+                    "end": 15.98,
+                    "probability": 0.9830814003944397
+                },
+                {
+                    "word": " of",
+                    "start": 15.98,
+                    "end": 16.2,
+                    "probability": 0.9986985921859741
+                },
+                {
+                    "word": " it,",
+                    "start": 16.2,
+                    "end": 16.42,
+                    "probability": 0.9953515529632568
+                },
+                {
+                    "word": " wherever",
+                    "start": 16.46,
+                    "end": 16.7,
+                    "probability": 0.9342266321182251
+                },
+                {
+                    "word": " we",
+                    "start": 16.7,
+                    "end": 17.02,
+                    "probability": 0.9973251819610596
+                },
+                {
+                    "word": " have",
+                    "start": 17.02,
+                    "end": 17.18,
+                    "probability": 0.9989063739776611
+                },
+                {
+                    "word": " it,",
+                    "start": 17.18,
+                    "end": 17.5,
+                    "probability": 0.9757940769195557
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.98,
+            "end": 19.56,
+            "text": " it's probably something we can.",
+            "tokens": [
+                51266,
+                309,
+                311,
+                1391,
+                746,
+                321,
+                393,
+                13,
+                51402
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19003582000732422,
+            "compression_ratio": 1.532544378698225,
+            "no_speech_prob": 2.7963171305600554e-05,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 17.98,
+                    "end": 18.38,
+                    "probability": 0.8484726250171661
+                },
+                {
+                    "word": " probably",
+                    "start": 18.38,
+                    "end": 18.68,
+                    "probability": 0.9931718111038208
+                },
+                {
+                    "word": " something",
+                    "start": 18.68,
+                    "end": 19.04,
+                    "probability": 0.9987421631813049
+                },
+                {
+                    "word": " we",
+                    "start": 19.04,
+                    "end": 19.32,
+                    "probability": 0.9358059763908386
+                },
+                {
+                    "word": " can.",
+                    "start": 19.32,
+                    "end": 19.56,
+                    "probability": 0.9994823932647705
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

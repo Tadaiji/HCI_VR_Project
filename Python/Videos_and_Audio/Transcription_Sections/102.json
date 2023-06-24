@@ -1,0 +1,167 @@
+{
+    "text": " And do we need to add a line item for GitLab as well? Because I think that's missing over here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 6.64,
+            "text": " And do we need to add a line item for GitLab as well? Because I think that's missing over here.",
+            "tokens": [
+                50364,
+                400,
+                360,
+                321,
+                643,
+                281,
+                909,
+                257,
+                1622,
+                3174,
+                337,
+                16939,
+                37880,
+                382,
+                731,
+                30,
+                1436,
+                286,
+                519,
+                300,
+                311,
+                5361,
+                670,
+                510,
+                13,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18656010097927517,
+            "compression_ratio": 1.0555555555555556,
+            "no_speech_prob": 0.005717041902244091,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.06,
+                    "end": 0.62,
+                    "probability": 0.1799338012933731
+                },
+                {
+                    "word": " do",
+                    "start": 0.62,
+                    "end": 0.86,
+                    "probability": 0.84010910987854
+                },
+                {
+                    "word": " we",
+                    "start": 0.86,
+                    "end": 0.98,
+                    "probability": 0.9637820720672607
+                },
+                {
+                    "word": " need",
+                    "start": 0.98,
+                    "end": 1.1,
+                    "probability": 0.9964949488639832
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9986360669136047
+                },
+                {
+                    "word": " add",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9985747337341309
+                },
+                {
+                    "word": " a",
+                    "start": 1.68,
+                    "end": 1.96,
+                    "probability": 0.9921974539756775
+                },
+                {
+                    "word": " line",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.9716981649398804
+                },
+                {
+                    "word": " item",
+                    "start": 2.16,
+                    "end": 2.54,
+                    "probability": 0.996694803237915
+                },
+                {
+                    "word": " for",
+                    "start": 2.54,
+                    "end": 2.9,
+                    "probability": 0.9909199476242065
+                },
+                {
+                    "word": " GitLab",
+                    "start": 2.9,
+                    "end": 3.36,
+                    "probability": 0.8956257104873657
+                },
+                {
+                    "word": " as",
+                    "start": 3.36,
+                    "end": 3.72,
+                    "probability": 0.969093918800354
+                },
+                {
+                    "word": " well?",
+                    "start": 3.72,
+                    "end": 3.98,
+                    "probability": 0.9991704225540161
+                },
+                {
+                    "word": " Because",
+                    "start": 4.06,
+                    "end": 4.34,
+                    "probability": 0.9776182770729065
+                },
+                {
+                    "word": " I",
+                    "start": 4.34,
+                    "end": 4.74,
+                    "probability": 0.9853124022483826
+                },
+                {
+                    "word": " think",
+                    "start": 4.74,
+                    "end": 4.96,
+                    "probability": 0.9653897881507874
+                },
+                {
+                    "word": " that's",
+                    "start": 4.96,
+                    "end": 5.84,
+                    "probability": 0.9934550225734711
+                },
+                {
+                    "word": " missing",
+                    "start": 5.84,
+                    "end": 6.08,
+                    "probability": 0.7374724745750427
+                },
+                {
+                    "word": " over",
+                    "start": 6.08,
+                    "end": 6.36,
+                    "probability": 0.9818805456161499
+                },
+                {
+                    "word": " here.",
+                    "start": 6.36,
+                    "end": 6.64,
+                    "probability": 0.9990501999855042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

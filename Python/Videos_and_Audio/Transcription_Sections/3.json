@@ -1,0 +1,123 @@
+{
+    "text": " I thought we had in Slack sort of farmed each one of them out.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " I thought we had in Slack sort of farmed each one of them out.",
+            "tokens": [
+                50364,
+                286,
+                1194,
+                321,
+                632,
+                294,
+                37211,
+                1333,
+                295,
+                1400,
+                1912,
+                1184,
+                472,
+                295,
+                552,
+                484,
+                13,
+                50546
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1747101106141743,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.0009100413881242275,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9336203932762146
+                },
+                {
+                    "word": " thought",
+                    "start": 0.18,
+                    "end": 0.36,
+                    "probability": 0.9852815270423889
+                },
+                {
+                    "word": " we",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.9945929646492004
+                },
+                {
+                    "word": " had",
+                    "start": 0.6,
+                    "end": 1.0,
+                    "probability": 0.9907553791999817
+                },
+                {
+                    "word": " in",
+                    "start": 1.0,
+                    "end": 1.3,
+                    "probability": 0.8513959646224976
+                },
+                {
+                    "word": " Slack",
+                    "start": 1.3,
+                    "end": 1.82,
+                    "probability": 0.48203060030937195
+                },
+                {
+                    "word": " sort",
+                    "start": 1.82,
+                    "end": 2.14,
+                    "probability": 0.853992760181427
+                },
+                {
+                    "word": " of",
+                    "start": 2.14,
+                    "end": 2.44,
+                    "probability": 0.9981462955474854
+                },
+                {
+                    "word": " farmed",
+                    "start": 2.44,
+                    "end": 2.74,
+                    "probability": 0.8932986259460449
+                },
+                {
+                    "word": " each",
+                    "start": 2.74,
+                    "end": 3.0,
+                    "probability": 0.9815628528594971
+                },
+                {
+                    "word": " one",
+                    "start": 3.0,
+                    "end": 3.14,
+                    "probability": 0.9983541965484619
+                },
+                {
+                    "word": " of",
+                    "start": 3.14,
+                    "end": 3.26,
+                    "probability": 0.9983561635017395
+                },
+                {
+                    "word": " them",
+                    "start": 3.26,
+                    "end": 3.4,
+                    "probability": 0.9825851917266846
+                },
+                {
+                    "word": " out.",
+                    "start": 3.4,
+                    "end": 3.62,
+                    "probability": 0.9969685673713684
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

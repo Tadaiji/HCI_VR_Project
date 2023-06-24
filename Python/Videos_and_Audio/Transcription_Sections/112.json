@@ -1,0 +1,208 @@
+{
+    "text": " Well, I thought it was supposed to be nice. None of them should be get that only right. It should be all through the lens of",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.36,
+            "text": " Well, I thought it was supposed to be nice. None of them should be get that only right. It should be all through the lens of",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                1194,
+                309,
+                390,
+                3442,
+                281,
+                312,
+                1481,
+                13,
+                14492,
+                295,
+                552,
+                820,
+                312,
+                483,
+                300,
+                787,
+                558,
+                13,
+                467,
+                820,
+                312,
+                439,
+                807,
+                264,
+                6765,
+                295,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2980786859989166,
+            "compression_ratio": 1.2525252525252526,
+            "no_speech_prob": 0.011302710510790348,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.6118710041046143
+                },
+                {
+                    "word": " I",
+                    "start": 0.24,
+                    "end": 0.3,
+                    "probability": 0.9876354336738586
+                },
+                {
+                    "word": " thought",
+                    "start": 0.3,
+                    "end": 0.44,
+                    "probability": 0.9979689717292786
+                },
+                {
+                    "word": " it",
+                    "start": 0.44,
+                    "end": 0.56,
+                    "probability": 0.9588117003440857
+                },
+                {
+                    "word": " was",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.9980694651603699
+                },
+                {
+                    "word": " supposed",
+                    "start": 0.74,
+                    "end": 0.86,
+                    "probability": 0.9848994016647339
+                },
+                {
+                    "word": " to",
+                    "start": 0.86,
+                    "end": 1.02,
+                    "probability": 0.9992042183876038
+                },
+                {
+                    "word": " be",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.9954368472099304
+                },
+                {
+                    "word": " nice.",
+                    "start": 1.18,
+                    "end": 1.54,
+                    "probability": 0.1961507797241211
+                },
+                {
+                    "word": " None",
+                    "start": 1.62,
+                    "end": 1.7,
+                    "probability": 0.9817376732826233
+                },
+                {
+                    "word": " of",
+                    "start": 1.7,
+                    "end": 1.84,
+                    "probability": 0.9989640712738037
+                },
+                {
+                    "word": " them",
+                    "start": 1.84,
+                    "end": 1.94,
+                    "probability": 0.9867604970932007
+                },
+                {
+                    "word": " should",
+                    "start": 1.94,
+                    "end": 2.12,
+                    "probability": 0.990011990070343
+                },
+                {
+                    "word": " be",
+                    "start": 2.12,
+                    "end": 2.28,
+                    "probability": 0.982611894607544
+                },
+                {
+                    "word": " get",
+                    "start": 2.28,
+                    "end": 2.44,
+                    "probability": 0.5309826731681824
+                },
+                {
+                    "word": " that",
+                    "start": 2.44,
+                    "end": 2.56,
+                    "probability": 0.1553691029548645
+                },
+                {
+                    "word": " only",
+                    "start": 2.56,
+                    "end": 2.78,
+                    "probability": 0.43257787823677063
+                },
+                {
+                    "word": " right.",
+                    "start": 2.78,
+                    "end": 2.98,
+                    "probability": 0.9013428688049316
+                },
+                {
+                    "word": " It",
+                    "start": 3.02,
+                    "end": 3.16,
+                    "probability": 0.998890221118927
+                },
+                {
+                    "word": " should",
+                    "start": 3.16,
+                    "end": 3.22,
+                    "probability": 0.9977425336837769
+                },
+                {
+                    "word": " be",
+                    "start": 3.22,
+                    "end": 3.42,
+                    "probability": 0.999112069606781
+                },
+                {
+                    "word": " all",
+                    "start": 3.42,
+                    "end": 3.56,
+                    "probability": 0.8194720149040222
+                },
+                {
+                    "word": " through",
+                    "start": 3.56,
+                    "end": 3.7,
+                    "probability": 0.9759173393249512
+                },
+                {
+                    "word": " the",
+                    "start": 3.7,
+                    "end": 3.86,
+                    "probability": 0.9993670582771301
+                },
+                {
+                    "word": " lens",
+                    "start": 3.86,
+                    "end": 4.1,
+                    "probability": 0.998198926448822
+                },
+                {
+                    "word": " of",
+                    "start": 4.1,
+                    "end": 4.36,
+                    "probability": 0.9967724680900574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

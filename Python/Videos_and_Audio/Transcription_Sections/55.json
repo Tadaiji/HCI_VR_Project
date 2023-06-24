@@ -1,0 +1,67 @@
+{
+    "text": " Yeah, well that was kind of...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 0.9,
+            "text": " Yeah, well that was kind of...",
+            "tokens": [
+                50364,
+                865,
+                11,
+                731,
+                300,
+                390,
+                733,
+                295,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8830439827658914,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.426248162984848,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.12,
+                    "end": 0.38,
+                    "probability": 0.13045288622379303
+                },
+                {
+                    "word": " well",
+                    "start": 0.44,
+                    "end": 0.48,
+                    "probability": 0.6116397380828857
+                },
+                {
+                    "word": " that",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.5113139152526855
+                },
+                {
+                    "word": " was",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.7476717233657837
+                },
+                {
+                    "word": " kind",
+                    "start": 0.8,
+                    "end": 0.9,
+                    "probability": 0.17601534724235535
+                },
+                {
+                    "word": " of...",
+                    "start": 0.9,
+                    "end": 0.9,
+                    "probability": 0.5532857179641724
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

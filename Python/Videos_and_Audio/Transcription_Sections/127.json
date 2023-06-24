@@ -1,0 +1,106 @@
+{
+    "text": " Go to Beadaholique.com for all of your beading supply needs!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.02,
+            "text": " Go to Beadaholique.com for all of your beading supply needs!",
+            "tokens": [
+                50364,
+                1037,
+                281,
+                31315,
+                545,
+                401,
+                1925,
+                13,
+                1112,
+                337,
+                439,
+                295,
+                428,
+                312,
+                8166,
+                5847,
+                2203,
+                0,
+                50464
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.5494643688201905,
+            "compression_ratio": 0.8955223880597015,
+            "no_speech_prob": 0.8394337296485901,
+            "words": [
+                {
+                    "word": " Go",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.011323305778205395
+                },
+                {
+                    "word": " to",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.13301962614059448
+                },
+                {
+                    "word": " Beadaholique",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.7775320112705231
+                },
+                {
+                    "word": ".com",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.9930065870285034
+                },
+                {
+                    "word": " for",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.9814598560333252
+                },
+                {
+                    "word": " all",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9847360253334045
+                },
+                {
+                    "word": " of",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9546269774436951
+                },
+                {
+                    "word": " your",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9965859651565552
+                },
+                {
+                    "word": " beading",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9719158113002777
+                },
+                {
+                    "word": " supply",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.5326909422874451
+                },
+                {
+                    "word": " needs!",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9861294627189636
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

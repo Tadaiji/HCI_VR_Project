@@ -1,0 +1,162 @@
+{
+    "text": " Have you guys seen the new infographic that the design team has come up with? Not yet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.08,
+            "text": " Have you guys seen the new infographic that the design team has come up with?",
+            "tokens": [
+                50364,
+                3560,
+                291,
+                1074,
+                1612,
+                264,
+                777,
+                1536,
+                12295,
+                300,
+                264,
+                1715,
+                1469,
+                575,
+                808,
+                493,
+                365,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3093846893310547,
+            "compression_ratio": 1.048780487804878,
+            "no_speech_prob": 0.001780649647116661,
+            "words": [
+                {
+                    "word": " Have",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.26735246181488037
+                },
+                {
+                    "word": " you",
+                    "start": 0.26,
+                    "end": 0.34,
+                    "probability": 0.9947667121887207
+                },
+                {
+                    "word": " guys",
+                    "start": 0.34,
+                    "end": 0.5,
+                    "probability": 0.9430297613143921
+                },
+                {
+                    "word": " seen",
+                    "start": 0.5,
+                    "end": 0.6,
+                    "probability": 0.9757916927337646
+                },
+                {
+                    "word": " the",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9967161417007446
+                },
+                {
+                    "word": " new",
+                    "start": 0.78,
+                    "end": 0.98,
+                    "probability": 0.9978054165840149
+                },
+                {
+                    "word": " infographic",
+                    "start": 0.98,
+                    "end": 1.42,
+                    "probability": 0.9784130156040192
+                },
+                {
+                    "word": " that",
+                    "start": 1.42,
+                    "end": 1.74,
+                    "probability": 0.9857348799705505
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 2.66,
+                    "probability": 0.9959912896156311
+                },
+                {
+                    "word": " design",
+                    "start": 2.66,
+                    "end": 3.16,
+                    "probability": 0.9522310495376587
+                },
+                {
+                    "word": " team",
+                    "start": 3.16,
+                    "end": 3.34,
+                    "probability": 0.9726152420043945
+                },
+                {
+                    "word": " has",
+                    "start": 3.34,
+                    "end": 3.5,
+                    "probability": 0.9307137727737427
+                },
+                {
+                    "word": " come",
+                    "start": 3.5,
+                    "end": 3.68,
+                    "probability": 0.9962515234947205
+                },
+                {
+                    "word": " up",
+                    "start": 3.68,
+                    "end": 3.86,
+                    "probability": 0.9615868926048279
+                },
+                {
+                    "word": " with?",
+                    "start": 3.86,
+                    "end": 4.08,
+                    "probability": 0.9307283163070679
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.36,
+            "end": 4.42,
+            "text": " Not yet.",
+            "tokens": [
+                50564,
+                1726,
+                1939,
+                13,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3093846893310547,
+            "compression_ratio": 1.048780487804878,
+            "no_speech_prob": 0.001780649647116661,
+            "words": [
+                {
+                    "word": " Not",
+                    "start": 4.36,
+                    "end": 4.36,
+                    "probability": 0.23211625218391418
+                },
+                {
+                    "word": " yet.",
+                    "start": 4.36,
+                    "end": 4.42,
+                    "probability": 0.9990160465240479
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

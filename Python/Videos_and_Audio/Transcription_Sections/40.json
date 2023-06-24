@@ -1,0 +1,192 @@
+{
+    "text": " Harsh responded to my comment about why we have the low excitement ones and just said something about having them sort of stack ranked.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.64,
+            "end": 9.36,
+            "text": " Harsh responded to my comment about why we have the low excitement ones and just said something about having them sort of stack ranked.",
+            "tokens": [
+                50364,
+                48914,
+                15806,
+                281,
+                452,
+                2871,
+                466,
+                983,
+                321,
+                362,
+                264,
+                2295,
+                14755,
+                2306,
+                293,
+                445,
+                848,
+                746,
+                466,
+                1419,
+                552,
+                1333,
+                295,
+                8630,
+                20197,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18456189973013742,
+            "compression_ratio": 1.2735849056603774,
+            "no_speech_prob": 0.007807249668985605,
+            "words": [
+                {
+                    "word": " Harsh",
+                    "start": 0.64,
+                    "end": 1.24,
+                    "probability": 0.6361070275306702
+                },
+                {
+                    "word": " responded",
+                    "start": 1.24,
+                    "end": 1.72,
+                    "probability": 0.991376519203186
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.9937118291854858
+                },
+                {
+                    "word": " my",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.9987236857414246
+                },
+                {
+                    "word": " comment",
+                    "start": 2.18,
+                    "end": 2.56,
+                    "probability": 0.9988977909088135
+                },
+                {
+                    "word": " about",
+                    "start": 2.56,
+                    "end": 2.86,
+                    "probability": 0.9930672645568848
+                },
+                {
+                    "word": " why",
+                    "start": 2.86,
+                    "end": 3.06,
+                    "probability": 0.9968698620796204
+                },
+                {
+                    "word": " we",
+                    "start": 3.06,
+                    "end": 4.02,
+                    "probability": 0.9977228045463562
+                },
+                {
+                    "word": " have",
+                    "start": 4.02,
+                    "end": 4.24,
+                    "probability": 0.9807215929031372
+                },
+                {
+                    "word": " the",
+                    "start": 4.24,
+                    "end": 4.56,
+                    "probability": 0.9789023995399475
+                },
+                {
+                    "word": " low",
+                    "start": 4.56,
+                    "end": 4.76,
+                    "probability": 0.9947842955589294
+                },
+                {
+                    "word": " excitement",
+                    "start": 4.76,
+                    "end": 5.2,
+                    "probability": 0.9689477682113647
+                },
+                {
+                    "word": " ones",
+                    "start": 5.2,
+                    "end": 5.54,
+                    "probability": 0.5447985529899597
+                },
+                {
+                    "word": " and",
+                    "start": 5.54,
+                    "end": 5.82,
+                    "probability": 0.9314996600151062
+                },
+                {
+                    "word": " just",
+                    "start": 5.82,
+                    "end": 6.06,
+                    "probability": 0.9973465204238892
+                },
+                {
+                    "word": " said",
+                    "start": 6.06,
+                    "end": 6.36,
+                    "probability": 0.9921700358390808
+                },
+                {
+                    "word": " something",
+                    "start": 6.36,
+                    "end": 6.72,
+                    "probability": 0.9936599135398865
+                },
+                {
+                    "word": " about",
+                    "start": 6.72,
+                    "end": 7.32,
+                    "probability": 0.999099850654602
+                },
+                {
+                    "word": " having",
+                    "start": 7.32,
+                    "end": 8.1,
+                    "probability": 0.9725436568260193
+                },
+                {
+                    "word": " them",
+                    "start": 8.1,
+                    "end": 8.38,
+                    "probability": 0.8184766173362732
+                },
+                {
+                    "word": " sort",
+                    "start": 8.38,
+                    "end": 8.5,
+                    "probability": 0.9788023233413696
+                },
+                {
+                    "word": " of",
+                    "start": 8.5,
+                    "end": 8.8,
+                    "probability": 0.9995906949043274
+                },
+                {
+                    "word": " stack",
+                    "start": 8.8,
+                    "end": 8.94,
+                    "probability": 0.9264264702796936
+                },
+                {
+                    "word": " ranked.",
+                    "start": 8.94,
+                    "end": 9.36,
+                    "probability": 0.8299060463905334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

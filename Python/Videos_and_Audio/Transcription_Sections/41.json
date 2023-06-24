@@ -1,0 +1,1087 @@
+{
+    "text": " Yeah, I might even constrain this is we're not going to highlight low excitement, but we want to see the full spectrum, especially in the case we have slim pickings. Alternately, if there are double digit entries, then we can stack rank. So that's kind of also helpful there. So if we have three for all of these, that, I mean, it looks like we're going to get there. And that's going to be quite a lot of features. So I might constrain it like this. Maybe you can only give out one, two, or three, and treat it as a stack rank rather than just like a raw excitement level. That doesn't necessarily.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 5.52,
+            "text": " Yeah, I might even constrain this",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                1062,
+                754,
+                1817,
+                7146,
+                341,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.49759000539779663
+                },
+                {
+                    "word": " I",
+                    "start": 1.0,
+                    "end": 4.18,
+                    "probability": 0.993171215057373
+                },
+                {
+                    "word": " might",
+                    "start": 4.18,
+                    "end": 4.38,
+                    "probability": 0.9835988283157349
+                },
+                {
+                    "word": " even",
+                    "start": 4.38,
+                    "end": 4.88,
+                    "probability": 0.9178542494773865
+                },
+                {
+                    "word": " constrain",
+                    "start": 4.88,
+                    "end": 5.36,
+                    "probability": 0.9933365285396576
+                },
+                {
+                    "word": " this",
+                    "start": 5.36,
+                    "end": 5.52,
+                    "probability": 0.3925281763076782
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.52,
+            "end": 7.16,
+            "text": " is we're not going to highlight low excitement,",
+            "tokens": [
+                50634,
+                307,
+                321,
+                434,
+                406,
+                516,
+                281,
+                5078,
+                2295,
+                14755,
+                11,
+                50728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 5.52,
+                    "end": 5.66,
+                    "probability": 0.3490169942378998
+                },
+                {
+                    "word": " we're",
+                    "start": 5.66,
+                    "end": 5.8,
+                    "probability": 0.9446114897727966
+                },
+                {
+                    "word": " not",
+                    "start": 5.8,
+                    "end": 5.96,
+                    "probability": 0.9991005659103394
+                },
+                {
+                    "word": " going",
+                    "start": 5.96,
+                    "end": 6.12,
+                    "probability": 0.9863606691360474
+                },
+                {
+                    "word": " to",
+                    "start": 6.12,
+                    "end": 6.36,
+                    "probability": 0.9996258020401001
+                },
+                {
+                    "word": " highlight",
+                    "start": 6.36,
+                    "end": 6.66,
+                    "probability": 0.9982396364212036
+                },
+                {
+                    "word": " low",
+                    "start": 6.66,
+                    "end": 6.9,
+                    "probability": 0.7603479027748108
+                },
+                {
+                    "word": " excitement,",
+                    "start": 6.9,
+                    "end": 7.16,
+                    "probability": 0.1315535455942154
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.26,
+            "end": 10.28,
+            "text": " but we want to see the full spectrum, especially",
+            "tokens": [
+                50728,
+                457,
+                321,
+                528,
+                281,
+                536,
+                264,
+                1577,
+                11143,
+                11,
+                2318,
+                50880
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 7.26,
+                    "end": 7.4,
+                    "probability": 0.9888434410095215
+                },
+                {
+                    "word": " we",
+                    "start": 7.4,
+                    "end": 7.58,
+                    "probability": 0.9980676770210266
+                },
+                {
+                    "word": " want",
+                    "start": 7.58,
+                    "end": 7.7,
+                    "probability": 0.9716376066207886
+                },
+                {
+                    "word": " to",
+                    "start": 7.7,
+                    "end": 7.82,
+                    "probability": 0.9988101720809937
+                },
+                {
+                    "word": " see",
+                    "start": 7.82,
+                    "end": 7.9,
+                    "probability": 0.9994271993637085
+                },
+                {
+                    "word": " the",
+                    "start": 7.9,
+                    "end": 8.08,
+                    "probability": 0.9993438124656677
+                },
+                {
+                    "word": " full",
+                    "start": 8.08,
+                    "end": 8.3,
+                    "probability": 0.9994993209838867
+                },
+                {
+                    "word": " spectrum,",
+                    "start": 8.3,
+                    "end": 8.96,
+                    "probability": 0.9985741376876831
+                },
+                {
+                    "word": " especially",
+                    "start": 10.0,
+                    "end": 10.28,
+                    "probability": 0.9979889392852783
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.28,
+            "end": 11.7,
+            "text": " in the case we have slim pickings.",
+            "tokens": [
+                50880,
+                294,
+                264,
+                1389,
+                321,
+                362,
+                25357,
+                1888,
+                1109,
+                13,
+                50948
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 10.28,
+                    "end": 10.44,
+                    "probability": 0.9858705401420593
+                },
+                {
+                    "word": " the",
+                    "start": 10.44,
+                    "end": 10.54,
+                    "probability": 0.9920026063919067
+                },
+                {
+                    "word": " case",
+                    "start": 10.54,
+                    "end": 10.68,
+                    "probability": 0.9997300505638123
+                },
+                {
+                    "word": " we",
+                    "start": 10.68,
+                    "end": 10.88,
+                    "probability": 0.9516657590866089
+                },
+                {
+                    "word": " have",
+                    "start": 10.88,
+                    "end": 11.06,
+                    "probability": 0.9989437460899353
+                },
+                {
+                    "word": " slim",
+                    "start": 11.06,
+                    "end": 11.3,
+                    "probability": 0.9173805117607117
+                },
+                {
+                    "word": " pickings.",
+                    "start": 11.3,
+                    "end": 11.7,
+                    "probability": 0.9719571769237518
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.94,
+            "end": 14.92,
+            "text": " Alternately, if there are double digit entries,",
+            "tokens": [
+                50948,
+                23830,
+                1592,
+                11,
+                498,
+                456,
+                366,
+                3834,
+                14293,
+                23041,
+                11,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " Alternately,",
+                    "start": 11.94,
+                    "end": 12.76,
+                    "probability": 0.8634796440601349
+                },
+                {
+                    "word": " if",
+                    "start": 13.4,
+                    "end": 13.56,
+                    "probability": 0.9967907071113586
+                },
+                {
+                    "word": " there",
+                    "start": 13.56,
+                    "end": 13.72,
+                    "probability": 0.8841413855552673
+                },
+                {
+                    "word": " are",
+                    "start": 13.72,
+                    "end": 13.86,
+                    "probability": 0.9897706508636475
+                },
+                {
+                    "word": " double",
+                    "start": 13.86,
+                    "end": 14.1,
+                    "probability": 0.9948276877403259
+                },
+                {
+                    "word": " digit",
+                    "start": 14.1,
+                    "end": 14.38,
+                    "probability": 0.9401459097862244
+                },
+                {
+                    "word": " entries,",
+                    "start": 14.38,
+                    "end": 14.92,
+                    "probability": 0.9954206347465515
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.06,
+            "end": 16.6,
+            "text": " then we can stack rank.",
+            "tokens": [
+                51114,
+                550,
+                321,
+                393,
+                8630,
+                6181,
+                13,
+                51186
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 15.06,
+                    "end": 15.34,
+                    "probability": 0.99615877866745
+                },
+                {
+                    "word": " we",
+                    "start": 15.34,
+                    "end": 15.54,
+                    "probability": 0.9979733824729919
+                },
+                {
+                    "word": " can",
+                    "start": 15.54,
+                    "end": 15.76,
+                    "probability": 0.9964163303375244
+                },
+                {
+                    "word": " stack",
+                    "start": 15.76,
+                    "end": 16.06,
+                    "probability": 0.9931297898292542
+                },
+                {
+                    "word": " rank.",
+                    "start": 16.06,
+                    "end": 16.6,
+                    "probability": 0.9638763070106506
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 20.48,
+            "end": 23.48,
+            "text": " So that's kind of also helpful there.",
+            "tokens": [
+                51386,
+                407,
+                300,
+                311,
+                733,
+                295,
+                611,
+                4961,
+                456,
+                13,
+                51544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 20.48,
+                    "end": 20.66,
+                    "probability": 0.9053317308425903
+                },
+                {
+                    "word": " that's",
+                    "start": 20.66,
+                    "end": 21.84,
+                    "probability": 0.9597844779491425
+                },
+                {
+                    "word": " kind",
+                    "start": 21.84,
+                    "end": 22.06,
+                    "probability": 0.6121910810470581
+                },
+                {
+                    "word": " of",
+                    "start": 22.06,
+                    "end": 22.34,
+                    "probability": 0.9993653893470764
+                },
+                {
+                    "word": " also",
+                    "start": 22.34,
+                    "end": 22.78,
+                    "probability": 0.9908190369606018
+                },
+                {
+                    "word": " helpful",
+                    "start": 22.78,
+                    "end": 23.18,
+                    "probability": 0.9983782768249512
+                },
+                {
+                    "word": " there.",
+                    "start": 23.18,
+                    "end": 23.48,
+                    "probability": 0.9924099445343018
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 23.52,
+            "end": 25.9,
+            "text": " So if we have three for all of these,",
+            "tokens": [
+                51544,
+                407,
+                498,
+                321,
+                362,
+                1045,
+                337,
+                439,
+                295,
+                613,
+                11,
+                51658
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 23.52,
+                    "end": 23.84,
+                    "probability": 0.9660440683364868
+                },
+                {
+                    "word": " if",
+                    "start": 23.84,
+                    "end": 24.42,
+                    "probability": 0.9564382433891296
+                },
+                {
+                    "word": " we",
+                    "start": 24.42,
+                    "end": 24.62,
+                    "probability": 0.9953180551528931
+                },
+                {
+                    "word": " have",
+                    "start": 24.62,
+                    "end": 24.8,
+                    "probability": 0.9987001419067383
+                },
+                {
+                    "word": " three",
+                    "start": 24.8,
+                    "end": 25.1,
+                    "probability": 0.9661141633987427
+                },
+                {
+                    "word": " for",
+                    "start": 25.1,
+                    "end": 25.32,
+                    "probability": 0.9946275353431702
+                },
+                {
+                    "word": " all",
+                    "start": 25.32,
+                    "end": 25.58,
+                    "probability": 0.9995734095573425
+                },
+                {
+                    "word": " of",
+                    "start": 25.58,
+                    "end": 25.7,
+                    "probability": 0.9995461106300354
+                },
+                {
+                    "word": " these,",
+                    "start": 25.7,
+                    "end": 25.9,
+                    "probability": 0.9980833530426025
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 26.52,
+            "end": 28.58,
+            "text": " that, I mean, it looks like we're going to get there.",
+            "tokens": [
+                51658,
+                300,
+                11,
+                286,
+                914,
+                11,
+                309,
+                1542,
+                411,
+                321,
+                434,
+                516,
+                281,
+                483,
+                456,
+                13,
+                51804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1947892982269002,
+            "compression_ratio": 1.5956521739130434,
+            "no_speech_prob": 0.0015482086455449462,
+            "words": [
+                {
+                    "word": " that,",
+                    "start": 26.52,
+                    "end": 26.54,
+                    "probability": 0.3853103518486023
+                },
+                {
+                    "word": " I",
+                    "start": 26.54,
+                    "end": 26.64,
+                    "probability": 0.961205780506134
+                },
+                {
+                    "word": " mean,",
+                    "start": 26.64,
+                    "end": 26.92,
+                    "probability": 0.9998540878295898
+                },
+                {
+                    "word": " it",
+                    "start": 26.92,
+                    "end": 27.16,
+                    "probability": 0.9975970387458801
+                },
+                {
+                    "word": " looks",
+                    "start": 27.16,
+                    "end": 27.3,
+                    "probability": 0.9997414946556091
+                },
+                {
+                    "word": " like",
+                    "start": 27.3,
+                    "end": 27.42,
+                    "probability": 0.9993258714675903
+                },
+                {
+                    "word": " we're",
+                    "start": 27.42,
+                    "end": 27.6,
+                    "probability": 0.999235600233078
+                },
+                {
+                    "word": " going",
+                    "start": 27.6,
+                    "end": 27.66,
+                    "probability": 0.9651867747306824
+                },
+                {
+                    "word": " to",
+                    "start": 27.66,
+                    "end": 27.78,
+                    "probability": 0.9991857409477234
+                },
+                {
+                    "word": " get",
+                    "start": 27.78,
+                    "end": 27.9,
+                    "probability": 0.9997854828834534
+                },
+                {
+                    "word": " there.",
+                    "start": 27.9,
+                    "end": 28.58,
+                    "probability": 0.9995124340057373
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2858,
+            "start": 28.62,
+            "end": 30.96,
+            "text": " And that's going to be quite a lot of features.",
+            "tokens": [
+                50376,
+                400,
+                300,
+                311,
+                516,
+                281,
+                312,
+                1596,
+                257,
+                688,
+                295,
+                4122,
+                13,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 28.62,
+                    "end": 29.14,
+                    "probability": 0.47282758355140686
+                },
+                {
+                    "word": " that's",
+                    "start": 29.14,
+                    "end": 29.5,
+                    "probability": 0.9901110529899597
+                },
+                {
+                    "word": " going",
+                    "start": 29.5,
+                    "end": 29.58,
+                    "probability": 0.8696030974388123
+                },
+                {
+                    "word": " to",
+                    "start": 29.58,
+                    "end": 29.7,
+                    "probability": 0.9993701577186584
+                },
+                {
+                    "word": " be",
+                    "start": 29.7,
+                    "end": 29.82,
+                    "probability": 0.9996387958526611
+                },
+                {
+                    "word": " quite",
+                    "start": 29.82,
+                    "end": 30.04,
+                    "probability": 0.9972067475318909
+                },
+                {
+                    "word": " a",
+                    "start": 30.04,
+                    "end": 30.2,
+                    "probability": 0.9994175434112549
+                },
+                {
+                    "word": " lot",
+                    "start": 30.2,
+                    "end": 30.34,
+                    "probability": 0.9991627931594849
+                },
+                {
+                    "word": " of",
+                    "start": 30.34,
+                    "end": 30.52,
+                    "probability": 0.9988692402839661
+                },
+                {
+                    "word": " features.",
+                    "start": 30.52,
+                    "end": 30.96,
+                    "probability": 0.997972309589386
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2858,
+            "start": 32.96,
+            "end": 36.32,
+            "text": " So I might constrain it like this.",
+            "tokens": [
+                50556,
+                407,
+                286,
+                1062,
+                1817,
+                7146,
+                309,
+                411,
+                341,
+                13,
+                50794
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 32.96,
+                    "end": 33.04,
+                    "probability": 0.9252622723579407
+                },
+                {
+                    "word": " I",
+                    "start": 33.04,
+                    "end": 34.64,
+                    "probability": 0.7352530360221863
+                },
+                {
+                    "word": " might",
+                    "start": 34.64,
+                    "end": 34.82,
+                    "probability": 0.9687953591346741
+                },
+                {
+                    "word": " constrain",
+                    "start": 34.82,
+                    "end": 35.22,
+                    "probability": 0.9878881275653839
+                },
+                {
+                    "word": " it",
+                    "start": 35.22,
+                    "end": 35.36,
+                    "probability": 0.9292886853218079
+                },
+                {
+                    "word": " like",
+                    "start": 35.36,
+                    "end": 35.62,
+                    "probability": 0.9893677830696106
+                },
+                {
+                    "word": " this.",
+                    "start": 35.62,
+                    "end": 36.32,
+                    "probability": 0.997454822063446
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2858,
+            "start": 37.32,
+            "end": 41.72,
+            "text": " Maybe you can only give out one, two, or three,",
+            "tokens": [
+                50794,
+                2704,
+                291,
+                393,
+                787,
+                976,
+                484,
+                472,
+                11,
+                732,
+                11,
+                420,
+                1045,
+                11,
+                51046
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " Maybe",
+                    "start": 37.32,
+                    "end": 37.74,
+                    "probability": 0.9961004257202148
+                },
+                {
+                    "word": " you",
+                    "start": 37.74,
+                    "end": 38.38,
+                    "probability": 0.9836429953575134
+                },
+                {
+                    "word": " can",
+                    "start": 38.38,
+                    "end": 38.58,
+                    "probability": 0.972907304763794
+                },
+                {
+                    "word": " only",
+                    "start": 38.58,
+                    "end": 38.86,
+                    "probability": 0.9994725584983826
+                },
+                {
+                    "word": " give",
+                    "start": 38.86,
+                    "end": 39.12,
+                    "probability": 0.9989510774612427
+                },
+                {
+                    "word": " out",
+                    "start": 39.12,
+                    "end": 39.5,
+                    "probability": 0.9974341988563538
+                },
+                {
+                    "word": " one,",
+                    "start": 39.5,
+                    "end": 40.2,
+                    "probability": 0.8851916193962097
+                },
+                {
+                    "word": " two,",
+                    "start": 40.2,
+                    "end": 40.52,
+                    "probability": 0.7000188827514648
+                },
+                {
+                    "word": " or",
+                    "start": 40.7,
+                    "end": 40.72,
+                    "probability": 0.9761096239089966
+                },
+                {
+                    "word": " three,",
+                    "start": 40.72,
+                    "end": 41.72,
+                    "probability": 0.9991132616996765
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2858,
+            "start": 42.64,
+            "end": 44.88,
+            "text": " and treat it as a stack rank rather than just",
+            "tokens": [
+                51046,
+                293,
+                2387,
+                309,
+                382,
+                257,
+                8630,
+                6181,
+                2831,
+                813,
+                445,
+                51176
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 42.64,
+                    "end": 42.84,
+                    "probability": 0.9911318421363831
+                },
+                {
+                    "word": " treat",
+                    "start": 42.84,
+                    "end": 43.28,
+                    "probability": 0.876133918762207
+                },
+                {
+                    "word": " it",
+                    "start": 43.28,
+                    "end": 43.42,
+                    "probability": 0.9200514554977417
+                },
+                {
+                    "word": " as",
+                    "start": 43.42,
+                    "end": 43.58,
+                    "probability": 0.990877091884613
+                },
+                {
+                    "word": " a",
+                    "start": 43.58,
+                    "end": 43.72,
+                    "probability": 0.9916037917137146
+                },
+                {
+                    "word": " stack",
+                    "start": 43.72,
+                    "end": 43.88,
+                    "probability": 0.9743524789810181
+                },
+                {
+                    "word": " rank",
+                    "start": 43.88,
+                    "end": 44.12,
+                    "probability": 0.969111979007721
+                },
+                {
+                    "word": " rather",
+                    "start": 44.12,
+                    "end": 44.42,
+                    "probability": 0.7377373576164246
+                },
+                {
+                    "word": " than",
+                    "start": 44.42,
+                    "end": 44.62,
+                    "probability": 0.9984583854675293
+                },
+                {
+                    "word": " just",
+                    "start": 44.62,
+                    "end": 44.88,
+                    "probability": 0.9783698916435242
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2858,
+            "start": 44.88,
+            "end": 46.72,
+            "text": " like a raw excitement level.",
+            "tokens": [
+                51176,
+                411,
+                257,
+                8936,
+                14755,
+                1496,
+                13,
+                51296
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " like",
+                    "start": 44.88,
+                    "end": 45.08,
+                    "probability": 0.6376093029975891
+                },
+                {
+                    "word": " a",
+                    "start": 45.08,
+                    "end": 45.28,
+                    "probability": 0.9731189012527466
+                },
+                {
+                    "word": " raw",
+                    "start": 45.28,
+                    "end": 45.94,
+                    "probability": 0.9982807636260986
+                },
+                {
+                    "word": " excitement",
+                    "start": 45.94,
+                    "end": 46.32,
+                    "probability": 0.9331343173980713
+                },
+                {
+                    "word": " level.",
+                    "start": 46.32,
+                    "end": 46.72,
+                    "probability": 0.998455286026001
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2858,
+            "start": 47.32,
+            "end": 48.24,
+            "text": " That doesn't necessarily.",
+            "tokens": [
+                51296,
+                663,
+                1177,
+                380,
+                4725,
+                13,
+                51408
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17472449470968807,
+            "compression_ratio": 1.3832335329341316,
+            "no_speech_prob": 0.0013873069547116756,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 47.32,
+                    "end": 47.44,
+                    "probability": 0.9454995393753052
+                },
+                {
+                    "word": " doesn't",
+                    "start": 47.44,
+                    "end": 47.76,
+                    "probability": 0.9985426068305969
+                },
+                {
+                    "word": " necessarily.",
+                    "start": 47.76,
+                    "end": 48.24,
+                    "probability": 0.9965733289718628
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

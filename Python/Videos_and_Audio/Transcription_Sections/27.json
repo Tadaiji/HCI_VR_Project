@@ -1,0 +1,527 @@
+{
+    "text": " No, no, no. I've done a similar, I've taken a similar approach for Monitor. With incident management, there were a bunch of things that we released. Although the core of incident management was part of 12.x, I think. So I did the same over there as well. I think that makes sense.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.7,
+            "text": " No, no, no.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                572,
+                11,
+                572,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.19967679679393768
+                },
+                {
+                    "word": " no,",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.9274871349334717
+                },
+                {
+                    "word": " no.",
+                    "start": 1.7,
+                    "end": 1.7,
+                    "probability": 0.9472551345825195
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.8,
+            "end": 7.02,
+            "text": " I've done a similar, I've taken a similar approach for Monitor.",
+            "tokens": [
+                50494,
+                286,
+                600,
+                1096,
+                257,
+                2531,
+                11,
+                286,
+                600,
+                2726,
+                257,
+                2531,
+                3109,
+                337,
+                33799,
+                13,
+                50760
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.9594236314296722
+                },
+                {
+                    "word": " done",
+                    "start": 2.98,
+                    "end": 3.08,
+                    "probability": 0.6705399751663208
+                },
+                {
+                    "word": " a",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.9860416054725647
+                },
+                {
+                    "word": " similar,",
+                    "start": 3.34,
+                    "end": 3.8,
+                    "probability": 0.9960551261901855
+                },
+                {
+                    "word": " I've",
+                    "start": 4.04,
+                    "end": 4.3,
+                    "probability": 0.9824199676513672
+                },
+                {
+                    "word": " taken",
+                    "start": 4.3,
+                    "end": 4.44,
+                    "probability": 0.9985795021057129
+                },
+                {
+                    "word": " a",
+                    "start": 4.44,
+                    "end": 4.66,
+                    "probability": 0.9978200197219849
+                },
+                {
+                    "word": " similar",
+                    "start": 4.66,
+                    "end": 4.92,
+                    "probability": 0.9985478520393372
+                },
+                {
+                    "word": " approach",
+                    "start": 4.92,
+                    "end": 5.56,
+                    "probability": 0.9834299087524414
+                },
+                {
+                    "word": " for",
+                    "start": 5.56,
+                    "end": 6.4,
+                    "probability": 0.9801586866378784
+                },
+                {
+                    "word": " Monitor.",
+                    "start": 6.4,
+                    "end": 7.02,
+                    "probability": 0.3352946937084198
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.08,
+            "end": 10.42,
+            "text": " With incident management, there were a bunch of things",
+            "tokens": [
+                50760,
+                2022,
+                9348,
+                4592,
+                11,
+                456,
+                645,
+                257,
+                3840,
+                295,
+                721,
+                50884
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " With",
+                    "start": 8.08,
+                    "end": 8.32,
+                    "probability": 0.9507133960723877
+                },
+                {
+                    "word": " incident",
+                    "start": 8.32,
+                    "end": 8.78,
+                    "probability": 0.6676235198974609
+                },
+                {
+                    "word": " management,",
+                    "start": 8.78,
+                    "end": 9.3,
+                    "probability": 0.9983221888542175
+                },
+                {
+                    "word": " there",
+                    "start": 9.54,
+                    "end": 9.56,
+                    "probability": 0.9772469997406006
+                },
+                {
+                    "word": " were",
+                    "start": 9.56,
+                    "end": 9.7,
+                    "probability": 0.9812421798706055
+                },
+                {
+                    "word": " a",
+                    "start": 9.7,
+                    "end": 9.94,
+                    "probability": 0.8959981799125671
+                },
+                {
+                    "word": " bunch",
+                    "start": 9.94,
+                    "end": 9.94,
+                    "probability": 0.999403715133667
+                },
+                {
+                    "word": " of",
+                    "start": 9.94,
+                    "end": 10.22,
+                    "probability": 0.9996553659439087
+                },
+                {
+                    "word": " things",
+                    "start": 10.22,
+                    "end": 10.42,
+                    "probability": 0.9995637536048889
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.42,
+            "end": 11.4,
+            "text": " that we released.",
+            "tokens": [
+                50884,
+                300,
+                321,
+                4736,
+                13,
+                50992
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 10.42,
+                    "end": 10.78,
+                    "probability": 0.9950897693634033
+                },
+                {
+                    "word": " we",
+                    "start": 10.78,
+                    "end": 10.96,
+                    "probability": 0.9379932880401611
+                },
+                {
+                    "word": " released.",
+                    "start": 10.96,
+                    "end": 11.4,
+                    "probability": 0.9814324975013733
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.8,
+            "end": 16.76,
+            "text": " Although the core of incident management was part of 12.x,",
+            "tokens": [
+                50992,
+                5780,
+                264,
+                4965,
+                295,
+                9348,
+                4592,
+                390,
+                644,
+                295,
+                2272,
+                13,
+                87,
+                11,
+                51202
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " Although",
+                    "start": 12.8,
+                    "end": 12.98,
+                    "probability": 0.9933577179908752
+                },
+                {
+                    "word": " the",
+                    "start": 12.98,
+                    "end": 13.36,
+                    "probability": 0.9323080778121948
+                },
+                {
+                    "word": " core",
+                    "start": 13.36,
+                    "end": 13.6,
+                    "probability": 0.9920060038566589
+                },
+                {
+                    "word": " of",
+                    "start": 13.6,
+                    "end": 13.94,
+                    "probability": 0.9839109182357788
+                },
+                {
+                    "word": " incident",
+                    "start": 13.94,
+                    "end": 14.34,
+                    "probability": 0.9806712865829468
+                },
+                {
+                    "word": " management",
+                    "start": 14.34,
+                    "end": 14.9,
+                    "probability": 0.9991194605827332
+                },
+                {
+                    "word": " was",
+                    "start": 14.9,
+                    "end": 15.62,
+                    "probability": 0.995559573173523
+                },
+                {
+                    "word": " part",
+                    "start": 15.62,
+                    "end": 15.98,
+                    "probability": 0.9752705097198486
+                },
+                {
+                    "word": " of",
+                    "start": 15.98,
+                    "end": 16.16,
+                    "probability": 0.996217668056488
+                },
+                {
+                    "word": " 12",
+                    "start": 16.16,
+                    "end": 16.32,
+                    "probability": 0.7790312170982361
+                },
+                {
+                    "word": ".x,",
+                    "start": 16.32,
+                    "end": 16.76,
+                    "probability": 0.9019226431846619
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.08,
+            "end": 17.26,
+            "text": " I think.",
+            "tokens": [
+                51202,
+                286,
+                519,
+                13,
+                51228
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 17.08,
+                    "end": 17.08,
+                    "probability": 0.9724391102790833
+                },
+                {
+                    "word": " think.",
+                    "start": 17.08,
+                    "end": 17.26,
+                    "probability": 0.9980278611183167
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 18.08,
+            "end": 21.04,
+            "text": " So I did the same over there as well.",
+            "tokens": [
+                51228,
+                407,
+                286,
+                630,
+                264,
+                912,
+                670,
+                456,
+                382,
+                731,
+                13,
+                51460
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 18.08,
+                    "end": 18.08,
+                    "probability": 0.9588618874549866
+                },
+                {
+                    "word": " I",
+                    "start": 18.08,
+                    "end": 19.3,
+                    "probability": 0.7988089323043823
+                },
+                {
+                    "word": " did",
+                    "start": 19.3,
+                    "end": 19.48,
+                    "probability": 0.9978487491607666
+                },
+                {
+                    "word": " the",
+                    "start": 19.48,
+                    "end": 19.74,
+                    "probability": 0.998855710029602
+                },
+                {
+                    "word": " same",
+                    "start": 19.74,
+                    "end": 20.0,
+                    "probability": 0.999727189540863
+                },
+                {
+                    "word": " over",
+                    "start": 20.0,
+                    "end": 20.26,
+                    "probability": 0.569282591342926
+                },
+                {
+                    "word": " there",
+                    "start": 20.26,
+                    "end": 20.54,
+                    "probability": 0.9769796133041382
+                },
+                {
+                    "word": " as",
+                    "start": 20.54,
+                    "end": 20.78,
+                    "probability": 0.8921508193016052
+                },
+                {
+                    "word": " well.",
+                    "start": 20.78,
+                    "end": 21.04,
+                    "probability": 0.9975405931472778
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 21.8,
+            "end": 23.16,
+            "text": " I think that makes sense.",
+            "tokens": [
+                51460,
+                286,
+                519,
+                300,
+                1669,
+                2020,
+                13,
+                51582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23598539261590867,
+            "compression_ratio": 1.5555555555555556,
+            "no_speech_prob": 0.0005599068244919181,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 21.8,
+                    "end": 22.14,
+                    "probability": 0.4981350302696228
+                },
+                {
+                    "word": " think",
+                    "start": 22.14,
+                    "end": 22.32,
+                    "probability": 0.9994294047355652
+                },
+                {
+                    "word": " that",
+                    "start": 22.32,
+                    "end": 22.6,
+                    "probability": 0.9980143308639526
+                },
+                {
+                    "word": " makes",
+                    "start": 22.6,
+                    "end": 22.76,
+                    "probability": 0.9867799878120422
+                },
+                {
+                    "word": " sense.",
+                    "start": 22.76,
+                    "end": 23.16,
+                    "probability": 0.9995037317276001
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

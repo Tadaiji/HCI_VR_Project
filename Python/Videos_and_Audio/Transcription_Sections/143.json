@@ -1,0 +1,1199 @@
+{
+    "text": " So the way this is getting built is off of a data model. So in theory, these could change or be updated where the underlying data remains the same, right? Because we're separating presentation layer from data layer. So it's not going to be as hard to update in the future as it currently is, where it's a mess of spaghetti code and it's really, really difficult to update. And then the other component is then, not in this iteration, we need to get something live. But in the next iteration, you'll click on Verify and it'll go down to the list of the 15 features. And that's where you can describe what the heck a Verify is or what the heck I manage. OK. So we will.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 2.12,
+            "end": 6.2,
+            "text": " So the way this is getting built is off of a data model.",
+            "tokens": [
+                50364,
+                407,
+                264,
+                636,
+                341,
+                307,
+                1242,
+                3094,
+                307,
+                766,
+                295,
+                257,
+                1412,
+                2316,
+                13,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.12,
+                    "end": 2.64,
+                    "probability": 0.648486852645874
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 3.0,
+                    "probability": 0.5889678001403809
+                },
+                {
+                    "word": " way",
+                    "start": 3.0,
+                    "end": 3.16,
+                    "probability": 0.9976724982261658
+                },
+                {
+                    "word": " this",
+                    "start": 3.16,
+                    "end": 4.32,
+                    "probability": 0.9797039031982422
+                },
+                {
+                    "word": " is",
+                    "start": 4.32,
+                    "end": 4.46,
+                    "probability": 0.989685595035553
+                },
+                {
+                    "word": " getting",
+                    "start": 4.46,
+                    "end": 4.68,
+                    "probability": 0.8930209279060364
+                },
+                {
+                    "word": " built",
+                    "start": 4.68,
+                    "end": 5.04,
+                    "probability": 0.9974986910820007
+                },
+                {
+                    "word": " is",
+                    "start": 5.04,
+                    "end": 5.26,
+                    "probability": 0.983160674571991
+                },
+                {
+                    "word": " off",
+                    "start": 5.26,
+                    "end": 5.4,
+                    "probability": 0.9957018494606018
+                },
+                {
+                    "word": " of",
+                    "start": 5.4,
+                    "end": 5.54,
+                    "probability": 0.9925121068954468
+                },
+                {
+                    "word": " a",
+                    "start": 5.54,
+                    "end": 5.7,
+                    "probability": 0.9984171390533447
+                },
+                {
+                    "word": " data",
+                    "start": 5.7,
+                    "end": 5.88,
+                    "probability": 0.9977217316627502
+                },
+                {
+                    "word": " model.",
+                    "start": 5.88,
+                    "end": 6.2,
+                    "probability": 0.9992380142211914
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.94,
+            "end": 10.2,
+            "text": " So in theory, these could change or be",
+            "tokens": [
+                50678,
+                407,
+                294,
+                5261,
+                11,
+                613,
+                727,
+                1319,
+                420,
+                312,
+                50868
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.94,
+                    "end": 7.0,
+                    "probability": 0.9157845973968506
+                },
+                {
+                    "word": " in",
+                    "start": 7.0,
+                    "end": 8.2,
+                    "probability": 0.9390000104904175
+                },
+                {
+                    "word": " theory,",
+                    "start": 8.2,
+                    "end": 8.52,
+                    "probability": 0.99986732006073
+                },
+                {
+                    "word": " these",
+                    "start": 8.56,
+                    "end": 8.94,
+                    "probability": 0.9959638118743896
+                },
+                {
+                    "word": " could",
+                    "start": 8.94,
+                    "end": 9.34,
+                    "probability": 0.9997594952583313
+                },
+                {
+                    "word": " change",
+                    "start": 9.34,
+                    "end": 9.86,
+                    "probability": 0.9984007477760315
+                },
+                {
+                    "word": " or",
+                    "start": 9.86,
+                    "end": 10.0,
+                    "probability": 0.9807871580123901
+                },
+                {
+                    "word": " be",
+                    "start": 10.0,
+                    "end": 10.2,
+                    "probability": 0.9997050166130066
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.2,
+            "end": 13.86,
+            "text": " updated where the underlying data remains the same, right?",
+            "tokens": [
+                50868,
+                10588,
+                689,
+                264,
+                14217,
+                1412,
+                7023,
+                264,
+                912,
+                11,
+                558,
+                30,
+                51050
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " updated",
+                    "start": 10.2,
+                    "end": 10.7,
+                    "probability": 0.999056875705719
+                },
+                {
+                    "word": " where",
+                    "start": 10.7,
+                    "end": 11.02,
+                    "probability": 0.9638305902481079
+                },
+                {
+                    "word": " the",
+                    "start": 11.02,
+                    "end": 11.28,
+                    "probability": 0.9988877177238464
+                },
+                {
+                    "word": " underlying",
+                    "start": 11.28,
+                    "end": 11.56,
+                    "probability": 0.9997472167015076
+                },
+                {
+                    "word": " data",
+                    "start": 11.56,
+                    "end": 12.1,
+                    "probability": 0.9996625185012817
+                },
+                {
+                    "word": " remains",
+                    "start": 12.1,
+                    "end": 12.42,
+                    "probability": 0.9993465542793274
+                },
+                {
+                    "word": " the",
+                    "start": 12.42,
+                    "end": 12.64,
+                    "probability": 0.9996223449707031
+                },
+                {
+                    "word": " same,",
+                    "start": 12.64,
+                    "end": 13.28,
+                    "probability": 0.9999644756317139
+                },
+                {
+                    "word": " right?",
+                    "start": 13.34,
+                    "end": 13.86,
+                    "probability": 0.8199970722198486
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.86,
+            "end": 17.66,
+            "text": " Because we're separating presentation layer",
+            "tokens": [
+                51050,
+                1436,
+                321,
+                434,
+                29279,
+                5860,
+                4583,
+                51246
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 13.86,
+                    "end": 14.06,
+                    "probability": 0.6112198829650879
+                },
+                {
+                    "word": " we're",
+                    "start": 14.06,
+                    "end": 15.0,
+                    "probability": 0.8749254941940308
+                },
+                {
+                    "word": " separating",
+                    "start": 15.0,
+                    "end": 16.04,
+                    "probability": 0.9978444576263428
+                },
+                {
+                    "word": " presentation",
+                    "start": 16.04,
+                    "end": 17.28,
+                    "probability": 0.761333703994751
+                },
+                {
+                    "word": " layer",
+                    "start": 17.28,
+                    "end": 17.66,
+                    "probability": 0.9925251007080078
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 17.66,
+            "end": 18.6,
+            "text": " from data layer.",
+            "tokens": [
+                51246,
+                490,
+                1412,
+                4583,
+                13,
+                51286
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 17.66,
+                    "end": 17.92,
+                    "probability": 0.9990121126174927
+                },
+                {
+                    "word": " data",
+                    "start": 17.92,
+                    "end": 18.18,
+                    "probability": 0.9976345300674438
+                },
+                {
+                    "word": " layer.",
+                    "start": 18.18,
+                    "end": 18.6,
+                    "probability": 0.9985721111297607
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 21.44,
+            "end": 24.48,
+            "text": " So it's not going to be as hard to update in the future",
+            "tokens": [
+                51436,
+                407,
+                309,
+                311,
+                406,
+                516,
+                281,
+                312,
+                382,
+                1152,
+                281,
+                5623,
+                294,
+                264,
+                2027,
+                51590
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 21.44,
+                    "end": 21.6,
+                    "probability": 0.8998638987541199
+                },
+                {
+                    "word": " it's",
+                    "start": 21.6,
+                    "end": 22.5,
+                    "probability": 0.9221636354923248
+                },
+                {
+                    "word": " not",
+                    "start": 22.5,
+                    "end": 22.72,
+                    "probability": 0.9996429681777954
+                },
+                {
+                    "word": " going",
+                    "start": 22.72,
+                    "end": 22.82,
+                    "probability": 0.9918027520179749
+                },
+                {
+                    "word": " to",
+                    "start": 22.82,
+                    "end": 22.9,
+                    "probability": 0.9997856020927429
+                },
+                {
+                    "word": " be",
+                    "start": 22.9,
+                    "end": 23.04,
+                    "probability": 0.999954342842102
+                },
+                {
+                    "word": " as",
+                    "start": 23.04,
+                    "end": 23.34,
+                    "probability": 0.9998422861099243
+                },
+                {
+                    "word": " hard",
+                    "start": 23.34,
+                    "end": 23.46,
+                    "probability": 0.9998797178268433
+                },
+                {
+                    "word": " to",
+                    "start": 23.46,
+                    "end": 23.68,
+                    "probability": 0.9997933506965637
+                },
+                {
+                    "word": " update",
+                    "start": 23.68,
+                    "end": 23.82,
+                    "probability": 0.9994332194328308
+                },
+                {
+                    "word": " in",
+                    "start": 23.82,
+                    "end": 24.0,
+                    "probability": 0.99410480260849
+                },
+                {
+                    "word": " the",
+                    "start": 24.0,
+                    "end": 24.16,
+                    "probability": 0.9999290704727173
+                },
+                {
+                    "word": " future",
+                    "start": 24.16,
+                    "end": 24.48,
+                    "probability": 0.9997338652610779
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 24.48,
+            "end": 27.26,
+            "text": " as it currently is, where it's a mess of spaghetti code",
+            "tokens": [
+                51590,
+                382,
+                309,
+                4362,
+                307,
+                11,
+                689,
+                309,
+                311,
+                257,
+                2082,
+                295,
+                28556,
+                3089,
+                51726
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 24.48,
+                    "end": 24.82,
+                    "probability": 0.9868628978729248
+                },
+                {
+                    "word": " it",
+                    "start": 24.82,
+                    "end": 25.12,
+                    "probability": 0.999794065952301
+                },
+                {
+                    "word": " currently",
+                    "start": 25.12,
+                    "end": 25.42,
+                    "probability": 0.9997946619987488
+                },
+                {
+                    "word": " is,",
+                    "start": 25.42,
+                    "end": 25.7,
+                    "probability": 0.998978853225708
+                },
+                {
+                    "word": " where",
+                    "start": 25.72,
+                    "end": 25.86,
+                    "probability": 0.999338686466217
+                },
+                {
+                    "word": " it's",
+                    "start": 25.86,
+                    "end": 26.28,
+                    "probability": 0.9994456171989441
+                },
+                {
+                    "word": " a",
+                    "start": 26.28,
+                    "end": 26.4,
+                    "probability": 0.9985995888710022
+                },
+                {
+                    "word": " mess",
+                    "start": 26.4,
+                    "end": 26.56,
+                    "probability": 0.9880402684211731
+                },
+                {
+                    "word": " of",
+                    "start": 26.56,
+                    "end": 26.76,
+                    "probability": 0.9883529543876648
+                },
+                {
+                    "word": " spaghetti",
+                    "start": 26.76,
+                    "end": 27.02,
+                    "probability": 0.9828709363937378
+                },
+                {
+                    "word": " code",
+                    "start": 27.02,
+                    "end": 27.26,
+                    "probability": 0.9991986155509949
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 27.26,
+            "end": 29.18,
+            "text": " and it's really, really difficult to update.",
+            "tokens": [
+                51726,
+                293,
+                309,
+                311,
+                534,
+                11,
+                534,
+                2252,
+                281,
+                5623,
+                13,
+                51846
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16042550404866537,
+            "compression_ratio": 1.6607142857142858,
+            "no_speech_prob": 0.0013881440972909331,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 27.26,
+                    "end": 27.34,
+                    "probability": 0.561573326587677
+                },
+                {
+                    "word": " it's",
+                    "start": 27.34,
+                    "end": 27.72,
+                    "probability": 0.9993299841880798
+                },
+                {
+                    "word": " really,",
+                    "start": 27.72,
+                    "end": 28.1,
+                    "probability": 0.8621872663497925
+                },
+                {
+                    "word": " really",
+                    "start": 28.1,
+                    "end": 28.3,
+                    "probability": 0.9998835325241089
+                },
+                {
+                    "word": " difficult",
+                    "start": 28.3,
+                    "end": 28.66,
+                    "probability": 0.9960516095161438
+                },
+                {
+                    "word": " to",
+                    "start": 28.66,
+                    "end": 28.86,
+                    "probability": 0.9381545186042786
+                },
+                {
+                    "word": " update.",
+                    "start": 28.86,
+                    "end": 29.18,
+                    "probability": 0.9991998076438904
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2918,
+            "start": 29.42,
+            "end": 34.18,
+            "text": " And then the other component is then, not in this iteration,",
+            "tokens": [
+                50386,
+                400,
+                550,
+                264,
+                661,
+                6542,
+                307,
+                550,
+                11,
+                406,
+                294,
+                341,
+                24784,
+                11,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 29.42,
+                    "end": 29.86,
+                    "probability": 0.6625588536262512
+                },
+                {
+                    "word": " then",
+                    "start": 29.86,
+                    "end": 30.16,
+                    "probability": 0.9765927791595459
+                },
+                {
+                    "word": " the",
+                    "start": 30.16,
+                    "end": 30.88,
+                    "probability": 0.9098706841468811
+                },
+                {
+                    "word": " other",
+                    "start": 30.88,
+                    "end": 31.12,
+                    "probability": 0.998350977897644
+                },
+                {
+                    "word": " component",
+                    "start": 31.12,
+                    "end": 31.64,
+                    "probability": 0.9976760745048523
+                },
+                {
+                    "word": " is",
+                    "start": 31.64,
+                    "end": 32.0,
+                    "probability": 0.9803809523582458
+                },
+                {
+                    "word": " then,",
+                    "start": 32.0,
+                    "end": 32.44,
+                    "probability": 0.9273445010185242
+                },
+                {
+                    "word": " not",
+                    "start": 33.06,
+                    "end": 33.48,
+                    "probability": 0.98775315284729
+                },
+                {
+                    "word": " in",
+                    "start": 33.48,
+                    "end": 33.68,
+                    "probability": 0.9913848638534546
+                },
+                {
+                    "word": " this",
+                    "start": 33.68,
+                    "end": 33.86,
+                    "probability": 0.9988309741020203
+                },
+                {
+                    "word": " iteration,",
+                    "start": 33.86,
+                    "end": 34.18,
+                    "probability": 0.9972585439682007
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2918,
+            "start": 34.3,
+            "end": 35.4,
+            "text": " we need to get something live.",
+            "tokens": [
+                50614,
+                321,
+                643,
+                281,
+                483,
+                746,
+                1621,
+                13,
+                50690
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 34.3,
+                    "end": 34.32,
+                    "probability": 0.9923254251480103
+                },
+                {
+                    "word": " need",
+                    "start": 34.32,
+                    "end": 34.48,
+                    "probability": 0.9988352656364441
+                },
+                {
+                    "word": " to",
+                    "start": 34.48,
+                    "end": 34.62,
+                    "probability": 0.9996052384376526
+                },
+                {
+                    "word": " get",
+                    "start": 34.62,
+                    "end": 34.72,
+                    "probability": 0.9994032382965088
+                },
+                {
+                    "word": " something",
+                    "start": 34.72,
+                    "end": 35.02,
+                    "probability": 0.9979965090751648
+                },
+                {
+                    "word": " live.",
+                    "start": 35.02,
+                    "end": 35.4,
+                    "probability": 0.9892567992210388
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2918,
+            "start": 35.76,
+            "end": 38.76,
+            "text": " But in the next iteration, you'll click on Verify",
+            "tokens": [
+                50690,
+                583,
+                294,
+                264,
+                958,
+                24784,
+                11,
+                291,
+                603,
+                2052,
+                322,
+                4281,
+                2505,
+                50856
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 35.76,
+                    "end": 36.12,
+                    "probability": 0.9825159311294556
+                },
+                {
+                    "word": " in",
+                    "start": 36.12,
+                    "end": 36.36,
+                    "probability": 0.9729375243186951
+                },
+                {
+                    "word": " the",
+                    "start": 36.36,
+                    "end": 36.56,
+                    "probability": 0.9996470212936401
+                },
+                {
+                    "word": " next",
+                    "start": 36.56,
+                    "end": 36.78,
+                    "probability": 0.9994938373565674
+                },
+                {
+                    "word": " iteration,",
+                    "start": 36.78,
+                    "end": 37.14,
+                    "probability": 0.9983286261558533
+                },
+                {
+                    "word": " you'll",
+                    "start": 37.44,
+                    "end": 37.66,
+                    "probability": 0.9878222644329071
+                },
+                {
+                    "word": " click",
+                    "start": 37.66,
+                    "end": 37.82,
+                    "probability": 0.998683512210846
+                },
+                {
+                    "word": " on",
+                    "start": 37.82,
+                    "end": 38.12,
+                    "probability": 0.9995754361152649
+                },
+                {
+                    "word": " Verify",
+                    "start": 38.12,
+                    "end": 38.76,
+                    "probability": 0.5706960633397102
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2918,
+            "start": 38.76,
+            "end": 41.8,
+            "text": " and it'll go down to the list of the 15 features.",
+            "tokens": [
+                50856,
+                293,
+                309,
+                603,
+                352,
+                760,
+                281,
+                264,
+                1329,
+                295,
+                264,
+                2119,
+                4122,
+                13,
+                51030
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 38.76,
+                    "end": 39.32,
+                    "probability": 0.2873046100139618
+                },
+                {
+                    "word": " it'll",
+                    "start": 39.32,
+                    "end": 39.58,
+                    "probability": 0.9495266377925873
+                },
+                {
+                    "word": " go",
+                    "start": 39.58,
+                    "end": 39.86,
+                    "probability": 0.9985339641571045
+                },
+                {
+                    "word": " down",
+                    "start": 39.86,
+                    "end": 40.2,
+                    "probability": 0.9988515377044678
+                },
+                {
+                    "word": " to",
+                    "start": 40.2,
+                    "end": 40.36,
+                    "probability": 0.9985645413398743
+                },
+                {
+                    "word": " the",
+                    "start": 40.36,
+                    "end": 40.54,
+                    "probability": 0.9991130232810974
+                },
+                {
+                    "word": " list",
+                    "start": 40.54,
+                    "end": 40.7,
+                    "probability": 0.9984952211380005
+                },
+                {
+                    "word": " of",
+                    "start": 40.7,
+                    "end": 40.88,
+                    "probability": 0.9990887641906738
+                },
+                {
+                    "word": " the",
+                    "start": 40.88,
+                    "end": 41.04,
+                    "probability": 0.9956062436103821
+                },
+                {
+                    "word": " 15",
+                    "start": 41.04,
+                    "end": 41.32,
+                    "probability": 0.9886434674263
+                },
+                {
+                    "word": " features.",
+                    "start": 41.32,
+                    "end": 41.8,
+                    "probability": 0.9919730424880981
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2918,
+            "start": 42.62,
+            "end": 43.86,
+            "text": " And that's where you can describe",
+            "tokens": [
+                51030,
+                400,
+                300,
+                311,
+                689,
+                291,
+                393,
+                6786,
+                51098
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 42.62,
+                    "end": 42.84,
+                    "probability": 0.9546610116958618
+                },
+                {
+                    "word": " that's",
+                    "start": 42.84,
+                    "end": 43.06,
+                    "probability": 0.9990211725234985
+                },
+                {
+                    "word": " where",
+                    "start": 43.06,
+                    "end": 43.18,
+                    "probability": 0.9978623986244202
+                },
+                {
+                    "word": " you",
+                    "start": 43.18,
+                    "end": 43.3,
+                    "probability": 0.9995718598365784
+                },
+                {
+                    "word": " can",
+                    "start": 43.3,
+                    "end": 43.48,
+                    "probability": 0.9994507431983948
+                },
+                {
+                    "word": " describe",
+                    "start": 43.48,
+                    "end": 43.86,
+                    "probability": 0.9982030391693115
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2918,
+            "start": 43.86,
+            "end": 46.74,
+            "text": " what the heck a Verify is or what the heck I manage.",
+            "tokens": [
+                51098,
+                437,
+                264,
+                12872,
+                257,
+                4281,
+                2505,
+                307,
+                420,
+                437,
+                264,
+                12872,
+                286,
+                3067,
+                13,
+                51242
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " what",
+                    "start": 43.86,
+                    "end": 44.1,
+                    "probability": 0.9957707524299622
+                },
+                {
+                    "word": " the",
+                    "start": 44.1,
+                    "end": 44.22,
+                    "probability": 0.9879249334335327
+                },
+                {
+                    "word": " heck",
+                    "start": 44.22,
+                    "end": 44.32,
+                    "probability": 0.731043815612793
+                },
+                {
+                    "word": " a",
+                    "start": 44.32,
+                    "end": 44.52,
+                    "probability": 0.5553305149078369
+                },
+                {
+                    "word": " Verify",
+                    "start": 44.52,
+                    "end": 44.82,
+                    "probability": 0.6778053343296051
+                },
+                {
+                    "word": " is",
+                    "start": 44.82,
+                    "end": 45.4,
+                    "probability": 0.9938141107559204
+                },
+                {
+                    "word": " or",
+                    "start": 45.4,
+                    "end": 46.06,
+                    "probability": 0.13910792768001556
+                },
+                {
+                    "word": " what",
+                    "start": 46.06,
+                    "end": 46.16,
+                    "probability": 0.9886981844902039
+                },
+                {
+                    "word": " the",
+                    "start": 46.16,
+                    "end": 46.28,
+                    "probability": 0.9950857758522034
+                },
+                {
+                    "word": " heck",
+                    "start": 46.28,
+                    "end": 46.38,
+                    "probability": 0.9936692118644714
+                },
+                {
+                    "word": " I",
+                    "start": 46.38,
+                    "end": 46.52,
+                    "probability": 0.5517225861549377
+                },
+                {
+                    "word": " manage.",
+                    "start": 46.52,
+                    "end": 46.74,
+                    "probability": 0.6805803179740906
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2918,
+            "start": 47.1,
+            "end": 47.14,
+            "text": " OK.",
+            "tokens": [
+                51242,
+                2264,
+                13,
+                51268
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " OK.",
+                    "start": 47.1,
+                    "end": 47.14,
+                    "probability": 0.1281038224697113
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2918,
+            "start": 47.34,
+            "end": 47.68,
+            "text": " So we will.",
+            "tokens": [
+                51268,
+                407,
+                321,
+                486,
+                13,
+                51346
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2117335930299223,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0059725153259932995,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 47.34,
+                    "end": 47.54,
+                    "probability": 0.9471176862716675
+                },
+                {
+                    "word": " we",
+                    "start": 47.54,
+                    "end": 47.64,
+                    "probability": 0.8443511128425598
+                },
+                {
+                    "word": " will.",
+                    "start": 47.64,
+                    "end": 47.68,
+                    "probability": 0.7844750881195068
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

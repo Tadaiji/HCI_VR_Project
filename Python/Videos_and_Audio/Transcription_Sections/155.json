@@ -1,0 +1,127 @@
+{
+    "text": " Oh, you like that? That's what I was going for. You like that? Okay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " Oh, you like that? That's what I was going for. You like that? Okay.",
+            "tokens": [
+                50364,
+                876,
+                11,
+                291,
+                411,
+                300,
+                30,
+                663,
+                311,
+                437,
+                286,
+                390,
+                516,
+                337,
+                13,
+                509,
+                411,
+                300,
+                30,
+                1033,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2609778072523034,
+            "compression_ratio": 1.1147540983606556,
+            "no_speech_prob": 0.16062532365322113,
+            "words": [
+                {
+                    "word": " Oh,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.3608768582344055
+                },
+                {
+                    "word": " you",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.8749039769172668
+                },
+                {
+                    "word": " like",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.9143872857093811
+                },
+                {
+                    "word": " that?",
+                    "start": 0.62,
+                    "end": 0.96,
+                    "probability": 0.9673169255256653
+                },
+                {
+                    "word": " That's",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.9870100617408752
+                },
+                {
+                    "word": " what",
+                    "start": 1.34,
+                    "end": 1.34,
+                    "probability": 0.9942296743392944
+                },
+                {
+                    "word": " I",
+                    "start": 1.34,
+                    "end": 1.46,
+                    "probability": 0.9814303517341614
+                },
+                {
+                    "word": " was",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9917811751365662
+                },
+                {
+                    "word": " going",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.990936815738678
+                },
+                {
+                    "word": " for.",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9921846985816956
+                },
+                {
+                    "word": " You",
+                    "start": 2.1,
+                    "end": 2.28,
+                    "probability": 0.9206260442733765
+                },
+                {
+                    "word": " like",
+                    "start": 2.28,
+                    "end": 2.58,
+                    "probability": 0.971802830696106
+                },
+                {
+                    "word": " that?",
+                    "start": 2.58,
+                    "end": 2.78,
+                    "probability": 0.836651623249054
+                },
+                {
+                    "word": " Okay.",
+                    "start": 3.02,
+                    "end": 3.12,
+                    "probability": 0.6846346855163574
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

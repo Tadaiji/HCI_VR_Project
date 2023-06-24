@@ -1,0 +1,128 @@
+{
+    "text": " old. I was, I mean, we did the fuzzing acquisitions a long time ago.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.64,
+            "end": 7.12,
+            "text": " old. I was, I mean, we did the fuzzing acquisitions a long time ago.",
+            "tokens": [
+                50364,
+                1331,
+                13,
+                286,
+                390,
+                11,
+                286,
+                914,
+                11,
+                321,
+                630,
+                264,
+                283,
+                3334,
+                8781,
+                17883,
+                2451,
+                257,
+                938,
+                565,
+                2057,
+                13,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2751700282096863,
+            "compression_ratio": 0.9714285714285714,
+            "no_speech_prob": 0.01610500179231167,
+            "words": [
+                {
+                    "word": " old.",
+                    "start": 0.64,
+                    "end": 1.36,
+                    "probability": 0.3009661138057709
+                },
+                {
+                    "word": " I",
+                    "start": 2.08,
+                    "end": 2.08,
+                    "probability": 0.8830527067184448
+                },
+                {
+                    "word": " was,",
+                    "start": 2.08,
+                    "end": 2.96,
+                    "probability": 0.6033421754837036
+                },
+                {
+                    "word": " I",
+                    "start": 3.38,
+                    "end": 3.56,
+                    "probability": 0.9746881723403931
+                },
+                {
+                    "word": " mean,",
+                    "start": 3.56,
+                    "end": 3.8,
+                    "probability": 0.99924635887146
+                },
+                {
+                    "word": " we",
+                    "start": 4.0,
+                    "end": 4.0,
+                    "probability": 0.996957540512085
+                },
+                {
+                    "word": " did",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.9984044432640076
+                },
+                {
+                    "word": " the",
+                    "start": 4.18,
+                    "end": 4.4,
+                    "probability": 0.9914831519126892
+                },
+                {
+                    "word": " fuzzing",
+                    "start": 4.4,
+                    "end": 4.8,
+                    "probability": 0.9837978680928549
+                },
+                {
+                    "word": " acquisitions",
+                    "start": 4.8,
+                    "end": 5.78,
+                    "probability": 0.9978025257587433
+                },
+                {
+                    "word": " a",
+                    "start": 5.78,
+                    "end": 6.14,
+                    "probability": 0.8238372206687927
+                },
+                {
+                    "word": " long",
+                    "start": 6.14,
+                    "end": 6.5,
+                    "probability": 0.9990525841712952
+                },
+                {
+                    "word": " time",
+                    "start": 6.5,
+                    "end": 6.84,
+                    "probability": 0.9975025057792664
+                },
+                {
+                    "word": " ago.",
+                    "start": 6.84,
+                    "end": 7.12,
+                    "probability": 0.9983939528465271
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

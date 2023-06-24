@@ -1,0 +1,108 @@
+{
+    "text": " Or you can throw it in the notes if you find it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.56,
+            "text": " Or you can throw it in the notes if you find it.",
+            "tokens": [
+                50364,
+                1610,
+                291,
+                393,
+                3507,
+                309,
+                294,
+                264,
+                5570,
+                498,
+                291,
+                915,
+                309,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29875659942626953,
+            "compression_ratio": 0.9795918367346939,
+            "no_speech_prob": 0.0082992659881711,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5193870067596436
+                },
+                {
+                    "word": " you",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.8660001158714294
+                },
+                {
+                    "word": " can",
+                    "start": 0.44,
+                    "end": 0.54,
+                    "probability": 0.7574090957641602
+                },
+                {
+                    "word": " throw",
+                    "start": 0.54,
+                    "end": 0.6,
+                    "probability": 0.9915072917938232
+                },
+                {
+                    "word": " it",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.9584197402000427
+                },
+                {
+                    "word": " in",
+                    "start": 0.74,
+                    "end": 1.88,
+                    "probability": 0.9787115454673767
+                },
+                {
+                    "word": " the",
+                    "start": 1.88,
+                    "end": 2.16,
+                    "probability": 0.9819914698600769
+                },
+                {
+                    "word": " notes",
+                    "start": 2.16,
+                    "end": 2.86,
+                    "probability": 0.9074004888534546
+                },
+                {
+                    "word": " if",
+                    "start": 2.86,
+                    "end": 3.12,
+                    "probability": 0.7109196186065674
+                },
+                {
+                    "word": " you",
+                    "start": 3.12,
+                    "end": 3.24,
+                    "probability": 0.9989756345748901
+                },
+                {
+                    "word": " find",
+                    "start": 3.24,
+                    "end": 3.38,
+                    "probability": 0.9657588005065918
+                },
+                {
+                    "word": " it.",
+                    "start": 3.38,
+                    "end": 3.56,
+                    "probability": 0.9860029220581055
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

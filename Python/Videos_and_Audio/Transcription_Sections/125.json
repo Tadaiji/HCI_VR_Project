@@ -1,0 +1,54 @@
+{
+    "text": " No, that's not good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 0.62,
+            "text": " No, that's not good.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                300,
+                311,
+                406,
+                665,
+                13,
+                50396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43848276138305664,
+            "compression_ratio": 0.7142857142857143,
+            "no_speech_prob": 0.11214155703783035,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.06,
+                    "end": 0.3,
+                    "probability": 0.41722309589385986
+                },
+                {
+                    "word": " that's",
+                    "start": 0.42,
+                    "end": 0.54,
+                    "probability": 0.9534488022327423
+                },
+                {
+                    "word": " not",
+                    "start": 0.54,
+                    "end": 0.62,
+                    "probability": 0.9744247198104858
+                },
+                {
+                    "word": " good.",
+                    "start": 0.62,
+                    "end": 0.62,
+                    "probability": 0.38115713000297546
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

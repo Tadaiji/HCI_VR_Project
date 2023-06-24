@@ -1,0 +1,234 @@
+{
+    "text": " I like it. What's the difference between that slide and the next one that doesn't have anything under security? What's the difference?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " I like it.",
+            "tokens": [
+                50364,
+                286,
+                411,
+                309,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33656937367207296,
+            "compression_ratio": 1.34,
+            "no_speech_prob": 0.008701033890247345,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.568121612071991
+                },
+                {
+                    "word": " like",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.6934669613838196
+                },
+                {
+                    "word": " it.",
+                    "start": 0.58,
+                    "end": 1.26,
+                    "probability": 0.7290242910385132
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.5,
+            "end": 5.64,
+            "text": " What's the difference between that slide and the next one that doesn't have anything under",
+            "tokens": [
+                50414,
+                708,
+                311,
+                264,
+                2649,
+                1296,
+                300,
+                4137,
+                293,
+                264,
+                958,
+                472,
+                300,
+                1177,
+                380,
+                362,
+                1340,
+                833,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33656937367207296,
+            "compression_ratio": 1.34,
+            "no_speech_prob": 0.008701033890247345,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 1.5,
+                    "end": 1.88,
+                    "probability": 0.6309850215911865
+                },
+                {
+                    "word": " the",
+                    "start": 1.88,
+                    "end": 2.02,
+                    "probability": 0.9025115966796875
+                },
+                {
+                    "word": " difference",
+                    "start": 2.02,
+                    "end": 2.3,
+                    "probability": 0.9904279708862305
+                },
+                {
+                    "word": " between",
+                    "start": 2.3,
+                    "end": 2.66,
+                    "probability": 0.9978558421134949
+                },
+                {
+                    "word": " that",
+                    "start": 2.66,
+                    "end": 3.02,
+                    "probability": 0.99849534034729
+                },
+                {
+                    "word": " slide",
+                    "start": 3.02,
+                    "end": 3.38,
+                    "probability": 0.9946942925453186
+                },
+                {
+                    "word": " and",
+                    "start": 3.38,
+                    "end": 3.68,
+                    "probability": 0.902908444404602
+                },
+                {
+                    "word": " the",
+                    "start": 3.68,
+                    "end": 3.96,
+                    "probability": 0.9972895383834839
+                },
+                {
+                    "word": " next",
+                    "start": 3.96,
+                    "end": 4.26,
+                    "probability": 0.998744010925293
+                },
+                {
+                    "word": " one",
+                    "start": 4.26,
+                    "end": 4.46,
+                    "probability": 0.9992892742156982
+                },
+                {
+                    "word": " that",
+                    "start": 4.46,
+                    "end": 4.72,
+                    "probability": 0.9213807582855225
+                },
+                {
+                    "word": " doesn't",
+                    "start": 4.72,
+                    "end": 4.96,
+                    "probability": 0.9994711577892303
+                },
+                {
+                    "word": " have",
+                    "start": 4.96,
+                    "end": 5.08,
+                    "probability": 0.999729335308075
+                },
+                {
+                    "word": " anything",
+                    "start": 5.08,
+                    "end": 5.36,
+                    "probability": 0.9985290765762329
+                },
+                {
+                    "word": " under",
+                    "start": 5.36,
+                    "end": 5.64,
+                    "probability": 0.9970321655273438
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.64,
+            "end": 6.12,
+            "text": " security?",
+            "tokens": [
+                50638,
+                3825,
+                30,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33656937367207296,
+            "compression_ratio": 1.34,
+            "no_speech_prob": 0.008701033890247345,
+            "words": [
+                {
+                    "word": " security?",
+                    "start": 5.64,
+                    "end": 6.12,
+                    "probability": 0.9872970581054688
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.54,
+            "end": 6.92,
+            "text": " What's the difference?",
+            "tokens": [
+                50688,
+                708,
+                311,
+                264,
+                2649,
+                30,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33656937367207296,
+            "compression_ratio": 1.34,
+            "no_speech_prob": 0.008701033890247345,
+            "words": [
+                {
+                    "word": " What's",
+                    "start": 6.54,
+                    "end": 6.66,
+                    "probability": 0.7093602418899536
+                },
+                {
+                    "word": " the",
+                    "start": 6.66,
+                    "end": 6.76,
+                    "probability": 0.9066429734230042
+                },
+                {
+                    "word": " difference?",
+                    "start": 6.76,
+                    "end": 6.92,
+                    "probability": 0.9535524845123291
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

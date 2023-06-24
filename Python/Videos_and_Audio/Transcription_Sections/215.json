@@ -1,0 +1,74 @@
+{
+    "text": " Good to see everybody. See you soon.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " Good to see everybody. See you soon.",
+            "tokens": [
+                50364,
+                2205,
+                281,
+                536,
+                2201,
+                13,
+                3008,
+                291,
+                2321,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.223041832447052,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.0015702617820352316,
+            "words": [
+                {
+                    "word": " Good",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8138116002082825
+                },
+                {
+                    "word": " to",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.9969701766967773
+                },
+                {
+                    "word": " see",
+                    "start": 0.4,
+                    "end": 0.52,
+                    "probability": 0.9968788623809814
+                },
+                {
+                    "word": " everybody.",
+                    "start": 0.52,
+                    "end": 0.96,
+                    "probability": 0.9151008725166321
+                },
+                {
+                    "word": " See",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.9922945499420166
+                },
+                {
+                    "word": " you",
+                    "start": 1.3,
+                    "end": 1.46,
+                    "probability": 0.9746425151824951
+                },
+                {
+                    "word": " soon.",
+                    "start": 1.46,
+                    "end": 1.58,
+                    "probability": 0.9893172383308411
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,88 @@
+{
+    "text": " How about just more speed, less risk with confidence?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.36,
+            "text": " How about just more speed, less risk with confidence?",
+            "tokens": [
+                50364,
+                1012,
+                466,
+                445,
+                544,
+                3073,
+                11,
+                1570,
+                3148,
+                365,
+                6687,
+                30,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39583659172058105,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.004000732209533453,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.26785436272621155
+                },
+                {
+                    "word": " about",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9818203449249268
+                },
+                {
+                    "word": " just",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.9187541007995605
+                },
+                {
+                    "word": " more",
+                    "start": 1.0,
+                    "end": 1.22,
+                    "probability": 0.983182430267334
+                },
+                {
+                    "word": " speed,",
+                    "start": 1.22,
+                    "end": 1.6,
+                    "probability": 0.9930877089500427
+                },
+                {
+                    "word": " less",
+                    "start": 1.86,
+                    "end": 1.98,
+                    "probability": 0.999180018901825
+                },
+                {
+                    "word": " risk",
+                    "start": 1.98,
+                    "end": 2.34,
+                    "probability": 0.9973288774490356
+                },
+                {
+                    "word": " with",
+                    "start": 2.34,
+                    "end": 2.74,
+                    "probability": 0.6102820634841919
+                },
+                {
+                    "word": " confidence?",
+                    "start": 2.74,
+                    "end": 3.36,
+                    "probability": 0.9994562268257141
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

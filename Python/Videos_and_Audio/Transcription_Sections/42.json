@@ -1,0 +1,162 @@
+{
+    "text": " It's hard to somebody's one or somebody's three may be more important than somebody else's one, depending on the.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.84,
+            "end": 8.78,
+            "text": " It's hard to somebody's one or somebody's three may be more important than somebody else's one, depending on the.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                1152,
+                281,
+                2618,
+                311,
+                472,
+                420,
+                2618,
+                311,
+                1045,
+                815,
+                312,
+                544,
+                1021,
+                813,
+                2618,
+                1646,
+                311,
+                472,
+                11,
+                5413,
+                322,
+                264,
+                13,
+                50804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3645094462803432,
+            "compression_ratio": 1.2988505747126438,
+            "no_speech_prob": 0.029263706877827644,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.84,
+                    "end": 1.6,
+                    "probability": 0.3979759160429239
+                },
+                {
+                    "word": " hard",
+                    "start": 1.6,
+                    "end": 1.04,
+                    "probability": 0.7675442099571228
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 2.36,
+                    "probability": 0.6684277057647705
+                },
+                {
+                    "word": " somebody's",
+                    "start": 2.36,
+                    "end": 3.18,
+                    "probability": 0.7262536585330963
+                },
+                {
+                    "word": " one",
+                    "start": 3.18,
+                    "end": 3.56,
+                    "probability": 0.9766779541969299
+                },
+                {
+                    "word": " or",
+                    "start": 3.56,
+                    "end": 3.92,
+                    "probability": 0.8218148946762085
+                },
+                {
+                    "word": " somebody's",
+                    "start": 3.92,
+                    "end": 4.54,
+                    "probability": 0.973712146282196
+                },
+                {
+                    "word": " three",
+                    "start": 4.54,
+                    "end": 4.76,
+                    "probability": 0.9873398542404175
+                },
+                {
+                    "word": " may",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.5594539642333984
+                },
+                {
+                    "word": " be",
+                    "start": 5.0,
+                    "end": 5.16,
+                    "probability": 0.9997188448905945
+                },
+                {
+                    "word": " more",
+                    "start": 5.16,
+                    "end": 5.36,
+                    "probability": 0.999460756778717
+                },
+                {
+                    "word": " important",
+                    "start": 5.36,
+                    "end": 5.8,
+                    "probability": 0.9986553192138672
+                },
+                {
+                    "word": " than",
+                    "start": 5.8,
+                    "end": 6.12,
+                    "probability": 0.9899035692214966
+                },
+                {
+                    "word": " somebody",
+                    "start": 6.12,
+                    "end": 6.42,
+                    "probability": 0.9987433552742004
+                },
+                {
+                    "word": " else's",
+                    "start": 6.42,
+                    "end": 7.06,
+                    "probability": 0.9401378035545349
+                },
+                {
+                    "word": " one,",
+                    "start": 7.06,
+                    "end": 7.82,
+                    "probability": 0.9707623720169067
+                },
+                {
+                    "word": " depending",
+                    "start": 7.82,
+                    "end": 8.28,
+                    "probability": 0.9389861226081848
+                },
+                {
+                    "word": " on",
+                    "start": 8.28,
+                    "end": 8.66,
+                    "probability": 0.9671462774276733
+                },
+                {
+                    "word": " the.",
+                    "start": 8.66,
+                    "end": 8.78,
+                    "probability": 0.6260796189308167
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

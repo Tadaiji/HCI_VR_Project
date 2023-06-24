@@ -1,0 +1,591 @@
+{
+    "text": " Yeah. Yeah. And vulnerability management was one of the features out of, we looked at 14.0. So I think, yeah, this is like, let's take the stuff from 14.0 and then maybe add a few more so that we can hit kind of different areas of press or give our PR team, this is kind of like input into our PR team to give them fodder to go out with.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.48,
+            "end": 7.5,
+            "text": " Yeah. Yeah. And vulnerability management was one of the features out of, we looked at 14.0.",
+            "tokens": [
+                50364,
+                865,
+                13,
+                865,
+                13,
+                400,
+                24210,
+                4592,
+                390,
+                472,
+                295,
+                264,
+                4122,
+                484,
+                295,
+                11,
+                321,
+                2956,
+                412,
+                3499,
+                13,
+                15,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19106501721321267,
+            "compression_ratio": 1.5318181818181817,
+            "no_speech_prob": 0.0003005492326337844,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 0.48,
+                    "end": 0.96,
+                    "probability": 0.48885390162467957
+                },
+                {
+                    "word": " Yeah.",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.7239840626716614
+                },
+                {
+                    "word": " And",
+                    "start": 1.76,
+                    "end": 1.9,
+                    "probability": 0.9522168040275574
+                },
+                {
+                    "word": " vulnerability",
+                    "start": 1.9,
+                    "end": 2.2,
+                    "probability": 0.8750078082084656
+                },
+                {
+                    "word": " management",
+                    "start": 2.2,
+                    "end": 2.74,
+                    "probability": 0.9762315154075623
+                },
+                {
+                    "word": " was",
+                    "start": 2.74,
+                    "end": 3.16,
+                    "probability": 0.9924980998039246
+                },
+                {
+                    "word": " one",
+                    "start": 3.16,
+                    "end": 3.46,
+                    "probability": 0.4571695029735565
+                },
+                {
+                    "word": " of",
+                    "start": 3.46,
+                    "end": 3.82,
+                    "probability": 0.9987485408782959
+                },
+                {
+                    "word": " the",
+                    "start": 3.82,
+                    "end": 5.16,
+                    "probability": 0.9938167929649353
+                },
+                {
+                    "word": " features",
+                    "start": 5.16,
+                    "end": 5.54,
+                    "probability": 0.7089280486106873
+                },
+                {
+                    "word": " out",
+                    "start": 5.54,
+                    "end": 5.78,
+                    "probability": 0.49255552887916565
+                },
+                {
+                    "word": " of,",
+                    "start": 5.78,
+                    "end": 6.14,
+                    "probability": 0.9894618391990662
+                },
+                {
+                    "word": " we",
+                    "start": 6.26,
+                    "end": 6.54,
+                    "probability": 0.9952346682548523
+                },
+                {
+                    "word": " looked",
+                    "start": 6.54,
+                    "end": 6.72,
+                    "probability": 0.9859355688095093
+                },
+                {
+                    "word": " at",
+                    "start": 6.72,
+                    "end": 6.88,
+                    "probability": 0.6854666471481323
+                },
+                {
+                    "word": " 14",
+                    "start": 6.88,
+                    "end": 7.2,
+                    "probability": 0.6445350050926208
+                },
+                {
+                    "word": ".0.",
+                    "start": 7.2,
+                    "end": 7.5,
+                    "probability": 0.9778988063335419
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.68,
+            "end": 12.62,
+            "text": " So I think, yeah, this is like, let's take the stuff from 14.0 and then maybe add a few",
+            "tokens": [
+                50744,
+                407,
+                286,
+                519,
+                11,
+                1338,
+                11,
+                341,
+                307,
+                411,
+                11,
+                718,
+                311,
+                747,
+                264,
+                1507,
+                490,
+                3499,
+                13,
+                15,
+                293,
+                550,
+                1310,
+                909,
+                257,
+                1326,
+                50992
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19106501721321267,
+            "compression_ratio": 1.5318181818181817,
+            "no_speech_prob": 0.0003005492326337844,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 7.68,
+                    "end": 7.68,
+                    "probability": 0.915273129940033
+                },
+                {
+                    "word": " I",
+                    "start": 7.68,
+                    "end": 7.76,
+                    "probability": 0.9193071722984314
+                },
+                {
+                    "word": " think,",
+                    "start": 7.76,
+                    "end": 8.14,
+                    "probability": 0.9995286464691162
+                },
+                {
+                    "word": " yeah,",
+                    "start": 8.4,
+                    "end": 8.64,
+                    "probability": 0.9567365646362305
+                },
+                {
+                    "word": " this",
+                    "start": 8.76,
+                    "end": 8.84,
+                    "probability": 0.8033908009529114
+                },
+                {
+                    "word": " is",
+                    "start": 8.84,
+                    "end": 9.02,
+                    "probability": 0.9981321692466736
+                },
+                {
+                    "word": " like,",
+                    "start": 9.02,
+                    "end": 9.16,
+                    "probability": 0.9369657039642334
+                },
+                {
+                    "word": " let's",
+                    "start": 9.3,
+                    "end": 9.4,
+                    "probability": 0.9943416714668274
+                },
+                {
+                    "word": " take",
+                    "start": 9.4,
+                    "end": 9.56,
+                    "probability": 0.9991724491119385
+                },
+                {
+                    "word": " the",
+                    "start": 9.56,
+                    "end": 9.72,
+                    "probability": 0.6903432607650757
+                },
+                {
+                    "word": " stuff",
+                    "start": 9.72,
+                    "end": 9.78,
+                    "probability": 0.9944319128990173
+                },
+                {
+                    "word": " from",
+                    "start": 9.78,
+                    "end": 9.96,
+                    "probability": 0.9959182143211365
+                },
+                {
+                    "word": " 14",
+                    "start": 9.96,
+                    "end": 10.32,
+                    "probability": 0.9993390440940857
+                },
+                {
+                    "word": ".0",
+                    "start": 10.32,
+                    "end": 10.9,
+                    "probability": 0.9980746209621429
+                },
+                {
+                    "word": " and",
+                    "start": 10.9,
+                    "end": 11.4,
+                    "probability": 0.7231813669204712
+                },
+                {
+                    "word": " then",
+                    "start": 11.4,
+                    "end": 11.84,
+                    "probability": 0.9981593489646912
+                },
+                {
+                    "word": " maybe",
+                    "start": 11.84,
+                    "end": 12.1,
+                    "probability": 0.9953740239143372
+                },
+                {
+                    "word": " add",
+                    "start": 12.1,
+                    "end": 12.34,
+                    "probability": 0.9971328973770142
+                },
+                {
+                    "word": " a",
+                    "start": 12.34,
+                    "end": 12.52,
+                    "probability": 0.9996967315673828
+                },
+                {
+                    "word": " few",
+                    "start": 12.52,
+                    "end": 12.62,
+                    "probability": 0.9998241066932678
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.62,
+            "end": 18.54,
+            "text": " more so that we can hit kind of different areas of press or give our PR team, this is",
+            "tokens": [
+                50992,
+                544,
+                370,
+                300,
+                321,
+                393,
+                2045,
+                733,
+                295,
+                819,
+                3179,
+                295,
+                1886,
+                420,
+                976,
+                527,
+                11568,
+                1469,
+                11,
+                341,
+                307,
+                51284
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19106501721321267,
+            "compression_ratio": 1.5318181818181817,
+            "no_speech_prob": 0.0003005492326337844,
+            "words": [
+                {
+                    "word": " more",
+                    "start": 12.62,
+                    "end": 13.06,
+                    "probability": 0.9999063014984131
+                },
+                {
+                    "word": " so",
+                    "start": 13.06,
+                    "end": 13.32,
+                    "probability": 0.9262822270393372
+                },
+                {
+                    "word": " that",
+                    "start": 13.32,
+                    "end": 13.54,
+                    "probability": 0.9981288313865662
+                },
+                {
+                    "word": " we",
+                    "start": 13.54,
+                    "end": 14.22,
+                    "probability": 0.9987435936927795
+                },
+                {
+                    "word": " can",
+                    "start": 14.22,
+                    "end": 14.34,
+                    "probability": 0.9945288300514221
+                },
+                {
+                    "word": " hit",
+                    "start": 14.34,
+                    "end": 14.58,
+                    "probability": 0.9795289039611816
+                },
+                {
+                    "word": " kind",
+                    "start": 14.58,
+                    "end": 14.72,
+                    "probability": 0.613383412361145
+                },
+                {
+                    "word": " of",
+                    "start": 14.72,
+                    "end": 14.9,
+                    "probability": 0.9988191723823547
+                },
+                {
+                    "word": " different",
+                    "start": 14.9,
+                    "end": 15.08,
+                    "probability": 0.9992241859436035
+                },
+                {
+                    "word": " areas",
+                    "start": 15.08,
+                    "end": 15.36,
+                    "probability": 0.9995119571685791
+                },
+                {
+                    "word": " of",
+                    "start": 15.36,
+                    "end": 15.64,
+                    "probability": 0.9993225336074829
+                },
+                {
+                    "word": " press",
+                    "start": 15.64,
+                    "end": 15.92,
+                    "probability": 0.9543362259864807
+                },
+                {
+                    "word": " or",
+                    "start": 15.92,
+                    "end": 16.78,
+                    "probability": 0.882577121257782
+                },
+                {
+                    "word": " give",
+                    "start": 16.78,
+                    "end": 17.38,
+                    "probability": 0.9951851963996887
+                },
+                {
+                    "word": " our",
+                    "start": 17.38,
+                    "end": 17.74,
+                    "probability": 0.6771785616874695
+                },
+                {
+                    "word": " PR",
+                    "start": 17.74,
+                    "end": 17.92,
+                    "probability": 0.9925859570503235
+                },
+                {
+                    "word": " team,",
+                    "start": 17.92,
+                    "end": 18.1,
+                    "probability": 0.9933833479881287
+                },
+                {
+                    "word": " this",
+                    "start": 18.14,
+                    "end": 18.28,
+                    "probability": 0.9926847219467163
+                },
+                {
+                    "word": " is",
+                    "start": 18.28,
+                    "end": 18.54,
+                    "probability": 0.9949772953987122
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.54,
+            "end": 22.06,
+            "text": " kind of like input into our PR team to give them fodder to go out with.",
+            "tokens": [
+                51284,
+                733,
+                295,
+                411,
+                4846,
+                666,
+                527,
+                11568,
+                1469,
+                281,
+                976,
+                552,
+                47698,
+                1068,
+                281,
+                352,
+                484,
+                365,
+                13,
+                51468
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19106501721321267,
+            "compression_ratio": 1.5318181818181817,
+            "no_speech_prob": 0.0003005492326337844,
+            "words": [
+                {
+                    "word": " kind",
+                    "start": 18.54,
+                    "end": 18.66,
+                    "probability": 0.9767451882362366
+                },
+                {
+                    "word": " of",
+                    "start": 18.66,
+                    "end": 18.82,
+                    "probability": 0.9982141256332397
+                },
+                {
+                    "word": " like",
+                    "start": 18.82,
+                    "end": 19.28,
+                    "probability": 0.9708520174026489
+                },
+                {
+                    "word": " input",
+                    "start": 19.28,
+                    "end": 19.52,
+                    "probability": 0.959641695022583
+                },
+                {
+                    "word": " into",
+                    "start": 19.52,
+                    "end": 19.72,
+                    "probability": 0.9799177050590515
+                },
+                {
+                    "word": " our",
+                    "start": 19.72,
+                    "end": 19.94,
+                    "probability": 0.9949082732200623
+                },
+                {
+                    "word": " PR",
+                    "start": 19.94,
+                    "end": 20.16,
+                    "probability": 0.9978224039077759
+                },
+                {
+                    "word": " team",
+                    "start": 20.16,
+                    "end": 20.4,
+                    "probability": 0.9979588985443115
+                },
+                {
+                    "word": " to",
+                    "start": 20.4,
+                    "end": 20.6,
+                    "probability": 0.97919762134552
+                },
+                {
+                    "word": " give",
+                    "start": 20.6,
+                    "end": 20.76,
+                    "probability": 0.9985466599464417
+                },
+                {
+                    "word": " them",
+                    "start": 20.76,
+                    "end": 21.0,
+                    "probability": 0.9984554052352905
+                },
+                {
+                    "word": " fodder",
+                    "start": 21.0,
+                    "end": 21.36,
+                    "probability": 0.9955234825611115
+                },
+                {
+                    "word": " to",
+                    "start": 21.36,
+                    "end": 21.48,
+                    "probability": 0.9898179173469543
+                },
+                {
+                    "word": " go",
+                    "start": 21.48,
+                    "end": 21.62,
+                    "probability": 0.9994291663169861
+                },
+                {
+                    "word": " out",
+                    "start": 21.62,
+                    "end": 21.86,
+                    "probability": 0.9964216947555542
+                },
+                {
+                    "word": " with.",
+                    "start": 21.86,
+                    "end": 22.06,
+                    "probability": 0.9960685968399048
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

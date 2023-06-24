@@ -1,0 +1,113 @@
+{
+    "text": " Oh my god, that's what I'm like. It probably won't be me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4,
+            "end": 3.2,
+            "text": " Oh my god, that's what I'm like. It probably won't be me.",
+            "tokens": [
+                50364,
+                876,
+                452,
+                3044,
+                11,
+                300,
+                311,
+                437,
+                286,
+                478,
+                411,
+                13,
+                467,
+                1391,
+                1582,
+                380,
+                312,
+                385,
+                13,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31974349703107563,
+            "compression_ratio": 0.9047619047619048,
+            "no_speech_prob": 0.014011332765221596,
+            "words": [
+                {
+                    "word": " Oh",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.29141318798065186
+                },
+                {
+                    "word": " my",
+                    "start": 0.76,
+                    "end": 1.0,
+                    "probability": 0.8183131217956543
+                },
+                {
+                    "word": " god,",
+                    "start": 1.0,
+                    "end": 1.24,
+                    "probability": 0.40923500061035156
+                },
+                {
+                    "word": " that's",
+                    "start": 1.4,
+                    "end": 1.6,
+                    "probability": 0.9926300048828125
+                },
+                {
+                    "word": " what",
+                    "start": 1.6,
+                    "end": 1.66,
+                    "probability": 0.9035792946815491
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.66,
+                    "end": 1.82,
+                    "probability": 0.9781715273857117
+                },
+                {
+                    "word": " like.",
+                    "start": 1.82,
+                    "end": 2.0,
+                    "probability": 0.9707791209220886
+                },
+                {
+                    "word": " It",
+                    "start": 2.16,
+                    "end": 2.34,
+                    "probability": 0.9643606543540955
+                },
+                {
+                    "word": " probably",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.933478057384491
+                },
+                {
+                    "word": " won't",
+                    "start": 2.56,
+                    "end": 2.76,
+                    "probability": 0.9842040538787842
+                },
+                {
+                    "word": " be",
+                    "start": 2.76,
+                    "end": 2.94,
+                    "probability": 0.9958416819572449
+                },
+                {
+                    "word": " me.",
+                    "start": 2.94,
+                    "end": 3.2,
+                    "probability": 0.9647085666656494
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,193 @@
+{
+    "text": " Sure. You could say IP here, but it just doesn't sound right. And that's always, it's always shorthand.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.2,
+            "text": " Sure.",
+            "tokens": [
+                50364,
+                4894,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27751423971993583,
+            "compression_ratio": 1.10752688172043,
+            "no_speech_prob": 0.092527374625206,
+            "words": [
+                {
+                    "word": " Sure.",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.24017474055290222
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.24,
+            "end": 2.78,
+            "text": " You could say IP here, but it just doesn't sound right.",
+            "tokens": [
+                50406,
+                509,
+                727,
+                584,
+                8671,
+                510,
+                11,
+                457,
+                309,
+                445,
+                1177,
+                380,
+                1626,
+                558,
+                13,
+                50504
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27751423971993583,
+            "compression_ratio": 1.10752688172043,
+            "no_speech_prob": 0.092527374625206,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.5495489239692688
+                },
+                {
+                    "word": " could",
+                    "start": 0.38,
+                    "end": 0.6,
+                    "probability": 0.5885686874389648
+                },
+                {
+                    "word": " say",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9941298961639404
+                },
+                {
+                    "word": " IP",
+                    "start": 0.82,
+                    "end": 1.16,
+                    "probability": 0.48588165640830994
+                },
+                {
+                    "word": " here,",
+                    "start": 1.16,
+                    "end": 1.46,
+                    "probability": 0.9853327870368958
+                },
+                {
+                    "word": " but",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.9952925443649292
+                },
+                {
+                    "word": " it",
+                    "start": 1.6,
+                    "end": 1.74,
+                    "probability": 0.9972725510597229
+                },
+                {
+                    "word": " just",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.985383152961731
+                },
+                {
+                    "word": " doesn't",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9989896714687347
+                },
+                {
+                    "word": " sound",
+                    "start": 2.18,
+                    "end": 2.4,
+                    "probability": 0.997948944568634
+                },
+                {
+                    "word": " right.",
+                    "start": 2.4,
+                    "end": 2.78,
+                    "probability": 0.9954268932342529
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.1,
+            "end": 5.08,
+            "text": " And that's always, it's always shorthand.",
+            "tokens": [
+                50504,
+                400,
+                300,
+                311,
+                1009,
+                11,
+                309,
+                311,
+                1009,
+                402,
+                2652,
+                474,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27751423971993583,
+            "compression_ratio": 1.10752688172043,
+            "no_speech_prob": 0.092527374625206,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 3.1,
+                    "end": 3.1,
+                    "probability": 0.7970980405807495
+                },
+                {
+                    "word": " that's",
+                    "start": 3.1,
+                    "end": 3.7,
+                    "probability": 0.938279777765274
+                },
+                {
+                    "word": " always,",
+                    "start": 3.7,
+                    "end": 4.04,
+                    "probability": 0.9801167845726013
+                },
+                {
+                    "word": " it's",
+                    "start": 4.04,
+                    "end": 4.3,
+                    "probability": 0.9739072024822235
+                },
+                {
+                    "word": " always",
+                    "start": 4.3,
+                    "end": 4.52,
+                    "probability": 0.9964554309844971
+                },
+                {
+                    "word": " shorthand.",
+                    "start": 4.52,
+                    "end": 5.08,
+                    "probability": 0.9757642944653829
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

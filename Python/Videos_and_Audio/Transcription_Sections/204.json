@@ -1,0 +1,63 @@
+{
+    "text": " Yeah. More speed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 2.18,
+            "end": 2.86,
+            "text": " Yeah.",
+            "tokens": [
+                50364,
+                865,
+                13,
+                50410
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8345469474792481,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.027532078325748444,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 2.18,
+                    "end": 2.86,
+                    "probability": 0.2391902357339859
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.32,
+            "end": 3.88,
+            "text": " More speed.",
+            "tokens": [
+                50522,
+                5048,
+                3073,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8345469474792481,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.027532078325748444,
+            "words": [
+                {
+                    "word": " More",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.5112481713294983
+                },
+                {
+                    "word": " speed.",
+                    "start": 3.54,
+                    "end": 3.88,
+                    "probability": 0.7009283900260925
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

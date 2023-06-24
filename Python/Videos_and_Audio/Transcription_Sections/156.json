@@ -1,0 +1,39 @@
+{
+    "text": " It's not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.46,
+            "text": " It's not.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                406,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6634759221758161,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.6117487549781799,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.6785998344421387
+                },
+                {
+                    "word": " not.",
+                    "start": 0.38,
+                    "end": 0.46,
+                    "probability": 0.6186606884002686
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

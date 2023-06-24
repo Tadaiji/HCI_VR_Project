@@ -1,0 +1,38 @@
+{
+    "text": " What else?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.54,
+            "text": " What else?",
+            "tokens": [
+                50364,
+                708,
+                1646,
+                30,
+                50392
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.359430193901062,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.01700761541724205,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8779205679893494
+                },
+                {
+                    "word": " else?",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.9986454844474792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

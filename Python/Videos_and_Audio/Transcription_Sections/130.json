@@ -1,0 +1,102 @@
+{
+    "text": " We have a link to that quickly William I don't know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.94,
+            "text": " We have a link to that quickly William I don't know.",
+            "tokens": [
+                50364,
+                492,
+                362,
+                257,
+                2113,
+                281,
+                300,
+                2661,
+                6740,
+                286,
+                500,
+                380,
+                458,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3021029233932495,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.0027496544644236565,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6132727861404419
+                },
+                {
+                    "word": " have",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.9846667051315308
+                },
+                {
+                    "word": " a",
+                    "start": 0.48,
+                    "end": 0.58,
+                    "probability": 0.9639415740966797
+                },
+                {
+                    "word": " link",
+                    "start": 0.58,
+                    "end": 0.68,
+                    "probability": 0.9983294606208801
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.9990724325180054
+                },
+                {
+                    "word": " that",
+                    "start": 0.96,
+                    "end": 1.6,
+                    "probability": 0.6882559061050415
+                },
+                {
+                    "word": " quickly",
+                    "start": 1.6,
+                    "end": 2.08,
+                    "probability": 0.7916257381439209
+                },
+                {
+                    "word": " William",
+                    "start": 2.08,
+                    "end": 2.44,
+                    "probability": 0.47499945759773254
+                },
+                {
+                    "word": " I",
+                    "start": 2.44,
+                    "end": 2.68,
+                    "probability": 0.41569021344184875
+                },
+                {
+                    "word": " don't",
+                    "start": 2.68,
+                    "end": 2.78,
+                    "probability": 0.985881507396698
+                },
+                {
+                    "word": " know.",
+                    "start": 2.78,
+                    "end": 2.94,
+                    "probability": 0.9980356097221375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

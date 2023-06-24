@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9206fc5d-cbc9-415b-9b27-960a75e67965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assets/New York City 8K - VR 360 Drive.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assets/New York City 8K - VR 360 Drive.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Videos_and_Audio/old_video/Test.mp4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Videos_and_Audio/CuttingTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Videos_and_Audio/Test.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Videos_and_Audio/old_video/Test.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Videos_and_Audio/Test.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Videos_and_Audio/capspeaker.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Whisper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Whisper.py" afterDir="false" />
     </list>

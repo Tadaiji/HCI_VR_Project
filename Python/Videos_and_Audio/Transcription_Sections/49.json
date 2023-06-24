@@ -1,0 +1,265 @@
+{
+    "text": " I would say if UX does end up being a flag that we fly, that's an easy one because there's more than just maps to the create stage that would be considered UX improvement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 10.48,
+            "text": " I would say if UX does end up being a flag that we fly, that's an easy one because there's more than just maps to the create stage that would be considered UX improvement.",
+            "tokens": [
+                50364,
+                286,
+                576,
+                584,
+                498,
+                40176,
+                775,
+                917,
+                493,
+                885,
+                257,
+                7166,
+                300,
+                321,
+                3603,
+                11,
+                300,
+                311,
+                364,
+                1858,
+                472,
+                570,
+                456,
+                311,
+                544,
+                813,
+                445,
+                11317,
+                281,
+                264,
+                1884,
+                3233,
+                300,
+                576,
+                312,
+                4888,
+                40176,
+                10444,
+                13,
+                50888
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14700747699272343,
+            "compression_ratio": 1.3359375,
+            "no_speech_prob": 0.001015308080241084,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.9293504357337952
+                },
+                {
+                    "word": " would",
+                    "start": 0.18,
+                    "end": 0.38,
+                    "probability": 0.9986963868141174
+                },
+                {
+                    "word": " say",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9996028542518616
+                },
+                {
+                    "word": " if",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.8734607696533203
+                },
+                {
+                    "word": " UX",
+                    "start": 1.02,
+                    "end": 1.5,
+                    "probability": 0.859853982925415
+                },
+                {
+                    "word": " does",
+                    "start": 1.5,
+                    "end": 2.0,
+                    "probability": 0.9910998940467834
+                },
+                {
+                    "word": " end",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.9964983463287354
+                },
+                {
+                    "word": " up",
+                    "start": 2.22,
+                    "end": 2.42,
+                    "probability": 0.999411940574646
+                },
+                {
+                    "word": " being",
+                    "start": 2.42,
+                    "end": 2.72,
+                    "probability": 0.9993670582771301
+                },
+                {
+                    "word": " a",
+                    "start": 2.72,
+                    "end": 3.36,
+                    "probability": 0.9928004741668701
+                },
+                {
+                    "word": " flag",
+                    "start": 3.36,
+                    "end": 3.54,
+                    "probability": 0.9849141240119934
+                },
+                {
+                    "word": " that",
+                    "start": 3.54,
+                    "end": 3.74,
+                    "probability": 0.9663350582122803
+                },
+                {
+                    "word": " we",
+                    "start": 3.74,
+                    "end": 3.9,
+                    "probability": 0.8626804351806641
+                },
+                {
+                    "word": " fly,",
+                    "start": 3.9,
+                    "end": 4.1,
+                    "probability": 0.9826791286468506
+                },
+                {
+                    "word": " that's",
+                    "start": 4.2,
+                    "end": 4.52,
+                    "probability": 0.9952898919582367
+                },
+                {
+                    "word": " an",
+                    "start": 4.52,
+                    "end": 4.66,
+                    "probability": 0.9982849955558777
+                },
+                {
+                    "word": " easy",
+                    "start": 4.66,
+                    "end": 4.86,
+                    "probability": 0.9994843006134033
+                },
+                {
+                    "word": " one",
+                    "start": 4.86,
+                    "end": 5.18,
+                    "probability": 0.9991152882575989
+                },
+                {
+                    "word": " because",
+                    "start": 5.18,
+                    "end": 5.76,
+                    "probability": 0.6047559380531311
+                },
+                {
+                    "word": " there's",
+                    "start": 5.76,
+                    "end": 6.16,
+                    "probability": 0.9974275827407837
+                },
+                {
+                    "word": " more",
+                    "start": 6.16,
+                    "end": 6.4,
+                    "probability": 0.9998090863227844
+                },
+                {
+                    "word": " than",
+                    "start": 6.4,
+                    "end": 6.58,
+                    "probability": 0.9996447563171387
+                },
+                {
+                    "word": " just",
+                    "start": 6.58,
+                    "end": 6.9,
+                    "probability": 0.9991495609283447
+                },
+                {
+                    "word": " maps",
+                    "start": 6.9,
+                    "end": 7.12,
+                    "probability": 0.9591165781021118
+                },
+                {
+                    "word": " to",
+                    "start": 7.12,
+                    "end": 7.44,
+                    "probability": 0.9973955154418945
+                },
+                {
+                    "word": " the",
+                    "start": 7.44,
+                    "end": 7.66,
+                    "probability": 0.9904012084007263
+                },
+                {
+                    "word": " create",
+                    "start": 7.66,
+                    "end": 7.86,
+                    "probability": 0.6175264120101929
+                },
+                {
+                    "word": " stage",
+                    "start": 7.86,
+                    "end": 8.38,
+                    "probability": 0.9956486821174622
+                },
+                {
+                    "word": " that",
+                    "start": 8.38,
+                    "end": 8.76,
+                    "probability": 0.6944037675857544
+                },
+                {
+                    "word": " would",
+                    "start": 8.76,
+                    "end": 8.92,
+                    "probability": 0.786853551864624
+                },
+                {
+                    "word": " be",
+                    "start": 8.92,
+                    "end": 9.32,
+                    "probability": 0.9993135929107666
+                },
+                {
+                    "word": " considered",
+                    "start": 9.32,
+                    "end": 9.72,
+                    "probability": 0.9740957617759705
+                },
+                {
+                    "word": " UX",
+                    "start": 9.72,
+                    "end": 10.14,
+                    "probability": 0.9187232851982117
+                },
+                {
+                    "word": " improvement.",
+                    "start": 10.14,
+                    "end": 10.48,
+                    "probability": 0.8983854651451111
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

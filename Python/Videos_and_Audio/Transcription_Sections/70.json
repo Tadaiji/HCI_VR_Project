@@ -1,0 +1,189 @@
+{
+    "text": " Which between the proprietary ships and the vulnerability management, which would you pick as the number one out of those two?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.92,
+            "end": 5.72,
+            "text": " Which between the proprietary ships and the vulnerability management, which would you pick",
+            "tokens": [
+                50364,
+                3013,
+                1296,
+                264,
+                38992,
+                11434,
+                293,
+                264,
+                24210,
+                4592,
+                11,
+                597,
+                576,
+                291,
+                1888,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2392270905630929,
+            "compression_ratio": 1.2233009708737863,
+            "no_speech_prob": 0.0006162187200970948,
+            "words": [
+                {
+                    "word": " Which",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.6489214301109314
+                },
+                {
+                    "word": " between",
+                    "start": 2.24,
+                    "end": 1.26,
+                    "probability": 0.823796272277832
+                },
+                {
+                    "word": " the",
+                    "start": 1.26,
+                    "end": 2.56,
+                    "probability": 0.17458312213420868
+                },
+                {
+                    "word": " proprietary",
+                    "start": 2.56,
+                    "end": 3.76,
+                    "probability": 0.9195950627326965
+                },
+                {
+                    "word": " ships",
+                    "start": 3.76,
+                    "end": 4.04,
+                    "probability": 0.9126380085945129
+                },
+                {
+                    "word": " and",
+                    "start": 4.04,
+                    "end": 4.2,
+                    "probability": 0.7844414114952087
+                },
+                {
+                    "word": " the",
+                    "start": 4.2,
+                    "end": 4.3,
+                    "probability": 0.9564416408538818
+                },
+                {
+                    "word": " vulnerability",
+                    "start": 4.3,
+                    "end": 4.6,
+                    "probability": 0.8966146111488342
+                },
+                {
+                    "word": " management,",
+                    "start": 4.6,
+                    "end": 5.06,
+                    "probability": 0.9967472553253174
+                },
+                {
+                    "word": " which",
+                    "start": 5.28,
+                    "end": 5.32,
+                    "probability": 0.9935941100120544
+                },
+                {
+                    "word": " would",
+                    "start": 5.32,
+                    "end": 5.42,
+                    "probability": 0.9915931224822998
+                },
+                {
+                    "word": " you",
+                    "start": 5.42,
+                    "end": 5.58,
+                    "probability": 0.9991034865379333
+                },
+                {
+                    "word": " pick",
+                    "start": 5.58,
+                    "end": 5.72,
+                    "probability": 0.9983910918235779
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.72,
+            "end": 6.98,
+            "text": " as the number one out of those two?",
+            "tokens": [
+                50644,
+                382,
+                264,
+                1230,
+                472,
+                484,
+                295,
+                729,
+                732,
+                30,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2392270905630929,
+            "compression_ratio": 1.2233009708737863,
+            "no_speech_prob": 0.0006162187200970948,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 5.72,
+                    "end": 5.92,
+                    "probability": 0.5274204015731812
+                },
+                {
+                    "word": " the",
+                    "start": 5.92,
+                    "end": 6.08,
+                    "probability": 0.638872504234314
+                },
+                {
+                    "word": " number",
+                    "start": 6.08,
+                    "end": 6.22,
+                    "probability": 0.983955442905426
+                },
+                {
+                    "word": " one",
+                    "start": 6.22,
+                    "end": 6.42,
+                    "probability": 0.9870975613594055
+                },
+                {
+                    "word": " out",
+                    "start": 6.42,
+                    "end": 6.54,
+                    "probability": 0.9592057466506958
+                },
+                {
+                    "word": " of",
+                    "start": 6.54,
+                    "end": 6.68,
+                    "probability": 0.9995483756065369
+                },
+                {
+                    "word": " those",
+                    "start": 6.68,
+                    "end": 6.82,
+                    "probability": 0.9989653825759888
+                },
+                {
+                    "word": " two?",
+                    "start": 6.82,
+                    "end": 6.98,
+                    "probability": 0.9813977479934692
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

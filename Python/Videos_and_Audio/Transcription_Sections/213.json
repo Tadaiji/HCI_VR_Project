@@ -1,0 +1,236 @@
+{
+    "text": " Awesome. Well, this was kind of fun to do a little bit of like working together session and Keep it a little razzle dazzle. Keep it rocking.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5,
+            "end": 6.42,
+            "text": " Awesome. Well, this was kind of fun to do a little bit of like working together session and",
+            "tokens": [
+                50364,
+                10391,
+                13,
+                1042,
+                11,
+                341,
+                390,
+                733,
+                295,
+                1019,
+                281,
+                360,
+                257,
+                707,
+                857,
+                295,
+                411,
+                1364,
+                1214,
+                5481,
+                293,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884896596272786,
+            "compression_ratio": 1.2962962962962963,
+            "no_speech_prob": 0.002114771166816354,
+            "words": [
+                {
+                    "word": " Awesome.",
+                    "start": 0.5,
+                    "end": 0.88,
+                    "probability": 0.7374617457389832
+                },
+                {
+                    "word": " Well,",
+                    "start": 1.14,
+                    "end": 1.46,
+                    "probability": 0.9975835084915161
+                },
+                {
+                    "word": " this",
+                    "start": 1.46,
+                    "end": 2.1,
+                    "probability": 0.8676971793174744
+                },
+                {
+                    "word": " was",
+                    "start": 2.1,
+                    "end": 2.28,
+                    "probability": 0.9989872574806213
+                },
+                {
+                    "word": " kind",
+                    "start": 2.28,
+                    "end": 2.4,
+                    "probability": 0.9960737228393555
+                },
+                {
+                    "word": " of",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.9997585415840149
+                },
+                {
+                    "word": " fun",
+                    "start": 2.56,
+                    "end": 2.72,
+                    "probability": 0.9992913007736206
+                },
+                {
+                    "word": " to",
+                    "start": 2.72,
+                    "end": 2.9,
+                    "probability": 0.9972112774848938
+                },
+                {
+                    "word": " do",
+                    "start": 2.9,
+                    "end": 3.02,
+                    "probability": 0.9997885823249817
+                },
+                {
+                    "word": " a",
+                    "start": 3.02,
+                    "end": 3.06,
+                    "probability": 0.992699921131134
+                },
+                {
+                    "word": " little",
+                    "start": 3.06,
+                    "end": 3.18,
+                    "probability": 0.99504554271698
+                },
+                {
+                    "word": " bit",
+                    "start": 3.18,
+                    "end": 3.26,
+                    "probability": 0.9979502558708191
+                },
+                {
+                    "word": " of",
+                    "start": 3.26,
+                    "end": 3.42,
+                    "probability": 0.9988799691200256
+                },
+                {
+                    "word": " like",
+                    "start": 3.42,
+                    "end": 4.12,
+                    "probability": 0.9686347246170044
+                },
+                {
+                    "word": " working",
+                    "start": 4.12,
+                    "end": 4.36,
+                    "probability": 0.9820859432220459
+                },
+                {
+                    "word": " together",
+                    "start": 4.36,
+                    "end": 4.84,
+                    "probability": 0.9997684359550476
+                },
+                {
+                    "word": " session",
+                    "start": 4.84,
+                    "end": 5.24,
+                    "probability": 0.9666103720664978
+                },
+                {
+                    "word": " and",
+                    "start": 5.24,
+                    "end": 6.42,
+                    "probability": 0.9565064907073975
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.42,
+            "end": 9.42,
+            "text": " Keep it a little razzle dazzle. Keep it rocking.",
+            "tokens": [
+                50714,
+                5527,
+                309,
+                257,
+                707,
+                367,
+                9112,
+                306,
+                44078,
+                306,
+                13,
+                5527,
+                309,
+                30929,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2884896596272786,
+            "compression_ratio": 1.2962962962962963,
+            "no_speech_prob": 0.002114771166816354,
+            "words": [
+                {
+                    "word": " Keep",
+                    "start": 6.42,
+                    "end": 7.7,
+                    "probability": 0.8090486526489258
+                },
+                {
+                    "word": " it",
+                    "start": 7.7,
+                    "end": 7.98,
+                    "probability": 0.791120171546936
+                },
+                {
+                    "word": " a",
+                    "start": 7.98,
+                    "end": 7.98,
+                    "probability": 0.14503984153270721
+                },
+                {
+                    "word": " little",
+                    "start": 7.98,
+                    "end": 7.98,
+                    "probability": 0.306922048330307
+                },
+                {
+                    "word": " razzle",
+                    "start": 7.98,
+                    "end": 8.26,
+                    "probability": 0.7860705256462097
+                },
+                {
+                    "word": " dazzle.",
+                    "start": 8.26,
+                    "end": 8.9,
+                    "probability": 0.9546264410018921
+                },
+                {
+                    "word": " Keep",
+                    "start": 8.96,
+                    "end": 9.06,
+                    "probability": 0.992793083190918
+                },
+                {
+                    "word": " it",
+                    "start": 9.06,
+                    "end": 9.26,
+                    "probability": 0.9616792798042297
+                },
+                {
+                    "word": " rocking.",
+                    "start": 9.26,
+                    "end": 9.42,
+                    "probability": 0.8543282151222229
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

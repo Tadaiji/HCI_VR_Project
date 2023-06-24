@@ -1,0 +1,159 @@
+{
+    "text": " Semgrip that get picked up as a online item and a couple of the pieces about get that 14.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 4.68,
+            "text": " Semgrip that get picked up as a online item and a couple of the pieces about get that 14.",
+            "tokens": [
+                50364,
+                14421,
+                70,
+                8400,
+                300,
+                483,
+                6183,
+                493,
+                382,
+                257,
+                2950,
+                3174,
+                293,
+                257,
+                1916,
+                295,
+                264,
+                3755,
+                466,
+                483,
+                300,
+                3499,
+                13,
+                50596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36466594696044924,
+            "compression_ratio": 1.1125,
+            "no_speech_prob": 0.002753002569079399,
+            "words": [
+                {
+                    "word": " Semgrip",
+                    "start": 0.18,
+                    "end": 0.62,
+                    "probability": 0.24308782070875168
+                },
+                {
+                    "word": " that",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.5526344776153564
+                },
+                {
+                    "word": " get",
+                    "start": 0.84,
+                    "end": 0.98,
+                    "probability": 0.8722788691520691
+                },
+                {
+                    "word": " picked",
+                    "start": 0.98,
+                    "end": 1.2,
+                    "probability": 0.9989816546440125
+                },
+                {
+                    "word": " up",
+                    "start": 1.2,
+                    "end": 1.44,
+                    "probability": 0.9985026121139526
+                },
+                {
+                    "word": " as",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.9950826168060303
+                },
+                {
+                    "word": " a",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.7627151608467102
+                },
+                {
+                    "word": " online",
+                    "start": 2.06,
+                    "end": 2.32,
+                    "probability": 0.6700655221939087
+                },
+                {
+                    "word": " item",
+                    "start": 2.32,
+                    "end": 2.58,
+                    "probability": 0.9957024455070496
+                },
+                {
+                    "word": " and",
+                    "start": 2.58,
+                    "end": 2.76,
+                    "probability": 0.6862720251083374
+                },
+                {
+                    "word": " a",
+                    "start": 2.76,
+                    "end": 2.92,
+                    "probability": 0.9986868500709534
+                },
+                {
+                    "word": " couple",
+                    "start": 2.92,
+                    "end": 3.02,
+                    "probability": 0.9996148347854614
+                },
+                {
+                    "word": " of",
+                    "start": 3.02,
+                    "end": 3.2,
+                    "probability": 0.998847246170044
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.38,
+                    "probability": 0.7742419242858887
+                },
+                {
+                    "word": " pieces",
+                    "start": 3.38,
+                    "end": 3.66,
+                    "probability": 0.9982393980026245
+                },
+                {
+                    "word": " about",
+                    "start": 3.66,
+                    "end": 4.0,
+                    "probability": 0.9880350232124329
+                },
+                {
+                    "word": " get",
+                    "start": 4.0,
+                    "end": 4.18,
+                    "probability": 0.42161911725997925
+                },
+                {
+                    "word": " that",
+                    "start": 4.18,
+                    "end": 4.36,
+                    "probability": 0.5980427265167236
+                },
+                {
+                    "word": " 14.",
+                    "start": 4.36,
+                    "end": 4.68,
+                    "probability": 0.9456778764724731
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

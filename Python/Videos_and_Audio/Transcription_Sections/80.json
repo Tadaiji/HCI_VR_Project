@@ -1,0 +1,142 @@
+{
+    "text": " That's a pretty heavy, pretty heavy list. Just looking at it, you know, it's pretty cool.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.74,
+            "text": " That's a pretty heavy, pretty heavy list. Just looking at it, you know, it's pretty cool.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                257,
+                1238,
+                4676,
+                11,
+                1238,
+                4676,
+                1329,
+                13,
+                1449,
+                1237,
+                412,
+                309,
+                11,
+                291,
+                458,
+                11,
+                309,
+                311,
+                1238,
+                1627,
+                13,
+                50578
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3009914434873141,
+            "compression_ratio": 1.141025641025641,
+            "no_speech_prob": 0.0025081587955355644,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.7335100322961807
+                },
+                {
+                    "word": " a",
+                    "start": 0.42,
+                    "end": 0.52,
+                    "probability": 0.9914747476577759
+                },
+                {
+                    "word": " pretty",
+                    "start": 0.52,
+                    "end": 0.66,
+                    "probability": 0.9985101819038391
+                },
+                {
+                    "word": " heavy,",
+                    "start": 0.66,
+                    "end": 1.18,
+                    "probability": 0.9836943745613098
+                },
+                {
+                    "word": " pretty",
+                    "start": 1.2,
+                    "end": 1.64,
+                    "probability": 0.9843364953994751
+                },
+                {
+                    "word": " heavy",
+                    "start": 1.64,
+                    "end": 1.88,
+                    "probability": 0.9962313771247864
+                },
+                {
+                    "word": " list.",
+                    "start": 1.88,
+                    "end": 2.32,
+                    "probability": 0.9926359057426453
+                },
+                {
+                    "word": " Just",
+                    "start": 2.58,
+                    "end": 2.8,
+                    "probability": 0.937798023223877
+                },
+                {
+                    "word": " looking",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9893285632133484
+                },
+                {
+                    "word": " at",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.9990732669830322
+                },
+                {
+                    "word": " it,",
+                    "start": 3.24,
+                    "end": 3.4,
+                    "probability": 0.9867096543312073
+                },
+                {
+                    "word": " you",
+                    "start": 3.4,
+                    "end": 3.48,
+                    "probability": 0.9313917756080627
+                },
+                {
+                    "word": " know,",
+                    "start": 3.48,
+                    "end": 3.68,
+                    "probability": 0.9989719390869141
+                },
+                {
+                    "word": " it's",
+                    "start": 3.76,
+                    "end": 3.86,
+                    "probability": 0.8903997838497162
+                },
+                {
+                    "word": " pretty",
+                    "start": 3.86,
+                    "end": 4.0,
+                    "probability": 0.9956581592559814
+                },
+                {
+                    "word": " cool.",
+                    "start": 4.0,
+                    "end": 4.74,
+                    "probability": 0.9989625215530396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,441 @@
+{
+    "text": " You're our new Ricky Bobby. So yeah, so I don't think I like that one. And then I think between these two, I like Move Fast with confidence, but I don't like the verbiage of it because it doesn't have parody. So that's where I think more speed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.22,
+            "end": 1.66,
+            "text": " You're our new Ricky Bobby.",
+            "tokens": [
+                50364,
+                509,
+                434,
+                527,
+                777,
+                25247,
+                19573,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072761117595516,
+            "compression_ratio": 1.4437869822485208,
+            "no_speech_prob": 0.01969188079237938,
+            "words": [
+                {
+                    "word": " You're",
+                    "start": 0.22,
+                    "end": 0.64,
+                    "probability": 0.45343880727887154
+                },
+                {
+                    "word": " our",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.8691521286964417
+                },
+                {
+                    "word": " new",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.985874593257904
+                },
+                {
+                    "word": " Ricky",
+                    "start": 0.92,
+                    "end": 1.18,
+                    "probability": 0.9258346557617188
+                },
+                {
+                    "word": " Bobby.",
+                    "start": 1.18,
+                    "end": 1.66,
+                    "probability": 0.8260653018951416
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.24,
+            "end": 4.6,
+            "text": " So yeah, so I don't think I like that one.",
+            "tokens": [
+                50464,
+                407,
+                1338,
+                11,
+                370,
+                286,
+                500,
+                380,
+                519,
+                286,
+                411,
+                300,
+                472,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072761117595516,
+            "compression_ratio": 1.4437869822485208,
+            "no_speech_prob": 0.01969188079237938,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.24,
+                    "end": 2.24,
+                    "probability": 0.47550031542778015
+                },
+                {
+                    "word": " yeah,",
+                    "start": 2.24,
+                    "end": 3.52,
+                    "probability": 0.5798574090003967
+                },
+                {
+                    "word": " so",
+                    "start": 3.62,
+                    "end": 3.68,
+                    "probability": 0.8252531290054321
+                },
+                {
+                    "word": " I",
+                    "start": 3.68,
+                    "end": 3.74,
+                    "probability": 0.9840875267982483
+                },
+                {
+                    "word": " don't",
+                    "start": 3.74,
+                    "end": 3.84,
+                    "probability": 0.9969042539596558
+                },
+                {
+                    "word": " think",
+                    "start": 3.84,
+                    "end": 3.94,
+                    "probability": 0.9920459985733032
+                },
+                {
+                    "word": " I",
+                    "start": 3.94,
+                    "end": 4.02,
+                    "probability": 0.9858245849609375
+                },
+                {
+                    "word": " like",
+                    "start": 4.02,
+                    "end": 4.22,
+                    "probability": 0.9452199935913086
+                },
+                {
+                    "word": " that",
+                    "start": 4.22,
+                    "end": 4.38,
+                    "probability": 0.9986108541488647
+                },
+                {
+                    "word": " one.",
+                    "start": 4.38,
+                    "end": 4.6,
+                    "probability": 0.9945334196090698
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.82,
+            "end": 9.28,
+            "text": " And then I think between these two, I like Move Fast with confidence, but I don't like",
+            "tokens": [
+                50604,
+                400,
+                550,
+                286,
+                519,
+                1296,
+                613,
+                732,
+                11,
+                286,
+                411,
+                10475,
+                15968,
+                365,
+                6687,
+                11,
+                457,
+                286,
+                500,
+                380,
+                411,
+                50822
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072761117595516,
+            "compression_ratio": 1.4437869822485208,
+            "no_speech_prob": 0.01969188079237938,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.82,
+                    "end": 4.82,
+                    "probability": 0.9535665512084961
+                },
+                {
+                    "word": " then",
+                    "start": 4.82,
+                    "end": 4.96,
+                    "probability": 0.9569843411445618
+                },
+                {
+                    "word": " I",
+                    "start": 4.96,
+                    "end": 5.08,
+                    "probability": 0.9893737435340881
+                },
+                {
+                    "word": " think",
+                    "start": 5.08,
+                    "end": 5.44,
+                    "probability": 0.9995007514953613
+                },
+                {
+                    "word": " between",
+                    "start": 5.44,
+                    "end": 5.96,
+                    "probability": 0.8699843287467957
+                },
+                {
+                    "word": " these",
+                    "start": 5.96,
+                    "end": 6.24,
+                    "probability": 0.9992431402206421
+                },
+                {
+                    "word": " two,",
+                    "start": 6.24,
+                    "end": 6.54,
+                    "probability": 0.9944203495979309
+                },
+                {
+                    "word": " I",
+                    "start": 6.72,
+                    "end": 6.72,
+                    "probability": 0.9963464140892029
+                },
+                {
+                    "word": " like",
+                    "start": 6.72,
+                    "end": 6.94,
+                    "probability": 0.9917484521865845
+                },
+                {
+                    "word": " Move",
+                    "start": 6.94,
+                    "end": 7.1,
+                    "probability": 0.16264425218105316
+                },
+                {
+                    "word": " Fast",
+                    "start": 7.1,
+                    "end": 7.3,
+                    "probability": 0.9448339343070984
+                },
+                {
+                    "word": " with",
+                    "start": 7.3,
+                    "end": 7.54,
+                    "probability": 0.8423741459846497
+                },
+                {
+                    "word": " confidence,",
+                    "start": 7.54,
+                    "end": 8.02,
+                    "probability": 0.4113348424434662
+                },
+                {
+                    "word": " but",
+                    "start": 8.26,
+                    "end": 8.44,
+                    "probability": 0.9983612895011902
+                },
+                {
+                    "word": " I",
+                    "start": 8.44,
+                    "end": 8.66,
+                    "probability": 0.9985010623931885
+                },
+                {
+                    "word": " don't",
+                    "start": 8.66,
+                    "end": 8.96,
+                    "probability": 0.9996177852153778
+                },
+                {
+                    "word": " like",
+                    "start": 8.96,
+                    "end": 9.28,
+                    "probability": 0.9983862638473511
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.28,
+            "end": 11.96,
+            "text": " the verbiage of it because it doesn't have parody.",
+            "tokens": [
+                50822,
+                264,
+                1306,
+                5614,
+                609,
+                295,
+                309,
+                570,
+                309,
+                1177,
+                380,
+                362,
+                43386,
+                13,
+                50988
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072761117595516,
+            "compression_ratio": 1.4437869822485208,
+            "no_speech_prob": 0.01969188079237938,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 9.28,
+                    "end": 10.22,
+                    "probability": 0.9959120750427246
+                },
+                {
+                    "word": " verbiage",
+                    "start": 10.22,
+                    "end": 10.72,
+                    "probability": 0.9035417437553406
+                },
+                {
+                    "word": " of",
+                    "start": 10.72,
+                    "end": 10.86,
+                    "probability": 0.9974449872970581
+                },
+                {
+                    "word": " it",
+                    "start": 10.86,
+                    "end": 11.0,
+                    "probability": 0.9993534684181213
+                },
+                {
+                    "word": " because",
+                    "start": 11.0,
+                    "end": 11.12,
+                    "probability": 0.7163546085357666
+                },
+                {
+                    "word": " it",
+                    "start": 11.12,
+                    "end": 11.24,
+                    "probability": 0.9925801157951355
+                },
+                {
+                    "word": " doesn't",
+                    "start": 11.24,
+                    "end": 11.42,
+                    "probability": 0.9984183013439178
+                },
+                {
+                    "word": " have",
+                    "start": 11.42,
+                    "end": 11.64,
+                    "probability": 0.9995187520980835
+                },
+                {
+                    "word": " parody.",
+                    "start": 11.64,
+                    "end": 11.96,
+                    "probability": 0.6353500485420227
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.44,
+            "end": 13.9,
+            "text": " So that's where I think more speed.",
+            "tokens": [
+                50988,
+                407,
+                300,
+                311,
+                689,
+                286,
+                519,
+                544,
+                3073,
+                13,
+                51066
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3072761117595516,
+            "compression_ratio": 1.4437869822485208,
+            "no_speech_prob": 0.01969188079237938,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 12.44,
+                    "end": 12.58,
+                    "probability": 0.979912519454956
+                },
+                {
+                    "word": " that's",
+                    "start": 12.58,
+                    "end": 12.84,
+                    "probability": 0.9850817620754242
+                },
+                {
+                    "word": " where",
+                    "start": 12.84,
+                    "end": 13.02,
+                    "probability": 0.8937788605690002
+                },
+                {
+                    "word": " I",
+                    "start": 13.02,
+                    "end": 13.14,
+                    "probability": 0.969956636428833
+                },
+                {
+                    "word": " think",
+                    "start": 13.14,
+                    "end": 13.46,
+                    "probability": 0.9981868863105774
+                },
+                {
+                    "word": " more",
+                    "start": 13.46,
+                    "end": 13.76,
+                    "probability": 0.5601304173469543
+                },
+                {
+                    "word": " speed.",
+                    "start": 13.76,
+                    "end": 13.9,
+                    "probability": 0.24113066494464874
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

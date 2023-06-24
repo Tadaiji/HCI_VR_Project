@@ -1,0 +1,119 @@
+{
+    "text": " Yeah, I think I do too. But, but I appreciate the thought, Brian.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.78,
+            "text": " Yeah, I think I do too. But, but I appreciate the thought, Brian.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                286,
+                360,
+                886,
+                13,
+                583,
+                11,
+                457,
+                286,
+                4449,
+                264,
+                1194,
+                11,
+                10765,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2607260885692778,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.0004951600567437708,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.7420874238014221
+                },
+                {
+                    "word": " I",
+                    "start": 0.56,
+                    "end": 0.58,
+                    "probability": 0.993301510810852
+                },
+                {
+                    "word": " think",
+                    "start": 0.58,
+                    "end": 0.76,
+                    "probability": 0.9958035349845886
+                },
+                {
+                    "word": " I",
+                    "start": 0.76,
+                    "end": 0.92,
+                    "probability": 0.9919793605804443
+                },
+                {
+                    "word": " do",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.9980888962745667
+                },
+                {
+                    "word": " too.",
+                    "start": 1.04,
+                    "end": 1.54,
+                    "probability": 0.8236396312713623
+                },
+                {
+                    "word": " But,",
+                    "start": 2.2,
+                    "end": 2.46,
+                    "probability": 0.9761609435081482
+                },
+                {
+                    "word": " but",
+                    "start": 2.68,
+                    "end": 2.94,
+                    "probability": 0.9089524149894714
+                },
+                {
+                    "word": " I",
+                    "start": 2.94,
+                    "end": 3.16,
+                    "probability": 0.9956037998199463
+                },
+                {
+                    "word": " appreciate",
+                    "start": 3.16,
+                    "end": 3.62,
+                    "probability": 0.9993502497673035
+                },
+                {
+                    "word": " the",
+                    "start": 3.62,
+                    "end": 3.92,
+                    "probability": 0.9862116575241089
+                },
+                {
+                    "word": " thought,",
+                    "start": 3.92,
+                    "end": 4.22,
+                    "probability": 0.9981564879417419
+                },
+                {
+                    "word": " Brian.",
+                    "start": 4.7,
+                    "end": 4.78,
+                    "probability": 0.9255749583244324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

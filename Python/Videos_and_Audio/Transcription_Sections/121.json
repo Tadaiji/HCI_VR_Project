@@ -1,0 +1,109 @@
+{
+    "text": " It is, Atlassian is on that sheet. Okay, yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.94,
+            "end": 3.08,
+            "text": " It is, Atlassian is on that sheet.",
+            "tokens": [
+                50364,
+                467,
+                307,
+                11,
+                11000,
+                640,
+                952,
+                307,
+                322,
+                300,
+                8193,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4589260101318359,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.02828568033874035,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.94,
+                    "end": 1.42,
+                    "probability": 0.21031388640403748
+                },
+                {
+                    "word": " is,",
+                    "start": 1.42,
+                    "end": 1.46,
+                    "probability": 0.9310241937637329
+                },
+                {
+                    "word": " Atlassian",
+                    "start": 1.9,
+                    "end": 2.14,
+                    "probability": 0.8324088652928671
+                },
+                {
+                    "word": " is",
+                    "start": 2.14,
+                    "end": 2.38,
+                    "probability": 0.97037672996521
+                },
+                {
+                    "word": " on",
+                    "start": 2.38,
+                    "end": 2.62,
+                    "probability": 0.9942737221717834
+                },
+                {
+                    "word": " that",
+                    "start": 2.62,
+                    "end": 2.88,
+                    "probability": 0.9670560956001282
+                },
+                {
+                    "word": " sheet.",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.9899453520774841
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.16,
+            "end": 3.5,
+            "text": " Okay, yes.",
+            "tokens": [
+                50514,
+                1033,
+                11,
+                2086,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4589260101318359,
+            "compression_ratio": 0.8823529411764706,
+            "no_speech_prob": 0.02828568033874035,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 3.16,
+                    "end": 3.38,
+                    "probability": 0.7193073630332947
+                },
+                {
+                    "word": " yes.",
+                    "start": 3.44,
+                    "end": 3.5,
+                    "probability": 0.9227458834648132
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

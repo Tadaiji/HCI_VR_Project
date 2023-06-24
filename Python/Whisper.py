@@ -135,12 +135,13 @@ Returns:
     The transcriptions of the audio files
 
 """
+
 def transcribe(groups: list):
     print("transcribe")
-    device = torch.device("cpu")
+    device = torch.device("cuda")
     if torch.cuda.is_available():
         print("gpu")
-        device = torch.cuda.device(0)
+        #device = torch.cuda.device(0)
     #else:
         #dml = torch_directml.device()
 
@@ -249,11 +250,11 @@ def timeStr(t):
 #print("Finding speakers")
 #get_speakers(r"Videos_and_Audio/Test2.mp4.wav")
 
-print("Grouping speakers")
+#print("Grouping speakers")
 groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test2.mp4.wav")
 
 print("Transcribing (This might take a while without CUDA support)")
 transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
-
+                    # takes about 20 min for a 40 min video with a GPU (GTX1060)
 print("Finalizing Document")
 combine_speakers_transcribtion(groups)

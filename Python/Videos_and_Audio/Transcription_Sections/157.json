@@ -1,0 +1,44 @@
+{
+    "text": " I think that",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.72,
+            "text": " I think that",
+            "tokens": [
+                50364,
+                286,
+                519,
+                300,
+                50404
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7776289780934652,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.5919851660728455,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.28418654203414917
+                },
+                {
+                    "word": " think",
+                    "start": 0.24,
+                    "end": 0.5,
+                    "probability": 0.4931264817714691
+                },
+                {
+                    "word": " that",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.7513587474822998
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

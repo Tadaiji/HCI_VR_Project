@@ -1,0 +1,38 @@
+{
+    "text": " also have.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.56,
+            "text": " also have.",
+            "tokens": [
+                50364,
+                611,
+                362,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7520249684651693,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.5564070343971252,
+            "words": [
+                {
+                    "word": " also",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.336038202047348
+                },
+                {
+                    "word": " have.",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.9016386270523071
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

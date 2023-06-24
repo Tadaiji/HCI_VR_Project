@@ -1,0 +1,30 @@
+{
+    "text": " Hey",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.38,
+            "text": " Hey",
+            "tokens": [
+                50364,
+                1911,
+                50464
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.2500702142715454,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.5838901400566101,
+            "words": [
+                {
+                    "word": " Hey",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.014468507841229439
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

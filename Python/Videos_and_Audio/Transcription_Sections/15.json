@@ -1,0 +1,82 @@
+{
+    "text": " Yep, that's where we were last I heard.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.2,
+            "end": 2.08,
+            "text": " Yep, that's where we were last I heard.",
+            "tokens": [
+                50364,
+                7010,
+                11,
+                300,
+                311,
+                689,
+                321,
+                645,
+                1036,
+                286,
+                2198,
+                13,
+                50472
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23601150512695312,
+            "compression_ratio": 0.9069767441860465,
+            "no_speech_prob": 0.0012246693950146437,
+            "words": [
+                {
+                    "word": " Yep,",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.6210629343986511
+                },
+                {
+                    "word": " that's",
+                    "start": 0.86,
+                    "end": 1.04,
+                    "probability": 0.9955312311649323
+                },
+                {
+                    "word": " where",
+                    "start": 1.04,
+                    "end": 1.1,
+                    "probability": 0.9837424755096436
+                },
+                {
+                    "word": " we",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9950906038284302
+                },
+                {
+                    "word": " were",
+                    "start": 1.32,
+                    "end": 1.46,
+                    "probability": 0.9914513230323792
+                },
+                {
+                    "word": " last",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9640485644340515
+                },
+                {
+                    "word": " I",
+                    "start": 1.68,
+                    "end": 1.88,
+                    "probability": 0.7739552855491638
+                },
+                {
+                    "word": " heard.",
+                    "start": 1.88,
+                    "end": 2.08,
+                    "probability": 0.996566891670227
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

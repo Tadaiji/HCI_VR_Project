@@ -1,0 +1,87 @@
+{
+    "text": " And are we trying to hit three per stage?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " And are we trying to hit three per stage?",
+            "tokens": [
+                50364,
+                400,
+                366,
+                321,
+                1382,
+                281,
+                2045,
+                1045,
+                680,
+                3233,
+                30,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24611744513878456,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.0020811152644455433,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.6380910277366638
+                },
+                {
+                    "word": " are",
+                    "start": 0.18,
+                    "end": 0.3,
+                    "probability": 0.9520755410194397
+                },
+                {
+                    "word": " we",
+                    "start": 0.3,
+                    "end": 0.46,
+                    "probability": 0.9983738660812378
+                },
+                {
+                    "word": " trying",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.987923800945282
+                },
+                {
+                    "word": " to",
+                    "start": 0.64,
+                    "end": 0.84,
+                    "probability": 0.9977292418479919
+                },
+                {
+                    "word": " hit",
+                    "start": 0.84,
+                    "end": 0.94,
+                    "probability": 0.9991707801818848
+                },
+                {
+                    "word": " three",
+                    "start": 0.94,
+                    "end": 1.58,
+                    "probability": 0.9678234457969666
+                },
+                {
+                    "word": " per",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.9701646566390991
+                },
+                {
+                    "word": " stage?",
+                    "start": 1.82,
+                    "end": 2.2,
+                    "probability": 0.9979561567306519
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

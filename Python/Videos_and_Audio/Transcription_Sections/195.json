@@ -1,0 +1,321 @@
+{
+    "text": " Do you want to add, maybe we can add high confidence or more confidence at the end of your first statement so it kind of combines all of it. So more speed, less risk, more high confidence.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 6.0,
+            "text": " Do you want to add, maybe we can add high confidence or more confidence at the end of",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                528,
+                281,
+                909,
+                11,
+                1310,
+                321,
+                393,
+                909,
+                1090,
+                6687,
+                420,
+                544,
+                6687,
+                412,
+                264,
+                917,
+                295,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2656594879773198,
+            "compression_ratio": 1.492063492063492,
+            "no_speech_prob": 0.0049618142656981945,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.1,
+                    "end": 0.64,
+                    "probability": 0.4460497200489044
+                },
+                {
+                    "word": " you",
+                    "start": 0.64,
+                    "end": 0.86,
+                    "probability": 0.9906110167503357
+                },
+                {
+                    "word": " want",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.8951163291931152
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.26,
+                    "probability": 0.9972769618034363
+                },
+                {
+                    "word": " add,",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.9955949187278748
+                },
+                {
+                    "word": " maybe",
+                    "start": 2.14,
+                    "end": 2.38,
+                    "probability": 0.9861582517623901
+                },
+                {
+                    "word": " we",
+                    "start": 2.38,
+                    "end": 2.62,
+                    "probability": 0.9903046488761902
+                },
+                {
+                    "word": " can",
+                    "start": 2.62,
+                    "end": 2.9,
+                    "probability": 0.9992281198501587
+                },
+                {
+                    "word": " add",
+                    "start": 2.9,
+                    "end": 3.4,
+                    "probability": 0.9920880198478699
+                },
+                {
+                    "word": " high",
+                    "start": 3.4,
+                    "end": 3.78,
+                    "probability": 0.8295210599899292
+                },
+                {
+                    "word": " confidence",
+                    "start": 3.78,
+                    "end": 4.32,
+                    "probability": 0.990250825881958
+                },
+                {
+                    "word": " or",
+                    "start": 4.32,
+                    "end": 4.58,
+                    "probability": 0.9130918979644775
+                },
+                {
+                    "word": " more",
+                    "start": 4.58,
+                    "end": 4.78,
+                    "probability": 0.9729468822479248
+                },
+                {
+                    "word": " confidence",
+                    "start": 4.78,
+                    "end": 5.16,
+                    "probability": 0.9327978491783142
+                },
+                {
+                    "word": " at",
+                    "start": 5.16,
+                    "end": 5.5,
+                    "probability": 0.9855201840400696
+                },
+                {
+                    "word": " the",
+                    "start": 5.5,
+                    "end": 5.6,
+                    "probability": 0.9909297823905945
+                },
+                {
+                    "word": " end",
+                    "start": 5.6,
+                    "end": 5.76,
+                    "probability": 0.999489426612854
+                },
+                {
+                    "word": " of",
+                    "start": 5.76,
+                    "end": 6.0,
+                    "probability": 0.9970898032188416
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.0,
+            "end": 9.82,
+            "text": " your first statement so it kind of combines all of it.",
+            "tokens": [
+                50654,
+                428,
+                700,
+                5629,
+                370,
+                309,
+                733,
+                295,
+                29520,
+                439,
+                295,
+                309,
+                13,
+                50856
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2656594879773198,
+            "compression_ratio": 1.492063492063492,
+            "no_speech_prob": 0.0049618142656981945,
+            "words": [
+                {
+                    "word": " your",
+                    "start": 6.0,
+                    "end": 6.22,
+                    "probability": 0.9641126394271851
+                },
+                {
+                    "word": " first",
+                    "start": 6.22,
+                    "end": 6.56,
+                    "probability": 0.943030834197998
+                },
+                {
+                    "word": " statement",
+                    "start": 6.56,
+                    "end": 6.92,
+                    "probability": 0.9582269191741943
+                },
+                {
+                    "word": " so",
+                    "start": 6.92,
+                    "end": 7.2,
+                    "probability": 0.6408492922782898
+                },
+                {
+                    "word": " it",
+                    "start": 7.2,
+                    "end": 7.4,
+                    "probability": 0.9950193166732788
+                },
+                {
+                    "word": " kind",
+                    "start": 7.4,
+                    "end": 7.56,
+                    "probability": 0.9884046316146851
+                },
+                {
+                    "word": " of",
+                    "start": 7.56,
+                    "end": 7.86,
+                    "probability": 0.9993933439254761
+                },
+                {
+                    "word": " combines",
+                    "start": 7.86,
+                    "end": 8.44,
+                    "probability": 0.9936467409133911
+                },
+                {
+                    "word": " all",
+                    "start": 8.44,
+                    "end": 9.6,
+                    "probability": 0.8991200923919678
+                },
+                {
+                    "word": " of",
+                    "start": 9.6,
+                    "end": 9.7,
+                    "probability": 0.9968673586845398
+                },
+                {
+                    "word": " it.",
+                    "start": 9.7,
+                    "end": 9.82,
+                    "probability": 0.962675929069519
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.98,
+            "end": 12.82,
+            "text": " So more speed, less risk, more high confidence.",
+            "tokens": [
+                50856,
+                407,
+                544,
+                3073,
+                11,
+                1570,
+                3148,
+                11,
+                544,
+                1090,
+                6687,
+                13,
+                51060
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2656594879773198,
+            "compression_ratio": 1.492063492063492,
+            "no_speech_prob": 0.0049618142656981945,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 9.98,
+                    "end": 10.06,
+                    "probability": 0.938647985458374
+                },
+                {
+                    "word": " more",
+                    "start": 10.06,
+                    "end": 10.28,
+                    "probability": 0.8895145654678345
+                },
+                {
+                    "word": " speed,",
+                    "start": 10.28,
+                    "end": 10.58,
+                    "probability": 0.9937866926193237
+                },
+                {
+                    "word": " less",
+                    "start": 10.86,
+                    "end": 10.98,
+                    "probability": 0.9954074025154114
+                },
+                {
+                    "word": " risk,",
+                    "start": 10.98,
+                    "end": 11.62,
+                    "probability": 0.9691749811172485
+                },
+                {
+                    "word": " more",
+                    "start": 12.06,
+                    "end": 12.18,
+                    "probability": 0.6578885316848755
+                },
+                {
+                    "word": " high",
+                    "start": 12.18,
+                    "end": 12.36,
+                    "probability": 0.8721469044685364
+                },
+                {
+                    "word": " confidence.",
+                    "start": 12.36,
+                    "end": 12.82,
+                    "probability": 0.9779831171035767
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

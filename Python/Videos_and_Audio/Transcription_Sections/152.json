@@ -1,0 +1,45 @@
+{
+    "text": " I usually let...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.66,
+            "text": " I usually let...",
+            "tokens": [
+                50364,
+                286,
+                2673,
+                718,
+                485,
+                50398
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6950757162911552,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.70585036277771,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2545866072177887
+                },
+                {
+                    "word": " usually",
+                    "start": 0.24,
+                    "end": 0.48,
+                    "probability": 0.9280686378479004
+                },
+                {
+                    "word": " let...",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.41247227042913437
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

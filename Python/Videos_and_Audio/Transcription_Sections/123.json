@@ -1,0 +1,414 @@
+{
+    "text": " So, so yeah, so for those platform, you know, we should call out the fact that they don't have any monitoring. If they have like zero out of 15, we should call that out. Same with configure stuff for this, you know, any those kinds of capabilities.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.64,
+            "end": 5.88,
+            "text": " So, so yeah, so for those platform, you know, we should call out the fact that they don't",
+            "tokens": [
+                50364,
+                407,
+                11,
+                370,
+                1338,
+                11,
+                370,
+                337,
+                729,
+                3663,
+                11,
+                291,
+                458,
+                11,
+                321,
+                820,
+                818,
+                484,
+                264,
+                1186,
+                300,
+                436,
+                500,
+                380,
+                50654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20228458518412576,
+            "compression_ratio": 1.5403726708074534,
+            "no_speech_prob": 0.0008038784144446254,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 0.64,
+                    "end": 1.04,
+                    "probability": 0.6924819946289062
+                },
+                {
+                    "word": " so",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.5815806984901428
+                },
+                {
+                    "word": " yeah,",
+                    "start": 1.2,
+                    "end": 1.34,
+                    "probability": 0.9480449557304382
+                },
+                {
+                    "word": " so",
+                    "start": 1.46,
+                    "end": 1.6,
+                    "probability": 0.986153244972229
+                },
+                {
+                    "word": " for",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.9769929647445679
+                },
+                {
+                    "word": " those",
+                    "start": 1.82,
+                    "end": 2.4,
+                    "probability": 0.46999678015708923
+                },
+                {
+                    "word": " platform,",
+                    "start": 2.4,
+                    "end": 3.28,
+                    "probability": 0.9578192830085754
+                },
+                {
+                    "word": " you",
+                    "start": 3.28,
+                    "end": 3.94,
+                    "probability": 0.9075937867164612
+                },
+                {
+                    "word": " know,",
+                    "start": 3.94,
+                    "end": 4.3,
+                    "probability": 0.9995670914649963
+                },
+                {
+                    "word": " we",
+                    "start": 4.36,
+                    "end": 4.6,
+                    "probability": 0.9979616403579712
+                },
+                {
+                    "word": " should",
+                    "start": 4.6,
+                    "end": 4.8,
+                    "probability": 0.999721348285675
+                },
+                {
+                    "word": " call",
+                    "start": 4.8,
+                    "end": 5.02,
+                    "probability": 0.9997164607048035
+                },
+                {
+                    "word": " out",
+                    "start": 5.02,
+                    "end": 5.2,
+                    "probability": 0.9948344230651855
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.36,
+                    "probability": 0.9942341446876526
+                },
+                {
+                    "word": " fact",
+                    "start": 5.36,
+                    "end": 5.46,
+                    "probability": 0.9998700618743896
+                },
+                {
+                    "word": " that",
+                    "start": 5.46,
+                    "end": 5.62,
+                    "probability": 0.9991206526756287
+                },
+                {
+                    "word": " they",
+                    "start": 5.62,
+                    "end": 5.76,
+                    "probability": 0.9996115565299988
+                },
+                {
+                    "word": " don't",
+                    "start": 5.76,
+                    "end": 5.88,
+                    "probability": 0.999779462814331
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.88,
+            "end": 6.68,
+            "text": " have any monitoring.",
+            "tokens": [
+                50654,
+                362,
+                604,
+                11028,
+                13,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20228458518412576,
+            "compression_ratio": 1.5403726708074534,
+            "no_speech_prob": 0.0008038784144446254,
+            "words": [
+                {
+                    "word": " have",
+                    "start": 5.88,
+                    "end": 6.02,
+                    "probability": 0.9997186064720154
+                },
+                {
+                    "word": " any",
+                    "start": 6.02,
+                    "end": 6.22,
+                    "probability": 0.9996040463447571
+                },
+                {
+                    "word": " monitoring.",
+                    "start": 6.22,
+                    "end": 6.68,
+                    "probability": 0.9988927245140076
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.96,
+            "end": 11.06,
+            "text": " If they have like zero out of 15, we should call that out.",
+            "tokens": [
+                50704,
+                759,
+                436,
+                362,
+                411,
+                4018,
+                484,
+                295,
+                2119,
+                11,
+                321,
+                820,
+                818,
+                300,
+                484,
+                13,
+                50934
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20228458518412576,
+            "compression_ratio": 1.5403726708074534,
+            "no_speech_prob": 0.0008038784144446254,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 6.96,
+                    "end": 7.08,
+                    "probability": 0.9877247214317322
+                },
+                {
+                    "word": " they",
+                    "start": 7.08,
+                    "end": 7.24,
+                    "probability": 0.9994833469390869
+                },
+                {
+                    "word": " have",
+                    "start": 7.24,
+                    "end": 7.32,
+                    "probability": 0.9682955741882324
+                },
+                {
+                    "word": " like",
+                    "start": 7.32,
+                    "end": 7.54,
+                    "probability": 0.9498290419578552
+                },
+                {
+                    "word": " zero",
+                    "start": 7.54,
+                    "end": 7.88,
+                    "probability": 0.9140084981918335
+                },
+                {
+                    "word": " out",
+                    "start": 7.88,
+                    "end": 8.04,
+                    "probability": 0.9964981079101562
+                },
+                {
+                    "word": " of",
+                    "start": 8.04,
+                    "end": 8.16,
+                    "probability": 0.9989879727363586
+                },
+                {
+                    "word": " 15,",
+                    "start": 8.16,
+                    "end": 8.56,
+                    "probability": 0.9787505865097046
+                },
+                {
+                    "word": " we",
+                    "start": 9.1,
+                    "end": 9.54,
+                    "probability": 0.9895287156105042
+                },
+                {
+                    "word": " should",
+                    "start": 9.54,
+                    "end": 9.74,
+                    "probability": 0.9995792508125305
+                },
+                {
+                    "word": " call",
+                    "start": 9.74,
+                    "end": 9.9,
+                    "probability": 0.9979748129844666
+                },
+                {
+                    "word": " that",
+                    "start": 9.9,
+                    "end": 10.12,
+                    "probability": 0.978787362575531
+                },
+                {
+                    "word": " out.",
+                    "start": 10.12,
+                    "end": 11.06,
+                    "probability": 0.9986991882324219
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.16,
+            "end": 14.64,
+            "text": " Same with configure stuff for this, you know, any those kinds of capabilities.",
+            "tokens": [
+                50934,
+                10635,
+                365,
+                22162,
+                1507,
+                337,
+                341,
+                11,
+                291,
+                458,
+                11,
+                604,
+                729,
+                3685,
+                295,
+                10862,
+                13,
+                51104
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20228458518412576,
+            "compression_ratio": 1.5403726708074534,
+            "no_speech_prob": 0.0008038784144446254,
+            "words": [
+                {
+                    "word": " Same",
+                    "start": 11.16,
+                    "end": 11.46,
+                    "probability": 0.9359160661697388
+                },
+                {
+                    "word": " with",
+                    "start": 11.46,
+                    "end": 11.7,
+                    "probability": 0.9983566403388977
+                },
+                {
+                    "word": " configure",
+                    "start": 11.7,
+                    "end": 12.02,
+                    "probability": 0.49236905574798584
+                },
+                {
+                    "word": " stuff",
+                    "start": 12.02,
+                    "end": 12.28,
+                    "probability": 0.9797390699386597
+                },
+                {
+                    "word": " for",
+                    "start": 12.28,
+                    "end": 12.46,
+                    "probability": 0.7138917446136475
+                },
+                {
+                    "word": " this,",
+                    "start": 12.46,
+                    "end": 12.74,
+                    "probability": 0.9862561821937561
+                },
+                {
+                    "word": " you",
+                    "start": 12.76,
+                    "end": 12.94,
+                    "probability": 0.9576025605201721
+                },
+                {
+                    "word": " know,",
+                    "start": 12.94,
+                    "end": 13.04,
+                    "probability": 0.9997119307518005
+                },
+                {
+                    "word": " any",
+                    "start": 13.14,
+                    "end": 13.7,
+                    "probability": 0.9952422380447388
+                },
+                {
+                    "word": " those",
+                    "start": 13.7,
+                    "end": 14.0,
+                    "probability": 0.5343290567398071
+                },
+                {
+                    "word": " kinds",
+                    "start": 14.0,
+                    "end": 14.14,
+                    "probability": 0.6841328740119934
+                },
+                {
+                    "word": " of",
+                    "start": 14.14,
+                    "end": 14.54,
+                    "probability": 0.9991282820701599
+                },
+                {
+                    "word": " capabilities.",
+                    "start": 14.54,
+                    "end": 14.64,
+                    "probability": 0.9986546039581299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

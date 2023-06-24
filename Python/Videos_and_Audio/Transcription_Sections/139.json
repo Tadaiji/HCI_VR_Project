@@ -1,0 +1,580 @@
+{
+    "text": " I found it. I found it. Oh. So this is the one. So there's two. This is the one for the single tool comparison, but then for the, but it's going to look the same, but then here's the one for, I just put it in chat for you guys. And here's the one for the platform players.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " I found it. I found it.",
+            "tokens": [
+                50364,
+                286,
+                1352,
+                309,
+                13,
+                286,
+                1352,
+                309,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.39800021052360535
+                },
+                {
+                    "word": " found",
+                    "start": 0.18,
+                    "end": 0.42,
+                    "probability": 0.9700179100036621
+                },
+                {
+                    "word": " it.",
+                    "start": 0.42,
+                    "end": 0.7,
+                    "probability": 0.9890773296356201
+                },
+                {
+                    "word": " I",
+                    "start": 0.82,
+                    "end": 0.84,
+                    "probability": 0.665595293045044
+                },
+                {
+                    "word": " found",
+                    "start": 0.84,
+                    "end": 1.1,
+                    "probability": 0.9861624240875244
+                },
+                {
+                    "word": " it.",
+                    "start": 1.1,
+                    "end": 1.36,
+                    "probability": 0.9541597366333008
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.04,
+            "end": 2.1,
+            "text": " Oh.",
+            "tokens": [
+                50428,
+                876,
+                13,
+                50508
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " Oh.",
+                    "start": 2.04,
+                    "end": 2.1,
+                    "probability": 0.3071865141391754
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.9,
+            "end": 3.78,
+            "text": " So this is the one.",
+            "tokens": [
+                50508,
+                407,
+                341,
+                307,
+                264,
+                472,
+                13,
+                50550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.9,
+                    "end": 3.1,
+                    "probability": 0.7341383695602417
+                },
+                {
+                    "word": " this",
+                    "start": 3.1,
+                    "end": 3.22,
+                    "probability": 0.8543484210968018
+                },
+                {
+                    "word": " is",
+                    "start": 3.22,
+                    "end": 3.38,
+                    "probability": 0.9973859190940857
+                },
+                {
+                    "word": " the",
+                    "start": 3.38,
+                    "end": 3.58,
+                    "probability": 0.997515082359314
+                },
+                {
+                    "word": " one.",
+                    "start": 3.58,
+                    "end": 3.78,
+                    "probability": 0.9856217503547668
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 3.86,
+            "end": 4.6,
+            "text": " So there's two.",
+            "tokens": [
+                50550,
+                407,
+                456,
+                311,
+                732,
+                13,
+                50600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 3.86,
+                    "end": 3.94,
+                    "probability": 0.9112257957458496
+                },
+                {
+                    "word": " there's",
+                    "start": 3.94,
+                    "end": 4.34,
+                    "probability": 0.832423597574234
+                },
+                {
+                    "word": " two.",
+                    "start": 4.34,
+                    "end": 4.6,
+                    "probability": 0.9663699269294739
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 4.74,
+            "end": 6.8,
+            "text": " This is the one for the single tool comparison,",
+            "tokens": [
+                50600,
+                639,
+                307,
+                264,
+                472,
+                337,
+                264,
+                2167,
+                2290,
+                9660,
+                11,
+                50706
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 4.74,
+                    "end": 4.96,
+                    "probability": 0.9923070073127747
+                },
+                {
+                    "word": " is",
+                    "start": 4.96,
+                    "end": 5.12,
+                    "probability": 0.9969755411148071
+                },
+                {
+                    "word": " the",
+                    "start": 5.12,
+                    "end": 5.22,
+                    "probability": 0.8773333430290222
+                },
+                {
+                    "word": " one",
+                    "start": 5.22,
+                    "end": 5.26,
+                    "probability": 0.9895290732383728
+                },
+                {
+                    "word": " for",
+                    "start": 5.26,
+                    "end": 5.42,
+                    "probability": 0.9921093583106995
+                },
+                {
+                    "word": " the",
+                    "start": 5.42,
+                    "end": 5.58,
+                    "probability": 0.9979400038719177
+                },
+                {
+                    "word": " single",
+                    "start": 5.58,
+                    "end": 5.78,
+                    "probability": 0.9345365762710571
+                },
+                {
+                    "word": " tool",
+                    "start": 5.78,
+                    "end": 6.16,
+                    "probability": 0.4377414286136627
+                },
+                {
+                    "word": " comparison,",
+                    "start": 6.16,
+                    "end": 6.8,
+                    "probability": 0.9563469886779785
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 7.12,
+            "end": 9.56,
+            "text": " but then for the, but it's going to look the same,",
+            "tokens": [
+                50706,
+                457,
+                550,
+                337,
+                264,
+                11,
+                457,
+                309,
+                311,
+                516,
+                281,
+                574,
+                264,
+                912,
+                11,
+                50840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 7.12,
+                    "end": 7.12,
+                    "probability": 0.9891021251678467
+                },
+                {
+                    "word": " then",
+                    "start": 7.12,
+                    "end": 7.42,
+                    "probability": 0.9538363218307495
+                },
+                {
+                    "word": " for",
+                    "start": 7.42,
+                    "end": 7.78,
+                    "probability": 0.9355438351631165
+                },
+                {
+                    "word": " the,",
+                    "start": 7.78,
+                    "end": 8.2,
+                    "probability": 0.9908425807952881
+                },
+                {
+                    "word": " but",
+                    "start": 8.2,
+                    "end": 8.58,
+                    "probability": 0.9124539494514465
+                },
+                {
+                    "word": " it's",
+                    "start": 8.58,
+                    "end": 8.88,
+                    "probability": 0.9910062253475189
+                },
+                {
+                    "word": " going",
+                    "start": 8.88,
+                    "end": 8.96,
+                    "probability": 0.6642780900001526
+                },
+                {
+                    "word": " to",
+                    "start": 8.96,
+                    "end": 9.08,
+                    "probability": 0.9983396530151367
+                },
+                {
+                    "word": " look",
+                    "start": 9.08,
+                    "end": 9.18,
+                    "probability": 0.9991368651390076
+                },
+                {
+                    "word": " the",
+                    "start": 9.18,
+                    "end": 9.38,
+                    "probability": 0.9988217949867249
+                },
+                {
+                    "word": " same,",
+                    "start": 9.38,
+                    "end": 9.56,
+                    "probability": 0.9990459084510803
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 9.58,
+            "end": 11.7,
+            "text": " but then here's the one for,",
+            "tokens": [
+                50840,
+                457,
+                550,
+                510,
+                311,
+                264,
+                472,
+                337,
+                11,
+                50978
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 9.58,
+                    "end": 9.78,
+                    "probability": 0.9978158473968506
+                },
+                {
+                    "word": " then",
+                    "start": 9.78,
+                    "end": 10.12,
+                    "probability": 0.9992245435714722
+                },
+                {
+                    "word": " here's",
+                    "start": 10.12,
+                    "end": 10.48,
+                    "probability": 0.9909527897834778
+                },
+                {
+                    "word": " the",
+                    "start": 10.48,
+                    "end": 10.68,
+                    "probability": 0.9983090162277222
+                },
+                {
+                    "word": " one",
+                    "start": 10.68,
+                    "end": 11.0,
+                    "probability": 0.9990057349205017
+                },
+                {
+                    "word": " for,",
+                    "start": 11.0,
+                    "end": 11.7,
+                    "probability": 0.9870936274528503
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 12.24,
+            "end": 13.86,
+            "text": " I just put it in chat for you guys.",
+            "tokens": [
+                50978,
+                286,
+                445,
+                829,
+                309,
+                294,
+                5081,
+                337,
+                291,
+                1074,
+                13,
+                51062
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 12.24,
+                    "end": 12.36,
+                    "probability": 0.9438674449920654
+                },
+                {
+                    "word": " just",
+                    "start": 12.36,
+                    "end": 12.58,
+                    "probability": 0.9102456569671631
+                },
+                {
+                    "word": " put",
+                    "start": 12.58,
+                    "end": 12.68,
+                    "probability": 0.9987146854400635
+                },
+                {
+                    "word": " it",
+                    "start": 12.68,
+                    "end": 12.84,
+                    "probability": 0.9967764019966125
+                },
+                {
+                    "word": " in",
+                    "start": 12.84,
+                    "end": 12.96,
+                    "probability": 0.9895289540290833
+                },
+                {
+                    "word": " chat",
+                    "start": 12.96,
+                    "end": 13.06,
+                    "probability": 0.9721754193305969
+                },
+                {
+                    "word": " for",
+                    "start": 13.06,
+                    "end": 13.26,
+                    "probability": 0.9981887936592102
+                },
+                {
+                    "word": " you",
+                    "start": 13.26,
+                    "end": 13.36,
+                    "probability": 0.9987485408782959
+                },
+                {
+                    "word": " guys.",
+                    "start": 13.36,
+                    "end": 13.86,
+                    "probability": 0.9953622221946716
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 13.86,
+            "end": 18.04,
+            "text": " And here's the one for the platform players.",
+            "tokens": [
+                51110,
+                400,
+                510,
+                311,
+                264,
+                472,
+                337,
+                264,
+                3663,
+                4150,
+                13,
+                51298
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2801662942637568,
+            "compression_ratio": 1.7435897435897436,
+            "no_speech_prob": 0.0013233289355412126,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 13.86,
+                    "end": 15.06,
+                    "probability": 0.8318990468978882
+                },
+                {
+                    "word": " here's",
+                    "start": 15.06,
+                    "end": 15.5,
+                    "probability": 0.9884931147098541
+                },
+                {
+                    "word": " the",
+                    "start": 15.5,
+                    "end": 15.74,
+                    "probability": 0.9983965754508972
+                },
+                {
+                    "word": " one",
+                    "start": 15.74,
+                    "end": 16.06,
+                    "probability": 0.998702883720398
+                },
+                {
+                    "word": " for",
+                    "start": 16.06,
+                    "end": 16.36,
+                    "probability": 0.9984424710273743
+                },
+                {
+                    "word": " the",
+                    "start": 16.36,
+                    "end": 16.62,
+                    "probability": 0.9986957907676697
+                },
+                {
+                    "word": " platform",
+                    "start": 16.62,
+                    "end": 17.12,
+                    "probability": 0.9951611161231995
+                },
+                {
+                    "word": " players.",
+                    "start": 17.12,
+                    "end": 18.04,
+                    "probability": 0.8737040162086487
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

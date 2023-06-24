@@ -1,0 +1,373 @@
+{
+    "text": " I often say, thank you, little eight pound five ounce baby Jesus with the golden diapers. I say that so often that I just think everybody has seen Talladega nights but then I realized that people that haven't are like, playing is really weird.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 6.4,
+            "text": " I often say, thank you, little eight pound five ounce baby Jesus with the golden diapers.",
+            "tokens": [
+                50364,
+                286,
+                2049,
+                584,
+                11,
+                1309,
+                291,
+                11,
+                707,
+                3180,
+                12013,
+                1732,
+                29860,
+                3186,
+                2705,
+                365,
+                264,
+                9729,
+                48496,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.276995287103168,
+            "compression_ratio": 1.4294117647058824,
+            "no_speech_prob": 0.01222025416791439,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.04,
+                    "end": 0.52,
+                    "probability": 0.6240258812904358
+                },
+                {
+                    "word": " often",
+                    "start": 0.52,
+                    "end": 0.84,
+                    "probability": 0.9457084536552429
+                },
+                {
+                    "word": " say,",
+                    "start": 0.84,
+                    "end": 1.42,
+                    "probability": 0.9937451481819153
+                },
+                {
+                    "word": " thank",
+                    "start": 1.78,
+                    "end": 2.2,
+                    "probability": 0.720048189163208
+                },
+                {
+                    "word": " you,",
+                    "start": 2.2,
+                    "end": 2.92,
+                    "probability": 0.99950110912323
+                },
+                {
+                    "word": " little",
+                    "start": 3.16,
+                    "end": 3.3,
+                    "probability": 0.8829429745674133
+                },
+                {
+                    "word": " eight",
+                    "start": 3.3,
+                    "end": 3.56,
+                    "probability": 0.8991068005561829
+                },
+                {
+                    "word": " pound",
+                    "start": 3.56,
+                    "end": 3.78,
+                    "probability": 0.8610308170318604
+                },
+                {
+                    "word": " five",
+                    "start": 3.78,
+                    "end": 4.1,
+                    "probability": 0.844793975353241
+                },
+                {
+                    "word": " ounce",
+                    "start": 4.1,
+                    "end": 4.56,
+                    "probability": 0.9728968739509583
+                },
+                {
+                    "word": " baby",
+                    "start": 4.56,
+                    "end": 5.08,
+                    "probability": 0.6287600994110107
+                },
+                {
+                    "word": " Jesus",
+                    "start": 5.08,
+                    "end": 5.44,
+                    "probability": 0.4614224135875702
+                },
+                {
+                    "word": " with",
+                    "start": 5.44,
+                    "end": 5.62,
+                    "probability": 0.7533144354820251
+                },
+                {
+                    "word": " the",
+                    "start": 5.62,
+                    "end": 5.76,
+                    "probability": 0.7928822636604309
+                },
+                {
+                    "word": " golden",
+                    "start": 5.76,
+                    "end": 5.92,
+                    "probability": 0.7560030221939087
+                },
+                {
+                    "word": " diapers.",
+                    "start": 5.92,
+                    "end": 6.4,
+                    "probability": 0.8227481842041016
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.34,
+            "end": 11.08,
+            "text": " I say that so often that I just think everybody has seen Talladega nights but then I realized",
+            "tokens": [
+                50714,
+                286,
+                584,
+                300,
+                370,
+                2049,
+                300,
+                286,
+                445,
+                519,
+                2201,
+                575,
+                1612,
+                42633,
+                762,
+                3680,
+                13249,
+                457,
+                550,
+                286,
+                5334,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.276995287103168,
+            "compression_ratio": 1.4294117647058824,
+            "no_speech_prob": 0.01222025416791439,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 7.34,
+                    "end": 7.34,
+                    "probability": 0.9734876155853271
+                },
+                {
+                    "word": " say",
+                    "start": 7.34,
+                    "end": 7.46,
+                    "probability": 0.8962100744247437
+                },
+                {
+                    "word": " that",
+                    "start": 7.46,
+                    "end": 7.62,
+                    "probability": 0.9990237951278687
+                },
+                {
+                    "word": " so",
+                    "start": 7.62,
+                    "end": 7.92,
+                    "probability": 0.978383481502533
+                },
+                {
+                    "word": " often",
+                    "start": 7.92,
+                    "end": 8.2,
+                    "probability": 0.9994163513183594
+                },
+                {
+                    "word": " that",
+                    "start": 8.2,
+                    "end": 8.4,
+                    "probability": 0.9720815420150757
+                },
+                {
+                    "word": " I",
+                    "start": 8.4,
+                    "end": 8.5,
+                    "probability": 0.9973235726356506
+                },
+                {
+                    "word": " just",
+                    "start": 8.5,
+                    "end": 8.72,
+                    "probability": 0.9962449669837952
+                },
+                {
+                    "word": " think",
+                    "start": 8.72,
+                    "end": 8.86,
+                    "probability": 0.9995924830436707
+                },
+                {
+                    "word": " everybody",
+                    "start": 8.86,
+                    "end": 9.24,
+                    "probability": 0.9952579140663147
+                },
+                {
+                    "word": " has",
+                    "start": 9.24,
+                    "end": 9.54,
+                    "probability": 0.9967575669288635
+                },
+                {
+                    "word": " seen",
+                    "start": 9.54,
+                    "end": 9.76,
+                    "probability": 0.9931952953338623
+                },
+                {
+                    "word": " Talladega",
+                    "start": 9.76,
+                    "end": 10.18,
+                    "probability": 0.8276541431744894
+                },
+                {
+                    "word": " nights",
+                    "start": 10.18,
+                    "end": 10.38,
+                    "probability": 0.6624191403388977
+                },
+                {
+                    "word": " but",
+                    "start": 10.38,
+                    "end": 10.56,
+                    "probability": 0.8318833112716675
+                },
+                {
+                    "word": " then",
+                    "start": 10.56,
+                    "end": 10.68,
+                    "probability": 0.9971467852592468
+                },
+                {
+                    "word": " I",
+                    "start": 10.68,
+                    "end": 10.82,
+                    "probability": 0.9966529011726379
+                },
+                {
+                    "word": " realized",
+                    "start": 10.82,
+                    "end": 11.08,
+                    "probability": 0.9256986379623413
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.08,
+            "end": 13.96,
+            "text": " that people that haven't are like, playing is really weird.",
+            "tokens": [
+                50914,
+                300,
+                561,
+                300,
+                2378,
+                380,
+                366,
+                411,
+                11,
+                2433,
+                307,
+                534,
+                3657,
+                13,
+                51126
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.276995287103168,
+            "compression_ratio": 1.4294117647058824,
+            "no_speech_prob": 0.01222025416791439,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 11.08,
+                    "end": 11.3,
+                    "probability": 0.9986681938171387
+                },
+                {
+                    "word": " people",
+                    "start": 11.3,
+                    "end": 11.46,
+                    "probability": 0.9992792010307312
+                },
+                {
+                    "word": " that",
+                    "start": 11.46,
+                    "end": 11.72,
+                    "probability": 0.9930588006973267
+                },
+                {
+                    "word": " haven't",
+                    "start": 11.72,
+                    "end": 12.4,
+                    "probability": 0.9043619930744171
+                },
+                {
+                    "word": " are",
+                    "start": 12.4,
+                    "end": 12.56,
+                    "probability": 0.8133517503738403
+                },
+                {
+                    "word": " like,",
+                    "start": 12.56,
+                    "end": 12.8,
+                    "probability": 0.9968158602714539
+                },
+                {
+                    "word": " playing",
+                    "start": 12.8,
+                    "end": 12.96,
+                    "probability": 0.21744535863399506
+                },
+                {
+                    "word": " is",
+                    "start": 12.96,
+                    "end": 13.12,
+                    "probability": 0.7132701873779297
+                },
+                {
+                    "word": " really",
+                    "start": 13.12,
+                    "end": 13.46,
+                    "probability": 0.9979446530342102
+                },
+                {
+                    "word": " weird.",
+                    "start": 13.46,
+                    "end": 13.96,
+                    "probability": 0.9991425275802612
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

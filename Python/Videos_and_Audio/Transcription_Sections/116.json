@@ -1,0 +1,330 @@
+{
+    "text": " then we should specifically call out that they have zero. So GitHub builds itself as a platform, it sells itself that way. Same with Azure DevOps, same with JFrog. Well, they all do.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.1,
+            "text": " then we should specifically call out that they have zero.",
+            "tokens": [
+                50364,
+                550,
+                321,
+                820,
+                4682,
+                818,
+                484,
+                300,
+                436,
+                362,
+                4018,
+                13,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21234946984511155,
+            "compression_ratio": 1.3093525179856116,
+            "no_speech_prob": 0.0007435166626237333,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4390944540500641
+                },
+                {
+                    "word": " we",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.9906740784645081
+                },
+                {
+                    "word": " should",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9973670840263367
+                },
+                {
+                    "word": " specifically",
+                    "start": 0.68,
+                    "end": 1.26,
+                    "probability": 0.9865279793739319
+                },
+                {
+                    "word": " call",
+                    "start": 1.26,
+                    "end": 1.62,
+                    "probability": 0.9969030022621155
+                },
+                {
+                    "word": " out",
+                    "start": 1.62,
+                    "end": 1.96,
+                    "probability": 0.9950351715087891
+                },
+                {
+                    "word": " that",
+                    "start": 1.96,
+                    "end": 2.12,
+                    "probability": 0.9877854585647583
+                },
+                {
+                    "word": " they",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.8290850520133972
+                },
+                {
+                    "word": " have",
+                    "start": 2.32,
+                    "end": 2.56,
+                    "probability": 0.847997784614563
+                },
+                {
+                    "word": " zero.",
+                    "start": 2.56,
+                    "end": 3.1,
+                    "probability": 0.9198151230812073
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.8,
+            "end": 6.46,
+            "text": " So GitHub builds itself as a platform,",
+            "tokens": [
+                50534,
+                407,
+                23331,
+                15182,
+                2564,
+                382,
+                257,
+                3663,
+                11,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21234946984511155,
+            "compression_ratio": 1.3093525179856116,
+            "no_speech_prob": 0.0007435166626237333,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 3.8,
+                    "end": 3.86,
+                    "probability": 0.8189000487327576
+                },
+                {
+                    "word": " GitHub",
+                    "start": 3.86,
+                    "end": 4.48,
+                    "probability": 0.7323662042617798
+                },
+                {
+                    "word": " builds",
+                    "start": 4.48,
+                    "end": 5.5,
+                    "probability": 0.429126501083374
+                },
+                {
+                    "word": " itself",
+                    "start": 5.5,
+                    "end": 5.84,
+                    "probability": 0.9966979026794434
+                },
+                {
+                    "word": " as",
+                    "start": 5.84,
+                    "end": 6.04,
+                    "probability": 0.9920068383216858
+                },
+                {
+                    "word": " a",
+                    "start": 6.04,
+                    "end": 6.18,
+                    "probability": 0.9990008473396301
+                },
+                {
+                    "word": " platform,",
+                    "start": 6.18,
+                    "end": 6.46,
+                    "probability": 0.9988784193992615
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.68,
+            "end": 8.62,
+            "text": " it sells itself that way.",
+            "tokens": [
+                50688,
+                309,
+                20897,
+                2564,
+                300,
+                636,
+                13,
+                50762
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21234946984511155,
+            "compression_ratio": 1.3093525179856116,
+            "no_speech_prob": 0.0007435166626237333,
+            "words": [
+                {
+                    "word": " it",
+                    "start": 6.68,
+                    "end": 6.8,
+                    "probability": 0.9516497850418091
+                },
+                {
+                    "word": " sells",
+                    "start": 6.8,
+                    "end": 6.92,
+                    "probability": 0.9929885268211365
+                },
+                {
+                    "word": " itself",
+                    "start": 6.92,
+                    "end": 7.24,
+                    "probability": 0.9987694621086121
+                },
+                {
+                    "word": " that",
+                    "start": 7.24,
+                    "end": 7.52,
+                    "probability": 0.9931252002716064
+                },
+                {
+                    "word": " way.",
+                    "start": 7.52,
+                    "end": 8.62,
+                    "probability": 0.9989036321640015
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.34,
+            "end": 11.94,
+            "text": " Same with Azure DevOps, same with JFrog.",
+            "tokens": [
+                50830,
+                10635,
+                365,
+                11969,
+                43051,
+                11,
+                912,
+                365,
+                40951,
+                6675,
+                13,
+                50988
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21234946984511155,
+            "compression_ratio": 1.3093525179856116,
+            "no_speech_prob": 0.0007435166626237333,
+            "words": [
+                {
+                    "word": " Same",
+                    "start": 9.34,
+                    "end": 9.64,
+                    "probability": 0.9616962671279907
+                },
+                {
+                    "word": " with",
+                    "start": 9.64,
+                    "end": 9.9,
+                    "probability": 0.9968788623809814
+                },
+                {
+                    "word": " Azure",
+                    "start": 9.9,
+                    "end": 10.1,
+                    "probability": 0.9892842173576355
+                },
+                {
+                    "word": " DevOps,",
+                    "start": 10.1,
+                    "end": 10.58,
+                    "probability": 0.9739912748336792
+                },
+                {
+                    "word": " same",
+                    "start": 10.84,
+                    "end": 11.06,
+                    "probability": 0.9929364323616028
+                },
+                {
+                    "word": " with",
+                    "start": 11.06,
+                    "end": 11.38,
+                    "probability": 0.9986019730567932
+                },
+                {
+                    "word": " JFrog.",
+                    "start": 11.38,
+                    "end": 11.94,
+                    "probability": 0.9543788433074951
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.34,
+            "end": 12.86,
+            "text": " Well, they all do.",
+            "tokens": [
+                50988,
+                1042,
+                11,
+                436,
+                439,
+                360,
+                13,
+                51030
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21234946984511155,
+            "compression_ratio": 1.3093525179856116,
+            "no_speech_prob": 0.0007435166626237333,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 12.34,
+                    "end": 12.68,
+                    "probability": 0.46621260046958923
+                },
+                {
+                    "word": " they",
+                    "start": 12.7,
+                    "end": 12.78,
+                    "probability": 0.9849147796630859
+                },
+                {
+                    "word": " all",
+                    "start": 12.78,
+                    "end": 12.86,
+                    "probability": 0.9803803563117981
+                },
+                {
+                    "word": " do.",
+                    "start": 12.86,
+                    "end": 12.86,
+                    "probability": 0.6540970206260681
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

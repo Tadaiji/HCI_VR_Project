@@ -1,0 +1,74 @@
+{
+    "text": " Manage is even less descriptive than that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.48,
+            "end": 3.62,
+            "text": " Manage is even less descriptive than that.",
+            "tokens": [
+                50364,
+                2458,
+                609,
+                307,
+                754,
+                1570,
+                42585,
+                813,
+                300,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35983729362487793,
+            "compression_ratio": 0.8936170212765957,
+            "no_speech_prob": 0.05484514310956001,
+            "words": [
+                {
+                    "word": " Manage",
+                    "start": 0.48,
+                    "end": 1.34,
+                    "probability": 0.7370327115058899
+                },
+                {
+                    "word": " is",
+                    "start": 1.34,
+                    "end": 1.78,
+                    "probability": 0.9812735319137573
+                },
+                {
+                    "word": " even",
+                    "start": 1.78,
+                    "end": 2.12,
+                    "probability": 0.8394044637680054
+                },
+                {
+                    "word": " less",
+                    "start": 2.12,
+                    "end": 2.42,
+                    "probability": 0.9986547231674194
+                },
+                {
+                    "word": " descriptive",
+                    "start": 2.42,
+                    "end": 2.84,
+                    "probability": 0.9954388737678528
+                },
+                {
+                    "word": " than",
+                    "start": 2.84,
+                    "end": 3.18,
+                    "probability": 0.9934539794921875
+                },
+                {
+                    "word": " that.",
+                    "start": 3.18,
+                    "end": 3.62,
+                    "probability": 0.9960339665412903
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

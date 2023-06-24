@@ -1,0 +1,260 @@
+{
+    "text": " Right. So ideally when we picked like the 10 to 15 features, though some of those were like GitLab only some of those were like, GitLab didn't have.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.24,
+            "end": 4.72,
+            "text": " Right. So ideally when we picked like the 10 to 15 features,",
+            "tokens": [
+                50364,
+                1779,
+                13,
+                407,
+                22915,
+                562,
+                321,
+                6183,
+                411,
+                264,
+                1266,
+                281,
+                2119,
+                4122,
+                11,
+                50608
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3295357340858096,
+            "compression_ratio": 1.3097345132743363,
+            "no_speech_prob": 0.00029586211894638836,
+            "words": [
+                {
+                    "word": " Right.",
+                    "start": 1.24,
+                    "end": 1.68,
+                    "probability": 0.5269495844841003
+                },
+                {
+                    "word": " So",
+                    "start": 2.12,
+                    "end": 2.12,
+                    "probability": 0.8317391872406006
+                },
+                {
+                    "word": " ideally",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9012092351913452
+                },
+                {
+                    "word": " when",
+                    "start": 2.6,
+                    "end": 2.82,
+                    "probability": 0.6844645142555237
+                },
+                {
+                    "word": " we",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.9996627569198608
+                },
+                {
+                    "word": " picked",
+                    "start": 3.04,
+                    "end": 3.18,
+                    "probability": 0.5678861737251282
+                },
+                {
+                    "word": " like",
+                    "start": 3.18,
+                    "end": 3.36,
+                    "probability": 0.7258636355400085
+                },
+                {
+                    "word": " the",
+                    "start": 3.36,
+                    "end": 3.54,
+                    "probability": 0.9812517166137695
+                },
+                {
+                    "word": " 10",
+                    "start": 3.54,
+                    "end": 3.64,
+                    "probability": 0.9753226637840271
+                },
+                {
+                    "word": " to",
+                    "start": 3.64,
+                    "end": 3.76,
+                    "probability": 0.9743543267250061
+                },
+                {
+                    "word": " 15",
+                    "start": 3.76,
+                    "end": 4.1,
+                    "probability": 0.9988634586334229
+                },
+                {
+                    "word": " features,",
+                    "start": 4.1,
+                    "end": 4.72,
+                    "probability": 0.9938141107559204
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.26,
+            "end": 9.8,
+            "text": " though some of those were like GitLab only some of those were like,",
+            "tokens": [
+                50658,
+                1673,
+                512,
+                295,
+                729,
+                645,
+                411,
+                16939,
+                37880,
+                787,
+                512,
+                295,
+                729,
+                645,
+                411,
+                11,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3295357340858096,
+            "compression_ratio": 1.3097345132743363,
+            "no_speech_prob": 0.00029586211894638836,
+            "words": [
+                {
+                    "word": " though",
+                    "start": 6.26,
+                    "end": 6.4,
+                    "probability": 0.35477426648139954
+                },
+                {
+                    "word": " some",
+                    "start": 6.4,
+                    "end": 6.7,
+                    "probability": 0.42481729388237
+                },
+                {
+                    "word": " of",
+                    "start": 6.7,
+                    "end": 6.82,
+                    "probability": 0.9989198446273804
+                },
+                {
+                    "word": " those",
+                    "start": 6.82,
+                    "end": 7.0,
+                    "probability": 0.9987837672233582
+                },
+                {
+                    "word": " were",
+                    "start": 7.0,
+                    "end": 7.26,
+                    "probability": 0.9891787767410278
+                },
+                {
+                    "word": " like",
+                    "start": 7.26,
+                    "end": 7.58,
+                    "probability": 0.9329334497451782
+                },
+                {
+                    "word": " GitLab",
+                    "start": 7.58,
+                    "end": 7.84,
+                    "probability": 0.8829489946365356
+                },
+                {
+                    "word": " only",
+                    "start": 7.84,
+                    "end": 8.14,
+                    "probability": 0.9140336513519287
+                },
+                {
+                    "word": " some",
+                    "start": 8.14,
+                    "end": 8.36,
+                    "probability": 0.5557783842086792
+                },
+                {
+                    "word": " of",
+                    "start": 8.36,
+                    "end": 8.5,
+                    "probability": 0.9988616704940796
+                },
+                {
+                    "word": " those",
+                    "start": 8.5,
+                    "end": 8.7,
+                    "probability": 0.9989662170410156
+                },
+                {
+                    "word": " were",
+                    "start": 8.7,
+                    "end": 8.92,
+                    "probability": 0.9521890878677368
+                },
+                {
+                    "word": " like,",
+                    "start": 8.92,
+                    "end": 9.8,
+                    "probability": 0.9787080883979797
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.8,
+            "end": 10.62,
+            "text": " GitLab didn't have.",
+            "tokens": [
+                50850,
+                16939,
+                37880,
+                994,
+                380,
+                362,
+                13,
+                50896
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3295357340858096,
+            "compression_ratio": 1.3097345132743363,
+            "no_speech_prob": 0.00029586211894638836,
+            "words": [
+                {
+                    "word": " GitLab",
+                    "start": 9.8,
+                    "end": 10.12,
+                    "probability": 0.9132614433765411
+                },
+                {
+                    "word": " didn't",
+                    "start": 10.12,
+                    "end": 10.42,
+                    "probability": 0.983959823846817
+                },
+                {
+                    "word": " have.",
+                    "start": 10.42,
+                    "end": 10.62,
+                    "probability": 0.9994727969169617
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

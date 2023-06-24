@@ -1,0 +1,139 @@
+{
+    "text": " Yeah, I thought it was good to emphasize both because they mean different things. It's nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 3.98,
+            "text": " Yeah, I thought it was good to emphasize both because they mean different things. It's nice.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                1194,
+                309,
+                390,
+                665,
+                281,
+                16078,
+                1293,
+                570,
+                436,
+                914,
+                819,
+                721,
+                13,
+                467,
+                311,
+                1481,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20529249440068784,
+            "compression_ratio": 1.069767441860465,
+            "no_speech_prob": 0.0019408573862165213,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.12,
+                    "end": 0.4,
+                    "probability": 0.7098764181137085
+                },
+                {
+                    "word": " I",
+                    "start": 0.48,
+                    "end": 0.58,
+                    "probability": 0.8782445192337036
+                },
+                {
+                    "word": " thought",
+                    "start": 0.58,
+                    "end": 0.72,
+                    "probability": 0.9988382458686829
+                },
+                {
+                    "word": " it",
+                    "start": 0.72,
+                    "end": 0.8,
+                    "probability": 0.9976690411567688
+                },
+                {
+                    "word": " was",
+                    "start": 0.8,
+                    "end": 0.92,
+                    "probability": 0.9993076324462891
+                },
+                {
+                    "word": " good",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.9986230134963989
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 1.26,
+                    "probability": 0.9962111711502075
+                },
+                {
+                    "word": " emphasize",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9919037222862244
+                },
+                {
+                    "word": " both",
+                    "start": 1.58,
+                    "end": 1.92,
+                    "probability": 0.9944228529930115
+                },
+                {
+                    "word": " because",
+                    "start": 1.92,
+                    "end": 2.3,
+                    "probability": 0.6077060103416443
+                },
+                {
+                    "word": " they",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.9602404832839966
+                },
+                {
+                    "word": " mean",
+                    "start": 2.46,
+                    "end": 2.98,
+                    "probability": 0.9723376631736755
+                },
+                {
+                    "word": " different",
+                    "start": 2.98,
+                    "end": 3.34,
+                    "probability": 0.9490101337432861
+                },
+                {
+                    "word": " things.",
+                    "start": 3.34,
+                    "end": 3.58,
+                    "probability": 0.9842325448989868
+                },
+                {
+                    "word": " It's",
+                    "start": 3.72,
+                    "end": 3.84,
+                    "probability": 0.7770935595035553
+                },
+                {
+                    "word": " nice.",
+                    "start": 3.84,
+                    "end": 3.98,
+                    "probability": 0.9721387028694153
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

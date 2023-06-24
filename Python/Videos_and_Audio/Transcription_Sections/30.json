@@ -1,0 +1,435 @@
+{
+    "text": " I didn't add it, but I can add that in. I've got good notes on that. The extension that had been around for a while became official, was kind of one of the things. But there's some other stuff that's a little juicier than that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 2.78,
+            "text": " I didn't add it, but I can add that in.",
+            "tokens": [
+                50364,
+                286,
+                994,
+                380,
+                909,
+                309,
+                11,
+                457,
+                286,
+                393,
+                909,
+                300,
+                294,
+                13,
+                50512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.04,
+                    "end": 0.4,
+                    "probability": 0.865536630153656
+                },
+                {
+                    "word": " didn't",
+                    "start": 0.4,
+                    "end": 0.72,
+                    "probability": 0.9947446584701538
+                },
+                {
+                    "word": " add",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9879206418991089
+                },
+                {
+                    "word": " it,",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9952168464660645
+                },
+                {
+                    "word": " but",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.9956610798835754
+                },
+                {
+                    "word": " I",
+                    "start": 1.38,
+                    "end": 1.46,
+                    "probability": 0.9927083849906921
+                },
+                {
+                    "word": " can",
+                    "start": 1.46,
+                    "end": 1.76,
+                    "probability": 0.9940130114555359
+                },
+                {
+                    "word": " add",
+                    "start": 1.76,
+                    "end": 2.12,
+                    "probability": 0.2831956446170807
+                },
+                {
+                    "word": " that",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9886496067047119
+                },
+                {
+                    "word": " in.",
+                    "start": 2.34,
+                    "end": 2.78,
+                    "probability": 0.9537634253501892
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.08,
+            "end": 4.26,
+            "text": " I've got good notes on that.",
+            "tokens": [
+                50512,
+                286,
+                600,
+                658,
+                665,
+                5570,
+                322,
+                300,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.8474879860877991
+                },
+                {
+                    "word": " got",
+                    "start": 3.18,
+                    "end": 3.28,
+                    "probability": 0.9969111084938049
+                },
+                {
+                    "word": " good",
+                    "start": 3.28,
+                    "end": 3.5,
+                    "probability": 0.9885559678077698
+                },
+                {
+                    "word": " notes",
+                    "start": 3.5,
+                    "end": 3.66,
+                    "probability": 0.9973560571670532
+                },
+                {
+                    "word": " on",
+                    "start": 3.66,
+                    "end": 3.88,
+                    "probability": 0.994429349899292
+                },
+                {
+                    "word": " that.",
+                    "start": 3.88,
+                    "end": 4.26,
+                    "probability": 0.8793053030967712
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.72,
+            "end": 6.9,
+            "text": " The extension that had been around for a while",
+            "tokens": [
+                50598,
+                440,
+                10320,
+                300,
+                632,
+                668,
+                926,
+                337,
+                257,
+                1339,
+                50710
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 4.72,
+                    "end": 5.1,
+                    "probability": 0.8963325619697571
+                },
+                {
+                    "word": " extension",
+                    "start": 5.1,
+                    "end": 5.68,
+                    "probability": 0.9787406325340271
+                },
+                {
+                    "word": " that",
+                    "start": 5.68,
+                    "end": 5.9,
+                    "probability": 0.9777758717536926
+                },
+                {
+                    "word": " had",
+                    "start": 5.9,
+                    "end": 6.06,
+                    "probability": 0.9817203283309937
+                },
+                {
+                    "word": " been",
+                    "start": 6.06,
+                    "end": 6.2,
+                    "probability": 0.999402642250061
+                },
+                {
+                    "word": " around",
+                    "start": 6.2,
+                    "end": 6.46,
+                    "probability": 0.9990172386169434
+                },
+                {
+                    "word": " for",
+                    "start": 6.46,
+                    "end": 6.62,
+                    "probability": 0.9876722693443298
+                },
+                {
+                    "word": " a",
+                    "start": 6.62,
+                    "end": 6.72,
+                    "probability": 0.8647996187210083
+                },
+                {
+                    "word": " while",
+                    "start": 6.72,
+                    "end": 6.9,
+                    "probability": 0.9982220530509949
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.9,
+            "end": 9.06,
+            "text": " became official, was kind of one of the things.",
+            "tokens": [
+                50710,
+                3062,
+                4783,
+                11,
+                390,
+                733,
+                295,
+                472,
+                295,
+                264,
+                721,
+                13,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " became",
+                    "start": 6.9,
+                    "end": 7.34,
+                    "probability": 0.9417687058448792
+                },
+                {
+                    "word": " official,",
+                    "start": 7.34,
+                    "end": 7.82,
+                    "probability": 0.9948765635490417
+                },
+                {
+                    "word": " was",
+                    "start": 8.1,
+                    "end": 8.28,
+                    "probability": 0.7855201363563538
+                },
+                {
+                    "word": " kind",
+                    "start": 8.28,
+                    "end": 8.46,
+                    "probability": 0.8742253184318542
+                },
+                {
+                    "word": " of",
+                    "start": 8.46,
+                    "end": 8.56,
+                    "probability": 0.9991843104362488
+                },
+                {
+                    "word": " one",
+                    "start": 8.56,
+                    "end": 8.66,
+                    "probability": 0.9936593174934387
+                },
+                {
+                    "word": " of",
+                    "start": 8.66,
+                    "end": 8.76,
+                    "probability": 0.9972469806671143
+                },
+                {
+                    "word": " the",
+                    "start": 8.76,
+                    "end": 8.86,
+                    "probability": 0.9848041534423828
+                },
+                {
+                    "word": " things.",
+                    "start": 8.86,
+                    "end": 9.06,
+                    "probability": 0.9976220726966858
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.24,
+            "end": 10.28,
+            "text": " But there's some other stuff that's",
+            "tokens": [
+                50820,
+                583,
+                456,
+                311,
+                512,
+                661,
+                1507,
+                300,
+                311,
+                50874
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 9.24,
+                    "end": 9.34,
+                    "probability": 0.9689449667930603
+                },
+                {
+                    "word": " there's",
+                    "start": 9.34,
+                    "end": 9.52,
+                    "probability": 0.9807454347610474
+                },
+                {
+                    "word": " some",
+                    "start": 9.52,
+                    "end": 9.66,
+                    "probability": 0.9941830039024353
+                },
+                {
+                    "word": " other",
+                    "start": 9.66,
+                    "end": 9.84,
+                    "probability": 0.9974802136421204
+                },
+                {
+                    "word": " stuff",
+                    "start": 9.84,
+                    "end": 10.0,
+                    "probability": 0.9988808035850525
+                },
+                {
+                    "word": " that's",
+                    "start": 10.0,
+                    "end": 10.28,
+                    "probability": 0.9897825121879578
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 10.28,
+            "end": 11.3,
+            "text": " a little juicier than that.",
+            "tokens": [
+                50874,
+                257,
+                707,
+                3649,
+                299,
+                811,
+                813,
+                300,
+                13,
+                50990
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20644514901297434,
+            "compression_ratio": 1.474025974025974,
+            "no_speech_prob": 0.0011870902962982655,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 10.28,
+                    "end": 10.34,
+                    "probability": 0.9970837235450745
+                },
+                {
+                    "word": " little",
+                    "start": 10.34,
+                    "end": 10.52,
+                    "probability": 0.9979273080825806
+                },
+                {
+                    "word": " juicier",
+                    "start": 10.52,
+                    "end": 10.98,
+                    "probability": 0.9600545167922974
+                },
+                {
+                    "word": " than",
+                    "start": 10.98,
+                    "end": 11.16,
+                    "probability": 0.979098916053772
+                },
+                {
+                    "word": " that.",
+                    "start": 11.16,
+                    "end": 11.3,
+                    "probability": 0.9986268281936646
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,454 @@
+{
+    "text": " Unreviewed is what we also have in terms of proprietary stuff. We've also got we replaced one of our scanners with some grip. And we did. We have our own proprietary DAS scanner now that's in It's in beta called browser. So it's our answer to scanning single page applications which represent a unique challenge. I think.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.3,
+            "end": 16.12,
+            "text": " Unreviewed is what we also have in terms of proprietary stuff. We've also got we replaced one of our scanners with some grip. And we did. We have our own proprietary DAS scanner now that's in",
+            "tokens": [
+                50364,
+                1156,
+                265,
+                1759,
+                292,
+                307,
+                437,
+                321,
+                611,
+                362,
+                294,
+                2115,
+                295,
+                38992,
+                1507,
+                13,
+                492,
+                600,
+                611,
+                658,
+                321,
+                10772,
+                472,
+                295,
+                527,
+                795,
+                25792,
+                365,
+                512,
+                12007,
+                13,
+                400,
+                321,
+                630,
+                13,
+                492,
+                362,
+                527,
+                1065,
+                38992,
+                413,
+                3160,
+                30211,
+                586,
+                300,
+                311,
+                294,
+                51132
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24352893581638088,
+            "compression_ratio": 1.5432692307692308,
+            "no_speech_prob": 4.683334918809123e-05,
+            "words": [
+                {
+                    "word": " Unreviewed",
+                    "start": 0.3,
+                    "end": 1.06,
+                    "probability": 0.6914643049240112
+                },
+                {
+                    "word": " is",
+                    "start": 1.06,
+                    "end": 1.16,
+                    "probability": 0.33936893939971924
+                },
+                {
+                    "word": " what",
+                    "start": 1.16,
+                    "end": 1.24,
+                    "probability": 0.3879301846027374
+                },
+                {
+                    "word": " we",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9892198443412781
+                },
+                {
+                    "word": " also",
+                    "start": 1.44,
+                    "end": 1.8,
+                    "probability": 0.9912365674972534
+                },
+                {
+                    "word": " have",
+                    "start": 1.8,
+                    "end": 2.02,
+                    "probability": 0.9645078182220459
+                },
+                {
+                    "word": " in",
+                    "start": 2.02,
+                    "end": 2.82,
+                    "probability": 0.6843479871749878
+                },
+                {
+                    "word": " terms",
+                    "start": 2.82,
+                    "end": 3.12,
+                    "probability": 0.9990956783294678
+                },
+                {
+                    "word": " of",
+                    "start": 3.12,
+                    "end": 3.34,
+                    "probability": 0.9986125230789185
+                },
+                {
+                    "word": " proprietary",
+                    "start": 3.34,
+                    "end": 3.96,
+                    "probability": 0.9970500469207764
+                },
+                {
+                    "word": " stuff.",
+                    "start": 3.96,
+                    "end": 4.26,
+                    "probability": 0.9914244413375854
+                },
+                {
+                    "word": " We've",
+                    "start": 4.5,
+                    "end": 4.54,
+                    "probability": 0.9775059819221497
+                },
+                {
+                    "word": " also",
+                    "start": 4.54,
+                    "end": 4.9,
+                    "probability": 0.9970930814743042
+                },
+                {
+                    "word": " got",
+                    "start": 4.9,
+                    "end": 5.52,
+                    "probability": 0.9844573140144348
+                },
+                {
+                    "word": " we",
+                    "start": 5.52,
+                    "end": 6.34,
+                    "probability": 0.6197760105133057
+                },
+                {
+                    "word": " replaced",
+                    "start": 6.34,
+                    "end": 6.98,
+                    "probability": 0.9933399558067322
+                },
+                {
+                    "word": " one",
+                    "start": 6.98,
+                    "end": 7.58,
+                    "probability": 0.9839088320732117
+                },
+                {
+                    "word": " of",
+                    "start": 7.58,
+                    "end": 7.72,
+                    "probability": 0.998815655708313
+                },
+                {
+                    "word": " our",
+                    "start": 7.72,
+                    "end": 7.94,
+                    "probability": 0.9991707801818848
+                },
+                {
+                    "word": " scanners",
+                    "start": 7.94,
+                    "end": 8.32,
+                    "probability": 0.9902448356151581
+                },
+                {
+                    "word": " with",
+                    "start": 8.32,
+                    "end": 8.68,
+                    "probability": 0.9276973009109497
+                },
+                {
+                    "word": " some",
+                    "start": 8.68,
+                    "end": 8.98,
+                    "probability": 0.4326115548610687
+                },
+                {
+                    "word": " grip.",
+                    "start": 8.98,
+                    "end": 9.34,
+                    "probability": 0.8263365030288696
+                },
+                {
+                    "word": " And",
+                    "start": 10.2,
+                    "end": 10.46,
+                    "probability": 0.9732460379600525
+                },
+                {
+                    "word": " we",
+                    "start": 10.46,
+                    "end": 10.66,
+                    "probability": 0.9989153146743774
+                },
+                {
+                    "word": " did.",
+                    "start": 10.66,
+                    "end": 10.96,
+                    "probability": 0.992591381072998
+                },
+                {
+                    "word": " We",
+                    "start": 11.08,
+                    "end": 11.62,
+                    "probability": 0.9829587340354919
+                },
+                {
+                    "word": " have",
+                    "start": 11.62,
+                    "end": 11.8,
+                    "probability": 0.9996392726898193
+                },
+                {
+                    "word": " our",
+                    "start": 11.8,
+                    "end": 11.98,
+                    "probability": 0.9991324543952942
+                },
+                {
+                    "word": " own",
+                    "start": 11.98,
+                    "end": 12.14,
+                    "probability": 0.997797966003418
+                },
+                {
+                    "word": " proprietary",
+                    "start": 12.14,
+                    "end": 13.0,
+                    "probability": 0.9931394457817078
+                },
+                {
+                    "word": " DAS",
+                    "start": 13.0,
+                    "end": 13.62,
+                    "probability": 0.44562868773937225
+                },
+                {
+                    "word": " scanner",
+                    "start": 13.62,
+                    "end": 14.24,
+                    "probability": 0.820039689540863
+                },
+                {
+                    "word": " now",
+                    "start": 14.24,
+                    "end": 14.62,
+                    "probability": 0.8802765011787415
+                },
+                {
+                    "word": " that's",
+                    "start": 14.62,
+                    "end": 15.1,
+                    "probability": 0.9326489865779877
+                },
+                {
+                    "word": " in",
+                    "start": 15.1,
+                    "end": 16.12,
+                    "probability": 0.9913803935050964
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 16.12,
+            "end": 27.4,
+            "text": " It's in beta called browser. So it's our answer to scanning single page applications which represent a unique challenge. I think.",
+            "tokens": [
+                51188,
+                467,
+                311,
+                294,
+                9861,
+                1219,
+                11185,
+                13,
+                407,
+                309,
+                311,
+                527,
+                1867,
+                281,
+                27019,
+                2167,
+                3028,
+                5821,
+                597,
+                2906,
+                257,
+                3845,
+                3430,
+                13,
+                286,
+                519,
+                13,
+                51736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24352893581638088,
+            "compression_ratio": 1.5432692307692308,
+            "no_speech_prob": 4.683334918809123e-05,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 16.12,
+                    "end": 16.86,
+                    "probability": 0.5079721743240952
+                },
+                {
+                    "word": " in",
+                    "start": 16.86,
+                    "end": 17.06,
+                    "probability": 0.9954979419708252
+                },
+                {
+                    "word": " beta",
+                    "start": 17.06,
+                    "end": 17.56,
+                    "probability": 0.8149923086166382
+                },
+                {
+                    "word": " called",
+                    "start": 17.56,
+                    "end": 18.66,
+                    "probability": 0.9152616262435913
+                },
+                {
+                    "word": " browser.",
+                    "start": 18.66,
+                    "end": 19.2,
+                    "probability": 0.6950424313545227
+                },
+                {
+                    "word": " So",
+                    "start": 19.62,
+                    "end": 20.36,
+                    "probability": 0.9762044548988342
+                },
+                {
+                    "word": " it's",
+                    "start": 20.36,
+                    "end": 20.92,
+                    "probability": 0.9916948080062866
+                },
+                {
+                    "word": " our",
+                    "start": 20.92,
+                    "end": 21.06,
+                    "probability": 0.9977861642837524
+                },
+                {
+                    "word": " answer",
+                    "start": 21.06,
+                    "end": 21.4,
+                    "probability": 0.9988484382629395
+                },
+                {
+                    "word": " to",
+                    "start": 21.4,
+                    "end": 22.04,
+                    "probability": 0.9987767338752747
+                },
+                {
+                    "word": " scanning",
+                    "start": 22.04,
+                    "end": 22.66,
+                    "probability": 0.9954798221588135
+                },
+                {
+                    "word": " single",
+                    "start": 22.66,
+                    "end": 23.26,
+                    "probability": 0.9711797833442688
+                },
+                {
+                    "word": " page",
+                    "start": 23.26,
+                    "end": 23.6,
+                    "probability": 0.938999354839325
+                },
+                {
+                    "word": " applications",
+                    "start": 23.6,
+                    "end": 24.24,
+                    "probability": 0.998250424861908
+                },
+                {
+                    "word": " which",
+                    "start": 24.24,
+                    "end": 24.64,
+                    "probability": 0.66243976354599
+                },
+                {
+                    "word": " represent",
+                    "start": 24.64,
+                    "end": 25.1,
+                    "probability": 0.9902679324150085
+                },
+                {
+                    "word": " a",
+                    "start": 25.1,
+                    "end": 25.38,
+                    "probability": 0.9993294477462769
+                },
+                {
+                    "word": " unique",
+                    "start": 25.38,
+                    "end": 25.84,
+                    "probability": 0.9988405108451843
+                },
+                {
+                    "word": " challenge.",
+                    "start": 25.84,
+                    "end": 26.7,
+                    "probability": 0.990045964717865
+                },
+                {
+                    "word": " I",
+                    "start": 26.78,
+                    "end": 27.28,
+                    "probability": 0.9989274144172668
+                },
+                {
+                    "word": " think.",
+                    "start": 27.28,
+                    "end": 27.4,
+                    "probability": 0.999629020690918
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

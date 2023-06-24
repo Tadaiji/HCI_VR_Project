@@ -1,0 +1,74 @@
+{
+    "text": " Oh, is that was that from nobody?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Oh, is that was that from nobody?",
+            "tokens": [
+                50364,
+                876,
+                11,
+                307,
+                300,
+                390,
+                300,
+                490,
+                5079,
+                30,
+                50512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4179623524347941,
+            "compression_ratio": 0.9428571428571428,
+            "no_speech_prob": 0.056535299867391586,
+            "words": [
+                {
+                    "word": " Oh,",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.6773364543914795
+                },
+                {
+                    "word": " is",
+                    "start": 0.54,
+                    "end": 0.54,
+                    "probability": 0.8232471942901611
+                },
+                {
+                    "word": " that",
+                    "start": 0.54,
+                    "end": 0.82,
+                    "probability": 0.9985690116882324
+                },
+                {
+                    "word": " was",
+                    "start": 0.82,
+                    "end": 1.0,
+                    "probability": 0.43318527936935425
+                },
+                {
+                    "word": " that",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.9930111765861511
+                },
+                {
+                    "word": " from",
+                    "start": 1.28,
+                    "end": 2.36,
+                    "probability": 0.997032642364502
+                },
+                {
+                    "word": " nobody?",
+                    "start": 2.36,
+                    "end": 2.86,
+                    "probability": 0.4608251750469208
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

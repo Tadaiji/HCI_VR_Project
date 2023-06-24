@@ -1,0 +1,123 @@
+{
+    "text": " your software factory and your software or your, your stuff or in your product.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.1,
+            "text": " your software factory and your software or your, your stuff or in your product.",
+            "tokens": [
+                50364,
+                428,
+                4722,
+                9265,
+                293,
+                428,
+                4722,
+                420,
+                428,
+                11,
+                428,
+                1507,
+                420,
+                294,
+                428,
+                1674,
+                13,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4155796452572471,
+            "compression_ratio": 1.2950819672131149,
+            "no_speech_prob": 0.006680110469460487,
+            "words": [
+                {
+                    "word": " your",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.5235828757286072
+                },
+                {
+                    "word": " software",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.9637011289596558
+                },
+                {
+                    "word": " factory",
+                    "start": 0.58,
+                    "end": 0.98,
+                    "probability": 0.9827704429626465
+                },
+                {
+                    "word": " and",
+                    "start": 0.98,
+                    "end": 1.16,
+                    "probability": 0.7559316754341125
+                },
+                {
+                    "word": " your",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.9965800642967224
+                },
+                {
+                    "word": " software",
+                    "start": 1.38,
+                    "end": 1.76,
+                    "probability": 0.9045544266700745
+                },
+                {
+                    "word": " or",
+                    "start": 1.76,
+                    "end": 2.4,
+                    "probability": 0.6812412142753601
+                },
+                {
+                    "word": " your,",
+                    "start": 2.4,
+                    "end": 2.6,
+                    "probability": 0.9509321451187134
+                },
+                {
+                    "word": " your",
+                    "start": 2.6,
+                    "end": 3.54,
+                    "probability": 0.8301035165786743
+                },
+                {
+                    "word": " stuff",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.3173366189002991
+                },
+                {
+                    "word": " or",
+                    "start": 3.84,
+                    "end": 4.14,
+                    "probability": 0.7810505628585815
+                },
+                {
+                    "word": " in",
+                    "start": 4.14,
+                    "end": 4.38,
+                    "probability": 0.46651163697242737
+                },
+                {
+                    "word": " your",
+                    "start": 4.38,
+                    "end": 4.58,
+                    "probability": 0.9986006617546082
+                },
+                {
+                    "word": " product.",
+                    "start": 4.58,
+                    "end": 5.1,
+                    "probability": 0.9982712268829346
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

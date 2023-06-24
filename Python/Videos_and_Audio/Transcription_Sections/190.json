@@ -1,0 +1,291 @@
+{
+    "text": " So trying to encapsulate that in this, that was kind of where I was like, stay on track, but I didn't like it either. Did you just open the door?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " So trying to encapsulate that in this,",
+            "tokens": [
+                50364,
+                407,
+                1382,
+                281,
+                38745,
+                5256,
+                300,
+                294,
+                341,
+                11,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2231535704239555,
+            "compression_ratio": 1.228813559322034,
+            "no_speech_prob": 0.003883075201883912,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.37560853362083435
+                },
+                {
+                    "word": " trying",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.6972406506538391
+                },
+                {
+                    "word": " to",
+                    "start": 0.38,
+                    "end": 0.56,
+                    "probability": 0.9971286654472351
+                },
+                {
+                    "word": " encapsulate",
+                    "start": 0.56,
+                    "end": 0.96,
+                    "probability": 0.9810766279697418
+                },
+                {
+                    "word": " that",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9937869310379028
+                },
+                {
+                    "word": " in",
+                    "start": 1.14,
+                    "end": 1.22,
+                    "probability": 0.7816988229751587
+                },
+                {
+                    "word": " this,",
+                    "start": 1.22,
+                    "end": 1.36,
+                    "probability": 0.9763543605804443
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.52,
+            "end": 3.42,
+            "text": " that was kind of where I was like, stay on track,",
+            "tokens": [
+                50444,
+                300,
+                390,
+                733,
+                295,
+                689,
+                286,
+                390,
+                411,
+                11,
+                1754,
+                322,
+                2837,
+                11,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2231535704239555,
+            "compression_ratio": 1.228813559322034,
+            "no_speech_prob": 0.003883075201883912,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.260572612285614
+                },
+                {
+                    "word": " was",
+                    "start": 1.74,
+                    "end": 1.94,
+                    "probability": 0.9939715266227722
+                },
+                {
+                    "word": " kind",
+                    "start": 1.94,
+                    "end": 2.04,
+                    "probability": 0.6677650809288025
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.12,
+                    "probability": 0.9968155026435852
+                },
+                {
+                    "word": " where",
+                    "start": 2.12,
+                    "end": 2.2,
+                    "probability": 0.9916234612464905
+                },
+                {
+                    "word": " I",
+                    "start": 2.2,
+                    "end": 2.32,
+                    "probability": 0.9977117776870728
+                },
+                {
+                    "word": " was",
+                    "start": 2.32,
+                    "end": 2.46,
+                    "probability": 0.9739176630973816
+                },
+                {
+                    "word": " like,",
+                    "start": 2.46,
+                    "end": 2.86,
+                    "probability": 0.8865943551063538
+                },
+                {
+                    "word": " stay",
+                    "start": 2.86,
+                    "end": 2.94,
+                    "probability": 0.9322928786277771
+                },
+                {
+                    "word": " on",
+                    "start": 2.94,
+                    "end": 3.22,
+                    "probability": 0.9988123178482056
+                },
+                {
+                    "word": " track,",
+                    "start": 3.22,
+                    "end": 3.42,
+                    "probability": 0.9993528723716736
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.52,
+            "end": 4.92,
+            "text": " but I didn't like it either.",
+            "tokens": [
+                50536,
+                457,
+                286,
+                994,
+                380,
+                411,
+                309,
+                2139,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2231535704239555,
+            "compression_ratio": 1.228813559322034,
+            "no_speech_prob": 0.003883075201883912,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 3.52,
+                    "end": 3.64,
+                    "probability": 0.9967592358589172
+                },
+                {
+                    "word": " I",
+                    "start": 3.64,
+                    "end": 3.94,
+                    "probability": 0.997979462146759
+                },
+                {
+                    "word": " didn't",
+                    "start": 3.94,
+                    "end": 4.2,
+                    "probability": 0.9895077347755432
+                },
+                {
+                    "word": " like",
+                    "start": 4.2,
+                    "end": 4.34,
+                    "probability": 0.9992759823799133
+                },
+                {
+                    "word": " it",
+                    "start": 4.34,
+                    "end": 4.52,
+                    "probability": 0.9990524649620056
+                },
+                {
+                    "word": " either.",
+                    "start": 4.52,
+                    "end": 4.92,
+                    "probability": 0.9817855954170227
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.34,
+            "end": 6.56,
+            "text": " Did you just open the door?",
+            "tokens": [
+                50632,
+                2589,
+                291,
+                445,
+                1269,
+                264,
+                2853,
+                30,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2231535704239555,
+            "compression_ratio": 1.228813559322034,
+            "no_speech_prob": 0.003883075201883912,
+            "words": [
+                {
+                    "word": " Did",
+                    "start": 5.34,
+                    "end": 5.54,
+                    "probability": 0.4402844309806824
+                },
+                {
+                    "word": " you",
+                    "start": 5.54,
+                    "end": 5.74,
+                    "probability": 0.9977879524230957
+                },
+                {
+                    "word": " just",
+                    "start": 5.74,
+                    "end": 6.06,
+                    "probability": 0.9935899972915649
+                },
+                {
+                    "word": " open",
+                    "start": 6.06,
+                    "end": 6.38,
+                    "probability": 0.9476175308227539
+                },
+                {
+                    "word": " the",
+                    "start": 6.38,
+                    "end": 6.56,
+                    "probability": 0.9147447347640991
+                },
+                {
+                    "word": " door?",
+                    "start": 6.56,
+                    "end": 6.56,
+                    "probability": 0.9732815027236938
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

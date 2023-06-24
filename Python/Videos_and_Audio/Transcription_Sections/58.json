@@ -1,0 +1,161 @@
+{
+    "text": " I think it was in the last little over six months or so. It was last year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 4.52,
+            "text": " I think it was in the last little over six months or so.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                309,
+                390,
+                294,
+                264,
+                1036,
+                707,
+                670,
+                2309,
+                2493,
+                420,
+                370,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3858625094095866,
+            "compression_ratio": 1.0571428571428572,
+            "no_speech_prob": 0.02435506135225296,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.04,
+                    "end": 0.6,
+                    "probability": 0.41163358092308044
+                },
+                {
+                    "word": " think",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9770196676254272
+                },
+                {
+                    "word": " it",
+                    "start": 0.82,
+                    "end": 0.98,
+                    "probability": 0.9854665994644165
+                },
+                {
+                    "word": " was",
+                    "start": 0.98,
+                    "end": 1.4,
+                    "probability": 0.9983654618263245
+                },
+                {
+                    "word": " in",
+                    "start": 1.4,
+                    "end": 1.54,
+                    "probability": 0.9337509870529175
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.9914058446884155
+                },
+                {
+                    "word": " last",
+                    "start": 1.7,
+                    "end": 2.24,
+                    "probability": 0.7810842990875244
+                },
+                {
+                    "word": " little",
+                    "start": 2.24,
+                    "end": 2.86,
+                    "probability": 0.6840683817863464
+                },
+                {
+                    "word": " over",
+                    "start": 2.86,
+                    "end": 3.24,
+                    "probability": 0.9958998560905457
+                },
+                {
+                    "word": " six",
+                    "start": 3.24,
+                    "end": 3.56,
+                    "probability": 0.9741277098655701
+                },
+                {
+                    "word": " months",
+                    "start": 3.56,
+                    "end": 3.78,
+                    "probability": 0.9951169490814209
+                },
+                {
+                    "word": " or",
+                    "start": 3.78,
+                    "end": 4.06,
+                    "probability": 0.9748080968856812
+                },
+                {
+                    "word": " so.",
+                    "start": 4.06,
+                    "end": 4.52,
+                    "probability": 0.9938003420829773
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.62,
+            "end": 5.28,
+            "text": " It was last year.",
+            "tokens": [
+                50564,
+                467,
+                390,
+                1036,
+                1064,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3858625094095866,
+            "compression_ratio": 1.0571428571428572,
+            "no_speech_prob": 0.02435506135225296,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 4.62,
+                    "end": 4.94,
+                    "probability": 0.7559157609939575
+                },
+                {
+                    "word": " was",
+                    "start": 4.94,
+                    "end": 5.12,
+                    "probability": 0.9982759952545166
+                },
+                {
+                    "word": " last",
+                    "start": 5.12,
+                    "end": 5.28,
+                    "probability": 0.6669909954071045
+                },
+                {
+                    "word": " year.",
+                    "start": 5.28,
+                    "end": 5.28,
+                    "probability": 0.5263662934303284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

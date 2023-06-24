@@ -1,0 +1,874 @@
+{
+    "text": " Aside from the goofy name, I thought that, and of course we can't talk about any of it on YouTube, but man, that was like a really awesome look back at like, here's some wins and here's some exciting things that we've done. And so I think we just need to get better at this as a company. I think this exercise is an opportunity to that. I think we do a little bit of that, but this is doing it more. So, Samiya, you have some questions here for Alita? Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.42,
+            "end": 3.18,
+            "text": " Aside from the goofy name, I thought that,",
+            "tokens": [
+                50364,
+                33726,
+                490,
+                264,
+                42995,
+                1315,
+                11,
+                286,
+                1194,
+                300,
+                11,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " Aside",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.45191630721092224
+                },
+                {
+                    "word": " from",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.8301623463630676
+                },
+                {
+                    "word": " the",
+                    "start": 1.04,
+                    "end": 1.22,
+                    "probability": 0.9845882058143616
+                },
+                {
+                    "word": " goofy",
+                    "start": 1.22,
+                    "end": 1.42,
+                    "probability": 0.9875275492668152
+                },
+                {
+                    "word": " name,",
+                    "start": 1.42,
+                    "end": 1.92,
+                    "probability": 0.9976599216461182
+                },
+                {
+                    "word": " I",
+                    "start": 2.22,
+                    "end": 2.26,
+                    "probability": 0.9762769341468811
+                },
+                {
+                    "word": " thought",
+                    "start": 2.26,
+                    "end": 2.56,
+                    "probability": 0.9977633953094482
+                },
+                {
+                    "word": " that,",
+                    "start": 2.56,
+                    "end": 3.18,
+                    "probability": 0.993059515953064
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.18,
+            "end": 5.78,
+            "text": " and of course we can't talk about any of it on YouTube,",
+            "tokens": [
+                50540,
+                293,
+                295,
+                1164,
+                321,
+                393,
+                380,
+                751,
+                466,
+                604,
+                295,
+                309,
+                322,
+                3088,
+                11,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 3.18,
+                    "end": 3.74,
+                    "probability": 0.8915644884109497
+                },
+                {
+                    "word": " of",
+                    "start": 3.74,
+                    "end": 3.88,
+                    "probability": 0.9827841520309448
+                },
+                {
+                    "word": " course",
+                    "start": 3.88,
+                    "end": 4.02,
+                    "probability": 0.9997161030769348
+                },
+                {
+                    "word": " we",
+                    "start": 4.02,
+                    "end": 4.12,
+                    "probability": 0.7482712864875793
+                },
+                {
+                    "word": " can't",
+                    "start": 4.12,
+                    "end": 4.38,
+                    "probability": 0.9987971484661102
+                },
+                {
+                    "word": " talk",
+                    "start": 4.38,
+                    "end": 4.58,
+                    "probability": 0.9986761212348938
+                },
+                {
+                    "word": " about",
+                    "start": 4.58,
+                    "end": 4.76,
+                    "probability": 0.9992576241493225
+                },
+                {
+                    "word": " any",
+                    "start": 4.76,
+                    "end": 4.96,
+                    "probability": 0.9977060556411743
+                },
+                {
+                    "word": " of",
+                    "start": 4.96,
+                    "end": 5.06,
+                    "probability": 0.9995577931404114
+                },
+                {
+                    "word": " it",
+                    "start": 5.06,
+                    "end": 5.22,
+                    "probability": 0.9995293617248535
+                },
+                {
+                    "word": " on",
+                    "start": 5.22,
+                    "end": 5.46,
+                    "probability": 0.998077392578125
+                },
+                {
+                    "word": " YouTube,",
+                    "start": 5.46,
+                    "end": 5.78,
+                    "probability": 0.9822384119033813
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.44,
+            "end": 9.56,
+            "text": " but man, that was like a really awesome look back",
+            "tokens": [
+                50678,
+                457,
+                587,
+                11,
+                300,
+                390,
+                411,
+                257,
+                534,
+                3476,
+                574,
+                646,
+                50838
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 6.44,
+                    "end": 7.08,
+                    "probability": 0.9942471981048584
+                },
+                {
+                    "word": " man,",
+                    "start": 7.08,
+                    "end": 7.66,
+                    "probability": 0.8564808368682861
+                },
+                {
+                    "word": " that",
+                    "start": 7.68,
+                    "end": 7.86,
+                    "probability": 0.9993700385093689
+                },
+                {
+                    "word": " was",
+                    "start": 7.86,
+                    "end": 8.0,
+                    "probability": 0.9994542002677917
+                },
+                {
+                    "word": " like",
+                    "start": 8.0,
+                    "end": 8.16,
+                    "probability": 0.8487026691436768
+                },
+                {
+                    "word": " a",
+                    "start": 8.16,
+                    "end": 8.4,
+                    "probability": 0.9943138360977173
+                },
+                {
+                    "word": " really",
+                    "start": 8.4,
+                    "end": 8.72,
+                    "probability": 0.9994001388549805
+                },
+                {
+                    "word": " awesome",
+                    "start": 8.72,
+                    "end": 9.08,
+                    "probability": 0.9995081424713135
+                },
+                {
+                    "word": " look",
+                    "start": 9.08,
+                    "end": 9.32,
+                    "probability": 0.986027717590332
+                },
+                {
+                    "word": " back",
+                    "start": 9.32,
+                    "end": 9.56,
+                    "probability": 0.9722609519958496
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.56,
+            "end": 11.22,
+            "text": " at like, here's some wins",
+            "tokens": [
+                50838,
+                412,
+                411,
+                11,
+                510,
+                311,
+                512,
+                10641,
+                50922
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " at",
+                    "start": 9.56,
+                    "end": 9.78,
+                    "probability": 0.9571402668952942
+                },
+                {
+                    "word": " like,",
+                    "start": 9.78,
+                    "end": 10.56,
+                    "probability": 0.8658882975578308
+                },
+                {
+                    "word": " here's",
+                    "start": 10.56,
+                    "end": 10.78,
+                    "probability": 0.9436761438846588
+                },
+                {
+                    "word": " some",
+                    "start": 10.78,
+                    "end": 11.02,
+                    "probability": 0.9982944130897522
+                },
+                {
+                    "word": " wins",
+                    "start": 11.02,
+                    "end": 11.22,
+                    "probability": 0.9729264378547668
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.22,
+            "end": 12.96,
+            "text": " and here's some exciting things that we've done.",
+            "tokens": [
+                50922,
+                293,
+                510,
+                311,
+                512,
+                4670,
+                721,
+                300,
+                321,
+                600,
+                1096,
+                13,
+                51054
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 11.22,
+                    "end": 11.36,
+                    "probability": 0.8574394583702087
+                },
+                {
+                    "word": " here's",
+                    "start": 11.36,
+                    "end": 11.74,
+                    "probability": 0.9928217232227325
+                },
+                {
+                    "word": " some",
+                    "start": 11.74,
+                    "end": 11.74,
+                    "probability": 0.9985297918319702
+                },
+                {
+                    "word": " exciting",
+                    "start": 11.74,
+                    "end": 12.04,
+                    "probability": 0.9987800717353821
+                },
+                {
+                    "word": " things",
+                    "start": 12.04,
+                    "end": 12.24,
+                    "probability": 0.9985812902450562
+                },
+                {
+                    "word": " that",
+                    "start": 12.24,
+                    "end": 12.38,
+                    "probability": 0.9974616765975952
+                },
+                {
+                    "word": " we've",
+                    "start": 12.38,
+                    "end": 12.58,
+                    "probability": 0.9996689260005951
+                },
+                {
+                    "word": " done.",
+                    "start": 12.58,
+                    "end": 12.96,
+                    "probability": 0.999743640422821
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.94,
+            "end": 16.18,
+            "text": " And so I think we just need to get better at this",
+            "tokens": [
+                51054,
+                400,
+                370,
+                286,
+                519,
+                321,
+                445,
+                643,
+                281,
+                483,
+                1101,
+                412,
+                341,
+                51168
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 13.94,
+                    "end": 14.04,
+                    "probability": 0.8743064999580383
+                },
+                {
+                    "word": " so",
+                    "start": 14.04,
+                    "end": 14.14,
+                    "probability": 0.9976715445518494
+                },
+                {
+                    "word": " I",
+                    "start": 14.14,
+                    "end": 14.2,
+                    "probability": 0.9530364871025085
+                },
+                {
+                    "word": " think",
+                    "start": 14.2,
+                    "end": 14.5,
+                    "probability": 0.9998613595962524
+                },
+                {
+                    "word": " we",
+                    "start": 14.5,
+                    "end": 14.76,
+                    "probability": 0.9862281084060669
+                },
+                {
+                    "word": " just",
+                    "start": 14.76,
+                    "end": 15.16,
+                    "probability": 0.9951621890068054
+                },
+                {
+                    "word": " need",
+                    "start": 15.16,
+                    "end": 15.44,
+                    "probability": 0.9947277903556824
+                },
+                {
+                    "word": " to",
+                    "start": 15.44,
+                    "end": 15.56,
+                    "probability": 0.9998050332069397
+                },
+                {
+                    "word": " get",
+                    "start": 15.56,
+                    "end": 15.64,
+                    "probability": 0.9996030926704407
+                },
+                {
+                    "word": " better",
+                    "start": 15.64,
+                    "end": 15.9,
+                    "probability": 0.9996122717857361
+                },
+                {
+                    "word": " at",
+                    "start": 15.9,
+                    "end": 16.0,
+                    "probability": 0.9904797673225403
+                },
+                {
+                    "word": " this",
+                    "start": 16.0,
+                    "end": 16.18,
+                    "probability": 0.9929511547088623
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 16.18,
+            "end": 16.64,
+            "text": " as a company.",
+            "tokens": [
+                51168,
+                382,
+                257,
+                2237,
+                13,
+                51210
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 16.18,
+                    "end": 16.32,
+                    "probability": 0.9754706025123596
+                },
+                {
+                    "word": " a",
+                    "start": 16.32,
+                    "end": 16.44,
+                    "probability": 0.9970894455909729
+                },
+                {
+                    "word": " company.",
+                    "start": 16.44,
+                    "end": 16.64,
+                    "probability": 0.9995620846748352
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 16.76,
+            "end": 19.06,
+            "text": " I think this exercise is an opportunity to that.",
+            "tokens": [
+                51210,
+                286,
+                519,
+                341,
+                5380,
+                307,
+                364,
+                2650,
+                281,
+                300,
+                13,
+                51334
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 16.76,
+                    "end": 16.78,
+                    "probability": 0.9976930022239685
+                },
+                {
+                    "word": " think",
+                    "start": 16.78,
+                    "end": 16.92,
+                    "probability": 0.9998039603233337
+                },
+                {
+                    "word": " this",
+                    "start": 16.92,
+                    "end": 17.2,
+                    "probability": 0.996199905872345
+                },
+                {
+                    "word": " exercise",
+                    "start": 17.2,
+                    "end": 17.48,
+                    "probability": 0.988797128200531
+                },
+                {
+                    "word": " is",
+                    "start": 17.48,
+                    "end": 17.6,
+                    "probability": 0.9231808185577393
+                },
+                {
+                    "word": " an",
+                    "start": 17.6,
+                    "end": 17.66,
+                    "probability": 0.9982619881629944
+                },
+                {
+                    "word": " opportunity",
+                    "start": 17.66,
+                    "end": 18.04,
+                    "probability": 0.999728262424469
+                },
+                {
+                    "word": " to",
+                    "start": 18.04,
+                    "end": 18.24,
+                    "probability": 0.3727905750274658
+                },
+                {
+                    "word": " that.",
+                    "start": 18.24,
+                    "end": 19.06,
+                    "probability": 0.9710074067115784
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 19.56,
+            "end": 20.42,
+            "text": " I think we do a little bit of that,",
+            "tokens": [
+                51334,
+                286,
+                519,
+                321,
+                360,
+                257,
+                707,
+                857,
+                295,
+                300,
+                11,
+                51380
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 19.56,
+                    "end": 19.56,
+                    "probability": 0.996647298336029
+                },
+                {
+                    "word": " think",
+                    "start": 19.56,
+                    "end": 19.68,
+                    "probability": 0.9998099207878113
+                },
+                {
+                    "word": " we",
+                    "start": 19.68,
+                    "end": 19.82,
+                    "probability": 0.9993070363998413
+                },
+                {
+                    "word": " do",
+                    "start": 19.82,
+                    "end": 19.92,
+                    "probability": 0.9743985533714294
+                },
+                {
+                    "word": " a",
+                    "start": 19.92,
+                    "end": 20.02,
+                    "probability": 0.9968653321266174
+                },
+                {
+                    "word": " little",
+                    "start": 20.02,
+                    "end": 20.14,
+                    "probability": 0.9995602965354919
+                },
+                {
+                    "word": " bit",
+                    "start": 20.14,
+                    "end": 20.22,
+                    "probability": 0.998464822769165
+                },
+                {
+                    "word": " of",
+                    "start": 20.22,
+                    "end": 20.32,
+                    "probability": 0.9987275004386902
+                },
+                {
+                    "word": " that,",
+                    "start": 20.32,
+                    "end": 20.42,
+                    "probability": 0.9993371367454529
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 20.42,
+            "end": 21.86,
+            "text": " but this is doing it more.",
+            "tokens": [
+                51380,
+                457,
+                341,
+                307,
+                884,
+                309,
+                544,
+                13,
+                51452
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 20.42,
+                    "end": 20.76,
+                    "probability": 0.998747706413269
+                },
+                {
+                    "word": " this",
+                    "start": 20.76,
+                    "end": 20.96,
+                    "probability": 0.9949473142623901
+                },
+                {
+                    "word": " is",
+                    "start": 20.96,
+                    "end": 21.34,
+                    "probability": 0.9947243332862854
+                },
+                {
+                    "word": " doing",
+                    "start": 21.34,
+                    "end": 21.46,
+                    "probability": 0.9842453598976135
+                },
+                {
+                    "word": " it",
+                    "start": 21.46,
+                    "end": 21.64,
+                    "probability": 0.9983400106430054
+                },
+                {
+                    "word": " more.",
+                    "start": 21.64,
+                    "end": 21.86,
+                    "probability": 0.9991673231124878
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 23.04,
+            "end": 28.18,
+            "text": " So, Samiya, you have some questions here for Alita?",
+            "tokens": [
+                51452,
+                407,
+                11,
+                44029,
+                3016,
+                11,
+                291,
+                362,
+                512,
+                1651,
+                510,
+                337,
+                967,
+                2786,
+                30,
+                51702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19372561440539005,
+            "compression_ratio": 1.645985401459854,
+            "no_speech_prob": 5.737392348237336e-05,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 23.04,
+                    "end": 23.46,
+                    "probability": 0.6804141402244568
+                },
+                {
+                    "word": " Samiya,",
+                    "start": 23.48,
+                    "end": 23.72,
+                    "probability": 0.41706009209156036
+                },
+                {
+                    "word": " you",
+                    "start": 23.72,
+                    "end": 23.9,
+                    "probability": 0.9722315073013306
+                },
+                {
+                    "word": " have",
+                    "start": 23.9,
+                    "end": 24.16,
+                    "probability": 0.9987897276878357
+                },
+                {
+                    "word": " some",
+                    "start": 24.16,
+                    "end": 24.44,
+                    "probability": 0.9990814924240112
+                },
+                {
+                    "word": " questions",
+                    "start": 24.44,
+                    "end": 24.76,
+                    "probability": 0.9984902143478394
+                },
+                {
+                    "word": " here",
+                    "start": 24.76,
+                    "end": 25.96,
+                    "probability": 0.9972246885299683
+                },
+                {
+                    "word": " for",
+                    "start": 25.96,
+                    "end": 27.94,
+                    "probability": 0.5658777356147766
+                },
+                {
+                    "word": " Alita?",
+                    "start": 27.94,
+                    "end": 28.18,
+                    "probability": 0.7582305669784546
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2818,
+            "start": 28.18,
+            "end": 28.42,
+            "text": " Yes.",
+            "tokens": [
+                50364,
+                1079,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.43065195083618163,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.9257595539093018,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 28.18,
+                    "end": 28.42,
+                    "probability": 0.2778816521167755
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

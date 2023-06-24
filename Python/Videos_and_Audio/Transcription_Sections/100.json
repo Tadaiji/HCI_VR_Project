@@ -1,0 +1,210 @@
+{
+    "text": " So we just use the tier one competitors and if they are not applicable then we don't have to fill out anything for them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 7.52,
+            "text": " So we just use the tier one competitors and if they are not applicable then we don't have",
+            "tokens": [
+                50364,
+                407,
+                321,
+                445,
+                764,
+                264,
+                12362,
+                472,
+                18333,
+                293,
+                498,
+                436,
+                366,
+                406,
+                21142,
+                550,
+                321,
+                500,
+                380,
+                362,
+                50732
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2644473045103012,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.010794135741889477,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.16,
+                    "end": 0.72,
+                    "probability": 0.25974905490875244
+                },
+                {
+                    "word": " we",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.8471275568008423
+                },
+                {
+                    "word": " just",
+                    "start": 0.92,
+                    "end": 1.36,
+                    "probability": 0.9056954979896545
+                },
+                {
+                    "word": " use",
+                    "start": 1.36,
+                    "end": 1.7,
+                    "probability": 0.9532901048660278
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.9,
+                    "probability": 0.9827117323875427
+                },
+                {
+                    "word": " tier",
+                    "start": 1.9,
+                    "end": 2.02,
+                    "probability": 0.8502377271652222
+                },
+                {
+                    "word": " one",
+                    "start": 2.02,
+                    "end": 2.32,
+                    "probability": 0.6258106231689453
+                },
+                {
+                    "word": " competitors",
+                    "start": 2.32,
+                    "end": 2.82,
+                    "probability": 0.9488651156425476
+                },
+                {
+                    "word": " and",
+                    "start": 2.82,
+                    "end": 3.12,
+                    "probability": 0.6424886584281921
+                },
+                {
+                    "word": " if",
+                    "start": 3.12,
+                    "end": 4.46,
+                    "probability": 0.9879114627838135
+                },
+                {
+                    "word": " they",
+                    "start": 4.46,
+                    "end": 4.7,
+                    "probability": 0.9877715110778809
+                },
+                {
+                    "word": " are",
+                    "start": 4.7,
+                    "end": 5.64,
+                    "probability": 0.5081460475921631
+                },
+                {
+                    "word": " not",
+                    "start": 5.64,
+                    "end": 5.9,
+                    "probability": 0.9933475852012634
+                },
+                {
+                    "word": " applicable",
+                    "start": 5.9,
+                    "end": 6.36,
+                    "probability": 0.8038607239723206
+                },
+                {
+                    "word": " then",
+                    "start": 6.36,
+                    "end": 6.86,
+                    "probability": 0.5302478075027466
+                },
+                {
+                    "word": " we",
+                    "start": 6.86,
+                    "end": 7.14,
+                    "probability": 0.9888484477996826
+                },
+                {
+                    "word": " don't",
+                    "start": 7.14,
+                    "end": 7.34,
+                    "probability": 0.9864356815814972
+                },
+                {
+                    "word": " have",
+                    "start": 7.34,
+                    "end": 7.52,
+                    "probability": 0.9987257122993469
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.52,
+            "end": 8.86,
+            "text": " to fill out anything for them.",
+            "tokens": [
+                50732,
+                281,
+                2836,
+                484,
+                1340,
+                337,
+                552,
+                13,
+                50804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2644473045103012,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.010794135741889477,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 7.52,
+                    "end": 7.68,
+                    "probability": 0.9992619156837463
+                },
+                {
+                    "word": " fill",
+                    "start": 7.68,
+                    "end": 7.8,
+                    "probability": 0.9982845187187195
+                },
+                {
+                    "word": " out",
+                    "start": 7.8,
+                    "end": 8.08,
+                    "probability": 0.9951332211494446
+                },
+                {
+                    "word": " anything",
+                    "start": 8.08,
+                    "end": 8.44,
+                    "probability": 0.9982572197914124
+                },
+                {
+                    "word": " for",
+                    "start": 8.44,
+                    "end": 8.72,
+                    "probability": 0.9591914415359497
+                },
+                {
+                    "word": " them.",
+                    "start": 8.72,
+                    "end": 8.86,
+                    "probability": 0.7411878705024719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

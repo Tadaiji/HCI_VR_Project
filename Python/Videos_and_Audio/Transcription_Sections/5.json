@@ -1,0 +1,80 @@
+{
+    "text": " on Slack only and on the issue actually.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.9,
+            "text": " on Slack only and on the issue actually.",
+            "tokens": [
+                50364,
+                322,
+                37211,
+                787,
+                293,
+                322,
+                264,
+                2734,
+                767,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4815821647644043,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.016075309365987778,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5730304718017578
+                },
+                {
+                    "word": " Slack",
+                    "start": 0.36,
+                    "end": 0.6,
+                    "probability": 0.546055018901825
+                },
+                {
+                    "word": " only",
+                    "start": 0.6,
+                    "end": 1.2,
+                    "probability": 0.9729160666465759
+                },
+                {
+                    "word": " and",
+                    "start": 1.2,
+                    "end": 1.8,
+                    "probability": 0.7982451319694519
+                },
+                {
+                    "word": " on",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.9866377115249634
+                },
+                {
+                    "word": " the",
+                    "start": 2.04,
+                    "end": 2.34,
+                    "probability": 0.9976935982704163
+                },
+                {
+                    "word": " issue",
+                    "start": 2.34,
+                    "end": 2.58,
+                    "probability": 0.8780933022499084
+                },
+                {
+                    "word": " actually.",
+                    "start": 2.58,
+                    "end": 2.9,
+                    "probability": 0.34000030159950256
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

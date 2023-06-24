@@ -1,0 +1,501 @@
+{
+    "text": " So I, this is why I send everything to a Google Gmail, because the search is so fast. So I literally have a folder where all of my GitLab pings go. And I can just search for infographic. I found it. I found it. I found it. Who could look at first?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.86,
+            "end": 9.18,
+            "text": " So I, this is why I send everything to a Google Gmail, because the search is so fast.",
+            "tokens": [
+                50364,
+                407,
+                286,
+                11,
+                341,
+                307,
+                983,
+                286,
+                2845,
+                1203,
+                281,
+                257,
+                3329,
+                36732,
+                11,
+                570,
+                264,
+                3164,
+                307,
+                370,
+                2370,
+                13,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.86,
+                    "end": 1.42,
+                    "probability": 0.5354387164115906
+                },
+                {
+                    "word": " I,",
+                    "start": 1.42,
+                    "end": 1.9,
+                    "probability": 0.40862834453582764
+                },
+                {
+                    "word": " this",
+                    "start": 1.98,
+                    "end": 2.26,
+                    "probability": 0.9922245740890503
+                },
+                {
+                    "word": " is",
+                    "start": 2.26,
+                    "end": 2.52,
+                    "probability": 0.9992861151695251
+                },
+                {
+                    "word": " why",
+                    "start": 2.52,
+                    "end": 2.86,
+                    "probability": 0.9991521835327148
+                },
+                {
+                    "word": " I",
+                    "start": 2.86,
+                    "end": 3.18,
+                    "probability": 0.9911928772926331
+                },
+                {
+                    "word": " send",
+                    "start": 3.18,
+                    "end": 3.36,
+                    "probability": 0.9917904138565063
+                },
+                {
+                    "word": " everything",
+                    "start": 3.36,
+                    "end": 3.74,
+                    "probability": 0.9990915060043335
+                },
+                {
+                    "word": " to",
+                    "start": 3.74,
+                    "end": 4.24,
+                    "probability": 0.9986155033111572
+                },
+                {
+                    "word": " a",
+                    "start": 4.24,
+                    "end": 4.42,
+                    "probability": 0.47862449288368225
+                },
+                {
+                    "word": " Google",
+                    "start": 4.42,
+                    "end": 5.32,
+                    "probability": 0.9568220376968384
+                },
+                {
+                    "word": " Gmail,",
+                    "start": 5.32,
+                    "end": 6.36,
+                    "probability": 0.8744300007820129
+                },
+                {
+                    "word": " because",
+                    "start": 7.06,
+                    "end": 7.46,
+                    "probability": 0.9956346154212952
+                },
+                {
+                    "word": " the",
+                    "start": 7.46,
+                    "end": 7.78,
+                    "probability": 0.9950537085533142
+                },
+                {
+                    "word": " search",
+                    "start": 7.78,
+                    "end": 8.06,
+                    "probability": 0.9976744055747986
+                },
+                {
+                    "word": " is",
+                    "start": 8.06,
+                    "end": 8.46,
+                    "probability": 0.9978612065315247
+                },
+                {
+                    "word": " so",
+                    "start": 8.46,
+                    "end": 8.94,
+                    "probability": 0.9989401698112488
+                },
+                {
+                    "word": " fast.",
+                    "start": 8.94,
+                    "end": 9.18,
+                    "probability": 0.9990800619125366
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.38,
+            "end": 13.38,
+            "text": " So I literally have a folder where all of my GitLab pings go.",
+            "tokens": [
+                50824,
+                407,
+                286,
+                3736,
+                362,
+                257,
+                10820,
+                689,
+                439,
+                295,
+                452,
+                16939,
+                37880,
+                280,
+                1109,
+                352,
+                13,
+                51094
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 9.38,
+                    "end": 9.38,
+                    "probability": 0.8277605175971985
+                },
+                {
+                    "word": " I",
+                    "start": 9.38,
+                    "end": 9.46,
+                    "probability": 0.9773457050323486
+                },
+                {
+                    "word": " literally",
+                    "start": 9.46,
+                    "end": 10.02,
+                    "probability": 0.9984227418899536
+                },
+                {
+                    "word": " have",
+                    "start": 10.02,
+                    "end": 10.96,
+                    "probability": 0.9783103466033936
+                },
+                {
+                    "word": " a",
+                    "start": 10.96,
+                    "end": 11.22,
+                    "probability": 0.999525785446167
+                },
+                {
+                    "word": " folder",
+                    "start": 11.22,
+                    "end": 11.44,
+                    "probability": 0.9996509552001953
+                },
+                {
+                    "word": " where",
+                    "start": 11.44,
+                    "end": 11.72,
+                    "probability": 0.9929870963096619
+                },
+                {
+                    "word": " all",
+                    "start": 11.72,
+                    "end": 11.98,
+                    "probability": 0.9993249177932739
+                },
+                {
+                    "word": " of",
+                    "start": 11.98,
+                    "end": 12.16,
+                    "probability": 0.9989078044891357
+                },
+                {
+                    "word": " my",
+                    "start": 12.16,
+                    "end": 12.34,
+                    "probability": 0.9954848289489746
+                },
+                {
+                    "word": " GitLab",
+                    "start": 12.34,
+                    "end": 12.64,
+                    "probability": 0.8274966180324554
+                },
+                {
+                    "word": " pings",
+                    "start": 12.64,
+                    "end": 12.94,
+                    "probability": 0.7455027401447296
+                },
+                {
+                    "word": " go.",
+                    "start": 12.94,
+                    "end": 13.38,
+                    "probability": 0.9881183505058289
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.32,
+            "end": 16.46,
+            "text": " And I can just search for infographic.",
+            "tokens": [
+                51094,
+                400,
+                286,
+                393,
+                445,
+                3164,
+                337,
+                1536,
+                12295,
+                13,
+                51176
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 14.32,
+                    "end": 14.68,
+                    "probability": 0.960141658782959
+                },
+                {
+                    "word": " I",
+                    "start": 14.68,
+                    "end": 15.0,
+                    "probability": 0.994748055934906
+                },
+                {
+                    "word": " can",
+                    "start": 15.0,
+                    "end": 15.14,
+                    "probability": 0.9981404542922974
+                },
+                {
+                    "word": " just",
+                    "start": 15.14,
+                    "end": 15.36,
+                    "probability": 0.9991149306297302
+                },
+                {
+                    "word": " search",
+                    "start": 15.36,
+                    "end": 15.5,
+                    "probability": 0.9990726709365845
+                },
+                {
+                    "word": " for",
+                    "start": 15.5,
+                    "end": 15.76,
+                    "probability": 0.9980389475822449
+                },
+                {
+                    "word": " infographic.",
+                    "start": 15.76,
+                    "end": 16.46,
+                    "probability": 0.884488582611084
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.08,
+            "end": 17.92,
+            "text": " I found it.",
+            "tokens": [
+                51176,
+                286,
+                1352,
+                309,
+                13,
+                51256
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 17.08,
+                    "end": 17.4,
+                    "probability": 0.1964714378118515
+                },
+                {
+                    "word": " found",
+                    "start": 17.4,
+                    "end": 17.68,
+                    "probability": 0.9647237658500671
+                },
+                {
+                    "word": " it.",
+                    "start": 17.68,
+                    "end": 17.92,
+                    "probability": 0.9916597008705139
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.06,
+            "end": 18.58,
+            "text": " I found it.",
+            "tokens": [
+                51256,
+                286,
+                1352,
+                309,
+                13,
+                51306
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 18.06,
+                    "end": 18.06,
+                    "probability": 0.8028571009635925
+                },
+                {
+                    "word": " found",
+                    "start": 18.06,
+                    "end": 18.28,
+                    "probability": 0.9826024770736694
+                },
+                {
+                    "word": " it.",
+                    "start": 18.28,
+                    "end": 18.58,
+                    "probability": 0.9846271872520447
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 18.72,
+            "end": 19.24,
+            "text": " I found it.",
+            "tokens": [
+                51306,
+                286,
+                1352,
+                309,
+                13,
+                51356
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 18.72,
+                    "end": 18.72,
+                    "probability": 0.44444161653518677
+                },
+                {
+                    "word": " found",
+                    "start": 18.72,
+                    "end": 18.8,
+                    "probability": 0.966498613357544
+                },
+                {
+                    "word": " it.",
+                    "start": 18.8,
+                    "end": 19.24,
+                    "probability": 0.9841548204421997
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 19.3,
+            "end": 20.46,
+            "text": " Who could look at first?",
+            "tokens": [
+                51356,
+                2102,
+                727,
+                574,
+                412,
+                700,
+                30,
+                51406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3502241373062134,
+            "compression_ratio": 1.4615384615384615,
+            "no_speech_prob": 0.0007430934929288924,
+            "words": [
+                {
+                    "word": " Who",
+                    "start": 19.3,
+                    "end": 19.5,
+                    "probability": 0.9526904225349426
+                },
+                {
+                    "word": " could",
+                    "start": 19.5,
+                    "end": 19.68,
+                    "probability": 0.7779620885848999
+                },
+                {
+                    "word": " look",
+                    "start": 19.68,
+                    "end": 19.82,
+                    "probability": 0.8925618529319763
+                },
+                {
+                    "word": " at",
+                    "start": 19.82,
+                    "end": 20.06,
+                    "probability": 0.7790858149528503
+                },
+                {
+                    "word": " first?",
+                    "start": 20.06,
+                    "end": 20.46,
+                    "probability": 0.9672284722328186
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

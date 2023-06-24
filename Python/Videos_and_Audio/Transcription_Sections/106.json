@@ -1,0 +1,45 @@
+{
+    "text": " looking at it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.84,
+            "text": " looking at it.",
+            "tokens": [
+                50364,
+                1237,
+                412,
+                309,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5057186739785331,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.19822442531585693,
+            "words": [
+                {
+                    "word": " looking",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.3168354034423828
+                },
+                {
+                    "word": " at",
+                    "start": 0.34,
+                    "end": 0.62,
+                    "probability": 0.9864866733551025
+                },
+                {
+                    "word": " it.",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9674866199493408
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

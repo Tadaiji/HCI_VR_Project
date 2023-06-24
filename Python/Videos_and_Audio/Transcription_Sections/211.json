@@ -1,0 +1,334 @@
+{
+    "text": " So much room for activities. Okay, I'm going to go with more speed less risk. And I think this is due at the end of the day so any additional thoughts, I'm actually going to untag.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.36,
+            "text": " So much room for activities.",
+            "tokens": [
+                50364,
+                407,
+                709,
+                1808,
+                337,
+                5354,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32760760469256706,
+            "compression_ratio": 1.313868613138686,
+            "no_speech_prob": 0.0026305352803319693,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.06,
+                    "probability": 0.14121459424495697
+                },
+                {
+                    "word": " much",
+                    "start": 0.06,
+                    "end": 0.34,
+                    "probability": 0.9085142016410828
+                },
+                {
+                    "word": " room",
+                    "start": 0.34,
+                    "end": 0.5,
+                    "probability": 0.9598942399024963
+                },
+                {
+                    "word": " for",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.9958051443099976
+                },
+                {
+                    "word": " activities.",
+                    "start": 0.8,
+                    "end": 1.36,
+                    "probability": 0.9926910996437073
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.56,
+            "end": 7.7,
+            "text": " Okay, I'm going to go with more speed less risk.",
+            "tokens": [
+                50464,
+                1033,
+                11,
+                286,
+                478,
+                516,
+                281,
+                352,
+                365,
+                544,
+                3073,
+                1570,
+                3148,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32760760469256706,
+            "compression_ratio": 1.313868613138686,
+            "no_speech_prob": 0.0026305352803319693,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 3.56,
+                    "end": 3.8,
+                    "probability": 0.8988561034202576
+                },
+                {
+                    "word": " I'm",
+                    "start": 4.2,
+                    "end": 4.76,
+                    "probability": 0.9745921194553375
+                },
+                {
+                    "word": " going",
+                    "start": 4.76,
+                    "end": 4.86,
+                    "probability": 0.636402428150177
+                },
+                {
+                    "word": " to",
+                    "start": 4.86,
+                    "end": 4.98,
+                    "probability": 0.9986960291862488
+                },
+                {
+                    "word": " go",
+                    "start": 4.98,
+                    "end": 5.3,
+                    "probability": 0.9990528225898743
+                },
+                {
+                    "word": " with",
+                    "start": 5.3,
+                    "end": 5.8,
+                    "probability": 0.9990146160125732
+                },
+                {
+                    "word": " more",
+                    "start": 5.8,
+                    "end": 6.56,
+                    "probability": 0.9049237370491028
+                },
+                {
+                    "word": " speed",
+                    "start": 6.56,
+                    "end": 6.86,
+                    "probability": 0.987824559211731
+                },
+                {
+                    "word": " less",
+                    "start": 6.86,
+                    "end": 7.16,
+                    "probability": 0.8306739330291748
+                },
+                {
+                    "word": " risk.",
+                    "start": 7.16,
+                    "end": 7.7,
+                    "probability": 0.9157757759094238
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.46,
+            "end": 15.0,
+            "text": " And I think this is due at the end of the day so any additional thoughts, I'm actually",
+            "tokens": [
+                50764,
+                400,
+                286,
+                519,
+                341,
+                307,
+                3462,
+                412,
+                264,
+                917,
+                295,
+                264,
+                786,
+                370,
+                604,
+                4497,
+                4598,
+                11,
+                286,
+                478,
+                767,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32760760469256706,
+            "compression_ratio": 1.313868613138686,
+            "no_speech_prob": 0.0026305352803319693,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.46,
+                    "end": 8.94,
+                    "probability": 0.7158105969429016
+                },
+                {
+                    "word": " I",
+                    "start": 8.94,
+                    "end": 10.48,
+                    "probability": 0.9309521913528442
+                },
+                {
+                    "word": " think",
+                    "start": 10.48,
+                    "end": 10.64,
+                    "probability": 0.9944546818733215
+                },
+                {
+                    "word": " this",
+                    "start": 10.64,
+                    "end": 10.84,
+                    "probability": 0.9992411136627197
+                },
+                {
+                    "word": " is",
+                    "start": 10.84,
+                    "end": 11.04,
+                    "probability": 0.9989972710609436
+                },
+                {
+                    "word": " due",
+                    "start": 11.04,
+                    "end": 11.16,
+                    "probability": 0.9633609652519226
+                },
+                {
+                    "word": " at",
+                    "start": 11.16,
+                    "end": 11.34,
+                    "probability": 0.995793342590332
+                },
+                {
+                    "word": " the",
+                    "start": 11.34,
+                    "end": 11.44,
+                    "probability": 0.9996423721313477
+                },
+                {
+                    "word": " end",
+                    "start": 11.44,
+                    "end": 11.52,
+                    "probability": 0.9997559189796448
+                },
+                {
+                    "word": " of",
+                    "start": 11.52,
+                    "end": 11.66,
+                    "probability": 0.9997937083244324
+                },
+                {
+                    "word": " the",
+                    "start": 11.66,
+                    "end": 11.78,
+                    "probability": 0.9995556473731995
+                },
+                {
+                    "word": " day",
+                    "start": 11.78,
+                    "end": 12.04,
+                    "probability": 0.9997342228889465
+                },
+                {
+                    "word": " so",
+                    "start": 12.04,
+                    "end": 12.52,
+                    "probability": 0.6723743081092834
+                },
+                {
+                    "word": " any",
+                    "start": 12.52,
+                    "end": 13.04,
+                    "probability": 0.9912829399108887
+                },
+                {
+                    "word": " additional",
+                    "start": 13.04,
+                    "end": 13.62,
+                    "probability": 0.9993046522140503
+                },
+                {
+                    "word": " thoughts,",
+                    "start": 13.62,
+                    "end": 14.28,
+                    "probability": 0.9994853734970093
+                },
+                {
+                    "word": " I'm",
+                    "start": 14.74,
+                    "end": 14.86,
+                    "probability": 0.966354489326477
+                },
+                {
+                    "word": " actually",
+                    "start": 14.86,
+                    "end": 15.0,
+                    "probability": 0.9935118556022644
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.0,
+            "end": 15.98,
+            "text": " going to untag.",
+            "tokens": [
+                51114,
+                516,
+                281,
+                1701,
+                559,
+                13,
+                51156
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32760760469256706,
+            "compression_ratio": 1.313868613138686,
+            "no_speech_prob": 0.0026305352803319693,
+            "words": [
+                {
+                    "word": " going",
+                    "start": 15.0,
+                    "end": 15.2,
+                    "probability": 0.9474540948867798
+                },
+                {
+                    "word": " to",
+                    "start": 15.2,
+                    "end": 15.36,
+                    "probability": 0.9991849064826965
+                },
+                {
+                    "word": " untag.",
+                    "start": 15.36,
+                    "end": 15.98,
+                    "probability": 0.9125217795372009
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

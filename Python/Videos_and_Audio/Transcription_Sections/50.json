@@ -1,0 +1,31 @@
+{
+    "text": " Okay?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.22,
+            "text": " Okay?",
+            "tokens": [
+                50364,
+                1033,
+                30,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6426377773284913,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.20186883211135864,
+            "words": [
+                {
+                    "word": " Okay?",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.48111453652381897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,1402 @@
+[00:00:001.02 --> 00:00:001.34] [SPEAKER_01]  or
+
+[00:00:002.92 --> 00:00:008.08] [SPEAKER_00]  And we don't have a ton of items to get to.
+
+[00:00:009.28 --> 00:00:015.04] [SPEAKER_00]  And I might be able to do one that might be fun if we have a little bit of time.
+
+[00:00:016.88 --> 00:00:029.84] [SPEAKER_00]  So corporate events, they, I think I saw a little, I put this in Slack and I saw a little bit of kind of noise around it, which was good.
+
+[00:00:031.30 --> 00:00:044.22] [SPEAKER_00]  So, you know, the, the nutshell here is as we've kind of restructured and try different things, the event support that we need isn't as nailed down as it needs to be.
+
+[00:00:044.76 --> 00:01:001.78] [SPEAKER_00]  So, the current tactic that we're going with is go to market team signs up and kind of sponsors that event so you support as a PMM your campaign manager does the campaigns for that event, etc etc etc.
+
+[00:01:003.28 --> 00:01:005.88] [SPEAKER_00]  I don't see anyone in the.
+
+[00:01:006.88 --> 00:01:011.36] [SPEAKER_00]  Maybe there are comments in the issue. I don't see that the header updated yet.
+
+[00:01:012.27 --> 00:01:015.89] [SPEAKER_04]  I thought we had in Slack sort of farmed each one of them out.
+
+[00:01:016.62 --> 00:01:021.98] [SPEAKER_00]  That's so I guess the next. So it looks like
+
+[00:01:021.98 --> 00:01:025.26] [SPEAKER_00]  Ty put in
+
+[00:01:025.26 --> 00:01:029.62] [SPEAKER_00]  some folks, it looks like this looks good.
+
+[00:01:030.76 --> 00:01:031.78] [SPEAKER_00]  So that
+
+[00:01:031.78 --> 00:01:039.34] [SPEAKER_00]  let's see, need support from GTM teams. So I guess the ask would be
+
+[00:01:041.06 --> 00:01:053.96] [SPEAKER_00]  to work with your GTM teams. So, let me ask it. I saw some slack I think in our slack. But did you all. Were you all able to connect with like your GTM teams.
+
+[00:01:057.42 --> 00:02:000.32] [SPEAKER_03]  on Slack only and on the issue actually.
+
+[00:02:000.99 --> 00:02:004.43] [SPEAKER_07]  Yeah, same, not in real time, but source feedback.
+
+[00:02:004.83 --> 00:02:006.85] [SPEAKER_07]  I got one person to respond so far.
+
+[00:02:007.21 --> 00:02:009.17] [SPEAKER_07]  So it may end up Cindy being you and I just
+
+[00:02:009.17 --> 00:02:010.35] [SPEAKER_07]  picking the one that we want to do,
+
+[00:02:010.41 --> 00:02:016.03] [SPEAKER_07]  and then they can back us up if we don't get any more feedback.
+
+[00:02:018.60 --> 00:02:023.98] [SPEAKER_00]  Yeah, do y'all, does anybody have like a regular sync still?
+
+[00:02:024.12 --> 00:02:026.52] [SPEAKER_00]  Are those all been canceled or is there?
+
+[00:02:028.93 --> 00:02:030.33] [SPEAKER_06]  case we still have a regular second.
+
+[00:02:028.95 --> 00:02:029.33] [SPEAKER_01]  Hey
+
+[00:02:029.50 --> 00:02:030.56] [SPEAKER_02]  We still have a regular sync.
+
+[00:02:031.46 --> 00:02:033.40] [SPEAKER_02]  Yeah, we're on like the two week cadence.
+
+[00:02:033.99 --> 00:02:034.21] [SPEAKER_00]  Okay.
+
+[00:02:035.02 --> 00:02:039.64] [SPEAKER_03]  Yeah, GitOps has been canceled after the enablement.
+
+[00:02:042.32 --> 00:02:052.96] [SPEAKER_00]  Cool. So I'm just trying to catch up with the thread. So it looks like maybe a platform
+
+[00:02:052.96 --> 00:02:059.98] [SPEAKER_00]  on reinvent CI CD on Google Next and get ops on KubeCon. Does that sound right?
+
+[00:03:000.22 --> 00:03:000.40] [SPEAKER_00]  Yeah.
+
+[00:03:001.04 --> 00:03:002.92] [SPEAKER_07]  Yep, that's where we were last I heard.
+
+[00:03:004.15 --> 00:03:015.91] [SPEAKER_00]  Cool. So then I think we can help the Corp Events team. They do a lot of like cat herding and
+
+[00:03:015.91 --> 00:03:024.15] [SPEAKER_00]  keep on tracking people down. So I think if this team can take the mission to try to help
+
+[00:03:024.15 --> 00:03:030.03] [SPEAKER_00]  track that down, so if you get the commitment specifically from your campaign managers,
+
+[00:03:030.79 --> 00:03:037.11] [SPEAKER_00]  we're signing up for a KubeCon. Can you comment on the issue that, yes, I can commit to this,
+
+[00:03:037.59 --> 00:03:045.11] [SPEAKER_00]  et cetera, et cetera, et cetera, so that just so that they can get that event support. But that
+
+[00:03:045.11 --> 00:03:053.87] [SPEAKER_00]  looks good and I appreciate it. Thanks for the link too, Samia, on the roles. Product announcements.
+
+[00:03:055.15 --> 00:04:000.65] [SPEAKER_00]  So I appreciate, Brian, for adding this. I probably should have added it, but
+
+[00:04:002.43 --> 00:04:004.57] [SPEAKER_04]  I had two questions about that one.
+
+[00:04:004.57 --> 00:04:008.33] [SPEAKER_04]  One is over what timeframe are we looking at?
+
+[00:04:009.35 --> 00:04:009.91] [SPEAKER_04]  So.
+
+[00:04:011.66 --> 00:04:016.60] [SPEAKER_00]  So in theory, this could be the same as the GitLab 14 launch,
+
+[00:04:016.98 --> 00:04:019.84] [SPEAKER_00]  where we're saying basically since 13.0,
+
+[00:04:020.94 --> 00:04:023.64] [SPEAKER_00]  what kind of big improvements have we made?
+
+[00:04:027.40 --> 00:04:029.10] [SPEAKER_00]  Candidly, this is always a little bit tough.
+
+[00:04:029.62 --> 00:04:037.14] [SPEAKER_00]  And I am not totally sure of all of the interplay here.
+
+[00:04:037.14 --> 00:04:042.06] [SPEAKER_00]  But I think this is kind of the general gist of this assignment,
+
+[00:04:042.70 --> 00:04:044.50] [SPEAKER_00]  is OK, we have commit coming up.
+
+[00:04:045.00 --> 00:04:047.82] [SPEAKER_00]  We have some amount of like we have a stage,
+
+[00:04:049.36 --> 00:04:052.74] [SPEAKER_00]  a metaphorical stage to say something to the world,
+
+[00:04:052.92 --> 00:04:055.24] [SPEAKER_00]  and we'll get some amount of press attention
+
+[00:04:055.24 --> 00:04:056.56] [SPEAKER_00]  because we're having an event.
+
+[00:04:057.18 --> 00:04:059.60] [SPEAKER_00]  What kind of announcements do we make?
+
+[00:05:000.94 --> 00:05:002.50] [SPEAKER_00]  At GitLab, it's really, really tough
+
+[00:05:002.50 --> 00:05:005.48] [SPEAKER_00]  to make product announcements because our entire roadmap
+
+[00:05:005.48 --> 00:05:008.46] [SPEAKER_00]  is completely public, yada, yada, yada.
+
+[00:05:008.70 --> 00:05:013.54] [SPEAKER_00]  So the thought here is to, but also
+
+[00:05:013.54 --> 00:05:015.60] [SPEAKER_00]  because our entire roadmap is completely public
+
+[00:05:015.60 --> 00:05:017.64] [SPEAKER_00]  and because we ship these tiny little MVCs,
+
+[00:05:018.12 --> 00:05:021.90] [SPEAKER_00]  a new feature will come out, but it'll be not really usable.
+
+[00:05:022.68 --> 00:05:023.54] [SPEAKER_00]  So it takes a while.
+
+[00:05:023.90 --> 00:05:026.66] [SPEAKER_00]  So if you look back over the past year and say,
+
+[00:05:026.92 --> 00:05:028.82] [SPEAKER_00]  like what started in the last year
+
+[00:05:028.82 --> 00:05:031.96] [SPEAKER_00]  but now is really like a full-fledged feature,
+
+[00:05:032.12 --> 00:05:033.96] [SPEAKER_00]  what would be coming out of beta?
+
+[00:05:034.42 --> 00:05:034.86] [SPEAKER_00]  Right?
+
+[00:05:035.24 --> 00:05:036.86] [SPEAKER_00]  Like if we were any other company,
+
+[00:05:037.26 --> 00:05:039.40] [SPEAKER_00]  when we started a beta program in this last year,
+
+[00:05:039.70 --> 00:05:043.06] [SPEAKER_00]  what would we be announcing as GA at commit?
+
+[00:05:043.58 --> 00:05:045.92] [SPEAKER_00]  That's kind of my thought on it.
+
+[00:05:046.66 --> 00:05:047.94] [SPEAKER_00]  I see a couple of head nods.
+
+[00:05:047.96 --> 00:05:048.48] [SPEAKER_00]  What do you think, Sydney?
+
+[00:05:050.32 --> 00:05:059.80] [SPEAKER_04]  Yeah, I think I was inclined to group some things to say like vulnerability management because there were tiny little MVCs all the way along.
+
+[00:05:059.96 --> 00:06:004.48] [SPEAKER_04]  But if you look at over the course of the year, we went from this to this.
+
+[00:06:004.88 --> 00:06:010.30] [SPEAKER_04]  It makes more sense to me to highlight that than in any individual little thing.
+
+[00:06:010.34 --> 00:06:015.66] [SPEAKER_04]  And then the other point was we just had fourteen dot.
+
+[00:06:015.72 --> 00:06:019.56] [SPEAKER_04]  Oh, can we just can we reuse some of those things and plug them in here?
+
+[00:06:019.56 --> 00:06:019.56] [SPEAKER_04] 
+
+[00:06:020.90 --> 00:06:027.92] [SPEAKER_00]  Yeah. Yeah. And vulnerability management was one of the features out of, we looked at 14.0.
+
+[00:06:028.10 --> 00:06:033.04] [SPEAKER_00]  So I think, yeah, this is like, let's take the stuff from 14.0 and then maybe add a few
+
+[00:06:033.04 --> 00:06:038.96] [SPEAKER_00]  more so that we can hit kind of different areas of press or give our PR team, this is
+
+[00:06:038.96 --> 00:06:042.48] [SPEAKER_00]  kind of like input into our PR team to give them fodder to go out with.
+
+[00:06:042.95 --> 00:06:045.15] [SPEAKER_04]  And are we trying to hit three per stage?
+
+[00:06:046.05 --> 00:06:052.19] [SPEAKER_00]  I, yeah, ideally there's just, you know, three, you know, uh, three items per stage.
+
+[00:06:052.55 --> 00:06:056.35] [SPEAKER_00]  And then I think y'all made some good notes that, okay, we need to add manage.
+
+[00:06:056.39 --> 00:06:057.35] [SPEAKER_00]  So I see managing here.
+
+[00:06:057.37 --> 00:06:058.17] [SPEAKER_00]  That's excellent.
+
+[00:06:058.57 --> 00:07:003.91] [SPEAKER_00]  Um, and, uh, integrations we don't.
+
+[00:07:003.99 --> 00:07:006.87] [SPEAKER_00]  Well, actually we have some pretty exciting integration, so we have.
+
+[00:07:007.06 --> 00:07:008.62] [SPEAKER_02]  The JIRA stuff is pretty good.
+
+[00:07:008.74 --> 00:07:012.04] [SPEAKER_02]  There's a couple of things in integrations with VS code
+
+[00:07:012.04 --> 00:07:014.98] [SPEAKER_02]  that could be notable, but
+
+[00:07:014.98 --> 00:07:019.38] [SPEAKER_02]  can I show what I did for SCM
+
+[00:07:019.38 --> 00:07:021.54] [SPEAKER_02]  just to get some general feedback on it?
+
+[00:07:021.88 --> 00:07:024.98] [SPEAKER_02]  And if someone hasn't done it, maybe that'll also kick in.
+
+[00:07:025.10 --> 00:07:027.60] [SPEAKER_02]  I was going Cindy's direction here,
+
+[00:07:028.06 --> 00:07:030.74] [SPEAKER_02]  which was thinking, you know, a lot of,
+
+[00:07:030.80 --> 00:07:032.31] [SPEAKER_02]  and then I call them key iterations,
+
+[00:07:032.50 --> 00:07:033.92] [SPEAKER_02]  the sort of specific things.
+
+[00:07:034.31 --> 00:07:036.31] [SPEAKER_02]  So I listed a few specific things,
+
+[00:07:036.31 --> 00:07:039.00] [SPEAKER_02]  like three or four per each as key iterations,
+
+[00:07:039.19 --> 00:07:041.18] [SPEAKER_02]  but I called them something overall.
+
+[00:07:041.24 --> 00:07:043.24] [SPEAKER_02]  So we would have like one thing to call them.
+
+[00:07:044.27 --> 00:07:048.71] [SPEAKER_02]  There's several key iterations aligned with a Gitale cluster,
+
+[00:07:050.10 --> 00:07:053.86] [SPEAKER_02]  several that roll up to a research-based user experience.
+
+[00:07:054.01 --> 00:07:055.12] [SPEAKER_02]  And I was thinking like,
+
+[00:07:055.88 --> 00:07:059.21] [SPEAKER_02]  I was shy on calling out UX as a bucket,
+
+[00:07:059.62 --> 00:08:002.38] [SPEAKER_02]  except that actually that's super typical, right?
+
+[00:08:002.38 --> 00:08:004.77] [SPEAKER_02]  Like Windows 11 or anybody who's rolling stuff out,
+
+[00:08:004.77 --> 00:08:007.60] [SPEAKER_02]  they almost always have UX as one of their three things.
+
+[00:08:008.00 --> 00:08:009.88] [SPEAKER_02]  And then they mentioned a longer list of stuff
+
+[00:08:009.88 --> 00:08:010.98] [SPEAKER_02]  that aligns to that.
+
+[00:08:011.81 --> 00:08:014.27] [SPEAKER_02]  So I, you know, forgave myself
+
+[00:08:014.27 --> 00:08:015.45] [SPEAKER_02]  for doing something at first.
+
+[00:08:015.57 --> 00:08:017.68] [SPEAKER_02]  I was kind of like shy about calling out UX
+
+[00:08:017.68 --> 00:08:019.31] [SPEAKER_02]  and bucketing some things there,
+
+[00:08:019.31 --> 00:08:020.44] [SPEAKER_02]  but actually when I looked around,
+
+[00:08:020.44 --> 00:08:023.77] [SPEAKER_02]  that's pretty much how everybody does a big launch.
+
+[00:08:024.42 --> 00:08:025.89] [SPEAKER_02]  And in terms of the excitement level,
+
+[00:08:025.92 --> 00:08:028.88] [SPEAKER_02]  that also like I went in thinking this is just a two.
+
+[00:08:029.45 --> 00:08:030.80] [SPEAKER_02]  I guess part of it is like,
+
+[00:08:030.80 --> 00:08:032.86] [SPEAKER_02]  I feel like we're almost fixing something that's broken,
+
+[00:08:032.93 --> 00:08:034.67] [SPEAKER_02]  and that's not something you want to shout
+
+[00:08:034.67 --> 00:08:036.27] [SPEAKER_02]  from the rooftops about,
+
+[00:08:036.62 --> 00:08:038.39] [SPEAKER_02]  but actually some of that stuff's really cool.
+
+[00:08:038.41 --> 00:08:040.00] [SPEAKER_02]  So I gave it a three.
+
+[00:08:040.10 --> 00:08:041.79] [SPEAKER_02]  Excitement level, I wasn't sure exactly
+
+[00:08:041.79 --> 00:08:042.86] [SPEAKER_02]  where to place things,
+
+[00:08:043.00 --> 00:08:046.24] [SPEAKER_02]  but I figured I wouldn't,
+
+[00:08:046.48 --> 00:08:047.24] [SPEAKER_02]  like Cindy's comment,
+
+[00:08:047.38 --> 00:08:048.96] [SPEAKER_02]  have something that's a one here anyway.
+
+[00:08:049.70 --> 00:08:053.34] [SPEAKER_02]  But the only way I could make sense of like the iterations
+
+[00:08:053.34 --> 00:08:055.67] [SPEAKER_02]  was to bucket them as something.
+
+[00:08:057.05 --> 00:08:059.15] [SPEAKER_02]  And so that's kind of how I came down on it
+
+[00:08:059.15 --> 00:09:000.46] [SPEAKER_02]  and what everyone thinks about that.
+
+[00:09:004.46 --> 00:09:006.40] [SPEAKER_06]  Yeah, I like that.
+
+[00:09:004.92 --> 00:09:006.36] [SPEAKER_01]  I like that.
+
+[00:09:007.50 --> 00:09:009.20] [SPEAKER_03]  No, no, no.
+
+[00:09:010.30 --> 00:09:014.52] [SPEAKER_03]  I've done a similar, I've taken a similar approach for Monitor.
+
+[00:09:015.58 --> 00:09:017.92] [SPEAKER_03]  With incident management, there were a bunch of things
+
+[00:09:017.92 --> 00:09:018.90] [SPEAKER_03]  that we released.
+
+[00:09:020.30 --> 00:09:024.26] [SPEAKER_03]  Although the core of incident management was part of 12.x,
+
+[00:09:024.58 --> 00:09:024.76] [SPEAKER_03]  I think.
+
+[00:09:025.58 --> 00:09:028.54] [SPEAKER_03]  So I did the same over there as well.
+
+[00:09:029.30 --> 00:09:030.66] [SPEAKER_03]  I think that makes sense.
+
+[00:09:031.01 --> 00:09:034.53] [SPEAKER_06]  Yeah, that would help me with the plan stuff as well,
+
+[00:09:034.53 --> 00:09:036.39] [SPEAKER_06]  because there are some things like Epic boards
+
+[00:09:036.39 --> 00:09:039.01] [SPEAKER_06]  that people have been asking for for years now
+
+[00:09:039.01 --> 00:09:041.33] [SPEAKER_06]  and they finally have, and that's great.
+
+[00:09:041.87 --> 00:09:045.59] [SPEAKER_06]  But I think, you know, like the milestone burn-up charts,
+
+[00:09:046.79 --> 00:09:048.83] [SPEAKER_06]  that was a two, and that's helpful.
+
+[00:09:048.99 --> 00:09:053.47] [SPEAKER_06]  I was looking through features and actual monthly features
+
+[00:09:053.47 --> 00:09:054.93] [SPEAKER_06]  that were released in a given month.
+
+[00:09:054.97 --> 00:09:056.87] [SPEAKER_06]  I mean, that was one of the more important ones,
+
+[00:09:056.87 --> 00:09:057.89] [SPEAKER_06]  but it's not very exciting,
+
+[00:09:057.89 --> 00:10:000.23] [SPEAKER_06]  but we can bundle that with some other things.
+
+[00:10:000.91 --> 00:10:004.09] [SPEAKER_06]  And up-level it, so that would be helpful there.
+
+[00:10:004.27 --> 00:10:005.97] [SPEAKER_06]  And also, Brian, about the VS code thing,
+
+[00:10:006.49 --> 00:10:007.99] [SPEAKER_06]  one other cool thing about that
+
+[00:10:007.99 --> 00:10:010.01] [SPEAKER_06]  is both of those VS code integrations
+
+[00:10:010.01 --> 00:10:014.13] [SPEAKER_06]  that hit the same month were community contributions,
+
+[00:10:014.71 --> 00:10:015.69] [SPEAKER_06]  which is also kind of cool.
+
+[00:10:019.09 --> 00:10:021.89] [SPEAKER_00]  Is that, do we have VS code listed on here?
+
+[00:10:023.90 --> 00:10:026.64] [SPEAKER_02]  I didn't add it, but I can add that in.
+
+[00:10:026.94 --> 00:10:028.12] [SPEAKER_02]  I've got good notes on that.
+
+[00:10:028.58 --> 00:10:030.76] [SPEAKER_02]  The extension that had been around for a while
+
+[00:10:030.76 --> 00:10:032.92] [SPEAKER_02]  became official, was kind of one of the things.
+
+[00:10:033.10 --> 00:10:034.14] [SPEAKER_02]  But there's some other stuff that's
+
+[00:10:034.14 --> 00:10:035.16] [SPEAKER_02]  a little juicier than that.
+
+[00:10:028.55 --> 00:10:029.17] [SPEAKER_01]  the extension.
+
+[00:10:038.72 --> 00:10:043.26] [SPEAKER_00]  And that, I think that's a pretty good note as well.
+
+[00:10:044.24 --> 00:10:047.76] [SPEAKER_00]  We did that with like our Terraform module, right?
+
+[00:10:047.76 --> 00:10:049.28] [SPEAKER_00]  There was like a community module,
+
+[00:10:049.60 --> 00:10:051.48] [SPEAKER_00]  but now it's officially supported.
+
+[00:10:052.30 --> 00:10:056.56] [SPEAKER_00]  So that's the, you know, that can be the line, yes or no,
+
+[00:10:056.56 --> 00:11:000.06] [SPEAKER_00]  whether you can use the thing for a lot of businesses.
+
+[00:11:000.10 --> 00:11:001.70] [SPEAKER_00]  So I think that's a good one too.
+
+[00:11:002.35 --> 00:11:004.95] [SPEAKER_03]  How are we measuring excitement levels?
+
+[00:11:005.25 --> 00:11:006.81] [SPEAKER_03]  One, two, and three, is there?
+
+[00:11:008.85 --> 00:11:015.91] [SPEAKER_03]  I was looking at maybe MAU as a metric to perhaps measure
+
+[00:11:015.91 --> 00:11:019.41] [SPEAKER_03]  whether customers have started using that, are interested
+
+[00:11:019.41 --> 00:11:020.85] [SPEAKER_03]  in using that or not.
+
+[00:11:021.51 --> 00:11:023.59] [SPEAKER_03]  We probably may not have it for everything,
+
+[00:11:023.77 --> 00:11:026.35] [SPEAKER_03]  but at least some of it, wherever we have it,
+
+[00:11:026.83 --> 00:11:028.41] [SPEAKER_03]  it's probably something we can.
+
+[00:11:013.08 --> 00:11:013.08] [SPEAKER_04] 
+
+[00:11:015.29 --> 00:11:015.53] [SPEAKER_04]  Measuring.
+
+[00:11:029.37 --> 00:11:034.03] [SPEAKER_03]  we can use. But of course, we need a benchmark level of what
+
+[00:11:034.03 --> 00:11:036.29] [SPEAKER_03]  MAU we want to call one, two or three.
+
+[00:11:037.58 --> 00:11:041.02] [SPEAKER_00]  I think it's a little bit of a judgment call.
+
+[00:11:042.62 --> 00:11:048.84] [SPEAKER_00]  Like, you know, for example, Cormac was saying, like, epic boards is something that was asked
+
+[00:11:048.84 --> 00:11:049.94] [SPEAKER_00]  for for a long time.
+
+[00:11:050.44 --> 00:11:056.32] [SPEAKER_00]  Now, depending on how it's asked for, maybe that means it's exciting or it's not, right?
+
+[00:11:057.04 --> 00:12:003.20] [SPEAKER_00]  But usually when something gets a lot of upvotes or when there's a lot of demand for it, then
+
+[00:12:003.20 --> 00:12:006.18] [SPEAKER_00]  I would bump the excitement level on something like that.
+
+[00:12:007.68 --> 00:12:011.08] [SPEAKER_00]  Certainly it's something shipped and a lot of people are using it.
+
+[00:12:011.44 --> 00:12:013.64] [SPEAKER_00]  The MAU, that's another good measure.
+
+[00:12:013.78 --> 00:12:017.10] [SPEAKER_00]  I don't know that any one of those needs to kind of be exclusive.
+
+[00:12:017.20 --> 00:12:019.54] [SPEAKER_00]  I think it's a bit of an individual judgment call.
+
+[00:12:019.62 --> 00:12:033.18] [SPEAKER_00]  And just like, what is your feeling based on, you know, could be anecdotal, like you
+
+[00:12:034.52 --> 00:12:037.22] [SPEAKER_00]  Or, you know, maybe not, which is which is OK.
+
+[00:12:037.36 --> 00:12:038.06] [SPEAKER_00]  I think it's OK.
+
+[00:12:040.09 --> 00:12:048.81] [SPEAKER_04]  Harsh responded to my comment about why we have the low excitement ones and just said something about having them sort of stack ranked.
+
+[00:12:050.51 --> 00:12:055.89] [SPEAKER_00]  Yeah, I might even constrain this
+
+[00:12:055.89 --> 00:12:057.53] [SPEAKER_00]  is we're not going to highlight low excitement,
+
+[00:12:057.63 --> 00:13:000.65] [SPEAKER_00]  but we want to see the full spectrum, especially
+
+[00:13:000.65 --> 00:13:002.07] [SPEAKER_00]  in the case we have slim pickings.
+
+[00:13:002.31 --> 00:13:005.29] [SPEAKER_00]  Alternately, if there are double digit entries,
+
+[00:13:005.43 --> 00:13:006.97] [SPEAKER_00]  then we can stack rank.
+
+[00:13:010.85 --> 00:13:013.85] [SPEAKER_00]  So that's kind of also helpful there.
+
+[00:13:013.89 --> 00:13:016.27] [SPEAKER_00]  So if we have three for all of these,
+
+[00:13:016.89 --> 00:13:018.95] [SPEAKER_00]  that, I mean, it looks like we're going to get there.
+
+[00:13:018.99 --> 00:13:021.33] [SPEAKER_00]  And that's going to be quite a lot of features.
+
+[00:13:023.33 --> 00:13:026.69] [SPEAKER_00]  So I might constrain it like this.
+
+[00:13:027.69 --> 00:13:032.09] [SPEAKER_00]  Maybe you can only give out one, two, or three,
+
+[00:13:033.01 --> 00:13:035.25] [SPEAKER_00]  and treat it as a stack rank rather than just
+
+[00:13:035.25 --> 00:13:037.09] [SPEAKER_00]  like a raw excitement level.
+
+[00:13:037.69 --> 00:13:038.61] [SPEAKER_00]  That doesn't necessarily.
+
+[00:13:039.47 --> 00:13:047.41] [SPEAKER_04]  It's hard to somebody's one or somebody's three may be more important than somebody else's one, depending on the.
+
+[00:13:047.56 --> 00:14:001.28] [SPEAKER_02]  And I had, I started by just looking at what was considered a key feature over the past year from from create. And, you know, there are at least a dozen things that I'm not mentioning that could be on the list.
+
+[00:14:001.50 --> 00:14:003.84] [SPEAKER_02]  Like I could give you 10 things instead of three.
+
+[00:14:004.32 --> 00:14:004.72] [SPEAKER_00]  Yeah.
+
+[00:14:005.03 --> 00:14:008.46] [SPEAKER_00]  Give this just the rough pass.
+
+[00:14:010.82 --> 00:14:013.10] [SPEAKER_00]  And a lot of things recently, I've
+
+[00:14:013.10 --> 00:14:014.86] [SPEAKER_00]  been moving between docs and spreadsheet
+
+[00:14:014.86 --> 00:14:016.12] [SPEAKER_00]  and the spreadsheet to docs.
+
+[00:14:017.50 --> 00:14:020.25] [SPEAKER_00]  This might end up, or some iteration of this
+
+[00:14:020.25 --> 00:14:022.01] [SPEAKER_00]  might end up in a spreadsheet where we then
+
+[00:14:022.01 --> 00:14:023.36] [SPEAKER_00]  try to stack rank in PR.
+
+[00:14:023.51 --> 00:14:028.70] [SPEAKER_00]  It's like, OK, out of all of the, there's maybe 10 boxes here
+
+[00:14:028.70 --> 00:14:031.51] [SPEAKER_00]  and three each out of the 30 items, which are the top five.
+
+[00:14:032.67 --> 00:14:036.03] [SPEAKER_00]  So actually, let's actually just do that.
+
+[00:14:036.15 --> 00:14:040.05] [SPEAKER_00]  Let's just do this top five overall.
+
+[00:14:040.05 --> 00:14:040.98] [SPEAKER_00]  We did.
+
+[00:14:041.06 --> 00:14:044.08] [SPEAKER_02]  So this one is a PR driven to some degree.
+
+[00:14:044.28 --> 00:14:047.98] [SPEAKER_02]  What about like a new Ben Christie's product keynote at commit?
+
+[00:14:048.34 --> 00:14:050.04] [SPEAKER_02]  Are we dovetailing this with that?
+
+[00:14:050.32 --> 00:14:053.70] [SPEAKER_00]  So this is exactly where this is headed to,
+
+[00:14:054.74 --> 00:14:058.34] [SPEAKER_00]  is the idea that during the product keynote
+
+[00:14:058.34 --> 00:15:001.52] [SPEAKER_00]  and then ideally during Sid's keynote as well,
+
+[00:15:001.84 --> 00:15:004.34] [SPEAKER_00]  that there's some level of like an announcement
+
+[00:15:004.34 --> 00:15:007.04] [SPEAKER_00]  that we make that then the press cares
+
+[00:15:007.04 --> 00:15:008.16] [SPEAKER_00]  about that announcement.
+
+[00:15:009.56 --> 00:15:011.44] [SPEAKER_00]  Again, really tough to do at GitLab
+
+[00:15:011.44 --> 00:15:013.22] [SPEAKER_00]  because it's all been around for a while.
+
+[00:15:013.26 --> 00:15:016.68] [SPEAKER_00]  So this is our attempt to head to that area,
+
+[00:15:016.86 --> 00:15:019.14] [SPEAKER_00]  is to say like, these are the announcements of the event
+
+[00:15:020.20 --> 00:15:021.74] [SPEAKER_00]  and yeah, maybe it's some things
+
+[00:15:021.74 --> 00:15:023.12] [SPEAKER_00]  that have been around for a while,
+
+[00:15:023.26 --> 00:15:025.54] [SPEAKER_00]  but like now they're at a level of maturity.
+
+[00:15:025.54 --> 00:15:029.76] [SPEAKER_00]  Now, there's reason to be excited about this.
+
+[00:15:030.32 --> 00:15:032.54] [SPEAKER_00]  So that's kind of where it's coming from.
+
+[00:15:033.72 --> 00:15:037.94] [SPEAKER_00]  So I put a top five overall.
+
+[00:15:040.08 --> 00:15:041.84] [SPEAKER_00]  Maybe we can just,
+
+[00:15:049.28 --> 00:15:058.94] [SPEAKER_06]  We should reserve a spot for plan, but I'm going to have to go through and do some aggregating after this just go through the list of what shipped in the last 12 months and re bucket that.
+
+[00:16:006.03 --> 00:16:014.79] [SPEAKER_00]  So maybe we can do like five minutes, kind of like just time box and kind of look at these here.
+
+[00:16:015.33 --> 00:16:024.01] [SPEAKER_00]  What do you all think is a top would be a top five out of the list of, you know, 20 or 30?
+
+[00:16:026.92 --> 00:16:037.40] [SPEAKER_02]  I would say if UX does end up being a flag that we fly, that's an easy one because there's more than just maps to the create stage that would be considered UX improvement.
+
+[00:16:038.06 --> 00:16:038.28] [SPEAKER_05]  Okay?
+
+[00:16:046.82 --> 00:16:047.36] [SPEAKER_00]  What else?
+
+[00:16:047.92 --> 00:17:004.32] [SPEAKER_04]  We need to have a security one in there. We could have either vulnerability management or I was what I've been struggling with a little bit is I'd like to kind of group the some of this, the proprietary scanning
+
+[00:17:004.32 --> 00:17:014.62] [SPEAKER_04]  without making it sound like they're scanning improvements, because that sounds like they weren't good before.
+
+[00:17:015.98 --> 00:17:016.38] [SPEAKER_00]  Yeah.
+
+[00:17:016.78 --> 00:17:018.08] [SPEAKER_00]  All right.
+
+[00:17:018.18 --> 00:17:020.12] [SPEAKER_00]  Let's go with vulnerability management for now.
+
+[00:17:020.62 --> 00:17:021.96] [SPEAKER_00]  I now would agree on that one.
+
+[00:17:022.10 --> 00:17:028.50] [SPEAKER_00]  And I would say that some of these we did do some press around and the fuzzing acquisitions
+
+[00:17:028.50 --> 00:17:029.60] [SPEAKER_00]  was one thing.
+
+[00:17:030.08 --> 00:17:031.08] [SPEAKER_00]  So we might not get a second chance at that.
+
+[00:17:031.10 --> 00:17:031.94] [SPEAKER_00]  Yeah, but that's kind of old.
+
+[00:17:030.49 --> 00:17:031.28] [SPEAKER_05]  Yeah, well that was kind of...
+
+[00:17:031.94 --> 00:17:038.42] [SPEAKER_04]  old. I was, I mean, we did the fuzzing acquisitions a long time ago.
+
+[00:17:039.99 --> 00:17:042.71] [SPEAKER_00]  Was it within the past year or longer?
+
+[00:17:044.57 --> 00:17:046.29] [SPEAKER_00]  I thought it was within the past year.
+
+[00:17:046.19 --> 00:17:050.67] [SPEAKER_03]  I think it was in the last little over six months or so.
+
+[00:17:050.77 --> 00:17:051.43] [SPEAKER_03]  It was last year.
+
+[00:17:050.85 --> 00:17:052.35] [SPEAKER_07]  It was last summer, right?
+
+[00:17:052.46 --> 00:17:053.11] [SPEAKER_07]  There was something around there.
+
+[00:17:053.21 --> 00:18:009.35] [SPEAKER_04]  It was like last spring or summer and then we did another set of press around the integration of it because the PR team liked all the I mean we got a lot of attention on the acquisition so they had me do a follow up on the integration.
+
+[00:18:010.35 --> 00:18:012.67] [SPEAKER_04]  I just feel like it's kind of worn out now, but
+
+[00:18:012.95 --> 00:18:023.05] [SPEAKER_00]  Right, that's what I was saying is that the fuzzing we already did press on through probably will not get another chomp at that so I think let's go with vulnerability management and review.
+
+[00:18:022.60 --> 00:18:038.42] [SPEAKER_04]  Unreviewed is what we also have in terms of proprietary stuff. We've also got we replaced one of our scanners with some grip. And we did. We have our own proprietary DAS scanner now that's in
+
+[00:18:038.42 --> 00:18:049.70] [SPEAKER_04]  It's in beta called browser. So it's our answer to scanning single page applications which represent a unique challenge. I think.
+
+[00:18:023.68 --> 00:18:024.24] [SPEAKER_01]  also have.
+
+[00:18:052.22 --> 00:18:056.00] [SPEAKER_04]  I mean, if I could have to, it would be vulnerability management and Berserker, probably.
+
+[00:18:056.94 --> 00:18:057.18] [SPEAKER_01]  Okay.
+
+[00:18:058.04 --> 00:19:002.54] [SPEAKER_02]  Semgrip that get picked up as a online item and a couple of the pieces about get that 14.
+
+[00:19:003.33 --> 00:19:003.57] [SPEAKER_07]  Mm-hmm.
+
+[00:19:010.17 --> 00:19:013.97] [SPEAKER_00]  Which between the proprietary ships and the vulnerability management, which would you pick
+
+[00:19:013.97 --> 00:19:015.23] [SPEAKER_00]  as the number one out of those two?
+
+[00:19:017.33 --> 00:19:018.89] [SPEAKER_04]  Probably vulnerability management.
+
+[00:19:018.89 --> 00:19:019.69] [SPEAKER_04]  Okay.
+
+[00:19:021.92 --> 00:19:024.16] [SPEAKER_00]  I'm just kind of scanning the list.
+
+[00:19:024.16 --> 00:19:026.92] [SPEAKER_00]  I would probably say like Kubernetes agent
+
+[00:19:026.92 --> 00:19:030.90] [SPEAKER_00]  is something that we've made a lot of investment in.
+
+[00:19:030.90 --> 00:19:031.82] [SPEAKER_00]  Although.
+
+[00:19:036.80 --> 00:19:045.52] [SPEAKER_03]  I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration,
+
+[00:19:045.72 --> 00:19:050.74] [SPEAKER_03]  I think we have a lot of customers actually using that already.
+
+[00:19:051.88 --> 00:19:051.88] [SPEAKER_03] 
+
+[00:19:051.88 --> 00:19:052.12] [SPEAKER_03]  I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration,
+
+[00:19:052.12 --> 00:19:052.20] [SPEAKER_03]  I think we have a lot of customers actually using that already.
+
+[00:19:051.05 --> 00:19:051.42] [SPEAKER_01]  Mm-hmm.
+
+[00:19:051.64 --> 00:19:059.80] [SPEAKER_00]  So I'm going to, I'm just going to call those get ops and I'm going to put like KS agent
+
+[00:19:059.80 --> 00:20:006.10] [SPEAKER_00]  plus as she for integrations.
+
+[00:20:006.10 --> 00:20:011.58] [SPEAKER_00]  It's like a bucket of capabilities that is probably worth talking about.
+
+[00:20:012.90 --> 00:20:014.06] [SPEAKER_00]  Ah, is.
+
+[00:20:017.48 --> 00:20:029.00] [SPEAKER_00]  Cool. Well, let's, you know, let's try to, this is due Tuesday, I think we want to try to get this done.
+
+[00:20:029.72 --> 00:20:039.34] [SPEAKER_00]  So maybe just review this kind of like, let's just kind of pick top five, maybe something from plan and something from CICD.
+
+[00:20:040.75 --> 00:20:043.21] [SPEAKER_07]  That one editor is definitely an option for CI CD
+
+[00:20:043.98 --> 00:20:044.38] [SPEAKER_04]  then
+
+[00:20:045.77 --> 00:20:054.33] [SPEAKER_06]  Yeah, and there might be a value stream analytics story in there too, if we aggregate it all.
+
+[00:20:054.69 --> 00:20:058.19] [SPEAKER_06]  It's a bummer that customizable value stream analytics is 12.9.
+
+[00:20:059.69 --> 00:21:002.91] [SPEAKER_06]  But yeah, there might be.
+
+[00:21:006.24 --> 00:21:008.54] [SPEAKER_00]  Cool, I'm just gonna ping you on this Cormac
+
+[00:21:008.54 --> 00:21:011.68] [SPEAKER_00]  to add a top five plan.
+
+[00:21:016.64 --> 00:21:018.34] [SPEAKER_00]  Cool.
+
+[00:21:019.68 --> 00:21:020.78] [SPEAKER_00]  I think.
+
+[00:21:022.58 --> 00:21:027.32] [SPEAKER_07]  That's a pretty heavy, pretty heavy list. Just looking at it, you know, it's pretty cool.
+
+[00:21:029.97 --> 00:21:032.57] [SPEAKER_00]  Yeah, and this is something we don't do, which I agree.
+
+[00:21:033.29 --> 00:21:038.23] [SPEAKER_00]  Like, we don't often stop as a company
+
+[00:21:038.23 --> 00:21:039.89] [SPEAKER_00]  and just kind of look at our wins.
+
+[00:21:040.73 --> 00:21:040.73] [SPEAKER_00] 
+
+[00:21:042.09 --> 00:21:045.47] [SPEAKER_00]  I was really, I don't know, did y'all, did anybody miss,
+
+[00:21:046.43 --> 00:21:049.31] [SPEAKER_00]  what do we call it, assembly, the assembly?
+
+[00:21:051.85 --> 00:21:054.01] [SPEAKER_00]  If you missed it, I recommend it.
+
+[00:21:054.01 --> 00:21:057.13] [SPEAKER_00]  I laugh because like what assembly reminds me of is like,
+
+[00:21:057.13 --> 00:22:000.51] [SPEAKER_00]  when I was in like a young child in grade school,
+
+[00:22:001.29 --> 00:22:003.41] [SPEAKER_00]  they'd have this big stack of like carpet,
+
+[00:22:003.65 --> 00:22:004.89] [SPEAKER_00]  they were like squares of carpet.
+
+[00:22:005.45 --> 00:22:007.55] [SPEAKER_00]  And you go like, you go into the gym
+
+[00:22:007.55 --> 00:22:010.03] [SPEAKER_00]  and you pull off a square of carpet
+
+[00:22:010.03 --> 00:22:013.13] [SPEAKER_00]  and all the children would sit on a square of carpet.
+
+[00:22:013.17 --> 00:22:014.73] [SPEAKER_00]  And that was like, you'd have an assembly.
+
+[00:22:015.87 --> 00:22:017.21] [SPEAKER_00]  So that's what it is.
+
+[00:22:015.36 --> 00:22:015.36] [SPEAKER_07] 
+
+[00:22:016.41 --> 00:22:031.55] [SPEAKER_07]  That's what I remember that to put everyone in the gym or like convert the half cafeteria gym, you know, take away the big barrier between it so that we can have more room and then take those carpets that have never been cleaned and just, you know, sit on them and it'll be it'll be great.
+
+[00:22:032.42 --> 00:22:035.18] [SPEAKER_00]  Aside from the goofy name, I thought that,
+
+[00:22:035.18 --> 00:22:037.78] [SPEAKER_00]  and of course we can't talk about any of it on YouTube,
+
+[00:22:038.44 --> 00:22:041.56] [SPEAKER_00]  but man, that was like a really awesome look back
+
+[00:22:041.56 --> 00:22:043.22] [SPEAKER_00]  at like, here's some wins
+
+[00:22:043.22 --> 00:22:044.96] [SPEAKER_00]  and here's some exciting things that we've done.
+
+[00:22:045.94 --> 00:22:048.18] [SPEAKER_00]  And so I think we just need to get better at this
+
+[00:22:048.18 --> 00:22:048.64] [SPEAKER_00]  as a company.
+
+[00:22:048.76 --> 00:22:051.06] [SPEAKER_00]  I think this exercise is an opportunity to that.
+
+[00:22:051.56 --> 00:22:052.42] [SPEAKER_00]  I think we do a little bit of that,
+
+[00:22:052.42 --> 00:22:053.86] [SPEAKER_00]  but this is doing it more.
+
+[00:22:055.04 --> 00:23:000.18] [SPEAKER_00]  So, Samiya, you have some questions here for Alita?
+
+[00:23:000.18 --> 00:23:000.42] [SPEAKER_00]  Yes.
+
+[00:23:003.53 --> 00:23:008.07] [SPEAKER_03]  So in the competitive sheet, I've already identified
+
+[00:23:008.07 --> 00:23:012.55] [SPEAKER_03]  the features for CD, Configure, as well as Monitor,
+
+[00:23:013.07 --> 00:23:014.83] [SPEAKER_03]  getting it reviewed from PM.
+
+[00:23:015.51 --> 00:23:017.83] [SPEAKER_03]  My guess was, or my understanding
+
+[00:23:017.83 --> 00:23:020.35] [SPEAKER_03]  was that we wouldn't have the same set of competitors
+
+[00:23:020.35 --> 00:23:023.69] [SPEAKER_03]  that we're going to compare to, but the right competitors
+
+[00:23:023.69 --> 00:23:025.33] [SPEAKER_03]  for that particular stage.
+
+[00:23:025.85 --> 00:23:030.79] [SPEAKER_03]  So for example, for Monitor, we may not
+
+[00:23:030.79 --> 00:23:032.97] [SPEAKER_03]  have a GitHub or something like that.
+
+[00:23:032.97 --> 00:23:035.07] [SPEAKER_03]  We would have monitor-based competitors.
+
+[00:23:036.05 --> 00:23:038.49] [SPEAKER_03]  Oh, was that the understanding?
+
+[00:23:038.69 --> 00:23:040.95] [SPEAKER_03]  Because we identified that entire list
+
+[00:23:040.95 --> 00:23:044.73] [SPEAKER_03]  of competitors and partners for every single stage.
+
+[00:23:036.63 --> 00:23:036.69] [SPEAKER_01]  Yeah.
+
+[00:23:045.20 --> 00:23:045.40] [SPEAKER_01]  Mm-hmm.
+
+[00:23:046.05 --> 00:23:050.39] [SPEAKER_03]  I thought we were going to be using those competitors to compare against.
+
+[00:23:050.93 --> 00:23:057.83] [SPEAKER_03]  So I just wanted your input on what, because I saw some of you have compared with the five
+
+[00:23:057.83 --> 00:24:000.35] [SPEAKER_03]  competitors already listed over there.
+
+[00:24:001.17 --> 00:24:002.41] [SPEAKER_03]  They may not be relevant.
+
+[00:24:002.63 --> 00:24:006.19] [SPEAKER_03]  For example, cloud beads may not be relevant for monitor stage at all.
+
+[00:24:006.85 --> 00:24:008.93] [SPEAKER_03]  So that's what I wanted to check with you.
+
+[00:24:009.32 --> 00:24:024.22] [SPEAKER_05]  Yeah, that's the kids. I need to go back and look at the spreadsheet. I mean, if the competitor does not apply to that particular stage, they shouldn't be on that tab and especially sorry saying that you see competitors on that tab for a stage where they don't apply.
+
+[00:24:024.96 --> 00:24:027.12] [SPEAKER_07]  Yeah, I think it was copy pasted.
+
+[00:24:027.14 --> 00:24:027.40] [SPEAKER_07]  Yeah.
+
+[00:24:027.40 --> 00:24:028.24] [SPEAKER_07]  Each one of them has the same.
+
+[00:24:028.42 --> 00:24:028.46] [SPEAKER_07]  Yeah.
+
+[00:24:028.48 --> 00:24:028.70] [SPEAKER_07]  So each.
+
+[00:24:025.37 --> 00:24:025.48] [SPEAKER_05]  Thanks.
+
+[00:24:026.85 --> 00:24:034.95] [SPEAKER_03]  each room has the same. So each sheet has ADO, Atlassian, GitHub, Jenkins, JFrog and Cloudpeace.
+
+[00:24:035.43 --> 00:24:041.05] [SPEAKER_03]  So that may not be relevant for monitor, for configure, it would be a different set of
+
+[00:24:041.05 --> 00:24:046.57] [SPEAKER_03]  competitors that we need to include, which I think we already identified a while back. I think we
+
+[00:24:046.57 --> 00:24:049.63] [SPEAKER_03]  identified top three competitors for every stage.
+
+[00:24:050.14 --> 00:24:051.22] [SPEAKER_05]  Yeah, we tiered them.
+
+[00:24:051.29 --> 00:24:052.37] [SPEAKER_05]  That's when we tiered them, right?
+
+[00:24:052.44 --> 00:24:053.61] [SPEAKER_05]  Tier one, tier two, tier three.
+
+[00:24:053.92 --> 00:24:055.70] [SPEAKER_05]  So this, where we are right now
+
+[00:24:055.70 --> 00:24:057.38] [SPEAKER_05]  is we're looking at just tier one competitors.
+
+[00:24:057.70 --> 00:24:059.05] [SPEAKER_05]  That's probably why I cut and paste them
+
+[00:24:059.05 --> 00:25:000.44] [SPEAKER_05]  because those are all tier ones.
+
+[00:25:001.31 --> 00:25:003.09] [SPEAKER_05]  So we're just focusing on tier one right now.
+
+[00:25:003.29 --> 00:25:005.29] [SPEAKER_05]  So if they don't apply to that stage, don't worry about it.
+
+[00:25:000.85 --> 00:25:001.05] [SPEAKER_01]  Hmm.
+
+[00:25:006.20 --> 00:25:006.76] [SPEAKER_05]  Makes sense.
+
+[00:25:007.50 --> 00:25:010.36] [SPEAKER_07]  So just pick the ones out of that list that apply to our stage.
+
+[00:25:010.96 --> 00:25:011.80] [SPEAKER_05]  Right.
+
+[00:25:012.18 --> 00:25:019.55] [SPEAKER_03]  So we just use the tier one competitors and if they are not applicable then we don't have
+
+[00:25:019.55 --> 00:25:020.88] [SPEAKER_03]  to fill out anything for them.
+
+[00:25:021.02 --> 00:25:025.88] [SPEAKER_05]  Yeah, for now, but then we'll move to tier two and tier three, then we'll look at those other.
+
+[00:25:026.06 --> 00:25:032.64] [SPEAKER_03]  And do we need to add a line item for GitLab as well? Because I think that's missing over here.
+
+[00:25:033.00 --> 00:25:033.02] [SPEAKER_01]  you
+
+[00:25:033.31 --> 00:25:039.87] [SPEAKER_05]  Yeah, we should. I think you asked me that before, right? Or someone asked me.
+
+[00:25:039.01 --> 00:25:039.65] [SPEAKER_03]  someone asked me.
+
+[00:25:040.44 --> 00:25:041.28] [SPEAKER_03]  looking at it.
+
+[00:25:041.44 --> 00:25:042.06] [SPEAKER_04]  being asked.
+
+[00:25:042.61 --> 00:25:043.69] [SPEAKER_07]  Yeah, yeah we did.
+
+[00:25:043.95 --> 00:25:050.53] [SPEAKER_04]  Yeah, because the way without it, you're basically putting all the things that we're better at.
+
+[00:25:050.89 --> 00:25:054.01] [SPEAKER_05]  Yeah, for sure, for sure. Yeah, right.
+
+[00:25:054.86 --> 00:25:058.34] [SPEAKER_00]  Right. So ideally when we picked like the 10 to 15 features,
+
+[00:25:059.88 --> 00:26:003.42] [SPEAKER_00]  though some of those were like GitLab only some of those were like,
+
+[00:26:003.42 --> 00:26:004.24] [SPEAKER_00]  GitLab didn't have.
+
+[00:26:005.91 --> 00:26:010.27] [SPEAKER_07]  Well, I thought it was supposed to be nice. None of them should be get that only right. It should be all through the lens of
+
+[00:26:006.06 --> 00:26:006.46] [SPEAKER_00]  Well, I thought it was.
+
+[00:26:010.79 --> 00:26:016.83] [SPEAKER_00]  Yeah. Yeah. Exactly. Yeah. It should be like market lens. So in an ideal world, most of them are like,
+
+[00:26:016.85 --> 00:26:022.15] [SPEAKER_00]  this is what I'm shopping for this solution. Some like some of them might be GitLab only. Some of
+
+[00:26:022.15 --> 00:26:027.33] [SPEAKER_00]  them might be like competitor only. So that it's a, somebody would look at it and be like, this looks
+
+[00:26:027.33 --> 00:26:034.05] [SPEAKER_00]  honest and trustworthy and like a accurate assessment of the market. Yeah. Yeah. And then,
+
+[00:26:034.25 --> 00:26:038.81] [SPEAKER_00]  yeah, I think Samiya for this, just to kind of reiterate for this one, we're only doing these
+
+[00:26:038.81 --> 00:26:047.17] [SPEAKER_00]  five competitors. So we'll do the other ones in a later stage. And then for, if the vendor bills,
+
+[00:26:047.37 --> 00:26:049.45] [SPEAKER_00]  like bills themselves as a platform.
+
+[00:26:031.89 --> 00:26:032.15] [SPEAKER_05]  Yeah.
+
+[00:26:050.44 --> 00:26:053.54] [SPEAKER_00]  then we should specifically call out that they have zero.
+
+[00:26:054.24 --> 00:26:056.90] [SPEAKER_00]  So GitHub builds itself as a platform,
+
+[00:26:057.12 --> 00:26:059.06] [SPEAKER_00]  it sells itself that way.
+
+[00:26:059.78 --> 00:27:002.38] [SPEAKER_00]  Same with Azure DevOps, same with JFrog.
+
+[00:27:002.78 --> 00:27:003.30] [SPEAKER_00]  Well, they all do.
+
+[00:27:003.33 --> 00:27:006.07] [SPEAKER_05]  for tier one except Jenkins and Cloubys.
+
+[00:27:006.50 --> 00:27:009.98] [SPEAKER_00]  Yeah, Jenkins Clavis does not, but what is it?
+
+[00:27:010.08 --> 00:27:015.18] [SPEAKER_00]  You know, Azure DevOps, GitHub, Atlassian.
+
+[00:27:016.28 --> 00:27:017.48] [SPEAKER_00]  And although Atlassians,
+
+[00:27:017.64 --> 00:27:019.04] [SPEAKER_00]  we still need to figure something out there.
+
+[00:27:019.51 --> 00:27:026.65] [SPEAKER_05]  That is a matter of fact that I go back and add a last name because I based on conversation I think we have to do it. I don't think we can leave them all.
+
+[00:27:027.63 --> 00:27:028.91] [SPEAKER_05]  I don't know if they'll look at this first.
+
+[00:27:029.69 --> 00:27:031.83] [SPEAKER_03]  It is, Atlassian is on that sheet.
+
+[00:27:031.91 --> 00:27:032.25] [SPEAKER_03]  Okay, yes.
+
+[00:27:031.80 --> 00:27:041.78] [SPEAKER_05]  Okay, yeah. I went back and added them because based on discussion, like my, my, I wanted to take them off completely and just leave them as a partner, but we can't do that. So
+
+[00:27:043.56 --> 00:27:048.80] [SPEAKER_00]  So, so yeah, so for those platform, you know, we should call out the fact that they don't
+
+[00:27:048.80 --> 00:27:049.60] [SPEAKER_00]  have any monitoring.
+
+[00:27:049.88 --> 00:27:053.98] [SPEAKER_00]  If they have like zero out of 15, we should call that out.
+
+[00:27:054.08 --> 00:27:057.56] [SPEAKER_00]  Same with configure stuff for this, you know, any those kinds of capabilities.
+
+[00:28:000.53 --> 00:28:013.69] [SPEAKER_07]  Be and be I think if we took that a step further to be good to even describe it in the way that doesn't just say our product stage and use like a value based description of what monitor and configure mean because otherwise we're just no that's not going to do any good for us.
+
+[00:28:011.40 --> 00:28:011.96] [SPEAKER_05]  No, that's not good.
+
+[00:28:014.36 --> 00:28:018.44] [SPEAKER_05]  Have you guys seen the new infographic that the design team has come up with?
+
+[00:28:018.72 --> 00:28:018.78] [SPEAKER_05]  Not yet.
+
+[00:28:018.41 --> 00:28:018.43] [SPEAKER_07]  Go to Beadaholique.com for all of your beading supply needs!
+
+[00:28:019.88 --> 00:28:020.60] [SPEAKER_05]  Oh, you haven't.
+
+[00:28:020.94 --> 00:28:021.24] [SPEAKER_07]  No.
+
+[00:28:022.21 --> 00:28:025.15] [SPEAKER_05]  We have a link to that quickly William I don't know.
+
+[00:28:025.50 --> 00:28:029.06] [SPEAKER_07]  Or you can throw it in the notes if you find it.
+
+[00:28:031.41 --> 00:28:033.01] [SPEAKER_00]  Let's see who can find it faster.
+
+[00:28:034.74 --> 00:28:037.04] [SPEAKER_07]  guarantee it not with the amount of tabs I have open.
+
+[00:28:037.74 --> 00:28:040.54] [SPEAKER_05]  Oh my god, that's what I'm like. It probably won't be me.
+
+[00:28:038.42 --> 00:28:038.72] [SPEAKER_07]  That's
+
+[00:28:041.80 --> 00:28:050.12] [SPEAKER_00]  So I, this is why I send everything to a Google Gmail, because the search is so fast.
+
+[00:28:050.32 --> 00:28:054.32] [SPEAKER_00]  So I literally have a folder where all of my GitLab pings go.
+
+[00:28:055.26 --> 00:28:057.40] [SPEAKER_00]  And I can just search for infographic.
+
+[00:28:058.02 --> 00:28:058.86] [SPEAKER_00]  I found it.
+
+[00:28:059.00 --> 00:28:059.52] [SPEAKER_00]  I found it.
+
+[00:28:059.66 --> 00:29:000.18] [SPEAKER_00]  I found it.
+
+[00:29:000.24 --> 00:29:001.40] [SPEAKER_00]  Who could look at first?
+
+[00:28:057.90 --> 00:28:058.04] [SPEAKER_05]  Yeah.
+
+[00:29:003.33 --> 00:29:004.69] [SPEAKER_05]  I found it. I found it.
+
+[00:29:005.37 --> 00:29:005.43] [SPEAKER_05]  Oh.
+
+[00:29:006.23 --> 00:29:007.11] [SPEAKER_05]  So this is the one.
+
+[00:29:007.19 --> 00:29:007.93] [SPEAKER_05]  So there's two.
+
+[00:29:008.07 --> 00:29:010.13] [SPEAKER_05]  This is the one for the single tool comparison,
+
+[00:29:010.45 --> 00:29:012.89] [SPEAKER_05]  but then for the, but it's going to look the same,
+
+[00:29:012.91 --> 00:29:015.03] [SPEAKER_05]  but then here's the one for,
+
+[00:29:015.57 --> 00:29:017.19] [SPEAKER_05]  I just put it in chat for you guys.
+
+[00:29:017.19 --> 00:29:021.37] [SPEAKER_05]  And here's the one for the platform players.
+
+[00:29:024.14 --> 00:29:028.92] [SPEAKER_00]  So we made a couple decisions along the way.
+
+[00:29:031.28 --> 00:29:034.40] [SPEAKER_00]  So one of the decisions was to just go with stages.
+
+[00:29:037.00 --> 00:29:040.86] [SPEAKER_00]  It would have been like a whole other layer of, okay, if we don't go with just the GitLab
+
+[00:29:040.86 --> 00:29:044.36] [SPEAKER_00]  stages, the 10 stages, what do we use?
+
+[00:29:044.82 --> 00:29:048.04] [SPEAKER_00]  That has to be determined, reconciled, all this kind of stuff.
+
+[00:29:052.06 --> 00:29:054.56] [SPEAKER_00]  I don't know how long it's been since we updated.
+
+[00:29:054.86 --> 00:30:001.24] [SPEAKER_00]  Those pages have not been updated, but we are just trying to move towards some progress.
+
+[00:30:002.90 --> 00:30:008.98] [SPEAKER_00]  So I concur that maybe configure and monitor is not as descriptive as it could be, but
+
+[00:30:008.98 --> 00:30:010.62] [SPEAKER_00]  the place where it will...
+
+[00:30:010.62 --> 00:30:012.08] [SPEAKER_00]  So actually, I'll share one thing.
+
+[00:30:012.99 --> 00:30:015.21] [SPEAKER_07]  It just seems like the right time to do this, right?
+
+[00:30:015.37 --> 00:30:015.91] [SPEAKER_07]  Man.
+
+[00:30:015.43 --> 00:30:018.57] [SPEAKER_06]  Manage is even less descriptive than that.
+
+[00:30:021.61 --> 00:30:025.69] [SPEAKER_00]  So the way this is getting built is off of a data model.
+
+[00:30:026.43 --> 00:30:029.69] [SPEAKER_00]  So in theory, these could change or be
+
+[00:30:029.69 --> 00:30:033.35] [SPEAKER_00]  updated where the underlying data remains the same, right?
+
+[00:30:033.35 --> 00:30:037.15] [SPEAKER_00]  Because we're separating presentation layer
+
+[00:30:037.15 --> 00:30:038.09] [SPEAKER_00]  from data layer.
+
+[00:30:040.93 --> 00:30:043.97] [SPEAKER_00]  So it's not going to be as hard to update in the future
+
+[00:30:043.97 --> 00:30:046.75] [SPEAKER_00]  as it currently is, where it's a mess of spaghetti code
+
+[00:30:046.75 --> 00:30:048.67] [SPEAKER_00]  and it's really, really difficult to update.
+
+[00:30:048.91 --> 00:30:053.67] [SPEAKER_00]  And then the other component is then, not in this iteration,
+
+[00:30:053.79 --> 00:30:054.89] [SPEAKER_00]  we need to get something live.
+
+[00:30:055.25 --> 00:30:058.25] [SPEAKER_00]  But in the next iteration, you'll click on Verify
+
+[00:30:058.25 --> 00:31:001.29] [SPEAKER_00]  and it'll go down to the list of the 15 features.
+
+[00:31:002.11 --> 00:31:003.35] [SPEAKER_00]  And that's where you can describe
+
+[00:31:003.35 --> 00:31:006.23] [SPEAKER_00]  what the heck a Verify is or what the heck I manage.
+
+[00:31:006.59 --> 00:31:006.63] [SPEAKER_00]  OK.
+
+[00:31:006.83 --> 00:31:007.17] [SPEAKER_00]  So we will.
+
+[00:31:006.64 --> 00:31:011.14] [SPEAKER_07]  So we will have an opportunity because I was about to say you're gonna hate me for this but like we're
+
+[00:31:011.14 --> 00:31:016.52] [SPEAKER_07]  we're being cyclical about the same problem we had which being the audience coming in and not
+
+[00:31:016.52 --> 00:31:019.50] [SPEAKER_07]  knowing anything about these specific stages that was a problem.
+
+[00:31:010.94 --> 00:31:011.24] [SPEAKER_01]  Alright.
+
+[00:31:019.42 --> 00:31:031.78] [SPEAKER_05]  Yeah, that was one of the big things it's like, okay 1515 features what what is what are they, why do I care, you know, yeah, to say that means nothing to me looking at this this page.
+
+[00:31:027.00 --> 00:31:027.68] [SPEAKER_01]  Yeah.
+
+[00:31:033.04 --> 00:31:034.94] [SPEAKER_07]  questions. That could be a Debbie Downer. That's it.
+
+[00:31:035.46 --> 00:31:036.52] [SPEAKER_05]  No, we're on top of it.
+
+[00:31:036.68 --> 00:31:038.42] [SPEAKER_05]  Actually, if you read the thread, I brought that up,
+
+[00:31:038.46 --> 00:31:040.58] [SPEAKER_05]  but she said we can't do it like right now,
+
+[00:31:040.74 --> 00:31:041.58] [SPEAKER_05]  which I understand.
+
+[00:31:042.08 --> 00:31:044.00] [SPEAKER_05]  But small thing, what do you guys think about the colors?
+
+[00:31:045.73 --> 00:31:047.34] [SPEAKER_07]  Uh, I don't know.
+
+[00:31:047.84 --> 00:31:049.63] [SPEAKER_07]  I usually let the designers handle that stuff.
+
+[00:31:050.10 --> 00:31:051.82] [SPEAKER_07]  They, they like.
+
+[00:31:047.66 --> 00:31:048.32] [SPEAKER_05]  I usually let...
+
+[00:31:051.02 --> 00:31:058.64] [SPEAKER_06]  I like the fact that there's no red on there.
+
+[00:31:059.08 --> 00:31:059.96] [SPEAKER_06]  Oh, you like that?
+
+[00:31:059.98 --> 00:32:001.08] [SPEAKER_06]  That's what I was going for.
+
+[00:32:001.08 --> 00:32:001.76] [SPEAKER_06]  You like that?
+
+[00:32:001.98 --> 00:32:002.18] [SPEAKER_06]  Okay.
+
+[00:32:002.62 --> 00:32:004.88] [SPEAKER_06]  It's not obviously negative.
+
+[00:32:005.32 --> 00:32:005.96] [SPEAKER_06]  So we're saying,
+
+[00:32:006.00 --> 00:32:009.36] [SPEAKER_06]  cause it really does lend itself to being a comparison
+
+[00:32:009.36 --> 00:32:011.28] [SPEAKER_06]  more than a competitive piece because of that,
+
+[00:32:011.38 --> 00:32:012.70] [SPEAKER_06]  because there's no, you know,
+
+[00:32:012.72 --> 00:32:015.36] [SPEAKER_06]  these folks at 37% are in the red and they're terrible.
+
+[00:32:015.46 --> 00:32:017.98] [SPEAKER_06]  They just have less green or we would have less green.
+
+[00:32:018.74 --> 00:32:020.58] [SPEAKER_06]  So it's not being worse.
+
+[00:32:020.58 --> 00:32:021.74] [SPEAKER_06]  It's being less good.
+
+[00:32:022.06 --> 00:32:028.08] [SPEAKER_06]  And I think that lends itself to working with,
+
+[00:32:028.08 --> 00:32:030.32] [SPEAKER_06]  you know, all the competition situations
+
+[00:32:030.32 --> 00:32:031.12] [SPEAKER_06]  we were talking about.
+
+[00:31:058.96 --> 00:32:002.09] [SPEAKER_05]  Oh, you like that? That's what I was going for. You like that? Okay.
+
+[00:32:001.95 --> 00:32:002.41] [SPEAKER_01]  It's not.
+
+[00:32:022.76 --> 00:32:023.48] [SPEAKER_01]  I think that
+
+[00:32:033.00 --> 00:32:041.90] [SPEAKER_00]  Yeah, that's, that's the goal is we want we want to generate a helpful asset for the industry is not just like marketing show, this should be like a helpful page.
+
+[00:32:043.06 --> 00:32:050.04] [SPEAKER_00]  So yeah, the goal is to have a comparison comparing DevOps tools not a, you know, this is all of our competitors and why we're better.
+
+[00:32:052.22 --> 00:32:055.38] [SPEAKER_05]  I think from a competitive mindset and for me, I'm like, let's go hard.
+
+[00:32:055.76 --> 00:32:056.90] [SPEAKER_05]  Let's put some red on there.
+
+[00:32:057.98 --> 00:32:059.68] [SPEAKER_05]  That's just the way I think. Right.
+
+[00:32:059.78 --> 00:33:002.42] [SPEAKER_05]  So but I bought it up and that for now, we're going to stick with the green.
+
+[00:33:002.54 --> 00:33:005.52] [SPEAKER_05]  They recommended we stick with the green and see how it goes.
+
+[00:33:005.98 --> 00:33:009.02] [SPEAKER_05]  But I don't know. I was feeling the red and yellow, too.
+
+[00:32:057.91 --> 00:32:057.93] [SPEAKER_00]  You
+
+[00:33:009.61 --> 00:33:011.29] [SPEAKER_07]  It is easy on the eyes.
+
+[00:33:011.87 --> 00:33:013.37] [SPEAKER_07]  There's something to be said for that.
+
+[00:33:014.57 --> 00:33:014.59] [SPEAKER_04]  Yeah.
+
+[00:33:017.19 --> 00:33:021.59] [SPEAKER_00]  Cool. Well, we're almost up on time, but I did want to share one thing that kind of came
+
+[00:33:021.59 --> 00:33:030.31] [SPEAKER_00]  in like basically Friday. It was like late Thursday for me. So this, this is another
+
+[00:33:030.31 --> 00:33:034.95] [SPEAKER_00]  thing a lot, a lot of these things that don't have like a ton of context on. I just know
+
+[00:33:034.95 --> 00:33:038.21] [SPEAKER_00]  like we're just trying to up our game. So like, Hey, let's move fast and do the best
+
+[00:33:038.21 --> 00:33:045.57] [SPEAKER_00]  we can do. So this is a little bit of a messaging framework. And then the assignment that was
+
+[00:33:045.57 --> 00:33:055.21] [SPEAKER_00]  given to me was to fill in these boxes here. So, and then this was the fodder that I got.
+
+[00:33:056.39 --> 00:34:001.47] [SPEAKER_00]  So there was these ones that said like, from roadmap to company vision, we are transparent,
+
+[00:34:002.21 --> 00:34:006.27] [SPEAKER_00]  and a single source of truth, countless possibilities. Honestly, I think this ones
+
+[00:34:006.27 --> 00:34:012.63] [SPEAKER_00]  are like really pithy and catchy. I really like it. I really liked what's the other one
+
+[00:34:012.63 --> 00:34:020.29] [SPEAKER_00]  that I like that not everyone does. All in one for everyone. So I just, I don't know,
+
+[00:34:020.29 --> 00:34:025.51] [SPEAKER_00]  I like, I just think so there's something catchy about that. But I know that kind of
+
+[00:34:025.51 --> 00:34:032.73] [SPEAKER_00]  catchy is not everyone's cup of tea. All that's to say is the assignment here was that I took
+
+[00:34:032.73 --> 00:34:041.95] [SPEAKER_00]  it was to write a pithy few words like punchy statement for each of these three things. So I
+
+[00:34:041.95 --> 00:34:047.65] [SPEAKER_00]  ended up with a single source of truth, countless possibilities. I like that a lot. This one I
+
+[00:34:047.65 --> 00:34:053.55] [SPEAKER_00]  went with end to end control over your software factory, not as pithy, but or like not as
+
+[00:34:053.55 --> 00:34:056.53] [SPEAKER_00]  catchy. But um,
+
+[00:34:057.27 --> 00:34:057.65] [SPEAKER_00]  I think
+
+[00:34:057.65 --> 00:34:058.37] [SPEAKER_00]  what
+
+[00:34:057.16 --> 00:34:058.43] [SPEAKER_04]  I like it.
+
+[00:34:058.66 --> 00:35:002.80] [SPEAKER_04]  What's the difference between that slide and the next one that doesn't have anything under
+
+[00:35:002.80 --> 00:35:003.28] [SPEAKER_04]  security?
+
+[00:35:003.70 --> 00:35:004.09] [SPEAKER_04]  What's the difference?
+
+[00:35:004.71 --> 00:35:013.45] [SPEAKER_00]  This was the, honestly, so when I first got this, it didn't have this and it didn't have
+
+[00:35:013.45 --> 00:35:014.35] [SPEAKER_00]  anything under security.
+
+[00:35:014.78 --> 00:35:017.44] [SPEAKER_04]  This was like, do is just your iteration of it.
+
+[00:35:018.55 --> 00:35:020.01] [SPEAKER_00]  Yeah, this is mine.
+
+[00:35:020.23 --> 00:35:022.05] [SPEAKER_00]  This is, I just put here so that I would have
+
+[00:35:022.05 --> 00:35:025.19] [SPEAKER_00]  like the original statements like, you know,
+
+[00:35:025.25 --> 00:35:027.57] [SPEAKER_00]  automate nearly anything, collaborate on everything.
+
+[00:35:027.95 --> 00:35:031.01] [SPEAKER_00]  I kind of liked that, but I, you know.
+
+[00:35:023.42 --> 00:35:023.54] [SPEAKER_01]  like.
+
+[00:35:031.86 --> 00:35:034.70] [SPEAKER_00]  This one I hate, scale up, speed up, test up.
+
+[00:35:034.80 --> 00:35:035.96] [SPEAKER_00]  I don't think anybody tests up.
+
+[00:35:036.14 --> 00:35:037.16] [SPEAKER_00]  I think that's really goofy.
+
+[00:35:037.92 --> 00:35:038.78] [SPEAKER_00]  So I hate it.
+
+[00:35:039.20 --> 00:35:040.08] [SPEAKER_00]  This one I love.
+
+[00:35:040.64 --> 00:35:042.46] [SPEAKER_00]  For me, I love it or I hate it.
+
+[00:35:043.18 --> 00:35:043.18] [SPEAKER_00] 
+
+[00:35:043.74 --> 00:35:045.70] [SPEAKER_00]  I love how you're just like bam.
+
+[00:35:046.98 --> 00:35:051.86] [SPEAKER_00]  So anyway, what I love is just in five minutes now,
+
+[00:35:051.92 --> 00:35:053.62] [SPEAKER_00]  and then we can just end the call.
+
+[00:35:053.76 --> 00:35:058.60] [SPEAKER_00]  It's kind of like anything that you would change this out for,
+
+[00:35:058.60 --> 00:36:001.52] [SPEAKER_00]  anything that you would change this out for, and then actually
+
+[00:36:001.52 --> 00:36:002.72] [SPEAKER_00]  let's start here.
+
+[00:36:003.20 --> 00:36:005.44] [SPEAKER_00]  This one I couldn't pick.
+
+[00:36:006.24 --> 00:36:007.66] [SPEAKER_00]  And I'll tell you why.
+
+[00:36:007.72 --> 00:36:012.34] [SPEAKER_00]  It's because I like things to have parity in their tone.
+
+[00:36:012.94 --> 00:36:016.44] [SPEAKER_00]  So this is maybe like super nuanced elements of messaging.
+
+[00:36:016.50 --> 00:36:019.70] [SPEAKER_00]  But I hate it if it's like a single source of truth that's
+
+[00:36:019.70 --> 00:36:026.08] [SPEAKER_00]  like in noun phrase, end to end control, that's like a noun item.
+
+[00:36:026.10 --> 00:36:028.10] [SPEAKER_00]  So you could say with GitLab, you
+
+[00:36:028.10 --> 00:36:029.66] [SPEAKER_00]  get a single source of truth.
+
+[00:36:029.66 --> 00:36:032.18] [SPEAKER_00]  With GitLab, you get end to end control.
+
+[00:36:032.90 --> 00:36:036.94] [SPEAKER_00]  And you can't say with GitLab, you get move fast with confidence.
+
+[00:36:037.52 --> 00:36:039.72] [SPEAKER_04]  No, but you can say more speed, less risk.
+
+[00:36:039.74 --> 00:36:040.80] [SPEAKER_04]  I like that one the best.
+
+[00:36:040.84 --> 00:36:041.90] [SPEAKER_04]  I don't like the last one.
+
+[00:36:042.50 --> 00:36:043.28] [SPEAKER_00]  And I agree.
+
+[00:36:043.92 --> 00:36:047.04] [SPEAKER_00]  That's why I put this one at top, was for that parody.
+
+[00:36:047.50 --> 00:36:050.72] [SPEAKER_00]  And then so it sounds like kind of y'all's thoughts
+
+[00:36:050.72 --> 00:36:052.26] [SPEAKER_00]  are that's good as well.
+
+[00:36:053.64 --> 00:36:059.32] [SPEAKER_06]  Yeah, the only thing it might be missing, but I don't know how we do it without overcomplicating it is
+
+[00:36:059.32 --> 00:37:005.40] [SPEAKER_06]  well, I guess less risk also implies higher quality. I guess that kind of bundles the
+
+[00:37:005.40 --> 00:37:010.82] [SPEAKER_06]  quality and the security together. So I've talked myself out of not liking that. So yeah, good.
+
+[00:37:012.20 --> 00:37:016.78] [SPEAKER_01]  Cindy's last blog post had a really good turn of phrase that I stole for,
+
+[00:37:016.78 --> 00:37:018.64] [SPEAKER_01]  forgive that 14 when she was out.
+
+[00:37:018.84 --> 00:37:022.78] [SPEAKER_01]  It was like secure the software factory and all the stuff that you're making.
+
+[00:37:023.64 --> 00:37:024.99] [SPEAKER_01]  She said it really elegant.
+
+[00:37:025.12 --> 00:37:025.99] [SPEAKER_01]  And it's, I just kind of.
+
+[00:37:025.81 --> 00:37:030.67] [SPEAKER_04]  and it's deliverables secure the self factory and its deliverables yeah i thought it was good
+
+[00:37:029.78 --> 00:37:033.64] [SPEAKER_01]  Yeah, I thought it was good to emphasize both because they mean different things. It's nice.
+
+[00:37:034.05 --> 00:37:034.29] [SPEAKER_07]  Yeah.
+
+[00:37:036.52 --> 00:37:040.62] [SPEAKER_04]  Yeah, so you could say secure and control your software
+
+[00:37:040.62 --> 00:37:042.26] [SPEAKER_04]  factory and its deliverables.
+
+[00:37:042.46 --> 00:37:045.94] [SPEAKER_04]  Maybe that would encompass both thoughts.
+
+[00:37:051.19 --> 00:37:054.85] [SPEAKER_00]  I'm not a big fan of the, it's deliverables.
+
+[00:37:054.99 --> 00:37:056.51] [SPEAKER_00]  Is there a, can we say like?
+
+[00:37:057.63 --> 00:38:002.73] [SPEAKER_06]  your software factory and your software or your, your stuff or in your product.
+
+[00:38:003.87 --> 00:38:006.99] [SPEAKER_04]  product sounds like car manufacturer.
+
+[00:38:006.84 --> 00:38:007.04] [SPEAKER_07]  Sure.
+
+[00:38:007.08 --> 00:38:009.62] [SPEAKER_07]  You could say IP here, but it just doesn't sound right.
+
+[00:38:009.94 --> 00:38:011.92] [SPEAKER_07]  And that's always, it's always shorthand.
+
+[00:38:012.53 --> 00:38:015.43] [SPEAKER_00]  Yeah, I like this one better.
+
+[00:38:019.07 --> 00:38:023.86] [SPEAKER_04]  Yeah, I think I do too. But, but I appreciate the thought, Brian.
+
+[00:38:025.66 --> 00:38:033.24] [SPEAKER_00]  Uh-huh. And then the last thing I'll say is, so this is, this was my attempt to channel my inner Ash Withers.
+
+[00:38:033.58 --> 00:38:042.38] [SPEAKER_00]  Um, I think Ash is like super good at just, again, just like the catchier, like the turn of phrase element to it.
+
+[00:38:042.84 --> 00:38:050.20] [SPEAKER_00]  Um, and so like this kind of idea, like single source of truth, countless possibilities or all in one for everyone.
+
+[00:38:050.46 --> 00:39:001.08] [SPEAKER_00]  There's something catchy about this. So, so here I was trying to like envision what is it that we actually give you with this velocity? It's like, it's velocity with confidence is what, is what you get.
+
+[00:39:002.28 --> 00:39:006.97] [SPEAKER_04]  I like your move fast with confidence better than increased speed and stay on track.
+
+[00:39:007.83 --> 00:39:015.91] [SPEAKER_00]  Yeah, so I was thinking of like, you know, if you're in a race car and like you go like super,
+
+[00:39:015.91 --> 00:39:019.75] [SPEAKER_00]  super fast, like let's say you're in the bike race, right? And you're going so fast and somebody
+
+[00:39:019.75 --> 00:39:027.97] [SPEAKER_00]  holds out the sign and then like half of the bike race collapses. So it's almost kind of like you
+
+[00:39:027.97 --> 00:39:033.91] [SPEAKER_00]  can keep going like faster and faster and faster. And if somebody like jumps out with a sign in the
+
+[00:39:034.97 --> 00:39:039.57] [SPEAKER_00]  racetrack, you're not going to get tripped up by it because GitLab's, you know, its testing is
+
+[00:39:039.57 --> 00:39:044.63] [SPEAKER_00]  going to catch that, its security is going to catch that. All of those elements that allow you
+
+[00:39:044.63 --> 00:39:048.05] [SPEAKER_00]  to move faster but to do so with confidence because otherwise you're like the faster you go,
+
+[00:39:048.17 --> 00:39:048.95] [SPEAKER_00]  then it gets more dangerous.
+
+[00:39:050.22 --> 00:39:051.58] [SPEAKER_00]  So trying to encapsulate that in this,
+
+[00:39:051.74 --> 00:39:053.64] [SPEAKER_00]  that was kind of where I was like, stay on track,
+
+[00:39:053.74 --> 00:39:055.14] [SPEAKER_00]  but I didn't like it either.
+
+[00:39:055.56 --> 00:39:056.78] [SPEAKER_00]  Did you just open the door?
+
+[00:39:055.51 --> 00:39:058.68] [SPEAKER_07]  Did you just open the door for a NASCAR partnership?
+
+[00:40:000.22 --> 00:40:003.49] [SPEAKER_07]  Hey, NASCAR goes fast and turns left because it get loud.
+
+[00:40:004.14 --> 00:40:005.14] [SPEAKER_05]  SnowiganR пл moc
+
+[00:40:005.14 --> 00:40:007.46] [SPEAKER_05]  $ five
+
+[00:40:007.72 --> 00:40:009.16] [SPEAKER_00]  You're our new Ricky Bobby.
+
+[00:40:009.74 --> 00:40:012.10] [SPEAKER_00]  So yeah, so I don't think I like that one.
+
+[00:40:012.32 --> 00:40:016.78] [SPEAKER_00]  And then I think between these two, I like Move Fast with confidence, but I don't like
+
+[00:40:016.78 --> 00:40:019.46] [SPEAKER_00]  the verbiage of it because it doesn't have parody.
+
+[00:40:019.94 --> 00:40:021.40] [SPEAKER_00]  So that's where I think more speed.
+
+[00:40:007.60 --> 00:40:009.10] [SPEAKER_04]  You're our new Ricky Bobby.
+
+[00:40:021.03 --> 00:40:026.93] [SPEAKER_03]  Do you want to add, maybe we can add high confidence or more confidence at the end of
+
+[00:40:026.93 --> 00:40:030.75] [SPEAKER_03]  your first statement so it kind of combines all of it.
+
+[00:40:030.91 --> 00:40:033.75] [SPEAKER_03]  So more speed, less risk, more high confidence.
+
+[00:40:033.70 --> 00:40:036.14] [SPEAKER_07]  So just say confidence is kind of overused anyway.
+
+[00:40:036.24 --> 00:40:038.68] [SPEAKER_07]  Like I'd see a lot of competitors and vendors using it.
+
+[00:40:038.84 --> 00:40:040.46] [SPEAKER_07]  I really liked the first one, just more speed,
+
+[00:40:040.68 --> 00:40:043.06] [SPEAKER_07]  less risk, bam, no trade-offs, you know,
+
+[00:40:043.14 --> 00:40:044.62] [SPEAKER_07]  just this is how it is.
+
+[00:40:046.04 --> 00:40:047.16] [SPEAKER_04]  Ooh, no trade-offs.
+
+[00:40:048.27 --> 00:40:048.83] [SPEAKER_07]  I don't know.
+
+[00:40:048.91 --> 00:40:049.89] [SPEAKER_07]  That's one of my go-tos.
+
+[00:40:050.03 --> 00:40:050.79] [SPEAKER_07]  I love that one.
+
+[00:40:048.37 --> 00:40:048.63] [SPEAKER_04]  I don't know.
+
+[00:40:052.57 --> 00:40:056.11] [SPEAKER_00]  This gets into the no trade-offs.
+
+[00:40:057.21 --> 00:41:000.71] [SPEAKER_00]  The engineer in me says, there's never no trade-offs.
+
+[00:41:001.39 --> 00:41:003.99] [SPEAKER_00]  That's like saying like 100% secure.
+
+[00:41:004.73 --> 00:41:006.57] [SPEAKER_00]  This is why we always say mitigate, right?
+
+[00:41:006.75 --> 00:41:009.25] [SPEAKER_00]  We always say, we risk or less risk.
+
+[00:41:009.45 --> 00:41:010.03] [SPEAKER_00]  You never say no.
+
+[00:41:009.53 --> 00:41:013.93] [SPEAKER_07]  say no messaging right I mean not everything you know
+
+[00:41:013.76 --> 00:41:017.12] [SPEAKER_04]  How about just more speed, less risk with confidence?
+
+[00:41:019.00 --> 00:41:019.28] [SPEAKER_01]  Hmm
+
+[00:41:024.06 --> 00:41:024.74] [SPEAKER_07]  Yeah.
+
+[00:41:025.20 --> 00:41:025.76] [SPEAKER_07]  More speed.
+
+[00:41:028.51 --> 00:41:031.38] [SPEAKER_06]  Ricky Bobby and me really did like the no trade-offs though, Parker.
+
+[00:41:032.45 --> 00:41:035.30] [SPEAKER_00]  Oh, is that was that from nobody?
+
+[00:41:034.96 --> 00:41:038.70] [SPEAKER_06]  No, but it could have been. It's something Ricky Bobby would have said. If anyone hasn't seen
+
+[00:41:038.70 --> 00:41:041.48] [SPEAKER_06]  Tell A Day Good Nights, they should. That's the homework for this weekend.
+
+[00:41:043.05 --> 00:41:046.11] [SPEAKER_07]  and we talk about it on Monday and our little social port.
+
+[00:41:046.17 --> 00:41:052.53] [SPEAKER_00]  I often say, thank you, little eight pound five ounce baby Jesus with the golden diapers.
+
+[00:41:053.47 --> 00:41:057.21] [SPEAKER_00]  I say that so often that I just think everybody has seen Talladega nights but then I realized
+
+[00:41:057.21 --> 00:42:000.09] [SPEAKER_00]  that people that haven't are like, playing is really weird.
+
+[00:42:000.79 --> 00:42:003.21] [SPEAKER_06]  And then next week we'll watch Step Brothers.
+
+[00:42:004.01 --> 00:42:005.11] [SPEAKER_06]  That's another great one.
+
+[00:42:005.28 --> 00:42:006.64] [SPEAKER_00]  So much room for activities.
+
+[00:42:008.84 --> 00:42:012.98] [SPEAKER_00]  Okay, I'm going to go with more speed less risk.
+
+[00:42:013.74 --> 00:42:020.28] [SPEAKER_00]  And I think this is due at the end of the day so any additional thoughts, I'm actually
+
+[00:42:020.28 --> 00:42:021.26] [SPEAKER_00]  going to untag.
+
+[00:42:022.07 --> 00:42:022.97] [SPEAKER_07]  I mean, it's strong.
+
+[00:42:023.28 --> 00:42:026.30] [SPEAKER_07]  All those are, you know, those are good.
+
+[00:42:027.11 --> 00:42:033.03] [SPEAKER_00]  Awesome. Well, this was kind of fun to do a little bit of like working together session and
+
+[00:42:033.03 --> 00:42:036.03] [SPEAKER_00]  Keep it a little razzle dazzle. Keep it rocking.
+
+[00:42:034.07 --> 00:42:035.13] [SPEAKER_07]  Keep it a razzle dazzle.
+
+[00:42:038.49 --> 00:42:040.07] [SPEAKER_07]  Good to see everybody. See you soon.
+

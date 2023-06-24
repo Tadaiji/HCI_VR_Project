@@ -1,0 +1,1057 @@
+{
+    "text": " I like the fact that there's no red on there. Oh, you like that? That's what I was going for. You like that? Okay. It's not obviously negative. So we're saying, cause it really does lend itself to being a comparison more than a competitive piece because of that, because there's no, you know, these folks at 37% are in the red and they're terrible. They just have less green or we would have less green. So it's not being worse. It's being less good. And I think that lends itself to working with, you know, all the competition situations we were talking about.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.62,
+            "text": " I like the fact that there's no red on there.",
+            "tokens": [
+                50364,
+                286,
+                411,
+                264,
+                1186,
+                300,
+                456,
+                311,
+                572,
+                2182,
+                322,
+                456,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.45841002464294434
+                },
+                {
+                    "word": " like",
+                    "start": 0.46,
+                    "end": 0.96,
+                    "probability": 0.8182178735733032
+                },
+                {
+                    "word": " the",
+                    "start": 0.96,
+                    "end": 4.1,
+                    "probability": 0.6139697432518005
+                },
+                {
+                    "word": " fact",
+                    "start": 4.1,
+                    "end": 4.5,
+                    "probability": 0.9900310039520264
+                },
+                {
+                    "word": " that",
+                    "start": 4.5,
+                    "end": 5.24,
+                    "probability": 0.993516206741333
+                },
+                {
+                    "word": " there's",
+                    "start": 5.24,
+                    "end": 6.56,
+                    "probability": 0.9650956988334656
+                },
+                {
+                    "word": " no",
+                    "start": 6.56,
+                    "end": 6.76,
+                    "probability": 0.9965623021125793
+                },
+                {
+                    "word": " red",
+                    "start": 6.76,
+                    "end": 6.96,
+                    "probability": 0.9866243600845337
+                },
+                {
+                    "word": " on",
+                    "start": 6.96,
+                    "end": 7.26,
+                    "probability": 0.9933072924613953
+                },
+                {
+                    "word": " there.",
+                    "start": 7.26,
+                    "end": 7.62,
+                    "probability": 0.8165589570999146
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.06,
+            "end": 8.94,
+            "text": " Oh, you like that?",
+            "tokens": [
+                50764,
+                876,
+                11,
+                291,
+                411,
+                300,
+                30,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " Oh,",
+                    "start": 8.06,
+                    "end": 8.24,
+                    "probability": 0.2121010720729828
+                },
+                {
+                    "word": " you",
+                    "start": 8.24,
+                    "end": 8.44,
+                    "probability": 0.8566621541976929
+                },
+                {
+                    "word": " like",
+                    "start": 8.44,
+                    "end": 8.64,
+                    "probability": 0.8835694789886475
+                },
+                {
+                    "word": " that?",
+                    "start": 8.64,
+                    "end": 8.94,
+                    "probability": 0.9710520505905151
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.96,
+            "end": 10.06,
+            "text": " That's what I was going for.",
+            "tokens": [
+                50810,
+                663,
+                311,
+                437,
+                286,
+                390,
+                516,
+                337,
+                13,
+                50862
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 8.96,
+                    "end": 9.26,
+                    "probability": 0.978124588727951
+                },
+                {
+                    "word": " what",
+                    "start": 9.26,
+                    "end": 9.3,
+                    "probability": 0.9880509376525879
+                },
+                {
+                    "word": " I",
+                    "start": 9.3,
+                    "end": 9.42,
+                    "probability": 0.9950580596923828
+                },
+                {
+                    "word": " was",
+                    "start": 9.42,
+                    "end": 9.54,
+                    "probability": 0.9946850538253784
+                },
+                {
+                    "word": " going",
+                    "start": 9.54,
+                    "end": 9.76,
+                    "probability": 0.9823654294013977
+                },
+                {
+                    "word": " for.",
+                    "start": 9.76,
+                    "end": 10.06,
+                    "probability": 0.9804950952529907
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.06,
+            "end": 10.74,
+            "text": " You like that?",
+            "tokens": [
+                50862,
+                509,
+                411,
+                300,
+                30,
+                50904
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 10.06,
+                    "end": 10.22,
+                    "probability": 0.6963467597961426
+                },
+                {
+                    "word": " like",
+                    "start": 10.22,
+                    "end": 10.48,
+                    "probability": 0.9718092679977417
+                },
+                {
+                    "word": " that?",
+                    "start": 10.48,
+                    "end": 10.74,
+                    "probability": 0.7928562760353088
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.96,
+            "end": 11.16,
+            "text": " Okay.",
+            "tokens": [
+                50904,
+                1033,
+                13,
+                50946
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 10.96,
+                    "end": 11.16,
+                    "probability": 0.43644198775291443
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 11.6,
+            "end": 13.86,
+            "text": " It's not obviously negative.",
+            "tokens": [
+                50946,
+                467,
+                311,
+                406,
+                2745,
+                3671,
+                13,
+                51075
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 11.6,
+                    "end": 12.12,
+                    "probability": 0.9571586847305298
+                },
+                {
+                    "word": " not",
+                    "start": 12.12,
+                    "end": 12.4,
+                    "probability": 0.9881579279899597
+                },
+                {
+                    "word": " obviously",
+                    "start": 12.4,
+                    "end": 13.16,
+                    "probability": 0.6941121816635132
+                },
+                {
+                    "word": " negative.",
+                    "start": 13.16,
+                    "end": 13.86,
+                    "probability": 0.9972783923149109
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 14.3,
+            "end": 14.94,
+            "text": " So we're saying,",
+            "tokens": [
+                51075,
+                407,
+                321,
+                434,
+                1566,
+                11,
+                51117
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 14.3,
+                    "end": 14.46,
+                    "probability": 0.807342529296875
+                },
+                {
+                    "word": " we're",
+                    "start": 14.46,
+                    "end": 14.66,
+                    "probability": 0.935745894908905
+                },
+                {
+                    "word": " saying,",
+                    "start": 14.66,
+                    "end": 14.94,
+                    "probability": 0.9979758858680725
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 14.98,
+            "end": 18.34,
+            "text": " cause it really does lend itself to being a comparison",
+            "tokens": [
+                51117,
+                3082,
+                309,
+                534,
+                775,
+                21774,
+                2564,
+                281,
+                885,
+                257,
+                9660,
+                51283
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " cause",
+                    "start": 14.98,
+                    "end": 15.1,
+                    "probability": 0.3538050353527069
+                },
+                {
+                    "word": " it",
+                    "start": 15.1,
+                    "end": 15.26,
+                    "probability": 0.9953022003173828
+                },
+                {
+                    "word": " really",
+                    "start": 15.26,
+                    "end": 15.54,
+                    "probability": 0.9985024929046631
+                },
+                {
+                    "word": " does",
+                    "start": 15.54,
+                    "end": 15.9,
+                    "probability": 0.9987131357192993
+                },
+                {
+                    "word": " lend",
+                    "start": 15.9,
+                    "end": 16.1,
+                    "probability": 0.9989449381828308
+                },
+                {
+                    "word": " itself",
+                    "start": 16.1,
+                    "end": 16.54,
+                    "probability": 0.9994726777076721
+                },
+                {
+                    "word": " to",
+                    "start": 16.54,
+                    "end": 17.24,
+                    "probability": 0.9982895255088806
+                },
+                {
+                    "word": " being",
+                    "start": 17.24,
+                    "end": 17.5,
+                    "probability": 0.9926772117614746
+                },
+                {
+                    "word": " a",
+                    "start": 17.5,
+                    "end": 17.94,
+                    "probability": 0.9983149766921997
+                },
+                {
+                    "word": " comparison",
+                    "start": 17.94,
+                    "end": 18.34,
+                    "probability": 0.9966553449630737
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 18.34,
+            "end": 20.26,
+            "text": " more than a competitive piece because of that,",
+            "tokens": [
+                51283,
+                544,
+                813,
+                257,
+                10043,
+                2522,
+                570,
+                295,
+                300,
+                11,
+                51374
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " more",
+                    "start": 18.34,
+                    "end": 18.68,
+                    "probability": 0.7302601337432861
+                },
+                {
+                    "word": " than",
+                    "start": 18.68,
+                    "end": 18.82,
+                    "probability": 0.9990444779396057
+                },
+                {
+                    "word": " a",
+                    "start": 18.82,
+                    "end": 19.04,
+                    "probability": 0.9988786578178406
+                },
+                {
+                    "word": " competitive",
+                    "start": 19.04,
+                    "end": 19.38,
+                    "probability": 0.9995086193084717
+                },
+                {
+                    "word": " piece",
+                    "start": 19.38,
+                    "end": 19.66,
+                    "probability": 0.9972907900810242
+                },
+                {
+                    "word": " because",
+                    "start": 19.66,
+                    "end": 19.96,
+                    "probability": 0.9089157581329346
+                },
+                {
+                    "word": " of",
+                    "start": 19.96,
+                    "end": 20.12,
+                    "probability": 0.9940044283866882
+                },
+                {
+                    "word": " that,",
+                    "start": 20.12,
+                    "end": 20.26,
+                    "probability": 0.9992885589599609
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 20.36,
+            "end": 21.68,
+            "text": " because there's no, you know,",
+            "tokens": [
+                51374,
+                570,
+                456,
+                311,
+                572,
+                11,
+                291,
+                458,
+                11,
+                51443
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 20.36,
+                    "end": 20.5,
+                    "probability": 0.9949554800987244
+                },
+                {
+                    "word": " there's",
+                    "start": 20.5,
+                    "end": 20.84,
+                    "probability": 0.9672529399394989
+                },
+                {
+                    "word": " no,",
+                    "start": 20.84,
+                    "end": 21.14,
+                    "probability": 0.9945205450057983
+                },
+                {
+                    "word": " you",
+                    "start": 21.54,
+                    "end": 21.54,
+                    "probability": 0.8324208855628967
+                },
+                {
+                    "word": " know,",
+                    "start": 21.54,
+                    "end": 21.68,
+                    "probability": 0.9997081160545349
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 21.7,
+            "end": 24.34,
+            "text": " these folks at 37% are in the red and they're terrible.",
+            "tokens": [
+                51443,
+                613,
+                4024,
+                412,
+                13435,
+                4,
+                366,
+                294,
+                264,
+                2182,
+                293,
+                436,
+                434,
+                6237,
+                13,
+                51582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " these",
+                    "start": 21.7,
+                    "end": 21.86,
+                    "probability": 0.9956068396568298
+                },
+                {
+                    "word": " folks",
+                    "start": 21.86,
+                    "end": 22.08,
+                    "probability": 0.9993805885314941
+                },
+                {
+                    "word": " at",
+                    "start": 22.08,
+                    "end": 22.32,
+                    "probability": 0.7754715085029602
+                },
+                {
+                    "word": " 37",
+                    "start": 22.32,
+                    "end": 22.7,
+                    "probability": 0.9865630865097046
+                },
+                {
+                    "word": "%",
+                    "start": 22.7,
+                    "end": 23.06,
+                    "probability": 0.9634303450584412
+                },
+                {
+                    "word": " are",
+                    "start": 23.06,
+                    "end": 23.24,
+                    "probability": 0.988593339920044
+                },
+                {
+                    "word": " in",
+                    "start": 23.24,
+                    "end": 23.42,
+                    "probability": 0.9989475607872009
+                },
+                {
+                    "word": " the",
+                    "start": 23.42,
+                    "end": 23.56,
+                    "probability": 0.9990760087966919
+                },
+                {
+                    "word": " red",
+                    "start": 23.56,
+                    "end": 23.64,
+                    "probability": 0.9960221648216248
+                },
+                {
+                    "word": " and",
+                    "start": 23.64,
+                    "end": 23.78,
+                    "probability": 0.9772638082504272
+                },
+                {
+                    "word": " they're",
+                    "start": 23.78,
+                    "end": 23.96,
+                    "probability": 0.9957557320594788
+                },
+                {
+                    "word": " terrible.",
+                    "start": 23.96,
+                    "end": 24.34,
+                    "probability": 0.9993005990982056
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 24.44,
+            "end": 26.96,
+            "text": " They just have less green or we would have less green.",
+            "tokens": [
+                51582,
+                814,
+                445,
+                362,
+                1570,
+                3092,
+                420,
+                321,
+                576,
+                362,
+                1570,
+                3092,
+                13,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 24.44,
+                    "end": 24.54,
+                    "probability": 0.9951062202453613
+                },
+                {
+                    "word": " just",
+                    "start": 24.54,
+                    "end": 24.76,
+                    "probability": 0.9992019534111023
+                },
+                {
+                    "word": " have",
+                    "start": 24.76,
+                    "end": 24.94,
+                    "probability": 0.9992700219154358
+                },
+                {
+                    "word": " less",
+                    "start": 24.94,
+                    "end": 25.24,
+                    "probability": 0.9896977543830872
+                },
+                {
+                    "word": " green",
+                    "start": 25.24,
+                    "end": 25.58,
+                    "probability": 0.9432999491691589
+                },
+                {
+                    "word": " or",
+                    "start": 25.58,
+                    "end": 25.82,
+                    "probability": 0.6854852437973022
+                },
+                {
+                    "word": " we",
+                    "start": 25.82,
+                    "end": 26.02,
+                    "probability": 0.9982476234436035
+                },
+                {
+                    "word": " would",
+                    "start": 26.02,
+                    "end": 26.18,
+                    "probability": 0.9988744854927063
+                },
+                {
+                    "word": " have",
+                    "start": 26.18,
+                    "end": 26.36,
+                    "probability": 0.9996211528778076
+                },
+                {
+                    "word": " less",
+                    "start": 26.36,
+                    "end": 26.62,
+                    "probability": 0.9988800883293152
+                },
+                {
+                    "word": " green.",
+                    "start": 26.62,
+                    "end": 26.96,
+                    "probability": 0.9055368304252625
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 27.72,
+            "end": 29.56,
+            "text": " So it's not being worse.",
+            "tokens": [
+                51728,
+                407,
+                309,
+                311,
+                406,
+                885,
+                5324,
+                13,
+                51841
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16726999064438217,
+            "compression_ratio": 1.691699604743083,
+            "no_speech_prob": 0.012420137412846088,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 27.72,
+                    "end": 27.72,
+                    "probability": 0.8904222249984741
+                },
+                {
+                    "word": " it's",
+                    "start": 27.72,
+                    "end": 28.36,
+                    "probability": 0.9272483587265015
+                },
+                {
+                    "word": " not",
+                    "start": 28.36,
+                    "end": 28.86,
+                    "probability": 0.9909934401512146
+                },
+                {
+                    "word": " being",
+                    "start": 28.86,
+                    "end": 29.16,
+                    "probability": 0.7310886383056641
+                },
+                {
+                    "word": " worse.",
+                    "start": 29.16,
+                    "end": 29.56,
+                    "probability": 0.9912992119789124
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2956,
+            "start": 29.56,
+            "end": 30.72,
+            "text": " It's being less good.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                885,
+                1570,
+                665,
+                13,
+                50436
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2837812273125899,
+            "compression_ratio": 1.2110091743119267,
+            "no_speech_prob": 0.0011331075802445412,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 29.56,
+                    "end": 29.76,
+                    "probability": 0.5283749625086784
+                },
+                {
+                    "word": " being",
+                    "start": 29.76,
+                    "end": 29.98,
+                    "probability": 0.9006839990615845
+                },
+                {
+                    "word": " less",
+                    "start": 29.98,
+                    "end": 30.3,
+                    "probability": 0.9975518584251404
+                },
+                {
+                    "word": " good.",
+                    "start": 30.3,
+                    "end": 30.72,
+                    "probability": 0.9961982369422913
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2956,
+            "start": 31.04,
+            "end": 37.06,
+            "text": " And I think that lends itself to working with,",
+            "tokens": [
+                50436,
+                400,
+                286,
+                519,
+                300,
+                287,
+                2581,
+                2564,
+                281,
+                1364,
+                365,
+                11,
+                50686
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2837812273125899,
+            "compression_ratio": 1.2110091743119267,
+            "no_speech_prob": 0.0011331075802445412,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 31.04,
+                    "end": 31.6,
+                    "probability": 0.6503703594207764
+                },
+                {
+                    "word": " I",
+                    "start": 31.6,
+                    "end": 33.08,
+                    "probability": 0.962566614151001
+                },
+                {
+                    "word": " think",
+                    "start": 33.08,
+                    "end": 33.3,
+                    "probability": 0.9368088245391846
+                },
+                {
+                    "word": " that",
+                    "start": 33.3,
+                    "end": 33.56,
+                    "probability": 0.9723275303840637
+                },
+                {
+                    "word": " lends",
+                    "start": 33.56,
+                    "end": 33.88,
+                    "probability": 0.9732394218444824
+                },
+                {
+                    "word": " itself",
+                    "start": 33.88,
+                    "end": 34.36,
+                    "probability": 0.9990744590759277
+                },
+                {
+                    "word": " to",
+                    "start": 34.36,
+                    "end": 35.54,
+                    "probability": 0.9969671368598938
+                },
+                {
+                    "word": " working",
+                    "start": 35.54,
+                    "end": 36.46,
+                    "probability": 0.9626275300979614
+                },
+                {
+                    "word": " with,",
+                    "start": 36.46,
+                    "end": 37.06,
+                    "probability": 0.9966149926185608
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2956,
+            "start": 37.06,
+            "end": 39.3,
+            "text": " you know, all the competition situations",
+            "tokens": [
+                50734,
+                291,
+                458,
+                11,
+                439,
+                264,
+                6211,
+                6851,
+                50852
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2837812273125899,
+            "compression_ratio": 1.2110091743119267,
+            "no_speech_prob": 0.0011331075802445412,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 37.06,
+                    "end": 37.12,
+                    "probability": 0.7915917634963989
+                },
+                {
+                    "word": " know,",
+                    "start": 37.12,
+                    "end": 37.56,
+                    "probability": 0.9958179593086243
+                },
+                {
+                    "word": " all",
+                    "start": 37.84,
+                    "end": 37.96,
+                    "probability": 0.9182570576667786
+                },
+                {
+                    "word": " the",
+                    "start": 37.96,
+                    "end": 38.16,
+                    "probability": 0.9958668947219849
+                },
+                {
+                    "word": " competition",
+                    "start": 38.16,
+                    "end": 38.68,
+                    "probability": 0.19642728567123413
+                },
+                {
+                    "word": " situations",
+                    "start": 38.68,
+                    "end": 39.3,
+                    "probability": 0.9766436219215393
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2956,
+            "start": 39.3,
+            "end": 40.1,
+            "text": " we were talking about.",
+            "tokens": [
+                50852,
+                321,
+                645,
+                1417,
+                466,
+                13,
+                50912
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2837812273125899,
+            "compression_ratio": 1.2110091743119267,
+            "no_speech_prob": 0.0011331075802445412,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 39.3,
+                    "end": 39.48,
+                    "probability": 0.9154118299484253
+                },
+                {
+                    "word": " were",
+                    "start": 39.48,
+                    "end": 39.56,
+                    "probability": 0.5107046961784363
+                },
+                {
+                    "word": " talking",
+                    "start": 39.56,
+                    "end": 39.78,
+                    "probability": 0.9991067051887512
+                },
+                {
+                    "word": " about.",
+                    "start": 39.78,
+                    "end": 40.1,
+                    "probability": 0.9981728792190552
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

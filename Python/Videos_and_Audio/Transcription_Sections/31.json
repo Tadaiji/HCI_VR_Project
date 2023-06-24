@@ -1,0 +1,38 @@
+{
+    "text": " the extension.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.62,
+            "text": " the extension.",
+            "tokens": [
+                50364,
+                264,
+                10320,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8044770558675131,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.8118024468421936,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.25792551040649414
+                },
+                {
+                    "word": " extension.",
+                    "start": 0.3,
+                    "end": 0.62,
+                    "probability": 0.37067466974258423
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

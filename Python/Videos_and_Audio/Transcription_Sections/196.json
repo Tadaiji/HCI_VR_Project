@@ -1,0 +1,404 @@
+{
+    "text": " So just say confidence is kind of overused anyway. Like I'd see a lot of competitors and vendors using it. I really liked the first one, just more speed, less risk, bam, no trade-offs, you know, just this is how it is.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.44,
+            "text": " So just say confidence is kind of overused anyway.",
+            "tokens": [
+                50364,
+                407,
+                445,
+                584,
+                6687,
+                307,
+                733,
+                295,
+                670,
+                4717,
+                4033,
+                13,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565065557306464,
+            "compression_ratio": 1.3540372670807452,
+            "no_speech_prob": 0.005816522985696793,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.10048720985651016
+                },
+                {
+                    "word": " just",
+                    "start": 0.3,
+                    "end": 0.38,
+                    "probability": 0.16623325645923615
+                },
+                {
+                    "word": " say",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.23856055736541748
+                },
+                {
+                    "word": " confidence",
+                    "start": 0.68,
+                    "end": 0.96,
+                    "probability": 0.3062618374824524
+                },
+                {
+                    "word": " is",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.9219288229942322
+                },
+                {
+                    "word": " kind",
+                    "start": 1.24,
+                    "end": 1.36,
+                    "probability": 0.7989417314529419
+                },
+                {
+                    "word": " of",
+                    "start": 1.36,
+                    "end": 1.56,
+                    "probability": 0.9963674545288086
+                },
+                {
+                    "word": " overused",
+                    "start": 1.56,
+                    "end": 2.06,
+                    "probability": 0.9545018672943115
+                },
+                {
+                    "word": " anyway.",
+                    "start": 2.06,
+                    "end": 2.44,
+                    "probability": 0.9050803780555725
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.54,
+            "end": 4.98,
+            "text": " Like I'd see a lot of competitors and vendors using it.",
+            "tokens": [
+                50488,
+                1743,
+                286,
+                1116,
+                536,
+                257,
+                688,
+                295,
+                18333,
+                293,
+                22056,
+                1228,
+                309,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565065557306464,
+            "compression_ratio": 1.3540372670807452,
+            "no_speech_prob": 0.005816522985696793,
+            "words": [
+                {
+                    "word": " Like",
+                    "start": 2.54,
+                    "end": 2.72,
+                    "probability": 0.8785462379455566
+                },
+                {
+                    "word": " I'd",
+                    "start": 2.72,
+                    "end": 2.98,
+                    "probability": 0.5813837349414825
+                },
+                {
+                    "word": " see",
+                    "start": 2.98,
+                    "end": 3.1,
+                    "probability": 0.9954130053520203
+                },
+                {
+                    "word": " a",
+                    "start": 3.1,
+                    "end": 3.24,
+                    "probability": 0.9986466765403748
+                },
+                {
+                    "word": " lot",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9995827078819275
+                },
+                {
+                    "word": " of",
+                    "start": 3.52,
+                    "end": 3.76,
+                    "probability": 0.9985895752906799
+                },
+                {
+                    "word": " competitors",
+                    "start": 3.76,
+                    "end": 4.08,
+                    "probability": 0.9977578520774841
+                },
+                {
+                    "word": " and",
+                    "start": 4.08,
+                    "end": 4.32,
+                    "probability": 0.958207368850708
+                },
+                {
+                    "word": " vendors",
+                    "start": 4.32,
+                    "end": 4.54,
+                    "probability": 0.9988227486610413
+                },
+                {
+                    "word": " using",
+                    "start": 4.54,
+                    "end": 4.84,
+                    "probability": 0.9853127598762512
+                },
+                {
+                    "word": " it.",
+                    "start": 4.84,
+                    "end": 4.98,
+                    "probability": 0.9620878100395203
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.14,
+            "end": 6.76,
+            "text": " I really liked the first one, just more speed,",
+            "tokens": [
+                50614,
+                286,
+                534,
+                4501,
+                264,
+                700,
+                472,
+                11,
+                445,
+                544,
+                3073,
+                11,
+                50706
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565065557306464,
+            "compression_ratio": 1.3540372670807452,
+            "no_speech_prob": 0.005816522985696793,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 5.14,
+                    "end": 5.14,
+                    "probability": 0.9638011455535889
+                },
+                {
+                    "word": " really",
+                    "start": 5.14,
+                    "end": 5.38,
+                    "probability": 0.9984387755393982
+                },
+                {
+                    "word": " liked",
+                    "start": 5.38,
+                    "end": 5.56,
+                    "probability": 0.5072697401046753
+                },
+                {
+                    "word": " the",
+                    "start": 5.56,
+                    "end": 5.8,
+                    "probability": 0.9974380731582642
+                },
+                {
+                    "word": " first",
+                    "start": 5.8,
+                    "end": 5.96,
+                    "probability": 0.9956225752830505
+                },
+                {
+                    "word": " one,",
+                    "start": 5.96,
+                    "end": 6.08,
+                    "probability": 0.933500349521637
+                },
+                {
+                    "word": " just",
+                    "start": 6.2,
+                    "end": 6.24,
+                    "probability": 0.9891480803489685
+                },
+                {
+                    "word": " more",
+                    "start": 6.24,
+                    "end": 6.42,
+                    "probability": 0.9964224100112915
+                },
+                {
+                    "word": " speed,",
+                    "start": 6.42,
+                    "end": 6.76,
+                    "probability": 0.9976746439933777
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.98,
+            "end": 9.36,
+            "text": " less risk, bam, no trade-offs, you know,",
+            "tokens": [
+                50706,
+                1570,
+                3148,
+                11,
+                18132,
+                11,
+                572,
+                4923,
+                12,
+                19231,
+                11,
+                291,
+                458,
+                11,
+                50829
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565065557306464,
+            "compression_ratio": 1.3540372670807452,
+            "no_speech_prob": 0.005816522985696793,
+            "words": [
+                {
+                    "word": " less",
+                    "start": 6.98,
+                    "end": 7.16,
+                    "probability": 0.9977668523788452
+                },
+                {
+                    "word": " risk,",
+                    "start": 7.16,
+                    "end": 7.6,
+                    "probability": 0.6763138175010681
+                },
+                {
+                    "word": " bam,",
+                    "start": 8.02,
+                    "end": 8.12,
+                    "probability": 0.6925156116485596
+                },
+                {
+                    "word": " no",
+                    "start": 8.34,
+                    "end": 8.54,
+                    "probability": 0.9954859614372253
+                },
+                {
+                    "word": " trade",
+                    "start": 8.54,
+                    "end": 8.76,
+                    "probability": 0.998601496219635
+                },
+                {
+                    "word": "-offs,",
+                    "start": 8.76,
+                    "end": 8.98,
+                    "probability": 0.8513253033161163
+                },
+                {
+                    "word": " you",
+                    "start": 9.22,
+                    "end": 9.22,
+                    "probability": 0.8514808416366577
+                },
+                {
+                    "word": " know,",
+                    "start": 9.22,
+                    "end": 9.36,
+                    "probability": 0.9986329674720764
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.44,
+            "end": 10.92,
+            "text": " just this is how it is.",
+            "tokens": [
+                50829,
+                445,
+                341,
+                307,
+                577,
+                309,
+                307,
+                13,
+                50899
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29565065557306464,
+            "compression_ratio": 1.3540372670807452,
+            "no_speech_prob": 0.005816522985696793,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 9.44,
+                    "end": 9.86,
+                    "probability": 0.8405370712280273
+                },
+                {
+                    "word": " this",
+                    "start": 9.86,
+                    "end": 9.98,
+                    "probability": 0.3407914340496063
+                },
+                {
+                    "word": " is",
+                    "start": 9.98,
+                    "end": 10.06,
+                    "probability": 0.7399132251739502
+                },
+                {
+                    "word": " how",
+                    "start": 10.06,
+                    "end": 10.14,
+                    "probability": 0.9973055124282837
+                },
+                {
+                    "word": " it",
+                    "start": 10.14,
+                    "end": 10.22,
+                    "probability": 0.999114453792572
+                },
+                {
+                    "word": " is.",
+                    "start": 10.22,
+                    "end": 10.92,
+                    "probability": 0.9981332421302795
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

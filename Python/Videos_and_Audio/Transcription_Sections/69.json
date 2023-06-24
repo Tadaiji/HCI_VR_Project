@@ -1,0 +1,39 @@
+{
+    "text": " Mm-hmm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 0.38,
+            "text": " Mm-hmm.",
+            "tokens": [
+                50364,
+                8266,
+                12,
+                10250,
+                13,
+                50441
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.52110869543893,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.7987381219863892,
+            "words": [
+                {
+                    "word": " Mm",
+                    "start": 0.14,
+                    "end": 0.3,
+                    "probability": 0.4307059943675995
+                },
+                {
+                    "word": "-hmm.",
+                    "start": 0.3,
+                    "end": 0.38,
+                    "probability": 0.8137864768505096
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

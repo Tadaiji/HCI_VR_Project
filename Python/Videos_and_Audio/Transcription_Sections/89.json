@@ -1,0 +1,382 @@
+{
+    "text": " Yeah, that's the kids. I need to go back and look at the spreadsheet. I mean, if the competitor does not apply to that particular stage, they shouldn't be on that tab and especially sorry saying that you see competitors on that tab for a stage where they don't apply.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 14.9,
+            "text": " Yeah, that's the kids. I need to go back and look at the spreadsheet. I mean, if the competitor does not apply to that particular stage, they shouldn't be on that tab and especially sorry saying that you see competitors on that tab for a stage where they don't apply.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                300,
+                311,
+                264,
+                2301,
+                13,
+                286,
+                643,
+                281,
+                352,
+                646,
+                293,
+                574,
+                412,
+                264,
+                27733,
+                13,
+                286,
+                914,
+                11,
+                498,
+                264,
+                27266,
+                775,
+                406,
+                3079,
+                281,
+                300,
+                1729,
+                3233,
+                11,
+                436,
+                4659,
+                380,
+                312,
+                322,
+                300,
+                4421,
+                293,
+                2318,
+                2597,
+                1566,
+                300,
+                291,
+                536,
+                18333,
+                322,
+                300,
+                4421,
+                337,
+                257,
+                3233,
+                689,
+                436,
+                500,
+                380,
+                3079,
+                13,
+                51110
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16424012953235256,
+            "compression_ratio": 1.598802395209581,
+            "no_speech_prob": 0.00013978210336063057,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.5113332867622375
+                },
+                {
+                    "word": " that's",
+                    "start": 0.4,
+                    "end": 0.64,
+                    "probability": 0.9871365427970886
+                },
+                {
+                    "word": " the",
+                    "start": 0.64,
+                    "end": 0.72,
+                    "probability": 0.9883157014846802
+                },
+                {
+                    "word": " kids.",
+                    "start": 0.72,
+                    "end": 1.02,
+                    "probability": 0.7863541841506958
+                },
+                {
+                    "word": " I",
+                    "start": 1.06,
+                    "end": 1.4,
+                    "probability": 0.9716598987579346
+                },
+                {
+                    "word": " need",
+                    "start": 1.4,
+                    "end": 1.48,
+                    "probability": 0.9182268977165222
+                },
+                {
+                    "word": " to",
+                    "start": 1.48,
+                    "end": 1.6,
+                    "probability": 0.881345808506012
+                },
+                {
+                    "word": " go",
+                    "start": 1.6,
+                    "end": 1.68,
+                    "probability": 0.9493128657341003
+                },
+                {
+                    "word": " back",
+                    "start": 1.68,
+                    "end": 1.8,
+                    "probability": 0.9731677770614624
+                },
+                {
+                    "word": " and",
+                    "start": 1.8,
+                    "end": 1.9,
+                    "probability": 0.9792919754981995
+                },
+                {
+                    "word": " look",
+                    "start": 1.9,
+                    "end": 1.96,
+                    "probability": 0.9983624815940857
+                },
+                {
+                    "word": " at",
+                    "start": 1.96,
+                    "end": 2.1,
+                    "probability": 0.9992961883544922
+                },
+                {
+                    "word": " the",
+                    "start": 2.1,
+                    "end": 2.26,
+                    "probability": 0.7596279978752136
+                },
+                {
+                    "word": " spreadsheet.",
+                    "start": 2.26,
+                    "end": 2.62,
+                    "probability": 0.9990164041519165
+                },
+                {
+                    "word": " I",
+                    "start": 2.92,
+                    "end": 2.92,
+                    "probability": 0.9937158226966858
+                },
+                {
+                    "word": " mean,",
+                    "start": 2.92,
+                    "end": 3.1,
+                    "probability": 0.9996840953826904
+                },
+                {
+                    "word": " if",
+                    "start": 3.22,
+                    "end": 3.44,
+                    "probability": 0.9984679818153381
+                },
+                {
+                    "word": " the",
+                    "start": 3.44,
+                    "end": 3.8,
+                    "probability": 0.9980365633964539
+                },
+                {
+                    "word": " competitor",
+                    "start": 3.8,
+                    "end": 4.44,
+                    "probability": 0.996619462966919
+                },
+                {
+                    "word": " does",
+                    "start": 4.44,
+                    "end": 5.54,
+                    "probability": 0.9289364218711853
+                },
+                {
+                    "word": " not",
+                    "start": 5.54,
+                    "end": 5.78,
+                    "probability": 0.9995765089988708
+                },
+                {
+                    "word": " apply",
+                    "start": 5.78,
+                    "end": 6.04,
+                    "probability": 0.9945895671844482
+                },
+                {
+                    "word": " to",
+                    "start": 6.04,
+                    "end": 6.18,
+                    "probability": 0.9459935426712036
+                },
+                {
+                    "word": " that",
+                    "start": 6.18,
+                    "end": 6.32,
+                    "probability": 0.9992398023605347
+                },
+                {
+                    "word": " particular",
+                    "start": 6.32,
+                    "end": 6.64,
+                    "probability": 0.9988024234771729
+                },
+                {
+                    "word": " stage,",
+                    "start": 6.64,
+                    "end": 6.9,
+                    "probability": 0.8927699327468872
+                },
+                {
+                    "word": " they",
+                    "start": 7.06,
+                    "end": 7.08,
+                    "probability": 0.9202319383621216
+                },
+                {
+                    "word": " shouldn't",
+                    "start": 7.08,
+                    "end": 7.4,
+                    "probability": 0.9927141070365906
+                },
+                {
+                    "word": " be",
+                    "start": 7.4,
+                    "end": 7.52,
+                    "probability": 0.9989533424377441
+                },
+                {
+                    "word": " on",
+                    "start": 7.52,
+                    "end": 7.66,
+                    "probability": 0.99886155128479
+                },
+                {
+                    "word": " that",
+                    "start": 7.66,
+                    "end": 7.9,
+                    "probability": 0.9939619898796082
+                },
+                {
+                    "word": " tab",
+                    "start": 7.9,
+                    "end": 8.14,
+                    "probability": 0.9704791307449341
+                },
+                {
+                    "word": " and",
+                    "start": 8.14,
+                    "end": 8.38,
+                    "probability": 0.3897395133972168
+                },
+                {
+                    "word": " especially",
+                    "start": 8.38,
+                    "end": 8.88,
+                    "probability": 0.9157689809799194
+                },
+                {
+                    "word": " sorry",
+                    "start": 8.88,
+                    "end": 9.32,
+                    "probability": 0.42829862236976624
+                },
+                {
+                    "word": " saying",
+                    "start": 9.32,
+                    "end": 9.7,
+                    "probability": 0.7626547813415527
+                },
+                {
+                    "word": " that",
+                    "start": 9.7,
+                    "end": 9.96,
+                    "probability": 0.9927371144294739
+                },
+                {
+                    "word": " you",
+                    "start": 9.96,
+                    "end": 10.28,
+                    "probability": 0.9962875843048096
+                },
+                {
+                    "word": " see",
+                    "start": 10.28,
+                    "end": 10.64,
+                    "probability": 0.9973132014274597
+                },
+                {
+                    "word": " competitors",
+                    "start": 10.64,
+                    "end": 11.22,
+                    "probability": 0.9958113431930542
+                },
+                {
+                    "word": " on",
+                    "start": 11.22,
+                    "end": 11.78,
+                    "probability": 0.9695408344268799
+                },
+                {
+                    "word": " that",
+                    "start": 11.78,
+                    "end": 12.2,
+                    "probability": 0.9989443421363831
+                },
+                {
+                    "word": " tab",
+                    "start": 12.2,
+                    "end": 12.52,
+                    "probability": 0.9898669719696045
+                },
+                {
+                    "word": " for",
+                    "start": 12.52,
+                    "end": 13.16,
+                    "probability": 0.9893440008163452
+                },
+                {
+                    "word": " a",
+                    "start": 13.16,
+                    "end": 13.54,
+                    "probability": 0.9954000115394592
+                },
+                {
+                    "word": " stage",
+                    "start": 13.54,
+                    "end": 13.74,
+                    "probability": 0.9980015158653259
+                },
+                {
+                    "word": " where",
+                    "start": 13.74,
+                    "end": 14.08,
+                    "probability": 0.9924010038375854
+                },
+                {
+                    "word": " they",
+                    "start": 14.08,
+                    "end": 14.36,
+                    "probability": 0.9988866448402405
+                },
+                {
+                    "word": " don't",
+                    "start": 14.36,
+                    "end": 14.6,
+                    "probability": 0.9995036125183105
+                },
+                {
+                    "word": " apply.",
+                    "start": 14.6,
+                    "end": 14.9,
+                    "probability": 0.994551956653595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

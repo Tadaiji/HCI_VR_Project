@@ -1,0 +1,140 @@
+{
+    "text": " Yeah, because the way without it, you're basically putting all the things that we're better at.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.58,
+            "text": " Yeah, because the way without it, you're basically putting all the things that we're better at.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                570,
+                264,
+                636,
+                1553,
+                309,
+                11,
+                291,
+                434,
+                1936,
+                3372,
+                439,
+                264,
+                721,
+                300,
+                321,
+                434,
+                1101,
+                412,
+                13,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22832737366358438,
+            "compression_ratio": 1.1585365853658536,
+            "no_speech_prob": 0.009257481433451176,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.12280038744211197
+                },
+                {
+                    "word": " because",
+                    "start": 0.88,
+                    "end": 0.88,
+                    "probability": 0.9810386300086975
+                },
+                {
+                    "word": " the",
+                    "start": 0.88,
+                    "end": 1.32,
+                    "probability": 0.8529447317123413
+                },
+                {
+                    "word": " way",
+                    "start": 1.32,
+                    "end": 1.94,
+                    "probability": 0.9953054785728455
+                },
+                {
+                    "word": " without",
+                    "start": 1.94,
+                    "end": 2.9,
+                    "probability": 0.8455939888954163
+                },
+                {
+                    "word": " it,",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.995710015296936
+                },
+                {
+                    "word": " you're",
+                    "start": 4.14,
+                    "end": 4.28,
+                    "probability": 0.9845134317874908
+                },
+                {
+                    "word": " basically",
+                    "start": 4.28,
+                    "end": 4.66,
+                    "probability": 0.9978576302528381
+                },
+                {
+                    "word": " putting",
+                    "start": 4.66,
+                    "end": 4.94,
+                    "probability": 0.998494029045105
+                },
+                {
+                    "word": " all",
+                    "start": 4.94,
+                    "end": 5.2,
+                    "probability": 0.9962798953056335
+                },
+                {
+                    "word": " the",
+                    "start": 5.2,
+                    "end": 5.38,
+                    "probability": 0.9906606078147888
+                },
+                {
+                    "word": " things",
+                    "start": 5.38,
+                    "end": 5.52,
+                    "probability": 0.999476969242096
+                },
+                {
+                    "word": " that",
+                    "start": 5.52,
+                    "end": 5.72,
+                    "probability": 0.996845006942749
+                },
+                {
+                    "word": " we're",
+                    "start": 5.72,
+                    "end": 5.94,
+                    "probability": 0.8941033482551575
+                },
+                {
+                    "word": " better",
+                    "start": 5.94,
+                    "end": 6.18,
+                    "probability": 0.9984683394432068
+                },
+                {
+                    "word": " at.",
+                    "start": 6.18,
+                    "end": 6.58,
+                    "probability": 0.9967233538627625
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

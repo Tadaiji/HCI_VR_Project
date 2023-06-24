@@ -1,0 +1,155 @@
+{
+    "text": " I don't know. That's one of my go-tos. I love that one.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.56,
+            "text": " I don't know.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                458,
+                13,
+                50398
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3023225996229384,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.005810948554426432,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.45970407128334045
+                },
+                {
+                    "word": " don't",
+                    "start": 0.32,
+                    "end": 0.32,
+                    "probability": 0.9792077839374542
+                },
+                {
+                    "word": " know.",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.9711564779281616
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.64,
+            "end": 1.62,
+            "text": " That's one of my go-tos.",
+            "tokens": [
+                50398,
+                663,
+                311,
+                472,
+                295,
+                452,
+                352,
+                12,
+                83,
+                329,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3023225996229384,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.005810948554426432,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.8218768239021301
+                },
+                {
+                    "word": " one",
+                    "start": 0.98,
+                    "end": 1.06,
+                    "probability": 0.9976198077201843
+                },
+                {
+                    "word": " of",
+                    "start": 1.06,
+                    "end": 1.16,
+                    "probability": 0.9974823594093323
+                },
+                {
+                    "word": " my",
+                    "start": 1.16,
+                    "end": 1.3,
+                    "probability": 0.998958945274353
+                },
+                {
+                    "word": " go",
+                    "start": 1.3,
+                    "end": 1.48,
+                    "probability": 0.9787494540214539
+                },
+                {
+                    "word": "-tos.",
+                    "start": 1.48,
+                    "end": 1.62,
+                    "probability": 0.7268637816111246
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 1.76,
+            "end": 2.52,
+            "text": " I love that one.",
+            "tokens": [
+                50448,
+                286,
+                959,
+                300,
+                472,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3023225996229384,
+            "compression_ratio": 0.9322033898305084,
+            "no_speech_prob": 0.005810948554426432,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 1.76,
+                    "end": 1.76,
+                    "probability": 0.9976407289505005
+                },
+                {
+                    "word": " love",
+                    "start": 1.76,
+                    "end": 1.94,
+                    "probability": 0.9914918541908264
+                },
+                {
+                    "word": " that",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9996861219406128
+                },
+                {
+                    "word": " one.",
+                    "start": 2.18,
+                    "end": 2.52,
+                    "probability": 0.9950592517852783
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,411 @@
+{
+    "text": " And I had, I started by just looking at what was considered a key feature over the past year from from create. And, you know, there are at least a dozen things that I'm not mentioning that could be on the list. Like I could give you 10 things instead of three.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 13.82,
+            "text": " And I had, I started by just looking at what was considered a key feature over the past year from from create. And, you know, there are at least a dozen things that I'm not mentioning that could be on the list.",
+            "tokens": [
+                50364,
+                400,
+                286,
+                632,
+                11,
+                286,
+                1409,
+                538,
+                445,
+                1237,
+                412,
+                437,
+                390,
+                4888,
+                257,
+                2141,
+                4111,
+                670,
+                264,
+                1791,
+                1064,
+                490,
+                490,
+                1884,
+                13,
+                400,
+                11,
+                291,
+                458,
+                11,
+                456,
+                366,
+                412,
+                1935,
+                257,
+                16654,
+                721,
+                300,
+                286,
+                478,
+                406,
+                18315,
+                300,
+                727,
+                312,
+                322,
+                264,
+                1329,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.12441973502819355,
+            "compression_ratio": 1.4093959731543624,
+            "no_speech_prob": 0.002358255675062537,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.1,
+                    "end": 0.54,
+                    "probability": 0.20628668367862701
+                },
+                {
+                    "word": " I",
+                    "start": 0.54,
+                    "end": 0.86,
+                    "probability": 0.8665010333061218
+                },
+                {
+                    "word": " had,",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.8399055600166321
+                },
+                {
+                    "word": " I",
+                    "start": 1.12,
+                    "end": 2.06,
+                    "probability": 0.9698342084884644
+                },
+                {
+                    "word": " started",
+                    "start": 2.06,
+                    "end": 2.3,
+                    "probability": 0.9993934631347656
+                },
+                {
+                    "word": " by",
+                    "start": 2.3,
+                    "end": 2.5,
+                    "probability": 0.9974097609519958
+                },
+                {
+                    "word": " just",
+                    "start": 2.5,
+                    "end": 2.72,
+                    "probability": 0.9981048107147217
+                },
+                {
+                    "word": " looking",
+                    "start": 2.72,
+                    "end": 2.94,
+                    "probability": 0.999506950378418
+                },
+                {
+                    "word": " at",
+                    "start": 2.94,
+                    "end": 3.14,
+                    "probability": 0.9996950626373291
+                },
+                {
+                    "word": " what",
+                    "start": 3.14,
+                    "end": 3.26,
+                    "probability": 0.9990425705909729
+                },
+                {
+                    "word": " was",
+                    "start": 3.26,
+                    "end": 3.52,
+                    "probability": 0.9995259046554565
+                },
+                {
+                    "word": " considered",
+                    "start": 3.52,
+                    "end": 3.82,
+                    "probability": 0.9994396567344666
+                },
+                {
+                    "word": " a",
+                    "start": 3.82,
+                    "end": 4.1,
+                    "probability": 0.9975425004959106
+                },
+                {
+                    "word": " key",
+                    "start": 4.1,
+                    "end": 4.22,
+                    "probability": 0.9978109002113342
+                },
+                {
+                    "word": " feature",
+                    "start": 4.22,
+                    "end": 4.62,
+                    "probability": 0.9988007545471191
+                },
+                {
+                    "word": " over",
+                    "start": 4.62,
+                    "end": 4.84,
+                    "probability": 0.9510269165039062
+                },
+                {
+                    "word": " the",
+                    "start": 4.84,
+                    "end": 5.04,
+                    "probability": 0.9998236298561096
+                },
+                {
+                    "word": " past",
+                    "start": 5.04,
+                    "end": 5.26,
+                    "probability": 0.9977287650108337
+                },
+                {
+                    "word": " year",
+                    "start": 5.26,
+                    "end": 5.84,
+                    "probability": 0.9982852339744568
+                },
+                {
+                    "word": " from",
+                    "start": 5.84,
+                    "end": 6.72,
+                    "probability": 0.7226771712303162
+                },
+                {
+                    "word": " from",
+                    "start": 6.72,
+                    "end": 7.08,
+                    "probability": 0.7802531719207764
+                },
+                {
+                    "word": " create.",
+                    "start": 7.08,
+                    "end": 7.42,
+                    "probability": 0.8761090040206909
+                },
+                {
+                    "word": " And,",
+                    "start": 8.2,
+                    "end": 8.74,
+                    "probability": 0.9928691983222961
+                },
+                {
+                    "word": " you",
+                    "start": 8.98,
+                    "end": 9.12,
+                    "probability": 0.9982001781463623
+                },
+                {
+                    "word": " know,",
+                    "start": 9.12,
+                    "end": 9.26,
+                    "probability": 0.9999021291732788
+                },
+                {
+                    "word": " there",
+                    "start": 9.36,
+                    "end": 9.48,
+                    "probability": 0.9957388639450073
+                },
+                {
+                    "word": " are",
+                    "start": 9.48,
+                    "end": 9.64,
+                    "probability": 0.9988998174667358
+                },
+                {
+                    "word": " at",
+                    "start": 9.64,
+                    "end": 9.74,
+                    "probability": 0.9983384609222412
+                },
+                {
+                    "word": " least",
+                    "start": 9.74,
+                    "end": 9.9,
+                    "probability": 0.9998340606689453
+                },
+                {
+                    "word": " a",
+                    "start": 9.9,
+                    "end": 10.12,
+                    "probability": 0.9993497729301453
+                },
+                {
+                    "word": " dozen",
+                    "start": 10.12,
+                    "end": 10.38,
+                    "probability": 0.9997523427009583
+                },
+                {
+                    "word": " things",
+                    "start": 10.38,
+                    "end": 10.74,
+                    "probability": 0.9992474317550659
+                },
+                {
+                    "word": " that",
+                    "start": 10.74,
+                    "end": 10.94,
+                    "probability": 0.9996602535247803
+                },
+                {
+                    "word": " I'm",
+                    "start": 10.94,
+                    "end": 11.14,
+                    "probability": 0.9979506134986877
+                },
+                {
+                    "word": " not",
+                    "start": 11.14,
+                    "end": 11.3,
+                    "probability": 0.9978681802749634
+                },
+                {
+                    "word": " mentioning",
+                    "start": 11.3,
+                    "end": 11.76,
+                    "probability": 0.9993053674697876
+                },
+                {
+                    "word": " that",
+                    "start": 11.76,
+                    "end": 12.9,
+                    "probability": 0.6934071779251099
+                },
+                {
+                    "word": " could",
+                    "start": 12.9,
+                    "end": 13.1,
+                    "probability": 0.9991635084152222
+                },
+                {
+                    "word": " be",
+                    "start": 13.1,
+                    "end": 13.32,
+                    "probability": 0.9990617632865906
+                },
+                {
+                    "word": " on",
+                    "start": 13.32,
+                    "end": 13.46,
+                    "probability": 0.9628349542617798
+                },
+                {
+                    "word": " the",
+                    "start": 13.46,
+                    "end": 13.56,
+                    "probability": 0.997533917427063
+                },
+                {
+                    "word": " list.",
+                    "start": 13.56,
+                    "end": 13.82,
+                    "probability": 0.9995410442352295
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 1382,
+            "start": 14.04,
+            "end": 16.38,
+            "text": " Like I could give you 10 things instead of three.",
+            "tokens": [
+                50414,
+                1743,
+                286,
+                727,
+                976,
+                291,
+                1266,
+                721,
+                2602,
+                295,
+                1045,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27340693133217947,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.8925467729568481,
+            "words": [
+                {
+                    "word": " Like",
+                    "start": 14.04,
+                    "end": 14.44,
+                    "probability": 0.5641635656356812
+                },
+                {
+                    "word": " I",
+                    "start": 14.44,
+                    "end": 14.6,
+                    "probability": 0.6653890609741211
+                },
+                {
+                    "word": " could",
+                    "start": 14.6,
+                    "end": 14.8,
+                    "probability": 0.9536901712417603
+                },
+                {
+                    "word": " give",
+                    "start": 14.8,
+                    "end": 14.9,
+                    "probability": 0.9215381741523743
+                },
+                {
+                    "word": " you",
+                    "start": 14.9,
+                    "end": 15.06,
+                    "probability": 0.9366573691368103
+                },
+                {
+                    "word": " 10",
+                    "start": 15.06,
+                    "end": 15.3,
+                    "probability": 0.8146403431892395
+                },
+                {
+                    "word": " things",
+                    "start": 15.3,
+                    "end": 15.62,
+                    "probability": 0.9912051558494568
+                },
+                {
+                    "word": " instead",
+                    "start": 15.62,
+                    "end": 15.94,
+                    "probability": 0.9583002924919128
+                },
+                {
+                    "word": " of",
+                    "start": 15.94,
+                    "end": 16.1,
+                    "probability": 0.9968488812446594
+                },
+                {
+                    "word": " three.",
+                    "start": 16.1,
+                    "end": 16.38,
+                    "probability": 0.8285010457038879
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

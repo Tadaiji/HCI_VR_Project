@@ -1,0 +1,398 @@
+{
+    "text": " So we will have an opportunity because I was about to say you're gonna hate me for this but like we're we're being cyclical about the same problem we had which being the audience coming in and not knowing anything about these specific stages that was a problem.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " So we will have an opportunity because I was about to say you're gonna hate me for this but like we're",
+            "tokens": [
+                50364,
+                407,
+                321,
+                486,
+                362,
+                364,
+                2650,
+                570,
+                286,
+                390,
+                466,
+                281,
+                584,
+                291,
+                434,
+                799,
+                4700,
+                385,
+                337,
+                341,
+                457,
+                411,
+                321,
+                434,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23761569658915202,
+            "compression_ratio": 1.535294117647059,
+            "no_speech_prob": 0.004977104719728231,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.7447094917297363
+                },
+                {
+                    "word": " we",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.8873773813247681
+                },
+                {
+                    "word": " will",
+                    "start": 0.48,
+                    "end": 0.64,
+                    "probability": 0.83892422914505
+                },
+                {
+                    "word": " have",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9837190508842468
+                },
+                {
+                    "word": " an",
+                    "start": 0.78,
+                    "end": 0.86,
+                    "probability": 0.7825047969818115
+                },
+                {
+                    "word": " opportunity",
+                    "start": 0.86,
+                    "end": 1.08,
+                    "probability": 0.9815068244934082
+                },
+                {
+                    "word": " because",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.31144508719444275
+                },
+                {
+                    "word": " I",
+                    "start": 1.34,
+                    "end": 1.5,
+                    "probability": 0.9724048376083374
+                },
+                {
+                    "word": " was",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9901713728904724
+                },
+                {
+                    "word": " about",
+                    "start": 1.64,
+                    "end": 1.72,
+                    "probability": 0.4527551829814911
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.9957621693611145
+                },
+                {
+                    "word": " say",
+                    "start": 1.9,
+                    "end": 2.0,
+                    "probability": 0.9986580610275269
+                },
+                {
+                    "word": " you're",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.8297601640224457
+                },
+                {
+                    "word": " gonna",
+                    "start": 2.24,
+                    "end": 2.32,
+                    "probability": 0.7127260565757751
+                },
+                {
+                    "word": " hate",
+                    "start": 2.32,
+                    "end": 2.5,
+                    "probability": 0.9955675005912781
+                },
+                {
+                    "word": " me",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.9988059997558594
+                },
+                {
+                    "word": " for",
+                    "start": 2.66,
+                    "end": 2.82,
+                    "probability": 0.9985116124153137
+                },
+                {
+                    "word": " this",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.9991511106491089
+                },
+                {
+                    "word": " but",
+                    "start": 3.04,
+                    "end": 3.28,
+                    "probability": 0.4746096134185791
+                },
+                {
+                    "word": " like",
+                    "start": 3.28,
+                    "end": 3.52,
+                    "probability": 0.9541035294532776
+                },
+                {
+                    "word": " we're",
+                    "start": 3.52,
+                    "end": 4.5,
+                    "probability": 0.8853623270988464
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.5,
+            "end": 9.88,
+            "text": " we're being cyclical about the same problem we had which being the audience coming in and not",
+            "tokens": [
+                50624,
+                321,
+                434,
+                885,
+                19474,
+                804,
+                466,
+                264,
+                912,
+                1154,
+                321,
+                632,
+                597,
+                885,
+                264,
+                4034,
+                1348,
+                294,
+                293,
+                406,
+                50848
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23761569658915202,
+            "compression_ratio": 1.535294117647059,
+            "no_speech_prob": 0.004977104719728231,
+            "words": [
+                {
+                    "word": " we're",
+                    "start": 4.5,
+                    "end": 5.48,
+                    "probability": 0.63326795399189
+                },
+                {
+                    "word": " being",
+                    "start": 5.48,
+                    "end": 5.78,
+                    "probability": 0.9336338639259338
+                },
+                {
+                    "word": " cyclical",
+                    "start": 5.78,
+                    "end": 6.22,
+                    "probability": 0.9114175736904144
+                },
+                {
+                    "word": " about",
+                    "start": 6.22,
+                    "end": 6.38,
+                    "probability": 0.9946286082267761
+                },
+                {
+                    "word": " the",
+                    "start": 6.38,
+                    "end": 6.66,
+                    "probability": 0.9985975623130798
+                },
+                {
+                    "word": " same",
+                    "start": 6.66,
+                    "end": 6.92,
+                    "probability": 0.9994219541549683
+                },
+                {
+                    "word": " problem",
+                    "start": 6.92,
+                    "end": 7.26,
+                    "probability": 0.9973951578140259
+                },
+                {
+                    "word": " we",
+                    "start": 7.26,
+                    "end": 7.5,
+                    "probability": 0.9397028684616089
+                },
+                {
+                    "word": " had",
+                    "start": 7.5,
+                    "end": 7.8,
+                    "probability": 0.8245261907577515
+                },
+                {
+                    "word": " which",
+                    "start": 7.8,
+                    "end": 8.3,
+                    "probability": 0.1606239676475525
+                },
+                {
+                    "word": " being",
+                    "start": 8.3,
+                    "end": 8.42,
+                    "probability": 0.8346750736236572
+                },
+                {
+                    "word": " the",
+                    "start": 8.42,
+                    "end": 8.68,
+                    "probability": 0.9891083240509033
+                },
+                {
+                    "word": " audience",
+                    "start": 8.68,
+                    "end": 8.92,
+                    "probability": 0.9967300891876221
+                },
+                {
+                    "word": " coming",
+                    "start": 8.92,
+                    "end": 9.2,
+                    "probability": 0.9943059086799622
+                },
+                {
+                    "word": " in",
+                    "start": 9.2,
+                    "end": 9.54,
+                    "probability": 0.9982649683952332
+                },
+                {
+                    "word": " and",
+                    "start": 9.54,
+                    "end": 9.72,
+                    "probability": 0.9690231084823608
+                },
+                {
+                    "word": " not",
+                    "start": 9.72,
+                    "end": 9.88,
+                    "probability": 0.9991880059242249
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.88,
+            "end": 12.86,
+            "text": " knowing anything about these specific stages that was a problem.",
+            "tokens": [
+                50848,
+                5276,
+                1340,
+                466,
+                613,
+                2685,
+                10232,
+                300,
+                390,
+                257,
+                1154,
+                13,
+                51008
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23761569658915202,
+            "compression_ratio": 1.535294117647059,
+            "no_speech_prob": 0.004977104719728231,
+            "words": [
+                {
+                    "word": " knowing",
+                    "start": 9.88,
+                    "end": 10.08,
+                    "probability": 0.9959505796432495
+                },
+                {
+                    "word": " anything",
+                    "start": 10.08,
+                    "end": 10.52,
+                    "probability": 0.9979889392852783
+                },
+                {
+                    "word": " about",
+                    "start": 10.52,
+                    "end": 10.96,
+                    "probability": 0.9986750483512878
+                },
+                {
+                    "word": " these",
+                    "start": 10.96,
+                    "end": 11.2,
+                    "probability": 0.9445834755897522
+                },
+                {
+                    "word": " specific",
+                    "start": 11.2,
+                    "end": 11.58,
+                    "probability": 0.9899625182151794
+                },
+                {
+                    "word": " stages",
+                    "start": 11.58,
+                    "end": 11.96,
+                    "probability": 0.9902955889701843
+                },
+                {
+                    "word": " that",
+                    "start": 11.96,
+                    "end": 12.24,
+                    "probability": 0.22296419739723206
+                },
+                {
+                    "word": " was",
+                    "start": 12.24,
+                    "end": 12.34,
+                    "probability": 0.045675020664930344
+                },
+                {
+                    "word": " a",
+                    "start": 12.34,
+                    "end": 12.86,
+                    "probability": 0.4028947949409485
+                },
+                {
+                    "word": " problem.",
+                    "start": 12.86,
+                    "end": 12.86,
+                    "probability": 0.8992370963096619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

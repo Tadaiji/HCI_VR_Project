@@ -1,0 +1,95 @@
+{
+    "text": " This was like, do is just your iteration of it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " This was like, do is just your iteration of it.",
+            "tokens": [
+                50364,
+                639,
+                390,
+                411,
+                11,
+                360,
+                307,
+                445,
+                428,
+                24784,
+                295,
+                309,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5061012585957845,
+            "compression_ratio": 0.9038461538461539,
+            "no_speech_prob": 0.0693850964307785,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.23990076780319214
+                },
+                {
+                    "word": " was",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.7982231974601746
+                },
+                {
+                    "word": " like,",
+                    "start": 0.42,
+                    "end": 0.74,
+                    "probability": 0.7946187257766724
+                },
+                {
+                    "word": " do",
+                    "start": 0.86,
+                    "end": 1.12,
+                    "probability": 0.31176722049713135
+                },
+                {
+                    "word": " is",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.797965407371521
+                },
+                {
+                    "word": " just",
+                    "start": 1.36,
+                    "end": 1.58,
+                    "probability": 0.5143513679504395
+                },
+                {
+                    "word": " your",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.9858927130699158
+                },
+                {
+                    "word": " iteration",
+                    "start": 1.8,
+                    "end": 2.28,
+                    "probability": 0.9970836043357849
+                },
+                {
+                    "word": " of",
+                    "start": 2.28,
+                    "end": 2.56,
+                    "probability": 0.9968860745429993
+                },
+                {
+                    "word": " it.",
+                    "start": 2.56,
+                    "end": 2.66,
+                    "probability": 0.9984791874885559
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

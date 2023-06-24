@@ -1,0 +1,298 @@
+{
+    "text": " Yeah, that was one of the big things it's like, okay 1515 features what what is what are they, why do I care, you know, yeah, to say that means nothing to me looking at this this page.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.94,
+            "end": 13.3,
+            "text": " Yeah, that was one of the big things it's like, okay 1515 features what what is what are they, why do I care, you know, yeah, to say that means nothing to me looking at this this page.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                300,
+                390,
+                472,
+                295,
+                264,
+                955,
+                721,
+                309,
+                311,
+                411,
+                11,
+                1392,
+                2119,
+                5211,
+                4122,
+                437,
+                437,
+                307,
+                437,
+                366,
+                436,
+                11,
+                983,
+                360,
+                286,
+                1127,
+                11,
+                291,
+                458,
+                11,
+                1338,
+                11,
+                281,
+                584,
+                300,
+                1355,
+                1825,
+                281,
+                385,
+                1237,
+                412,
+                341,
+                341,
+                3028,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20468446731567383,
+            "compression_ratio": 1.393939393939394,
+            "no_speech_prob": 0.0037625397089868784,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.94,
+                    "end": 1.38,
+                    "probability": 0.3155045509338379
+                },
+                {
+                    "word": " that",
+                    "start": 1.82,
+                    "end": 1.82,
+                    "probability": 0.7718014717102051
+                },
+                {
+                    "word": " was",
+                    "start": 1.82,
+                    "end": 1.96,
+                    "probability": 0.9952346682548523
+                },
+                {
+                    "word": " one",
+                    "start": 1.96,
+                    "end": 2.12,
+                    "probability": 0.9974662065505981
+                },
+                {
+                    "word": " of",
+                    "start": 2.12,
+                    "end": 2.22,
+                    "probability": 0.9995356798171997
+                },
+                {
+                    "word": " the",
+                    "start": 2.22,
+                    "end": 2.34,
+                    "probability": 0.9996203184127808
+                },
+                {
+                    "word": " big",
+                    "start": 2.34,
+                    "end": 2.48,
+                    "probability": 0.9965450167655945
+                },
+                {
+                    "word": " things",
+                    "start": 2.48,
+                    "end": 2.68,
+                    "probability": 0.9929239749908447
+                },
+                {
+                    "word": " it's",
+                    "start": 2.68,
+                    "end": 2.9,
+                    "probability": 0.7592865228652954
+                },
+                {
+                    "word": " like,",
+                    "start": 2.9,
+                    "end": 3.14,
+                    "probability": 0.9989629983901978
+                },
+                {
+                    "word": " okay",
+                    "start": 3.3,
+                    "end": 3.44,
+                    "probability": 0.7601322531700134
+                },
+                {
+                    "word": " 1515",
+                    "start": 3.44,
+                    "end": 4.98,
+                    "probability": 0.7161405980587006
+                },
+                {
+                    "word": " features",
+                    "start": 4.98,
+                    "end": 5.32,
+                    "probability": 0.9882563948631287
+                },
+                {
+                    "word": " what",
+                    "start": 5.32,
+                    "end": 5.8,
+                    "probability": 0.7971159815788269
+                },
+                {
+                    "word": " what",
+                    "start": 5.8,
+                    "end": 6.0,
+                    "probability": 0.7823682427406311
+                },
+                {
+                    "word": " is",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.9452921748161316
+                },
+                {
+                    "word": " what",
+                    "start": 6.24,
+                    "end": 6.42,
+                    "probability": 0.699398398399353
+                },
+                {
+                    "word": " are",
+                    "start": 6.42,
+                    "end": 6.56,
+                    "probability": 0.9757591485977173
+                },
+                {
+                    "word": " they,",
+                    "start": 6.56,
+                    "end": 6.92,
+                    "probability": 0.994492769241333
+                },
+                {
+                    "word": " why",
+                    "start": 6.98,
+                    "end": 7.12,
+                    "probability": 0.9426223039627075
+                },
+                {
+                    "word": " do",
+                    "start": 7.12,
+                    "end": 7.24,
+                    "probability": 0.9971498847007751
+                },
+                {
+                    "word": " I",
+                    "start": 7.24,
+                    "end": 7.4,
+                    "probability": 0.9725209474563599
+                },
+                {
+                    "word": " care,",
+                    "start": 7.4,
+                    "end": 7.88,
+                    "probability": 0.99982750415802
+                },
+                {
+                    "word": " you",
+                    "start": 8.1,
+                    "end": 8.12,
+                    "probability": 0.9709288477897644
+                },
+                {
+                    "word": " know,",
+                    "start": 8.12,
+                    "end": 8.52,
+                    "probability": 0.9956790804862976
+                },
+                {
+                    "word": " yeah,",
+                    "start": 9.0,
+                    "end": 9.3,
+                    "probability": 0.5002760887145996
+                },
+                {
+                    "word": " to",
+                    "start": 10.66,
+                    "end": 10.66,
+                    "probability": 0.5622395277023315
+                },
+                {
+                    "word": " say",
+                    "start": 10.66,
+                    "end": 10.94,
+                    "probability": 0.9767279028892517
+                },
+                {
+                    "word": " that",
+                    "start": 10.94,
+                    "end": 11.18,
+                    "probability": 0.9833085536956787
+                },
+                {
+                    "word": " means",
+                    "start": 11.18,
+                    "end": 11.36,
+                    "probability": 0.9970002770423889
+                },
+                {
+                    "word": " nothing",
+                    "start": 11.36,
+                    "end": 11.68,
+                    "probability": 0.9976156949996948
+                },
+                {
+                    "word": " to",
+                    "start": 11.68,
+                    "end": 11.92,
+                    "probability": 0.9989523887634277
+                },
+                {
+                    "word": " me",
+                    "start": 11.92,
+                    "end": 12.02,
+                    "probability": 0.9981998205184937
+                },
+                {
+                    "word": " looking",
+                    "start": 12.02,
+                    "end": 12.22,
+                    "probability": 0.9828155636787415
+                },
+                {
+                    "word": " at",
+                    "start": 12.22,
+                    "end": 12.44,
+                    "probability": 0.99965500831604
+                },
+                {
+                    "word": " this",
+                    "start": 12.44,
+                    "end": 12.64,
+                    "probability": 0.9996077418327332
+                },
+                {
+                    "word": " this",
+                    "start": 12.64,
+                    "end": 12.9,
+                    "probability": 0.794073760509491
+                },
+                {
+                    "word": " page.",
+                    "start": 12.9,
+                    "end": 13.3,
+                    "probability": 0.9995915293693542
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

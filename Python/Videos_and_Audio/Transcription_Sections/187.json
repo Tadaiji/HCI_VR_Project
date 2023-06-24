@@ -1,0 +1,129 @@
+{
+    "text": " I like your move fast with confidence better than increased speed and stay on track.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 4.96,
+            "text": " I like your move fast with confidence better than increased speed and stay on track.",
+            "tokens": [
+                50364,
+                286,
+                411,
+                428,
+                1286,
+                2370,
+                365,
+                6687,
+                1101,
+                813,
+                6505,
+                3073,
+                293,
+                1754,
+                322,
+                2837,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22937754580849096,
+            "compression_ratio": 1.0909090909090908,
+            "no_speech_prob": 0.00817925576120615,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.28,
+                    "end": 0.88,
+                    "probability": 0.6662267446517944
+                },
+                {
+                    "word": " like",
+                    "start": 0.88,
+                    "end": 1.14,
+                    "probability": 0.9941100478172302
+                },
+                {
+                    "word": " your",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9235630631446838
+                },
+                {
+                    "word": " move",
+                    "start": 1.42,
+                    "end": 1.6,
+                    "probability": 0.921217679977417
+                },
+                {
+                    "word": " fast",
+                    "start": 1.6,
+                    "end": 1.92,
+                    "probability": 0.9912548065185547
+                },
+                {
+                    "word": " with",
+                    "start": 1.92,
+                    "end": 2.22,
+                    "probability": 0.9768343567848206
+                },
+                {
+                    "word": " confidence",
+                    "start": 2.22,
+                    "end": 2.74,
+                    "probability": 0.9975243210792542
+                },
+                {
+                    "word": " better",
+                    "start": 2.74,
+                    "end": 3.08,
+                    "probability": 0.9130322337150574
+                },
+                {
+                    "word": " than",
+                    "start": 3.08,
+                    "end": 3.38,
+                    "probability": 0.9897747039794922
+                },
+                {
+                    "word": " increased",
+                    "start": 3.38,
+                    "end": 3.72,
+                    "probability": 0.4280624985694885
+                },
+                {
+                    "word": " speed",
+                    "start": 3.72,
+                    "end": 3.96,
+                    "probability": 0.9963323473930359
+                },
+                {
+                    "word": " and",
+                    "start": 3.96,
+                    "end": 4.26,
+                    "probability": 0.9797906279563904
+                },
+                {
+                    "word": " stay",
+                    "start": 4.26,
+                    "end": 4.34,
+                    "probability": 0.9947439432144165
+                },
+                {
+                    "word": " on",
+                    "start": 4.34,
+                    "end": 4.64,
+                    "probability": 0.9989504218101501
+                },
+                {
+                    "word": " track.",
+                    "start": 4.64,
+                    "end": 4.96,
+                    "probability": 0.9984303116798401
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

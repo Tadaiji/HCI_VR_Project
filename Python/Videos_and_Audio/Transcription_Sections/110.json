@@ -1,0 +1,77 @@
+{
+    "text": " Yeah, for sure, for sure. Yeah, right.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " Yeah, for sure, for sure. Yeah, right.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                337,
+                988,
+                11,
+                337,
+                988,
+                13,
+                865,
+                11,
+                558,
+                13,
+                50518
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3046558698018392,
+            "compression_ratio": 1.1176470588235294,
+            "no_speech_prob": 0.007127775810658932,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.6892358064651489
+                },
+                {
+                    "word": " for",
+                    "start": 0.88,
+                    "end": 1.02,
+                    "probability": 0.9079195261001587
+                },
+                {
+                    "word": " sure,",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9991514682769775
+                },
+                {
+                    "word": " for",
+                    "start": 1.44,
+                    "end": 1.48,
+                    "probability": 0.9817122220993042
+                },
+                {
+                    "word": " sure.",
+                    "start": 1.48,
+                    "end": 1.94,
+                    "probability": 0.9991711378097534
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 2.46,
+                    "end": 2.74,
+                    "probability": 0.9479687809944153
+                },
+                {
+                    "word": " right.",
+                    "start": 2.86,
+                    "end": 3.12,
+                    "probability": 0.9809999465942383
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

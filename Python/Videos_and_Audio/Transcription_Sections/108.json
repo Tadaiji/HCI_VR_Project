@@ -1,0 +1,53 @@
+{
+    "text": " Yeah, yeah we did.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.46,
+            "end": 1.54,
+            "text": " Yeah, yeah we did.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1338,
+                321,
+                630,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5910022523668077,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.06749289482831955,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.46,
+                    "end": 0.84,
+                    "probability": 0.375668466091156
+                },
+                {
+                    "word": " yeah",
+                    "start": 1.16,
+                    "end": 1.28,
+                    "probability": 0.543873131275177
+                },
+                {
+                    "word": " we",
+                    "start": 1.28,
+                    "end": 1.42,
+                    "probability": 0.4654282033443451
+                },
+                {
+                    "word": " did.",
+                    "start": 1.42,
+                    "end": 1.54,
+                    "probability": 0.9267271161079407
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

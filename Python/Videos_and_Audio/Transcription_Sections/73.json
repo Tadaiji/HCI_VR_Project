@@ -1,0 +1,487 @@
+{
+    "text": " I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration, I think we have a lot of customers actually using that already. I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration, I think we have a lot of customers actually using that already.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.72,
+            "text": " I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration,",
+            "tokens": [
+                50364,
+                286,
+                519,
+                264,
+                23145,
+                9461,
+                293,
+                490,
+                364,
+                10980,
+                935,
+                295,
+                1910,
+                11,
+                4317,
+                264,
+                25366,
+                837,
+                10980,
+                11,
+                50801
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27241758020912726,
+            "compression_ratio": 1.3412698412698412,
+            "no_speech_prob": 0.00020330003462731838,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.9149542450904846
+                },
+                {
+                    "word": " think",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9981943964958191
+                },
+                {
+                    "word": " the",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.9242082834243774
+                },
+                {
+                    "word": " Kubernetes",
+                    "start": 0.72,
+                    "end": 1.18,
+                    "probability": 0.676606297492981
+                },
+                {
+                    "word": " agent",
+                    "start": 1.18,
+                    "end": 1.84,
+                    "probability": 0.9513707756996155
+                },
+                {
+                    "word": " and",
+                    "start": 1.84,
+                    "end": 2.72,
+                    "probability": 0.7628023624420166
+                },
+                {
+                    "word": " from",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.9426704049110413
+                },
+                {
+                    "word": " an",
+                    "start": 3.08,
+                    "end": 3.4,
+                    "probability": 0.9906932711601257
+                },
+                {
+                    "word": " integration",
+                    "start": 3.4,
+                    "end": 3.94,
+                    "probability": 0.9933331608772278
+                },
+                {
+                    "word": " point",
+                    "start": 3.94,
+                    "end": 4.32,
+                    "probability": 0.9959341287612915
+                },
+                {
+                    "word": " of",
+                    "start": 4.32,
+                    "end": 4.54,
+                    "probability": 0.9899963140487671
+                },
+                {
+                    "word": " view,",
+                    "start": 4.54,
+                    "end": 5.24,
+                    "probability": 0.9961116909980774
+                },
+                {
+                    "word": " perhaps",
+                    "start": 7.18,
+                    "end": 7.44,
+                    "probability": 0.943856954574585
+                },
+                {
+                    "word": " the",
+                    "start": 7.44,
+                    "end": 7.72,
+                    "probability": 0.9528623223304749
+                },
+                {
+                    "word": " Terraform",
+                    "start": 7.72,
+                    "end": 8.14,
+                    "probability": 0.597050130367279
+                },
+                {
+                    "word": " integration,",
+                    "start": 8.14,
+                    "end": 8.72,
+                    "probability": 0.9691712260246277
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.92,
+            "end": 13.94,
+            "text": " I think we have a lot of customers actually using that already.",
+            "tokens": [
+                50801,
+                286,
+                519,
+                321,
+                362,
+                257,
+                688,
+                295,
+                4581,
+                767,
+                1228,
+                300,
+                1217,
+                13,
+                51099
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27241758020912726,
+            "compression_ratio": 1.3412698412698412,
+            "no_speech_prob": 0.00020330003462731838,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 8.92,
+                    "end": 8.92,
+                    "probability": 0.9734375476837158
+                },
+                {
+                    "word": " think",
+                    "start": 8.92,
+                    "end": 9.12,
+                    "probability": 0.999426007270813
+                },
+                {
+                    "word": " we",
+                    "start": 9.12,
+                    "end": 9.4,
+                    "probability": 0.9805357456207275
+                },
+                {
+                    "word": " have",
+                    "start": 9.4,
+                    "end": 10.2,
+                    "probability": 0.9991264939308167
+                },
+                {
+                    "word": " a",
+                    "start": 10.2,
+                    "end": 10.68,
+                    "probability": 0.9951157569885254
+                },
+                {
+                    "word": " lot",
+                    "start": 10.68,
+                    "end": 10.98,
+                    "probability": 0.998026430606842
+                },
+                {
+                    "word": " of",
+                    "start": 10.98,
+                    "end": 11.26,
+                    "probability": 0.9994198083877563
+                },
+                {
+                    "word": " customers",
+                    "start": 11.26,
+                    "end": 11.78,
+                    "probability": 0.9983499050140381
+                },
+                {
+                    "word": " actually",
+                    "start": 11.78,
+                    "end": 12.72,
+                    "probability": 0.9619366526603699
+                },
+                {
+                    "word": " using",
+                    "start": 12.72,
+                    "end": 13.1,
+                    "probability": 0.984387993812561
+                },
+                {
+                    "word": " that",
+                    "start": 13.1,
+                    "end": 13.44,
+                    "probability": 0.9983574748039246
+                },
+                {
+                    "word": " already.",
+                    "start": 13.44,
+                    "end": 13.94,
+                    "probability": 0.9938600063323975
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.08,
+            "end": 15.08,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.27241758020912726,
+            "compression_ratio": 1.3412698412698412,
+            "no_speech_prob": 0.00020330003462731838,
+            "words": []
+        },
+        {
+            "id": 3,
+            "seek": 1508,
+            "start": 15.08,
+            "end": 15.32,
+            "text": " I think the Kubernetes agent and from an integration point of view, perhaps the Terraform integration,",
+            "tokens": [
+                50382,
+                286,
+                519,
+                264,
+                23145,
+                9461,
+                293,
+                490,
+                364,
+                10980,
+                935,
+                295,
+                1910,
+                11,
+                4317,
+                264,
+                25366,
+                837,
+                10980,
+                11,
+                50404
+            ],
+            "temperature": 0.8,
+            "avg_logprob": -0.5547153369800465,
+            "compression_ratio": 1.3387096774193548,
+            "no_speech_prob": 0.9936374425888062,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.0077846539206802845
+                },
+                {
+                    "word": " think",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.020737091079354286
+                },
+                {
+                    "word": " the",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.03940701484680176
+                },
+                {
+                    "word": " Kubernetes",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 2.87606371784932e-06
+                },
+                {
+                    "word": " agent",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 6.228165875654668e-05
+                },
+                {
+                    "word": " and",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.016284262761473656
+                },
+                {
+                    "word": " from",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.0001793083647498861
+                },
+                {
+                    "word": " an",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.010826711542904377
+                },
+                {
+                    "word": " integration",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.0002436856593703851
+                },
+                {
+                    "word": " point",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.05660252645611763
+                },
+                {
+                    "word": " of",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.9757168889045715
+                },
+                {
+                    "word": " view,",
+                    "start": 15.08,
+                    "end": 15.08,
+                    "probability": 0.9908109903335571
+                },
+                {
+                    "word": " perhaps",
+                    "start": 15.12,
+                    "end": 15.12,
+                    "probability": 0.0007627686718478799
+                },
+                {
+                    "word": " the",
+                    "start": 15.12,
+                    "end": 15.12,
+                    "probability": 0.08588989078998566
+                },
+                {
+                    "word": " Terraform",
+                    "start": 15.12,
+                    "end": 15.3,
+                    "probability": 0.001005520734906895
+                },
+                {
+                    "word": " integration,",
+                    "start": 15.3,
+                    "end": 15.32,
+                    "probability": 0.0016568783903494477
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 1508,
+            "start": 15.32,
+            "end": 15.4,
+            "text": " I think we have a lot of customers actually using that already.",
+            "tokens": [
+                50404,
+                286,
+                519,
+                321,
+                362,
+                257,
+                688,
+                295,
+                4581,
+                767,
+                1228,
+                300,
+                1217,
+                13,
+                50414
+            ],
+            "temperature": 0.8,
+            "avg_logprob": -0.5547153369800465,
+            "compression_ratio": 1.3387096774193548,
+            "no_speech_prob": 0.9936374425888062,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 15.32,
+                    "end": 15.32,
+                    "probability": 0.11444956064224243
+                },
+                {
+                    "word": " think",
+                    "start": 15.32,
+                    "end": 15.32,
+                    "probability": 0.43871641159057617
+                },
+                {
+                    "word": " we",
+                    "start": 15.32,
+                    "end": 15.32,
+                    "probability": 0.07516725361347198
+                },
+                {
+                    "word": " have",
+                    "start": 15.32,
+                    "end": 15.38,
+                    "probability": 0.07269314676523209
+                },
+                {
+                    "word": " a",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.23496182262897491
+                },
+                {
+                    "word": " lot",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.07018143683671951
+                },
+                {
+                    "word": " of",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.6928943991661072
+                },
+                {
+                    "word": " customers",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.0001368036901112646
+                },
+                {
+                    "word": " actually",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.0007259059348143637
+                },
+                {
+                    "word": " using",
+                    "start": 15.38,
+                    "end": 15.38,
+                    "probability": 0.041426267474889755
+                },
+                {
+                    "word": " that",
+                    "start": 15.38,
+                    "end": 15.4,
+                    "probability": 0.04497496783733368
+                },
+                {
+                    "word": " already.",
+                    "start": 15.4,
+                    "end": 15.4,
+                    "probability": 0.001980480970814824
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

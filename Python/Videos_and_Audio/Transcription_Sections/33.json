@@ -1,0 +1,129 @@
+{
+    "text": " How are we measuring excitement levels? One, two, and three, is there?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " How are we measuring excitement levels?",
+            "tokens": [
+                50364,
+                1012,
+                366,
+                321,
+                13389,
+                14755,
+                4358,
+                30,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4439715472134677,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.008097628131508827,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.47685766220092773
+                },
+                {
+                    "word": " are",
+                    "start": 0.32,
+                    "end": 0.42,
+                    "probability": 0.9681908488273621
+                },
+                {
+                    "word": " we",
+                    "start": 0.42,
+                    "end": 0.64,
+                    "probability": 0.9937847852706909
+                },
+                {
+                    "word": " measuring",
+                    "start": 0.64,
+                    "end": 1.2,
+                    "probability": 0.9974122643470764
+                },
+                {
+                    "word": " excitement",
+                    "start": 1.2,
+                    "end": 2.12,
+                    "probability": 0.7442551851272583
+                },
+                {
+                    "word": " levels?",
+                    "start": 2.12,
+                    "end": 2.6,
+                    "probability": 0.9948092699050903
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.9,
+            "end": 4.46,
+            "text": " One, two, and three, is there?",
+            "tokens": [
+                50496,
+                1485,
+                11,
+                732,
+                11,
+                293,
+                1045,
+                11,
+                307,
+                456,
+                30,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4439715472134677,
+            "compression_ratio": 0.9859154929577465,
+            "no_speech_prob": 0.008097628131508827,
+            "words": [
+                {
+                    "word": " One,",
+                    "start": 2.9,
+                    "end": 3.04,
+                    "probability": 0.670610249042511
+                },
+                {
+                    "word": " two,",
+                    "start": 3.06,
+                    "end": 3.24,
+                    "probability": 0.9944515824317932
+                },
+                {
+                    "word": " and",
+                    "start": 3.28,
+                    "end": 3.5,
+                    "probability": 0.9136080741882324
+                },
+                {
+                    "word": " three,",
+                    "start": 3.5,
+                    "end": 3.88,
+                    "probability": 0.9973604083061218
+                },
+                {
+                    "word": " is",
+                    "start": 4.1,
+                    "end": 4.28,
+                    "probability": 0.9722834825515747
+                },
+                {
+                    "word": " there?",
+                    "start": 4.28,
+                    "end": 4.46,
+                    "probability": 0.7579319477081299
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

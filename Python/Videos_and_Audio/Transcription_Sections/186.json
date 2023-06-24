@@ -1,0 +1,828 @@
+{
+    "text": " Uh-huh. And then the last thing I'll say is, so this is, this was my attempt to channel my inner Ash Withers. Um, I think Ash is like super good at just, again, just like the catchier, like the turn of phrase element to it. Um, and so like this kind of idea, like single source of truth, countless possibilities or all in one for everyone. There's something catchy about this. So, so here I was trying to like envision what is it that we actually give you with this velocity? It's like, it's velocity with confidence is what, is what you get.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 7.74,
+            "text": " Uh-huh. And then the last thing I'll say is, so this is, this was my attempt to channel my inner Ash Withers.",
+            "tokens": [
+                50364,
+                4019,
+                12,
+                18710,
+                13,
+                400,
+                550,
+                264,
+                1036,
+                551,
+                286,
+                603,
+                584,
+                307,
+                11,
+                370,
+                341,
+                307,
+                11,
+                341,
+                390,
+                452,
+                5217,
+                281,
+                2269,
+                452,
+                7284,
+                10279,
+                2022,
+                433,
+                13,
+                50736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24870795788972275,
+            "compression_ratio": 1.5767441860465117,
+            "no_speech_prob": 0.008310285396873951,
+            "words": [
+                {
+                    "word": " Uh",
+                    "start": 0.16,
+                    "end": 0.68,
+                    "probability": 0.05712837725877762
+                },
+                {
+                    "word": "-huh.",
+                    "start": 0.68,
+                    "end": 0.94,
+                    "probability": 0.632989764213562
+                },
+                {
+                    "word": " And",
+                    "start": 1.2,
+                    "end": 1.24,
+                    "probability": 0.9003345370292664
+                },
+                {
+                    "word": " then",
+                    "start": 1.24,
+                    "end": 1.66,
+                    "probability": 0.9844900369644165
+                },
+                {
+                    "word": " the",
+                    "start": 1.66,
+                    "end": 2.52,
+                    "probability": 0.795571506023407
+                },
+                {
+                    "word": " last",
+                    "start": 2.52,
+                    "end": 2.7,
+                    "probability": 0.9989801049232483
+                },
+                {
+                    "word": " thing",
+                    "start": 2.7,
+                    "end": 2.84,
+                    "probability": 0.9974609613418579
+                },
+                {
+                    "word": " I'll",
+                    "start": 2.84,
+                    "end": 3.02,
+                    "probability": 0.9951910078525543
+                },
+                {
+                    "word": " say",
+                    "start": 3.02,
+                    "end": 3.2,
+                    "probability": 0.9987710118293762
+                },
+                {
+                    "word": " is,",
+                    "start": 3.2,
+                    "end": 3.64,
+                    "probability": 0.9715242981910706
+                },
+                {
+                    "word": " so",
+                    "start": 3.64,
+                    "end": 3.84,
+                    "probability": 0.8909317255020142
+                },
+                {
+                    "word": " this",
+                    "start": 3.84,
+                    "end": 4.02,
+                    "probability": 0.9667574167251587
+                },
+                {
+                    "word": " is,",
+                    "start": 4.02,
+                    "end": 4.24,
+                    "probability": 0.31947022676467896
+                },
+                {
+                    "word": " this",
+                    "start": 4.24,
+                    "end": 4.4,
+                    "probability": 0.9895132184028625
+                },
+                {
+                    "word": " was",
+                    "start": 4.4,
+                    "end": 4.62,
+                    "probability": 0.9665020704269409
+                },
+                {
+                    "word": " my",
+                    "start": 4.62,
+                    "end": 4.98,
+                    "probability": 0.9985798597335815
+                },
+                {
+                    "word": " attempt",
+                    "start": 4.98,
+                    "end": 5.28,
+                    "probability": 0.9600148797035217
+                },
+                {
+                    "word": " to",
+                    "start": 5.28,
+                    "end": 5.68,
+                    "probability": 0.998391330242157
+                },
+                {
+                    "word": " channel",
+                    "start": 5.68,
+                    "end": 6.08,
+                    "probability": 0.7373775839805603
+                },
+                {
+                    "word": " my",
+                    "start": 6.08,
+                    "end": 6.4,
+                    "probability": 0.9749140739440918
+                },
+                {
+                    "word": " inner",
+                    "start": 6.4,
+                    "end": 6.6,
+                    "probability": 0.9929186701774597
+                },
+                {
+                    "word": " Ash",
+                    "start": 6.6,
+                    "end": 6.86,
+                    "probability": 0.9374227523803711
+                },
+                {
+                    "word": " Withers.",
+                    "start": 6.86,
+                    "end": 7.74,
+                    "probability": 0.890119880437851
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.08,
+            "end": 16.88,
+            "text": " Um, I think Ash is like super good at just, again, just like the catchier, like the turn of phrase element to it.",
+            "tokens": [
+                50772,
+                3301,
+                11,
+                286,
+                519,
+                10279,
+                307,
+                411,
+                1687,
+                665,
+                412,
+                445,
+                11,
+                797,
+                11,
+                445,
+                411,
+                264,
+                3745,
+                811,
+                11,
+                411,
+                264,
+                1261,
+                295,
+                9535,
+                4478,
+                281,
+                309,
+                13,
+                51192
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24870795788972275,
+            "compression_ratio": 1.5767441860465117,
+            "no_speech_prob": 0.008310285396873951,
+            "words": [
+                {
+                    "word": " Um,",
+                    "start": 8.08,
+                    "end": 8.94,
+                    "probability": 0.39505088329315186
+                },
+                {
+                    "word": " I",
+                    "start": 8.94,
+                    "end": 9.02,
+                    "probability": 0.9988524913787842
+                },
+                {
+                    "word": " think",
+                    "start": 9.02,
+                    "end": 9.22,
+                    "probability": 0.9995182752609253
+                },
+                {
+                    "word": " Ash",
+                    "start": 9.22,
+                    "end": 9.5,
+                    "probability": 0.9406667351722717
+                },
+                {
+                    "word": " is",
+                    "start": 9.5,
+                    "end": 9.66,
+                    "probability": 0.966708242893219
+                },
+                {
+                    "word": " like",
+                    "start": 9.66,
+                    "end": 10.06,
+                    "probability": 0.9643859267234802
+                },
+                {
+                    "word": " super",
+                    "start": 10.06,
+                    "end": 10.5,
+                    "probability": 0.9204630851745605
+                },
+                {
+                    "word": " good",
+                    "start": 10.5,
+                    "end": 10.9,
+                    "probability": 0.9952351450920105
+                },
+                {
+                    "word": " at",
+                    "start": 10.9,
+                    "end": 11.72,
+                    "probability": 0.9980493783950806
+                },
+                {
+                    "word": " just,",
+                    "start": 11.72,
+                    "end": 12.8,
+                    "probability": 0.898284375667572
+                },
+                {
+                    "word": " again,",
+                    "start": 12.96,
+                    "end": 13.48,
+                    "probability": 0.9891220927238464
+                },
+                {
+                    "word": " just",
+                    "start": 13.52,
+                    "end": 13.7,
+                    "probability": 0.9790462255477905
+                },
+                {
+                    "word": " like",
+                    "start": 13.7,
+                    "end": 13.88,
+                    "probability": 0.9743529558181763
+                },
+                {
+                    "word": " the",
+                    "start": 13.88,
+                    "end": 14.22,
+                    "probability": 0.9563689827919006
+                },
+                {
+                    "word": " catchier,",
+                    "start": 14.22,
+                    "end": 14.64,
+                    "probability": 0.8114378452301025
+                },
+                {
+                    "word": " like",
+                    "start": 14.7,
+                    "end": 14.88,
+                    "probability": 0.9933833479881287
+                },
+                {
+                    "word": " the",
+                    "start": 14.88,
+                    "end": 15.12,
+                    "probability": 0.9794273376464844
+                },
+                {
+                    "word": " turn",
+                    "start": 15.12,
+                    "end": 15.24,
+                    "probability": 0.9831748604774475
+                },
+                {
+                    "word": " of",
+                    "start": 15.24,
+                    "end": 15.44,
+                    "probability": 0.7316034436225891
+                },
+                {
+                    "word": " phrase",
+                    "start": 15.44,
+                    "end": 15.68,
+                    "probability": 0.9935831427574158
+                },
+                {
+                    "word": " element",
+                    "start": 15.68,
+                    "end": 16.08,
+                    "probability": 0.9923574328422546
+                },
+                {
+                    "word": " to",
+                    "start": 16.08,
+                    "end": 16.34,
+                    "probability": 0.9985024929046631
+                },
+                {
+                    "word": " it.",
+                    "start": 16.34,
+                    "end": 16.88,
+                    "probability": 0.9988299012184143
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.34,
+            "end": 24.7,
+            "text": " Um, and so like this kind of idea, like single source of truth, countless possibilities or all in one for everyone.",
+            "tokens": [
+                51236,
+                3301,
+                11,
+                293,
+                370,
+                411,
+                341,
+                733,
+                295,
+                1558,
+                11,
+                411,
+                2167,
+                4009,
+                295,
+                3494,
+                11,
+                19223,
+                12178,
+                420,
+                439,
+                294,
+                472,
+                337,
+                1518,
+                13,
+                51600
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24870795788972275,
+            "compression_ratio": 1.5767441860465117,
+            "no_speech_prob": 0.008310285396873951,
+            "words": [
+                {
+                    "word": " Um,",
+                    "start": 17.34,
+                    "end": 18.06,
+                    "probability": 0.934083104133606
+                },
+                {
+                    "word": " and",
+                    "start": 18.54,
+                    "end": 18.68,
+                    "probability": 0.9788953065872192
+                },
+                {
+                    "word": " so",
+                    "start": 18.68,
+                    "end": 18.84,
+                    "probability": 0.9988120794296265
+                },
+                {
+                    "word": " like",
+                    "start": 18.84,
+                    "end": 19.02,
+                    "probability": 0.930432140827179
+                },
+                {
+                    "word": " this",
+                    "start": 19.02,
+                    "end": 19.26,
+                    "probability": 0.9842196106910706
+                },
+                {
+                    "word": " kind",
+                    "start": 19.26,
+                    "end": 19.42,
+                    "probability": 0.9479952454566956
+                },
+                {
+                    "word": " of",
+                    "start": 19.42,
+                    "end": 19.58,
+                    "probability": 0.9995654225349426
+                },
+                {
+                    "word": " idea,",
+                    "start": 19.58,
+                    "end": 19.76,
+                    "probability": 0.9932367205619812
+                },
+                {
+                    "word": " like",
+                    "start": 19.82,
+                    "end": 20.14,
+                    "probability": 0.9318487644195557
+                },
+                {
+                    "word": " single",
+                    "start": 20.14,
+                    "end": 20.46,
+                    "probability": 0.9457961916923523
+                },
+                {
+                    "word": " source",
+                    "start": 20.46,
+                    "end": 20.66,
+                    "probability": 0.9931435585021973
+                },
+                {
+                    "word": " of",
+                    "start": 20.66,
+                    "end": 20.92,
+                    "probability": 0.9993463158607483
+                },
+                {
+                    "word": " truth,",
+                    "start": 20.92,
+                    "end": 21.2,
+                    "probability": 0.9976105690002441
+                },
+                {
+                    "word": " countless",
+                    "start": 21.58,
+                    "end": 21.8,
+                    "probability": 0.9966745376586914
+                },
+                {
+                    "word": " possibilities",
+                    "start": 21.8,
+                    "end": 22.56,
+                    "probability": 0.9981022477149963
+                },
+                {
+                    "word": " or",
+                    "start": 22.56,
+                    "end": 23.38,
+                    "probability": 0.478640079498291
+                },
+                {
+                    "word": " all",
+                    "start": 23.38,
+                    "end": 23.74,
+                    "probability": 0.9912021160125732
+                },
+                {
+                    "word": " in",
+                    "start": 23.74,
+                    "end": 23.9,
+                    "probability": 0.9584664106369019
+                },
+                {
+                    "word": " one",
+                    "start": 23.9,
+                    "end": 24.0,
+                    "probability": 0.9979248046875
+                },
+                {
+                    "word": " for",
+                    "start": 24.0,
+                    "end": 24.28,
+                    "probability": 0.9722647666931152
+                },
+                {
+                    "word": " everyone.",
+                    "start": 24.28,
+                    "end": 24.7,
+                    "probability": 0.9763078689575195
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 2470,
+            "start": 24.96,
+            "end": 35.58,
+            "text": " There's something catchy about this. So, so here I was trying to like envision what is it that we actually give you with this velocity? It's like, it's velocity with confidence is what, is what you get.",
+            "tokens": [
+                50380,
+                821,
+                311,
+                746,
+                47168,
+                466,
+                341,
+                13,
+                407,
+                11,
+                370,
+                510,
+                286,
+                390,
+                1382,
+                281,
+                411,
+                24739,
+                437,
+                307,
+                309,
+                300,
+                321,
+                767,
+                976,
+                291,
+                365,
+                341,
+                9269,
+                30,
+                467,
+                311,
+                411,
+                11,
+                309,
+                311,
+                9269,
+                365,
+                6687,
+                307,
+                437,
+                11,
+                307,
+                437,
+                291,
+                483,
+                13,
+                50904
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20039254791882574,
+            "compression_ratio": 1.4225352112676057,
+            "no_speech_prob": 0.3768397271633148,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 24.96,
+                    "end": 25.4,
+                    "probability": 0.6052473932504654
+                },
+                {
+                    "word": " something",
+                    "start": 25.4,
+                    "end": 25.54,
+                    "probability": 0.9384593963623047
+                },
+                {
+                    "word": " catchy",
+                    "start": 25.54,
+                    "end": 25.82,
+                    "probability": 0.9324921369552612
+                },
+                {
+                    "word": " about",
+                    "start": 25.82,
+                    "end": 26.06,
+                    "probability": 0.9966984391212463
+                },
+                {
+                    "word": " this.",
+                    "start": 26.06,
+                    "end": 26.26,
+                    "probability": 0.9937177896499634
+                },
+                {
+                    "word": " So,",
+                    "start": 26.66,
+                    "end": 26.66,
+                    "probability": 0.8320817351341248
+                },
+                {
+                    "word": " so",
+                    "start": 26.66,
+                    "end": 26.88,
+                    "probability": 0.6123387813568115
+                },
+                {
+                    "word": " here",
+                    "start": 26.88,
+                    "end": 27.02,
+                    "probability": 0.9832695722579956
+                },
+                {
+                    "word": " I",
+                    "start": 27.02,
+                    "end": 27.18,
+                    "probability": 0.9324969053268433
+                },
+                {
+                    "word": " was",
+                    "start": 27.18,
+                    "end": 27.36,
+                    "probability": 0.9996302127838135
+                },
+                {
+                    "word": " trying",
+                    "start": 27.36,
+                    "end": 27.54,
+                    "probability": 0.9993822574615479
+                },
+                {
+                    "word": " to",
+                    "start": 27.54,
+                    "end": 27.72,
+                    "probability": 0.9998675584793091
+                },
+                {
+                    "word": " like",
+                    "start": 27.72,
+                    "end": 28.58,
+                    "probability": 0.9387581944465637
+                },
+                {
+                    "word": " envision",
+                    "start": 28.58,
+                    "end": 29.04,
+                    "probability": 0.8793794512748718
+                },
+                {
+                    "word": " what",
+                    "start": 29.04,
+                    "end": 29.62,
+                    "probability": 0.3246614933013916
+                },
+                {
+                    "word": " is",
+                    "start": 29.62,
+                    "end": 29.82,
+                    "probability": 0.996380627155304
+                },
+                {
+                    "word": " it",
+                    "start": 29.82,
+                    "end": 29.88,
+                    "probability": 0.9994382262229919
+                },
+                {
+                    "word": " that",
+                    "start": 29.88,
+                    "end": 30.02,
+                    "probability": 0.9992590546607971
+                },
+                {
+                    "word": " we",
+                    "start": 30.02,
+                    "end": 30.16,
+                    "probability": 0.9997181296348572
+                },
+                {
+                    "word": " actually",
+                    "start": 30.16,
+                    "end": 30.4,
+                    "probability": 0.999681830406189
+                },
+                {
+                    "word": " give",
+                    "start": 30.4,
+                    "end": 30.6,
+                    "probability": 0.9971840977668762
+                },
+                {
+                    "word": " you",
+                    "start": 30.6,
+                    "end": 30.74,
+                    "probability": 0.9995667338371277
+                },
+                {
+                    "word": " with",
+                    "start": 30.74,
+                    "end": 30.88,
+                    "probability": 0.9934326410293579
+                },
+                {
+                    "word": " this",
+                    "start": 30.88,
+                    "end": 31.08,
+                    "probability": 0.9977186918258667
+                },
+                {
+                    "word": " velocity?",
+                    "start": 31.08,
+                    "end": 31.44,
+                    "probability": 0.7019700407981873
+                },
+                {
+                    "word": " It's",
+                    "start": 31.68,
+                    "end": 32.26,
+                    "probability": 0.9789831638336182
+                },
+                {
+                    "word": " like,",
+                    "start": 32.26,
+                    "end": 32.26,
+                    "probability": 0.8661954998970032
+                },
+                {
+                    "word": " it's",
+                    "start": 32.46,
+                    "end": 32.64,
+                    "probability": 0.8267055451869965
+                },
+                {
+                    "word": " velocity",
+                    "start": 32.64,
+                    "end": 32.98,
+                    "probability": 0.9942576885223389
+                },
+                {
+                    "word": " with",
+                    "start": 32.98,
+                    "end": 33.26,
+                    "probability": 0.996123731136322
+                },
+                {
+                    "word": " confidence",
+                    "start": 33.26,
+                    "end": 33.86,
+                    "probability": 0.9981421232223511
+                },
+                {
+                    "word": " is",
+                    "start": 33.86,
+                    "end": 34.42,
+                    "probability": 0.8000724911689758
+                },
+                {
+                    "word": " what,",
+                    "start": 34.42,
+                    "end": 34.72,
+                    "probability": 0.9887340068817139
+                },
+                {
+                    "word": " is",
+                    "start": 34.72,
+                    "end": 34.92,
+                    "probability": 0.9872063398361206
+                },
+                {
+                    "word": " what",
+                    "start": 34.92,
+                    "end": 35.06,
+                    "probability": 0.998938262462616
+                },
+                {
+                    "word": " you",
+                    "start": 35.06,
+                    "end": 35.3,
+                    "probability": 0.9988709092140198
+                },
+                {
+                    "word": " get.",
+                    "start": 35.3,
+                    "end": 35.58,
+                    "probability": 0.9993283748626709
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

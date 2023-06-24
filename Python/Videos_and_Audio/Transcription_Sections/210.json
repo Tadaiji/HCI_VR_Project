@@ -1,0 +1,128 @@
+{
+    "text": " And then next week we'll watch Step Brothers. That's another great one.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 2.7,
+            "text": " And then next week we'll watch Step Brothers.",
+            "tokens": [
+                50364,
+                400,
+                550,
+                958,
+                1243,
+                321,
+                603,
+                1159,
+                5470,
+                19886,
+                13,
+                50538
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3182794253031413,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.05167684704065323,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.28,
+                    "end": 0.78,
+                    "probability": 0.3720669746398926
+                },
+                {
+                    "word": " then",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9607210755348206
+                },
+                {
+                    "word": " next",
+                    "start": 1.02,
+                    "end": 1.28,
+                    "probability": 0.8964070677757263
+                },
+                {
+                    "word": " week",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9932253956794739
+                },
+                {
+                    "word": " we'll",
+                    "start": 1.48,
+                    "end": 1.7,
+                    "probability": 0.863065630197525
+                },
+                {
+                    "word": " watch",
+                    "start": 1.7,
+                    "end": 1.94,
+                    "probability": 0.9930784106254578
+                },
+                {
+                    "word": " Step",
+                    "start": 1.94,
+                    "end": 2.26,
+                    "probability": 0.5213236212730408
+                },
+                {
+                    "word": " Brothers.",
+                    "start": 2.26,
+                    "end": 2.7,
+                    "probability": 0.8367738723754883
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.5,
+            "end": 4.6,
+            "text": " That's another great one.",
+            "tokens": [
+                50538,
+                663,
+                311,
+                1071,
+                869,
+                472,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3182794253031413,
+            "compression_ratio": 0.9726027397260274,
+            "no_speech_prob": 0.05167684704065323,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 3.5,
+                    "end": 3.88,
+                    "probability": 0.9928099811077118
+                },
+                {
+                    "word": " another",
+                    "start": 3.88,
+                    "end": 4.04,
+                    "probability": 0.9988784193992615
+                },
+                {
+                    "word": " great",
+                    "start": 4.04,
+                    "end": 4.42,
+                    "probability": 0.9993045330047607
+                },
+                {
+                    "word": " one.",
+                    "start": 4.42,
+                    "end": 4.6,
+                    "probability": 0.9939554333686829
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,134 @@
+{
+    "text": " It is easy on the eyes. There's something to be said for that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 1.96,
+            "text": " It is easy on the eyes.",
+            "tokens": [
+                50364,
+                467,
+                307,
+                1858,
+                322,
+                264,
+                2575,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39067795163109187,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.03300660103559494,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.28,
+                    "end": 0.72,
+                    "probability": 0.5880438089370728
+                },
+                {
+                    "word": " is",
+                    "start": 0.72,
+                    "end": 0.94,
+                    "probability": 0.9715419411659241
+                },
+                {
+                    "word": " easy",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.9802913665771484
+                },
+                {
+                    "word": " on",
+                    "start": 1.14,
+                    "end": 1.36,
+                    "probability": 0.9665282368659973
+                },
+                {
+                    "word": " the",
+                    "start": 1.36,
+                    "end": 1.66,
+                    "probability": 0.9880065321922302
+                },
+                {
+                    "word": " eyes.",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.9063664078712463
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.54,
+            "end": 4.04,
+            "text": " There's something to be said for that.",
+            "tokens": [
+                50464,
+                821,
+                311,
+                746,
+                281,
+                312,
+                848,
+                337,
+                300,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39067795163109187,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.03300660103559494,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 2.54,
+                    "end": 3.06,
+                    "probability": 0.7502074837684631
+                },
+                {
+                    "word": " something",
+                    "start": 3.06,
+                    "end": 3.16,
+                    "probability": 0.9721680879592896
+                },
+                {
+                    "word": " to",
+                    "start": 3.16,
+                    "end": 3.36,
+                    "probability": 0.9957177042961121
+                },
+                {
+                    "word": " be",
+                    "start": 3.36,
+                    "end": 3.52,
+                    "probability": 0.9975946545600891
+                },
+                {
+                    "word": " said",
+                    "start": 3.52,
+                    "end": 3.64,
+                    "probability": 0.998433530330658
+                },
+                {
+                    "word": " for",
+                    "start": 3.64,
+                    "end": 3.86,
+                    "probability": 0.7793497443199158
+                },
+                {
+                    "word": " that.",
+                    "start": 3.86,
+                    "end": 4.04,
+                    "probability": 0.9926354289054871
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

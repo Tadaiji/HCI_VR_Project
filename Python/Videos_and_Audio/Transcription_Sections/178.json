@@ -1,0 +1,31 @@
+{
+    "text": " Yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.24,
+            "text": " Yeah.",
+            "tokens": [
+                50364,
+                865,
+                13,
+                50441
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18576110601425172,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.21702148020267487,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7129913568496704
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

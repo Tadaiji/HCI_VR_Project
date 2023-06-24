@@ -1,0 +1,429 @@
+{
+    "text": " This gets into the no trade-offs. The engineer in me says, there's never no trade-offs. That's like saying like 100% secure. This is why we always say mitigate, right? We always say, we risk or less risk. You never say no.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.44,
+            "end": 3.98,
+            "text": " This gets into the no trade-offs.",
+            "tokens": [
+                50364,
+                639,
+                2170,
+                666,
+                264,
+                572,
+                4923,
+                12,
+                19231,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.44,
+                    "end": 1.0,
+                    "probability": 0.4977317750453949
+                },
+                {
+                    "word": " gets",
+                    "start": 1.0,
+                    "end": 1.16,
+                    "probability": 0.4522706866264343
+                },
+                {
+                    "word": " into",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.9920268654823303
+                },
+                {
+                    "word": " the",
+                    "start": 1.56,
+                    "end": 3.06,
+                    "probability": 0.9876184463500977
+                },
+                {
+                    "word": " no",
+                    "start": 3.06,
+                    "end": 3.3,
+                    "probability": 0.6900907158851624
+                },
+                {
+                    "word": " trade",
+                    "start": 3.3,
+                    "end": 3.54,
+                    "probability": 0.9470791816711426
+                },
+                {
+                    "word": "-offs.",
+                    "start": 3.54,
+                    "end": 3.98,
+                    "probability": 0.8081885874271393
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.08,
+            "end": 8.58,
+            "text": " The engineer in me says, there's never no trade-offs.",
+            "tokens": [
+                50584,
+                440,
+                11403,
+                294,
+                385,
+                1619,
+                11,
+                456,
+                311,
+                1128,
+                572,
+                4923,
+                12,
+                19231,
+                13,
+                50802
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 5.08,
+                    "end": 5.26,
+                    "probability": 0.9839327335357666
+                },
+                {
+                    "word": " engineer",
+                    "start": 5.26,
+                    "end": 5.92,
+                    "probability": 0.9601678252220154
+                },
+                {
+                    "word": " in",
+                    "start": 5.92,
+                    "end": 6.06,
+                    "probability": 0.9652058482170105
+                },
+                {
+                    "word": " me",
+                    "start": 6.06,
+                    "end": 6.26,
+                    "probability": 0.9972414970397949
+                },
+                {
+                    "word": " says,",
+                    "start": 6.26,
+                    "end": 6.66,
+                    "probability": 0.9941476583480835
+                },
+                {
+                    "word": " there's",
+                    "start": 7.16,
+                    "end": 7.3,
+                    "probability": 0.6481337547302246
+                },
+                {
+                    "word": " never",
+                    "start": 7.3,
+                    "end": 7.62,
+                    "probability": 0.998117208480835
+                },
+                {
+                    "word": " no",
+                    "start": 7.62,
+                    "end": 7.94,
+                    "probability": 0.9935065507888794
+                },
+                {
+                    "word": " trade",
+                    "start": 7.94,
+                    "end": 8.14,
+                    "probability": 0.9986238479614258
+                },
+                {
+                    "word": "-offs.",
+                    "start": 8.14,
+                    "end": 8.58,
+                    "probability": 0.9870432317256927
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.26,
+            "end": 11.86,
+            "text": " That's like saying like 100% secure.",
+            "tokens": [
+                50802,
+                663,
+                311,
+                411,
+                1566,
+                411,
+                2319,
+                4,
+                7144,
+                13,
+                50954
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 9.26,
+                    "end": 9.4,
+                    "probability": 0.9719545245170593
+                },
+                {
+                    "word": " like",
+                    "start": 9.4,
+                    "end": 9.52,
+                    "probability": 0.8543099761009216
+                },
+                {
+                    "word": " saying",
+                    "start": 9.52,
+                    "end": 9.68,
+                    "probability": 0.9386205673217773
+                },
+                {
+                    "word": " like",
+                    "start": 9.68,
+                    "end": 10.44,
+                    "probability": 0.5325412750244141
+                },
+                {
+                    "word": " 100",
+                    "start": 10.44,
+                    "end": 10.74,
+                    "probability": 0.714413583278656
+                },
+                {
+                    "word": "%",
+                    "start": 10.74,
+                    "end": 11.2,
+                    "probability": 0.9444367289543152
+                },
+                {
+                    "word": " secure.",
+                    "start": 11.2,
+                    "end": 11.86,
+                    "probability": 0.9933363199234009
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.6,
+            "end": 14.44,
+            "text": " This is why we always say mitigate, right?",
+            "tokens": [
+                50954,
+                639,
+                307,
+                983,
+                321,
+                1009,
+                584,
+                27336,
+                11,
+                558,
+                30,
+                51074
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 12.6,
+                    "end": 12.88,
+                    "probability": 0.6860742568969727
+                },
+                {
+                    "word": " is",
+                    "start": 12.88,
+                    "end": 13.04,
+                    "probability": 0.9907829165458679
+                },
+                {
+                    "word": " why",
+                    "start": 13.04,
+                    "end": 13.14,
+                    "probability": 0.9921582937240601
+                },
+                {
+                    "word": " we",
+                    "start": 13.14,
+                    "end": 13.3,
+                    "probability": 0.8974417448043823
+                },
+                {
+                    "word": " always",
+                    "start": 13.3,
+                    "end": 13.5,
+                    "probability": 0.9860381484031677
+                },
+                {
+                    "word": " say",
+                    "start": 13.5,
+                    "end": 13.66,
+                    "probability": 0.9898657202720642
+                },
+                {
+                    "word": " mitigate,",
+                    "start": 13.66,
+                    "end": 14.14,
+                    "probability": 0.8672569394111633
+                },
+                {
+                    "word": " right?",
+                    "start": 14.22,
+                    "end": 14.44,
+                    "probability": 0.9041377305984497
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.62,
+            "end": 17.12,
+            "text": " We always say, we risk or less risk.",
+            "tokens": [
+                51074,
+                492,
+                1009,
+                584,
+                11,
+                321,
+                3148,
+                420,
+                1570,
+                3148,
+                13,
+                51208
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 14.62,
+                    "end": 14.62,
+                    "probability": 0.9110749959945679
+                },
+                {
+                    "word": " always",
+                    "start": 14.62,
+                    "end": 14.88,
+                    "probability": 0.9758919477462769
+                },
+                {
+                    "word": " say,",
+                    "start": 14.88,
+                    "end": 15.24,
+                    "probability": 0.9426482319831848
+                },
+                {
+                    "word": " we",
+                    "start": 15.24,
+                    "end": 15.46,
+                    "probability": 0.13694576919078827
+                },
+                {
+                    "word": " risk",
+                    "start": 15.46,
+                    "end": 15.9,
+                    "probability": 0.33132049441337585
+                },
+                {
+                    "word": " or",
+                    "start": 15.9,
+                    "end": 16.54,
+                    "probability": 0.7015100121498108
+                },
+                {
+                    "word": " less",
+                    "start": 16.54,
+                    "end": 16.78,
+                    "probability": 0.992519736289978
+                },
+                {
+                    "word": " risk.",
+                    "start": 16.78,
+                    "end": 17.12,
+                    "probability": 0.9953330159187317
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.32,
+            "end": 17.9,
+            "text": " You never say no.",
+            "tokens": [
+                51208,
+                509,
+                1128,
+                584,
+                572,
+                13,
+                51250
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3998934064592634,
+            "compression_ratio": 1.48,
+            "no_speech_prob": 0.001753525692038238,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 17.32,
+                    "end": 17.32,
+                    "probability": 0.9574795961380005
+                },
+                {
+                    "word": " never",
+                    "start": 17.32,
+                    "end": 17.6,
+                    "probability": 0.9928410053253174
+                },
+                {
+                    "word": " say",
+                    "start": 17.6,
+                    "end": 17.76,
+                    "probability": 0.9803516268730164
+                },
+                {
+                    "word": " no.",
+                    "start": 17.76,
+                    "end": 17.9,
+                    "probability": 0.7330053448677063
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

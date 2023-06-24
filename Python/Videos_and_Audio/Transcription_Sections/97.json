@@ -1,0 +1,38 @@
+{
+    "text": " Makes sense.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.56,
+            "text": " Makes sense.",
+            "tokens": [
+                50364,
+                25245,
+                2020,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5884284575780233,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.01046205684542656,
+            "words": [
+                {
+                    "word": " Makes",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.44138529896736145
+                },
+                {
+                    "word": " sense.",
+                    "start": 0.28,
+                    "end": 0.56,
+                    "probability": 0.9988386034965515
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

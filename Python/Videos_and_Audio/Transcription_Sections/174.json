@@ -1,0 +1,429 @@
+{
+    "text": " Cindy's last blog post had a really good turn of phrase that I stole for, forgive that 14 when she was out. It was like secure the software factory and all the stuff that you're making. She said it really elegant. And it's, I just kind of.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 4.62,
+            "text": " Cindy's last blog post had a really good turn of phrase that I stole for,",
+            "tokens": [
+                50364,
+                32185,
+                311,
+                1036,
+                6968,
+                2183,
+                632,
+                257,
+                534,
+                665,
+                1261,
+                295,
+                9535,
+                300,
+                286,
+                16326,
+                337,
+                11,
+                50574
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3582895478205894,
+            "compression_ratio": 1.3895348837209303,
+            "no_speech_prob": 0.002357837278395891,
+            "words": [
+                {
+                    "word": " Cindy's",
+                    "start": 0.04,
+                    "end": 0.56,
+                    "probability": 0.7786790728569031
+                },
+                {
+                    "word": " last",
+                    "start": 0.56,
+                    "end": 0.84,
+                    "probability": 0.9862738251686096
+                },
+                {
+                    "word": " blog",
+                    "start": 0.84,
+                    "end": 1.12,
+                    "probability": 0.9812140464782715
+                },
+                {
+                    "word": " post",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.9771627187728882
+                },
+                {
+                    "word": " had",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.8210046887397766
+                },
+                {
+                    "word": " a",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.9948505759239197
+                },
+                {
+                    "word": " really",
+                    "start": 1.78,
+                    "end": 2.04,
+                    "probability": 0.9974756836891174
+                },
+                {
+                    "word": " good",
+                    "start": 2.04,
+                    "end": 2.3,
+                    "probability": 0.995837926864624
+                },
+                {
+                    "word": " turn",
+                    "start": 2.3,
+                    "end": 2.52,
+                    "probability": 0.969459593296051
+                },
+                {
+                    "word": " of",
+                    "start": 2.52,
+                    "end": 2.76,
+                    "probability": 0.7597067952156067
+                },
+                {
+                    "word": " phrase",
+                    "start": 2.76,
+                    "end": 3.04,
+                    "probability": 0.9898521304130554
+                },
+                {
+                    "word": " that",
+                    "start": 3.04,
+                    "end": 3.36,
+                    "probability": 0.9903844594955444
+                },
+                {
+                    "word": " I",
+                    "start": 3.36,
+                    "end": 3.66,
+                    "probability": 0.9977344274520874
+                },
+                {
+                    "word": " stole",
+                    "start": 3.66,
+                    "end": 4.0,
+                    "probability": 0.9885342717170715
+                },
+                {
+                    "word": " for,",
+                    "start": 4.0,
+                    "end": 4.62,
+                    "probability": 0.522780179977417
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.62,
+            "end": 6.48,
+            "text": " forgive that 14 when she was out.",
+            "tokens": [
+                50588,
+                10718,
+                300,
+                3499,
+                562,
+                750,
+                390,
+                484,
+                13,
+                50686
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3582895478205894,
+            "compression_ratio": 1.3895348837209303,
+            "no_speech_prob": 0.002357837278395891,
+            "words": [
+                {
+                    "word": " forgive",
+                    "start": 4.62,
+                    "end": 4.88,
+                    "probability": 0.8282274603843689
+                },
+                {
+                    "word": " that",
+                    "start": 4.88,
+                    "end": 5.2,
+                    "probability": 0.8729302883148193
+                },
+                {
+                    "word": " 14",
+                    "start": 5.2,
+                    "end": 5.54,
+                    "probability": 0.6665906310081482
+                },
+                {
+                    "word": " when",
+                    "start": 5.54,
+                    "end": 5.86,
+                    "probability": 0.3277742266654968
+                },
+                {
+                    "word": " she",
+                    "start": 5.86,
+                    "end": 6.02,
+                    "probability": 0.9949022531509399
+                },
+                {
+                    "word": " was",
+                    "start": 6.02,
+                    "end": 6.28,
+                    "probability": 0.9704635143280029
+                },
+                {
+                    "word": " out.",
+                    "start": 6.28,
+                    "end": 6.48,
+                    "probability": 0.9974005222320557
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.68,
+            "end": 10.62,
+            "text": " It was like secure the software factory and all the stuff that you're making.",
+            "tokens": [
+                50686,
+                467,
+                390,
+                411,
+                7144,
+                264,
+                4722,
+                9265,
+                293,
+                439,
+                264,
+                1507,
+                300,
+                291,
+                434,
+                1455,
+                13,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3582895478205894,
+            "compression_ratio": 1.3895348837209303,
+            "no_speech_prob": 0.002357837278395891,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 6.68,
+                    "end": 6.68,
+                    "probability": 0.9859529733657837
+                },
+                {
+                    "word": " was",
+                    "start": 6.68,
+                    "end": 6.94,
+                    "probability": 0.9988452196121216
+                },
+                {
+                    "word": " like",
+                    "start": 6.94,
+                    "end": 7.24,
+                    "probability": 0.9352389574050903
+                },
+                {
+                    "word": " secure",
+                    "start": 7.24,
+                    "end": 7.58,
+                    "probability": 0.5373870134353638
+                },
+                {
+                    "word": " the",
+                    "start": 7.58,
+                    "end": 7.82,
+                    "probability": 0.9679311513900757
+                },
+                {
+                    "word": " software",
+                    "start": 7.82,
+                    "end": 8.16,
+                    "probability": 0.9512353539466858
+                },
+                {
+                    "word": " factory",
+                    "start": 8.16,
+                    "end": 8.64,
+                    "probability": 0.9839136600494385
+                },
+                {
+                    "word": " and",
+                    "start": 8.64,
+                    "end": 9.3,
+                    "probability": 0.9173914194107056
+                },
+                {
+                    "word": " all",
+                    "start": 9.3,
+                    "end": 9.6,
+                    "probability": 0.9935435056686401
+                },
+                {
+                    "word": " the",
+                    "start": 9.6,
+                    "end": 9.9,
+                    "probability": 0.9650039076805115
+                },
+                {
+                    "word": " stuff",
+                    "start": 9.9,
+                    "end": 10.06,
+                    "probability": 0.9979678988456726
+                },
+                {
+                    "word": " that",
+                    "start": 10.06,
+                    "end": 10.24,
+                    "probability": 0.9915819764137268
+                },
+                {
+                    "word": " you're",
+                    "start": 10.24,
+                    "end": 10.44,
+                    "probability": 0.9956538379192352
+                },
+                {
+                    "word": " making.",
+                    "start": 10.44,
+                    "end": 10.62,
+                    "probability": 0.9967966675758362
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.48,
+            "end": 12.82,
+            "text": " She said it really elegant.",
+            "tokens": [
+                50946,
+                1240,
+                848,
+                309,
+                534,
+                21117,
+                13,
+                51002
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3582895478205894,
+            "compression_ratio": 1.3895348837209303,
+            "no_speech_prob": 0.002357837278395891,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 11.48,
+                    "end": 11.84,
+                    "probability": 0.6564894914627075
+                },
+                {
+                    "word": " said",
+                    "start": 11.84,
+                    "end": 12.06,
+                    "probability": 0.993415117263794
+                },
+                {
+                    "word": " it",
+                    "start": 12.06,
+                    "end": 12.28,
+                    "probability": 0.965431809425354
+                },
+                {
+                    "word": " really",
+                    "start": 12.28,
+                    "end": 12.5,
+                    "probability": 0.9794498682022095
+                },
+                {
+                    "word": " elegant.",
+                    "start": 12.5,
+                    "end": 12.82,
+                    "probability": 0.7874782681465149
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.96,
+            "end": 13.82,
+            "text": " And it's, I just kind of.",
+            "tokens": [
+                51002,
+                400,
+                309,
+                311,
+                11,
+                286,
+                445,
+                733,
+                295,
+                13,
+                51046
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3582895478205894,
+            "compression_ratio": 1.3895348837209303,
+            "no_speech_prob": 0.002357837278395891,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 12.96,
+                    "end": 13.02,
+                    "probability": 0.5674901604652405
+                },
+                {
+                    "word": " it's,",
+                    "start": 13.02,
+                    "end": 13.28,
+                    "probability": 0.6001695543527603
+                },
+                {
+                    "word": " I",
+                    "start": 13.28,
+                    "end": 13.28,
+                    "probability": 0.6268849968910217
+                },
+                {
+                    "word": " just",
+                    "start": 13.28,
+                    "end": 13.5,
+                    "probability": 0.9936177730560303
+                },
+                {
+                    "word": " kind",
+                    "start": 13.5,
+                    "end": 13.68,
+                    "probability": 0.13608235120773315
+                },
+                {
+                    "word": " of.",
+                    "start": 13.68,
+                    "end": 13.82,
+                    "probability": 0.9787781238555908
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

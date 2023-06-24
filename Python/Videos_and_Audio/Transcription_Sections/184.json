@@ -1,0 +1,67 @@
+{
+    "text": " Yeah, I like this one better.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 2.92,
+            "text": " Yeah, I like this one better.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                411,
+                341,
+                472,
+                1101,
+                13,
+                50508
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2907694036310369,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.079916812479496,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.02,
+                    "end": 0.62,
+                    "probability": 0.6316232681274414
+                },
+                {
+                    "word": " I",
+                    "start": 0.94,
+                    "end": 1.92,
+                    "probability": 0.9212674498558044
+                },
+                {
+                    "word": " like",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.9198112487792969
+                },
+                {
+                    "word": " this",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.9983103275299072
+                },
+                {
+                    "word": " one",
+                    "start": 2.5,
+                    "end": 2.64,
+                    "probability": 0.9993714690208435
+                },
+                {
+                    "word": " better.",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9959442019462585
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,463 @@
+{
+    "text": " It was like last spring or summer and then we did another set of press around the integration of it because the PR team liked all the I mean we got a lot of attention on the acquisition so they had me do a follow up on the integration. I just feel like it's kind of worn out now, but",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 16.14,
+            "text": " It was like last spring or summer and then we did another set of press around the integration of it because the PR team liked all the I mean we got a lot of attention on the acquisition so they had me do a follow up on the integration.",
+            "tokens": [
+                50364,
+                467,
+                390,
+                411,
+                1036,
+                5587,
+                420,
+                4266,
+                293,
+                550,
+                321,
+                630,
+                1071,
+                992,
+                295,
+                1886,
+                926,
+                264,
+                10980,
+                295,
+                309,
+                570,
+                264,
+                11568,
+                1469,
+                4501,
+                439,
+                264,
+                286,
+                914,
+                321,
+                658,
+                257,
+                688,
+                295,
+                3202,
+                322,
+                264,
+                21668,
+                370,
+                436,
+                632,
+                385,
+                360,
+                257,
+                1524,
+                493,
+                322,
+                264,
+                10980,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14550945338080912,
+            "compression_ratio": 1.5810055865921788,
+            "no_speech_prob": 0.00021988924709148705,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.7661355137825012
+                },
+                {
+                    "word": " was",
+                    "start": 0.16,
+                    "end": 0.38,
+                    "probability": 0.9892348647117615
+                },
+                {
+                    "word": " like",
+                    "start": 0.38,
+                    "end": 0.66,
+                    "probability": 0.9068338871002197
+                },
+                {
+                    "word": " last",
+                    "start": 0.66,
+                    "end": 1.0,
+                    "probability": 0.9651263356208801
+                },
+                {
+                    "word": " spring",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.9597657322883606
+                },
+                {
+                    "word": " or",
+                    "start": 1.28,
+                    "end": 1.58,
+                    "probability": 0.9905906319618225
+                },
+                {
+                    "word": " summer",
+                    "start": 1.58,
+                    "end": 1.86,
+                    "probability": 0.995930016040802
+                },
+                {
+                    "word": " and",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.49659693241119385
+                },
+                {
+                    "word": " then",
+                    "start": 2.08,
+                    "end": 2.22,
+                    "probability": 0.9949136972427368
+                },
+                {
+                    "word": " we",
+                    "start": 2.22,
+                    "end": 2.38,
+                    "probability": 0.9953795671463013
+                },
+                {
+                    "word": " did",
+                    "start": 2.38,
+                    "end": 2.56,
+                    "probability": 0.999054491519928
+                },
+                {
+                    "word": " another",
+                    "start": 2.56,
+                    "end": 2.94,
+                    "probability": 0.9972125887870789
+                },
+                {
+                    "word": " set",
+                    "start": 2.94,
+                    "end": 3.34,
+                    "probability": 0.9988841414451599
+                },
+                {
+                    "word": " of",
+                    "start": 3.34,
+                    "end": 3.94,
+                    "probability": 0.9988815188407898
+                },
+                {
+                    "word": " press",
+                    "start": 3.94,
+                    "end": 4.26,
+                    "probability": 0.9754799008369446
+                },
+                {
+                    "word": " around",
+                    "start": 4.26,
+                    "end": 4.72,
+                    "probability": 0.9963268637657166
+                },
+                {
+                    "word": " the",
+                    "start": 4.72,
+                    "end": 4.98,
+                    "probability": 0.9975671768188477
+                },
+                {
+                    "word": " integration",
+                    "start": 4.98,
+                    "end": 5.56,
+                    "probability": 0.9986273050308228
+                },
+                {
+                    "word": " of",
+                    "start": 5.56,
+                    "end": 5.86,
+                    "probability": 0.9947795867919922
+                },
+                {
+                    "word": " it",
+                    "start": 5.86,
+                    "end": 5.98,
+                    "probability": 0.9987510442733765
+                },
+                {
+                    "word": " because",
+                    "start": 5.98,
+                    "end": 6.78,
+                    "probability": 0.8303816914558411
+                },
+                {
+                    "word": " the",
+                    "start": 6.78,
+                    "end": 7.16,
+                    "probability": 0.9549947381019592
+                },
+                {
+                    "word": " PR",
+                    "start": 7.16,
+                    "end": 7.38,
+                    "probability": 0.9929230213165283
+                },
+                {
+                    "word": " team",
+                    "start": 7.38,
+                    "end": 7.7,
+                    "probability": 0.9831714034080505
+                },
+                {
+                    "word": " liked",
+                    "start": 7.7,
+                    "end": 8.0,
+                    "probability": 0.9730435013771057
+                },
+                {
+                    "word": " all",
+                    "start": 8.0,
+                    "end": 8.26,
+                    "probability": 0.9806059002876282
+                },
+                {
+                    "word": " the",
+                    "start": 8.26,
+                    "end": 8.46,
+                    "probability": 0.9661475419998169
+                },
+                {
+                    "word": " I",
+                    "start": 8.46,
+                    "end": 8.82,
+                    "probability": 0.2660844922065735
+                },
+                {
+                    "word": " mean",
+                    "start": 8.82,
+                    "end": 8.96,
+                    "probability": 0.9965214729309082
+                },
+                {
+                    "word": " we",
+                    "start": 8.96,
+                    "end": 9.16,
+                    "probability": 0.719261109828949
+                },
+                {
+                    "word": " got",
+                    "start": 9.16,
+                    "end": 9.28,
+                    "probability": 0.9954114556312561
+                },
+                {
+                    "word": " a",
+                    "start": 9.28,
+                    "end": 9.4,
+                    "probability": 0.9991716146469116
+                },
+                {
+                    "word": " lot",
+                    "start": 9.4,
+                    "end": 9.62,
+                    "probability": 0.9996418952941895
+                },
+                {
+                    "word": " of",
+                    "start": 9.62,
+                    "end": 9.84,
+                    "probability": 0.9994708895683289
+                },
+                {
+                    "word": " attention",
+                    "start": 9.84,
+                    "end": 10.16,
+                    "probability": 0.9973043203353882
+                },
+                {
+                    "word": " on",
+                    "start": 10.16,
+                    "end": 10.38,
+                    "probability": 0.999046266078949
+                },
+                {
+                    "word": " the",
+                    "start": 10.38,
+                    "end": 10.62,
+                    "probability": 0.9995625615119934
+                },
+                {
+                    "word": " acquisition",
+                    "start": 10.62,
+                    "end": 11.06,
+                    "probability": 0.8579160571098328
+                },
+                {
+                    "word": " so",
+                    "start": 11.06,
+                    "end": 11.36,
+                    "probability": 0.6840782761573792
+                },
+                {
+                    "word": " they",
+                    "start": 11.36,
+                    "end": 11.8,
+                    "probability": 0.997967541217804
+                },
+                {
+                    "word": " had",
+                    "start": 11.8,
+                    "end": 12.08,
+                    "probability": 0.977132260799408
+                },
+                {
+                    "word": " me",
+                    "start": 12.08,
+                    "end": 12.28,
+                    "probability": 0.9987156391143799
+                },
+                {
+                    "word": " do",
+                    "start": 12.28,
+                    "end": 12.44,
+                    "probability": 0.9961789846420288
+                },
+                {
+                    "word": " a",
+                    "start": 12.44,
+                    "end": 12.76,
+                    "probability": 0.9993353486061096
+                },
+                {
+                    "word": " follow",
+                    "start": 12.76,
+                    "end": 13.0,
+                    "probability": 0.9971833825111389
+                },
+                {
+                    "word": " up",
+                    "start": 13.0,
+                    "end": 13.8,
+                    "probability": 0.5707557797431946
+                },
+                {
+                    "word": " on",
+                    "start": 13.8,
+                    "end": 15.12,
+                    "probability": 0.6308666467666626
+                },
+                {
+                    "word": " the",
+                    "start": 15.12,
+                    "end": 15.5,
+                    "probability": 0.9986569881439209
+                },
+                {
+                    "word": " integration.",
+                    "start": 15.5,
+                    "end": 16.14,
+                    "probability": 0.9984617233276367
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 17.14,
+            "end": 19.46,
+            "text": " I just feel like it's kind of worn out now, but",
+            "tokens": [
+                51164,
+                286,
+                445,
+                841,
+                411,
+                309,
+                311,
+                733,
+                295,
+                15254,
+                484,
+                586,
+                11,
+                457,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14550945338080912,
+            "compression_ratio": 1.5810055865921788,
+            "no_speech_prob": 0.00021988924709148705,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 17.14,
+                    "end": 17.16,
+                    "probability": 0.9956359267234802
+                },
+                {
+                    "word": " just",
+                    "start": 17.16,
+                    "end": 17.4,
+                    "probability": 0.99901282787323
+                },
+                {
+                    "word": " feel",
+                    "start": 17.4,
+                    "end": 17.52,
+                    "probability": 0.9988380074501038
+                },
+                {
+                    "word": " like",
+                    "start": 17.52,
+                    "end": 17.74,
+                    "probability": 0.9992645382881165
+                },
+                {
+                    "word": " it's",
+                    "start": 17.74,
+                    "end": 18.02,
+                    "probability": 0.9969106316566467
+                },
+                {
+                    "word": " kind",
+                    "start": 18.02,
+                    "end": 18.12,
+                    "probability": 0.9888302683830261
+                },
+                {
+                    "word": " of",
+                    "start": 18.12,
+                    "end": 18.3,
+                    "probability": 0.999492883682251
+                },
+                {
+                    "word": " worn",
+                    "start": 18.3,
+                    "end": 18.42,
+                    "probability": 0.9984392523765564
+                },
+                {
+                    "word": " out",
+                    "start": 18.42,
+                    "end": 18.74,
+                    "probability": 0.9977458119392395
+                },
+                {
+                    "word": " now,",
+                    "start": 18.74,
+                    "end": 19.16,
+                    "probability": 0.984460175037384
+                },
+                {
+                    "word": " but",
+                    "start": 19.38,
+                    "end": 19.46,
+                    "probability": 0.9951838850975037
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

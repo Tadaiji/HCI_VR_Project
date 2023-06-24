@@ -73,6 +73,6 @@ crashlytics-build.properties
 
 # Python
 /Python/Videos_and_Audio/Audio_Sections/*
-/Python/Videos_and_Audio/Transcription_Sections/*
+#/Python/Videos_and_Audio/Transcription_Sections/*
 /Python/Videos_and_Audio/Test.mp4.wav
 /Python/diarization.txt

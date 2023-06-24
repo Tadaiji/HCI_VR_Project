@@ -1,0 +1,271 @@
+{
+    "text": " Yeah, Jenkins Clavis does not, but what is it? You know, Azure DevOps, GitHub, Atlassian. And although Atlassians, we still need to figure something out there.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 3.56,
+            "text": " Yeah, Jenkins Clavis does not, but what is it?",
+            "tokens": [
+                50364,
+                865,
+                11,
+                41273,
+                2033,
+                706,
+                271,
+                775,
+                406,
+                11,
+                457,
+                437,
+                307,
+                309,
+                30,
+                50536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37200557708740234,
+            "compression_ratio": 1.2230769230769232,
+            "no_speech_prob": 0.00028235799982212484,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.08,
+                    "end": 0.52,
+                    "probability": 0.760589063167572
+                },
+                {
+                    "word": " Jenkins",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.36036205291748047
+                },
+                {
+                    "word": " Clavis",
+                    "start": 0.78,
+                    "end": 1.16,
+                    "probability": 0.21477567652861276
+                },
+                {
+                    "word": " does",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.5209391117095947
+                },
+                {
+                    "word": " not,",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9962312579154968
+                },
+                {
+                    "word": " but",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.8665787577629089
+                },
+                {
+                    "word": " what",
+                    "start": 2.66,
+                    "end": 3.14,
+                    "probability": 0.8685437440872192
+                },
+                {
+                    "word": " is",
+                    "start": 3.14,
+                    "end": 3.34,
+                    "probability": 0.9795896410942078
+                },
+                {
+                    "word": " it?",
+                    "start": 3.34,
+                    "end": 3.56,
+                    "probability": 0.9969704151153564
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.66,
+            "end": 8.76,
+            "text": " You know, Azure DevOps, GitHub, Atlassian.",
+            "tokens": [
+                50536,
+                509,
+                458,
+                11,
+                11969,
+                43051,
+                11,
+                23331,
+                11,
+                11000,
+                640,
+                952,
+                13,
+                50786
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37200557708740234,
+            "compression_ratio": 1.2230769230769232,
+            "no_speech_prob": 0.00028235799982212484,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 3.66,
+                    "end": 3.66,
+                    "probability": 0.4726499915122986
+                },
+                {
+                    "word": " know,",
+                    "start": 3.66,
+                    "end": 3.82,
+                    "probability": 0.998485267162323
+                },
+                {
+                    "word": " Azure",
+                    "start": 3.9,
+                    "end": 4.02,
+                    "probability": 0.9763113856315613
+                },
+                {
+                    "word": " DevOps,",
+                    "start": 4.02,
+                    "end": 4.88,
+                    "probability": 0.9419442415237427
+                },
+                {
+                    "word": " GitHub,",
+                    "start": 6.24,
+                    "end": 6.32,
+                    "probability": 0.9619842767715454
+                },
+                {
+                    "word": " Atlassian.",
+                    "start": 8.16,
+                    "end": 8.76,
+                    "probability": 0.9860333402951559
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.86,
+            "end": 11.06,
+            "text": " And although Atlassians,",
+            "tokens": [
+                50842,
+                400,
+                4878,
+                11000,
+                640,
+                2567,
+                11,
+                50917
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37200557708740234,
+            "compression_ratio": 1.2230769230769232,
+            "no_speech_prob": 0.00028235799982212484,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.86,
+                    "end": 10.16,
+                    "probability": 0.9092344641685486
+                },
+                {
+                    "word": " although",
+                    "start": 10.16,
+                    "end": 10.48,
+                    "probability": 0.907361626625061
+                },
+                {
+                    "word": " Atlassians,",
+                    "start": 10.48,
+                    "end": 11.06,
+                    "probability": 0.8372674187024435
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.22,
+            "end": 12.62,
+            "text": " we still need to figure something out there.",
+            "tokens": [
+                50917,
+                321,
+                920,
+                643,
+                281,
+                2573,
+                746,
+                484,
+                456,
+                13,
+                51027
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37200557708740234,
+            "compression_ratio": 1.2230769230769232,
+            "no_speech_prob": 0.00028235799982212484,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 11.22,
+                    "end": 11.3,
+                    "probability": 0.9975764155387878
+                },
+                {
+                    "word": " still",
+                    "start": 11.3,
+                    "end": 11.5,
+                    "probability": 0.9985466599464417
+                },
+                {
+                    "word": " need",
+                    "start": 11.5,
+                    "end": 11.62,
+                    "probability": 0.9988982677459717
+                },
+                {
+                    "word": " to",
+                    "start": 11.62,
+                    "end": 11.8,
+                    "probability": 0.9994818568229675
+                },
+                {
+                    "word": " figure",
+                    "start": 11.8,
+                    "end": 11.94,
+                    "probability": 0.9993183612823486
+                },
+                {
+                    "word": " something",
+                    "start": 11.94,
+                    "end": 12.22,
+                    "probability": 0.9945471286773682
+                },
+                {
+                    "word": " out",
+                    "start": 12.22,
+                    "end": 12.4,
+                    "probability": 0.99949049949646
+                },
+                {
+                    "word": " there.",
+                    "start": 12.4,
+                    "end": 12.62,
+                    "probability": 0.9953052997589111
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

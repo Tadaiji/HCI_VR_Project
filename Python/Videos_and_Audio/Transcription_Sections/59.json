@@ -1,0 +1,113 @@
+{
+    "text": " It was last summer, right? There was something around there.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.5,
+            "text": " It was last summer, right?",
+            "tokens": [
+                50364,
+                467,
+                390,
+                1036,
+                4266,
+                11,
+                558,
+                30,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48754151662190753,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.015627648681402206,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.47435420751571655
+                },
+                {
+                    "word": " was",
+                    "start": 0.24,
+                    "end": 0.44,
+                    "probability": 0.997246503829956
+                },
+                {
+                    "word": " last",
+                    "start": 0.44,
+                    "end": 0.7,
+                    "probability": 0.9420987367630005
+                },
+                {
+                    "word": " summer,",
+                    "start": 0.7,
+                    "end": 0.96,
+                    "probability": 0.9531770348548889
+                },
+                {
+                    "word": " right?",
+                    "start": 1.48,
+                    "end": 1.5,
+                    "probability": 0.9926353096961975
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.62,
+            "end": 2.26,
+            "text": " There was something around there.",
+            "tokens": [
+                50428,
+                821,
+                390,
+                746,
+                926,
+                456,
+                13,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48754151662190753,
+            "compression_ratio": 0.967741935483871,
+            "no_speech_prob": 0.015627648681402206,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 1.62,
+                    "end": 1.68,
+                    "probability": 0.2201685905456543
+                },
+                {
+                    "word": " was",
+                    "start": 1.68,
+                    "end": 1.76,
+                    "probability": 0.4699942469596863
+                },
+                {
+                    "word": " something",
+                    "start": 1.76,
+                    "end": 1.92,
+                    "probability": 0.9802893996238708
+                },
+                {
+                    "word": " around",
+                    "start": 1.92,
+                    "end": 2.14,
+                    "probability": 0.6140427589416504
+                },
+                {
+                    "word": " there.",
+                    "start": 2.14,
+                    "end": 2.26,
+                    "probability": 0.9572287201881409
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

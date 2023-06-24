@@ -1,0 +1,260 @@
+{
+    "text": " No, but it could have been. It's something Ricky Bobby would have said. If anyone hasn't seen Tell A Day Good Nights, they should. That's the homework for this weekend.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 3.76,
+            "text": " No, but it could have been. It's something Ricky Bobby would have said. If anyone hasn't seen",
+            "tokens": [
+                50364,
+                883,
+                11,
+                457,
+                309,
+                727,
+                362,
+                668,
+                13,
+                467,
+                311,
+                746,
+                25247,
+                19573,
+                576,
+                362,
+                848,
+                13,
+                759,
+                2878,
+                6132,
+                380,
+                1612,
+                50540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1909168455335829,
+            "compression_ratio": 1.2537313432835822,
+            "no_speech_prob": 0.018818946555256844,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.02,
+                    "end": 0.34,
+                    "probability": 0.3150756359100342
+                },
+                {
+                    "word": " but",
+                    "start": 0.4,
+                    "end": 0.52,
+                    "probability": 0.9730273485183716
+                },
+                {
+                    "word": " it",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9963600039482117
+                },
+                {
+                    "word": " could",
+                    "start": 0.7,
+                    "end": 0.8,
+                    "probability": 0.9970235228538513
+                },
+                {
+                    "word": " have",
+                    "start": 0.8,
+                    "end": 0.98,
+                    "probability": 0.9710561037063599
+                },
+                {
+                    "word": " been.",
+                    "start": 0.98,
+                    "end": 1.12,
+                    "probability": 0.9792482852935791
+                },
+                {
+                    "word": " It's",
+                    "start": 1.26,
+                    "end": 1.38,
+                    "probability": 0.9843379557132721
+                },
+                {
+                    "word": " something",
+                    "start": 1.38,
+                    "end": 1.54,
+                    "probability": 0.9978393316268921
+                },
+                {
+                    "word": " Ricky",
+                    "start": 1.54,
+                    "end": 1.86,
+                    "probability": 0.9143139123916626
+                },
+                {
+                    "word": " Bobby",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.8599230647087097
+                },
+                {
+                    "word": " would",
+                    "start": 2.12,
+                    "end": 2.32,
+                    "probability": 0.9921658039093018
+                },
+                {
+                    "word": " have",
+                    "start": 2.32,
+                    "end": 2.48,
+                    "probability": 0.968755304813385
+                },
+                {
+                    "word": " said.",
+                    "start": 2.48,
+                    "end": 2.7,
+                    "probability": 0.9967526793479919
+                },
+                {
+                    "word": " If",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.8218814134597778
+                },
+                {
+                    "word": " anyone",
+                    "start": 2.94,
+                    "end": 3.16,
+                    "probability": 0.99294513463974
+                },
+                {
+                    "word": " hasn't",
+                    "start": 3.16,
+                    "end": 3.58,
+                    "probability": 0.9980754554271698
+                },
+                {
+                    "word": " seen",
+                    "start": 3.58,
+                    "end": 3.76,
+                    "probability": 0.9926888346672058
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.76,
+            "end": 6.54,
+            "text": " Tell A Day Good Nights, they should. That's the homework for this weekend.",
+            "tokens": [
+                50540,
+                5115,
+                316,
+                5226,
+                2205,
+                426,
+                5761,
+                11,
+                436,
+                820,
+                13,
+                663,
+                311,
+                264,
+                14578,
+                337,
+                341,
+                6711,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1909168455335829,
+            "compression_ratio": 1.2537313432835822,
+            "no_speech_prob": 0.018818946555256844,
+            "words": [
+                {
+                    "word": " Tell",
+                    "start": 3.76,
+                    "end": 3.92,
+                    "probability": 0.2959030270576477
+                },
+                {
+                    "word": " A",
+                    "start": 3.92,
+                    "end": 4.02,
+                    "probability": 0.41118285059928894
+                },
+                {
+                    "word": " Day",
+                    "start": 4.02,
+                    "end": 4.1,
+                    "probability": 0.9772918224334717
+                },
+                {
+                    "word": " Good",
+                    "start": 4.1,
+                    "end": 4.22,
+                    "probability": 0.8772865533828735
+                },
+                {
+                    "word": " Nights,",
+                    "start": 4.22,
+                    "end": 4.52,
+                    "probability": 0.8354671895503998
+                },
+                {
+                    "word": " they",
+                    "start": 4.56,
+                    "end": 4.68,
+                    "probability": 0.9923495054244995
+                },
+                {
+                    "word": " should.",
+                    "start": 4.68,
+                    "end": 4.98,
+                    "probability": 0.9969045519828796
+                },
+                {
+                    "word": " That's",
+                    "start": 5.28,
+                    "end": 5.5,
+                    "probability": 0.9197245240211487
+                },
+                {
+                    "word": " the",
+                    "start": 5.5,
+                    "end": 5.64,
+                    "probability": 0.994694173336029
+                },
+                {
+                    "word": " homework",
+                    "start": 5.64,
+                    "end": 5.86,
+                    "probability": 0.9961231350898743
+                },
+                {
+                    "word": " for",
+                    "start": 5.86,
+                    "end": 6.1,
+                    "probability": 0.9974110722541809
+                },
+                {
+                    "word": " this",
+                    "start": 6.1,
+                    "end": 6.26,
+                    "probability": 0.9978561997413635
+                },
+                {
+                    "word": " weekend.",
+                    "start": 6.26,
+                    "end": 6.54,
+                    "probability": 0.9738803505897522
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

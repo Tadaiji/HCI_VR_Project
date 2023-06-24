@@ -1,0 +1,47 @@
+{
+    "text": " Oh, you haven't.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.72,
+            "text": " Oh, you haven't.",
+            "tokens": [
+                50364,
+                876,
+                11,
+                291,
+                2378,
+                380,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47331974241468644,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.026557037606835365,
+            "words": [
+                {
+                    "word": " Oh,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.7344505786895752
+                },
+                {
+                    "word": " you",
+                    "start": 0.26,
+                    "end": 0.42,
+                    "probability": 0.9962627291679382
+                },
+                {
+                    "word": " haven't.",
+                    "start": 0.42,
+                    "end": 0.72,
+                    "probability": 0.7875412702560425
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

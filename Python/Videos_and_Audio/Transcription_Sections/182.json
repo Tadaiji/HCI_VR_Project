@@ -1,0 +1,59 @@
+{
+    "text": " product sounds like car manufacturer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.12,
+            "text": " product sounds like car manufacturer.",
+            "tokens": [
+                50364,
+                1674,
+                3263,
+                411,
+                1032,
+                18022,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5913367801242404,
+            "compression_ratio": 0.8222222222222222,
+            "no_speech_prob": 0.008043034002184868,
+            "words": [
+                {
+                    "word": " product",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.17721199989318848
+                },
+                {
+                    "word": " sounds",
+                    "start": 0.52,
+                    "end": 1.06,
+                    "probability": 0.9729576110839844
+                },
+                {
+                    "word": " like",
+                    "start": 1.06,
+                    "end": 2.22,
+                    "probability": 0.9981800317764282
+                },
+                {
+                    "word": " car",
+                    "start": 2.22,
+                    "end": 2.46,
+                    "probability": 0.9619431495666504
+                },
+                {
+                    "word": " manufacturer.",
+                    "start": 2.46,
+                    "end": 3.12,
+                    "probability": 0.2228701114654541
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

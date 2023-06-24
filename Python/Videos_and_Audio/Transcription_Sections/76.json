@@ -1,0 +1,93 @@
+{
+    "text": " That one editor is definitely an option for CI CD",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.24,
+            "end": 2.7,
+            "text": " That one editor is definitely an option for CI CD",
+            "tokens": [
+                50364,
+                663,
+                472,
+                9839,
+                307,
+                2138,
+                364,
+                3614,
+                337,
+                37777,
+                6743,
+                50500
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5841653530414288,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.007930561900138855,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.24,
+                    "end": 0.68,
+                    "probability": 0.05209895223379135
+                },
+                {
+                    "word": " one",
+                    "start": 0.68,
+                    "end": 0.84,
+                    "probability": 0.29589247703552246
+                },
+                {
+                    "word": " editor",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.7340120673179626
+                },
+                {
+                    "word": " is",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.8862395286560059
+                },
+                {
+                    "word": " definitely",
+                    "start": 1.26,
+                    "end": 1.46,
+                    "probability": 0.9951593279838562
+                },
+                {
+                    "word": " an",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9957258701324463
+                },
+                {
+                    "word": " option",
+                    "start": 1.68,
+                    "end": 1.9,
+                    "probability": 0.9995373487472534
+                },
+                {
+                    "word": " for",
+                    "start": 1.9,
+                    "end": 2.22,
+                    "probability": 0.9051474928855896
+                },
+                {
+                    "word": " CI",
+                    "start": 2.22,
+                    "end": 2.42,
+                    "probability": 0.5050089359283447
+                },
+                {
+                    "word": " CD",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.339953750371933
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,1122 @@
+{
+    "text": " Yeah, so I was thinking of like, you know, if you're in a race car and like you go like super, super fast, like let's say you're in the bike race, right? And you're going so fast and somebody holds out the sign and then like half of the bike race collapses. So it's almost kind of like you can keep going like faster and faster and faster. And if somebody like jumps out with a sign in the racetrack, you're not going to get tripped up by it because GitLab's, you know, its testing is going to catch that, its security is going to catch that. All of those elements that allow you to move faster but to do so with confidence because otherwise you're like the faster you go, then it gets more dangerous.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.08,
+            "text": " Yeah, so I was thinking of like, you know, if you're in a race car and like you go like super,",
+            "tokens": [
+                50364,
+                865,
+                11,
+                370,
+                286,
+                390,
+                1953,
+                295,
+                411,
+                11,
+                291,
+                458,
+                11,
+                498,
+                291,
+                434,
+                294,
+                257,
+                4569,
+                1032,
+                293,
+                411,
+                291,
+                352,
+                411,
+                1687,
+                11,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16634502225709194,
+            "compression_ratio": 1.8009259259259258,
+            "no_speech_prob": 0.008056084625422955,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.3019103407859802
+                },
+                {
+                    "word": " so",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.8074883222579956
+                },
+                {
+                    "word": " I",
+                    "start": 0.64,
+                    "end": 0.74,
+                    "probability": 0.9383612275123596
+                },
+                {
+                    "word": " was",
+                    "start": 0.74,
+                    "end": 1.34,
+                    "probability": 0.9921424388885498
+                },
+                {
+                    "word": " thinking",
+                    "start": 1.34,
+                    "end": 1.6,
+                    "probability": 0.43605607748031616
+                },
+                {
+                    "word": " of",
+                    "start": 1.6,
+                    "end": 2.04,
+                    "probability": 0.8964549899101257
+                },
+                {
+                    "word": " like,",
+                    "start": 2.04,
+                    "end": 2.66,
+                    "probability": 0.5122631192207336
+                },
+                {
+                    "word": " you",
+                    "start": 2.68,
+                    "end": 2.8,
+                    "probability": 0.4690455198287964
+                },
+                {
+                    "word": " know,",
+                    "start": 2.8,
+                    "end": 3.08,
+                    "probability": 0.9763346910476685
+                },
+                {
+                    "word": " if",
+                    "start": 3.6,
+                    "end": 3.76,
+                    "probability": 0.9791547656059265
+                },
+                {
+                    "word": " you're",
+                    "start": 3.76,
+                    "end": 3.98,
+                    "probability": 0.9963884949684143
+                },
+                {
+                    "word": " in",
+                    "start": 3.98,
+                    "end": 5.0,
+                    "probability": 0.5916969776153564
+                },
+                {
+                    "word": " a",
+                    "start": 5.0,
+                    "end": 5.22,
+                    "probability": 0.9987044334411621
+                },
+                {
+                    "word": " race",
+                    "start": 5.22,
+                    "end": 5.48,
+                    "probability": 0.9983683228492737
+                },
+                {
+                    "word": " car",
+                    "start": 5.48,
+                    "end": 6.12,
+                    "probability": 0.8618603944778442
+                },
+                {
+                    "word": " and",
+                    "start": 6.12,
+                    "end": 6.7,
+                    "probability": 0.7652526497840881
+                },
+                {
+                    "word": " like",
+                    "start": 6.7,
+                    "end": 7.28,
+                    "probability": 0.4749930202960968
+                },
+                {
+                    "word": " you",
+                    "start": 7.28,
+                    "end": 7.34,
+                    "probability": 0.6578769683837891
+                },
+                {
+                    "word": " go",
+                    "start": 7.34,
+                    "end": 7.54,
+                    "probability": 0.9966506361961365
+                },
+                {
+                    "word": " like",
+                    "start": 7.54,
+                    "end": 7.82,
+                    "probability": 0.7333738803863525
+                },
+                {
+                    "word": " super,",
+                    "start": 7.82,
+                    "end": 8.08,
+                    "probability": 0.9780338406562805
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.08,
+            "end": 11.92,
+            "text": " super fast, like let's say you're in the bike race, right? And you're going so fast and somebody",
+            "tokens": [
+                50756,
+                1687,
+                2370,
+                11,
+                411,
+                718,
+                311,
+                584,
+                291,
+                434,
+                294,
+                264,
+                5656,
+                4569,
+                11,
+                558,
+                30,
+                400,
+                291,
+                434,
+                516,
+                370,
+                2370,
+                293,
+                2618,
+                50956
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16634502225709194,
+            "compression_ratio": 1.8009259259259258,
+            "no_speech_prob": 0.008056084625422955,
+            "words": [
+                {
+                    "word": " super",
+                    "start": 8.08,
+                    "end": 8.36,
+                    "probability": 0.9916239380836487
+                },
+                {
+                    "word": " fast,",
+                    "start": 8.36,
+                    "end": 8.56,
+                    "probability": 0.9566507339477539
+                },
+                {
+                    "word": " like",
+                    "start": 8.64,
+                    "end": 8.74,
+                    "probability": 0.6041375994682312
+                },
+                {
+                    "word": " let's",
+                    "start": 8.74,
+                    "end": 8.94,
+                    "probability": 0.8268656730651855
+                },
+                {
+                    "word": " say",
+                    "start": 8.94,
+                    "end": 9.04,
+                    "probability": 0.9983030557632446
+                },
+                {
+                    "word": " you're",
+                    "start": 9.04,
+                    "end": 9.2,
+                    "probability": 0.9814136028289795
+                },
+                {
+                    "word": " in",
+                    "start": 9.2,
+                    "end": 9.28,
+                    "probability": 0.9931701421737671
+                },
+                {
+                    "word": " the",
+                    "start": 9.28,
+                    "end": 9.46,
+                    "probability": 0.8736876249313354
+                },
+                {
+                    "word": " bike",
+                    "start": 9.46,
+                    "end": 9.66,
+                    "probability": 0.9970466494560242
+                },
+                {
+                    "word": " race,",
+                    "start": 9.66,
+                    "end": 9.9,
+                    "probability": 0.9982611536979675
+                },
+                {
+                    "word": " right?",
+                    "start": 10.04,
+                    "end": 10.28,
+                    "probability": 0.9679847359657288
+                },
+                {
+                    "word": " And",
+                    "start": 10.46,
+                    "end": 10.72,
+                    "probability": 0.9783160090446472
+                },
+                {
+                    "word": " you're",
+                    "start": 10.72,
+                    "end": 10.9,
+                    "probability": 0.9978649318218231
+                },
+                {
+                    "word": " going",
+                    "start": 10.9,
+                    "end": 11.02,
+                    "probability": 0.9984865188598633
+                },
+                {
+                    "word": " so",
+                    "start": 11.02,
+                    "end": 11.36,
+                    "probability": 0.9980078339576721
+                },
+                {
+                    "word": " fast",
+                    "start": 11.36,
+                    "end": 11.54,
+                    "probability": 0.9993143081665039
+                },
+                {
+                    "word": " and",
+                    "start": 11.54,
+                    "end": 11.7,
+                    "probability": 0.8956483006477356
+                },
+                {
+                    "word": " somebody",
+                    "start": 11.7,
+                    "end": 11.92,
+                    "probability": 0.9973962306976318
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.92,
+            "end": 20.14,
+            "text": " holds out the sign and then like half of the bike race collapses. So it's almost kind of like you",
+            "tokens": [
+                50956,
+                9190,
+                484,
+                264,
+                1465,
+                293,
+                550,
+                411,
+                1922,
+                295,
+                264,
+                5656,
+                4569,
+                48765,
+                13,
+                407,
+                309,
+                311,
+                1920,
+                733,
+                295,
+                411,
+                291,
+                51388
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16634502225709194,
+            "compression_ratio": 1.8009259259259258,
+            "no_speech_prob": 0.008056084625422955,
+            "words": [
+                {
+                    "word": " holds",
+                    "start": 11.92,
+                    "end": 12.18,
+                    "probability": 0.981566309928894
+                },
+                {
+                    "word": " out",
+                    "start": 12.18,
+                    "end": 12.4,
+                    "probability": 0.9740420579910278
+                },
+                {
+                    "word": " the",
+                    "start": 12.4,
+                    "end": 12.7,
+                    "probability": 0.9940664768218994
+                },
+                {
+                    "word": " sign",
+                    "start": 12.7,
+                    "end": 13.1,
+                    "probability": 0.9951163530349731
+                },
+                {
+                    "word": " and",
+                    "start": 13.1,
+                    "end": 13.62,
+                    "probability": 0.7452074885368347
+                },
+                {
+                    "word": " then",
+                    "start": 13.62,
+                    "end": 13.84,
+                    "probability": 0.9975850582122803
+                },
+                {
+                    "word": " like",
+                    "start": 13.84,
+                    "end": 14.04,
+                    "probability": 0.9358242750167847
+                },
+                {
+                    "word": " half",
+                    "start": 14.04,
+                    "end": 14.2,
+                    "probability": 0.9826937317848206
+                },
+                {
+                    "word": " of",
+                    "start": 14.2,
+                    "end": 14.34,
+                    "probability": 0.9977269768714905
+                },
+                {
+                    "word": " the",
+                    "start": 14.34,
+                    "end": 14.5,
+                    "probability": 0.9996899366378784
+                },
+                {
+                    "word": " bike",
+                    "start": 14.5,
+                    "end": 14.68,
+                    "probability": 0.9983305335044861
+                },
+                {
+                    "word": " race",
+                    "start": 14.68,
+                    "end": 14.86,
+                    "probability": 0.9960727691650391
+                },
+                {
+                    "word": " collapses.",
+                    "start": 14.86,
+                    "end": 15.52,
+                    "probability": 0.9981445074081421
+                },
+                {
+                    "word": " So",
+                    "start": 17.48,
+                    "end": 17.48,
+                    "probability": 0.21105553209781647
+                },
+                {
+                    "word": " it's",
+                    "start": 17.48,
+                    "end": 19.22,
+                    "probability": 0.9378281831741333
+                },
+                {
+                    "word": " almost",
+                    "start": 19.22,
+                    "end": 19.5,
+                    "probability": 0.9914249181747437
+                },
+                {
+                    "word": " kind",
+                    "start": 19.5,
+                    "end": 19.66,
+                    "probability": 0.8899608254432678
+                },
+                {
+                    "word": " of",
+                    "start": 19.66,
+                    "end": 19.8,
+                    "probability": 0.9984238147735596
+                },
+                {
+                    "word": " like",
+                    "start": 19.8,
+                    "end": 20.0,
+                    "probability": 0.989790141582489
+                },
+                {
+                    "word": " you",
+                    "start": 20.0,
+                    "end": 20.14,
+                    "probability": 0.7701012492179871
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.14,
+            "end": 26.08,
+            "text": " can keep going like faster and faster and faster. And if somebody like jumps out with a sign in the",
+            "tokens": [
+                51388,
+                393,
+                1066,
+                516,
+                411,
+                4663,
+                293,
+                4663,
+                293,
+                4663,
+                13,
+                400,
+                498,
+                2618,
+                411,
+                16704,
+                484,
+                365,
+                257,
+                1465,
+                294,
+                264,
+                51656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16634502225709194,
+            "compression_ratio": 1.8009259259259258,
+            "no_speech_prob": 0.008056084625422955,
+            "words": [
+                {
+                    "word": " can",
+                    "start": 20.14,
+                    "end": 20.68,
+                    "probability": 0.9914712309837341
+                },
+                {
+                    "word": " keep",
+                    "start": 20.68,
+                    "end": 21.04,
+                    "probability": 0.8660984635353088
+                },
+                {
+                    "word": " going",
+                    "start": 21.04,
+                    "end": 21.46,
+                    "probability": 0.9990309476852417
+                },
+                {
+                    "word": " like",
+                    "start": 21.46,
+                    "end": 21.98,
+                    "probability": 0.6646159887313843
+                },
+                {
+                    "word": " faster",
+                    "start": 21.98,
+                    "end": 22.24,
+                    "probability": 0.9932426810264587
+                },
+                {
+                    "word": " and",
+                    "start": 22.24,
+                    "end": 22.42,
+                    "probability": 0.9378718137741089
+                },
+                {
+                    "word": " faster",
+                    "start": 22.42,
+                    "end": 22.64,
+                    "probability": 0.9991911053657532
+                },
+                {
+                    "word": " and",
+                    "start": 22.64,
+                    "end": 22.84,
+                    "probability": 0.9833547472953796
+                },
+                {
+                    "word": " faster.",
+                    "start": 22.84,
+                    "end": 23.24,
+                    "probability": 0.9854696989059448
+                },
+                {
+                    "word": " And",
+                    "start": 23.54,
+                    "end": 23.7,
+                    "probability": 0.9943271279335022
+                },
+                {
+                    "word": " if",
+                    "start": 23.7,
+                    "end": 23.9,
+                    "probability": 0.999313235282898
+                },
+                {
+                    "word": " somebody",
+                    "start": 23.9,
+                    "end": 24.18,
+                    "probability": 0.999453604221344
+                },
+                {
+                    "word": " like",
+                    "start": 24.18,
+                    "end": 24.54,
+                    "probability": 0.9355524778366089
+                },
+                {
+                    "word": " jumps",
+                    "start": 24.54,
+                    "end": 24.72,
+                    "probability": 0.992834210395813
+                },
+                {
+                    "word": " out",
+                    "start": 24.72,
+                    "end": 25.08,
+                    "probability": 0.9996358156204224
+                },
+                {
+                    "word": " with",
+                    "start": 25.08,
+                    "end": 25.4,
+                    "probability": 0.998579740524292
+                },
+                {
+                    "word": " a",
+                    "start": 25.4,
+                    "end": 25.64,
+                    "probability": 0.9978494644165039
+                },
+                {
+                    "word": " sign",
+                    "start": 25.64,
+                    "end": 25.78,
+                    "probability": 0.9985755681991577
+                },
+                {
+                    "word": " in",
+                    "start": 25.78,
+                    "end": 25.94,
+                    "probability": 0.9984719157218933
+                },
+                {
+                    "word": " the",
+                    "start": 25.94,
+                    "end": 26.08,
+                    "probability": 0.999822199344635
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2608,
+            "start": 27.14,
+            "end": 31.74,
+            "text": " racetrack, you're not going to get tripped up by it because GitLab's, you know, its testing is",
+            "tokens": [
+                50376,
+                4129,
+                27965,
+                501,
+                11,
+                291,
+                434,
+                406,
+                516,
+                281,
+                483,
+                1376,
+                3320,
+                493,
+                538,
+                309,
+                570,
+                16939,
+                37880,
+                311,
+                11,
+                291,
+                458,
+                11,
+                1080,
+                4997,
+                307,
+                50640
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16675390005111695,
+            "compression_ratio": 1.6197916666666667,
+            "no_speech_prob": 0.15168793499469757,
+            "words": [
+                {
+                    "word": " racetrack,",
+                    "start": 27.14,
+                    "end": 27.5,
+                    "probability": 0.6680014710873365
+                },
+                {
+                    "word": " you're",
+                    "start": 27.66,
+                    "end": 27.7,
+                    "probability": 0.9695342183113098
+                },
+                {
+                    "word": " not",
+                    "start": 27.7,
+                    "end": 27.9,
+                    "probability": 0.9965673685073853
+                },
+                {
+                    "word": " going",
+                    "start": 27.9,
+                    "end": 28.02,
+                    "probability": 0.8610979914665222
+                },
+                {
+                    "word": " to",
+                    "start": 28.02,
+                    "end": 28.12,
+                    "probability": 0.9738131761550903
+                },
+                {
+                    "word": " get",
+                    "start": 28.12,
+                    "end": 28.28,
+                    "probability": 0.9889524579048157
+                },
+                {
+                    "word": " tripped",
+                    "start": 28.28,
+                    "end": 28.5,
+                    "probability": 0.984367698431015
+                },
+                {
+                    "word": " up",
+                    "start": 28.5,
+                    "end": 28.68,
+                    "probability": 0.9874796271324158
+                },
+                {
+                    "word": " by",
+                    "start": 28.68,
+                    "end": 28.94,
+                    "probability": 0.9854462146759033
+                },
+                {
+                    "word": " it",
+                    "start": 28.94,
+                    "end": 29.2,
+                    "probability": 0.9957002401351929
+                },
+                {
+                    "word": " because",
+                    "start": 29.2,
+                    "end": 29.8,
+                    "probability": 0.3543187081813812
+                },
+                {
+                    "word": " GitLab's,",
+                    "start": 29.8,
+                    "end": 30.68,
+                    "probability": 0.8479600747426351
+                },
+                {
+                    "word": " you",
+                    "start": 30.68,
+                    "end": 30.68,
+                    "probability": 0.6941587328910828
+                },
+                {
+                    "word": " know,",
+                    "start": 30.68,
+                    "end": 31.04,
+                    "probability": 0.9991362690925598
+                },
+                {
+                    "word": " its",
+                    "start": 31.18,
+                    "end": 31.34,
+                    "probability": 0.5587900280952454
+                },
+                {
+                    "word": " testing",
+                    "start": 31.34,
+                    "end": 31.58,
+                    "probability": 0.9970128536224365
+                },
+                {
+                    "word": " is",
+                    "start": 31.58,
+                    "end": 31.74,
+                    "probability": 0.9816135168075562
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2608,
+            "start": 31.74,
+            "end": 36.8,
+            "text": " going to catch that, its security is going to catch that. All of those elements that allow you",
+            "tokens": [
+                50640,
+                516,
+                281,
+                3745,
+                300,
+                11,
+                1080,
+                3825,
+                307,
+                516,
+                281,
+                3745,
+                300,
+                13,
+                1057,
+                295,
+                729,
+                4959,
+                300,
+                2089,
+                291,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16675390005111695,
+            "compression_ratio": 1.6197916666666667,
+            "no_speech_prob": 0.15168793499469757,
+            "words": [
+                {
+                    "word": " going",
+                    "start": 31.74,
+                    "end": 31.86,
+                    "probability": 0.9437070488929749
+                },
+                {
+                    "word": " to",
+                    "start": 31.86,
+                    "end": 32.02,
+                    "probability": 0.9985954165458679
+                },
+                {
+                    "word": " catch",
+                    "start": 32.02,
+                    "end": 32.14,
+                    "probability": 0.9983872175216675
+                },
+                {
+                    "word": " that,",
+                    "start": 32.14,
+                    "end": 32.36,
+                    "probability": 0.9935061931610107
+                },
+                {
+                    "word": " its",
+                    "start": 32.4,
+                    "end": 32.58,
+                    "probability": 0.6354838013648987
+                },
+                {
+                    "word": " security",
+                    "start": 32.58,
+                    "end": 32.72,
+                    "probability": 0.9926826357841492
+                },
+                {
+                    "word": " is",
+                    "start": 32.72,
+                    "end": 32.78,
+                    "probability": 0.8497986197471619
+                },
+                {
+                    "word": " going",
+                    "start": 32.78,
+                    "end": 32.92,
+                    "probability": 0.9662591814994812
+                },
+                {
+                    "word": " to",
+                    "start": 32.92,
+                    "end": 33.02,
+                    "probability": 0.9959688186645508
+                },
+                {
+                    "word": " catch",
+                    "start": 33.02,
+                    "end": 33.14,
+                    "probability": 0.9987674951553345
+                },
+                {
+                    "word": " that.",
+                    "start": 33.14,
+                    "end": 33.62,
+                    "probability": 0.9919106364250183
+                },
+                {
+                    "word": " All",
+                    "start": 34.36,
+                    "end": 34.56,
+                    "probability": 0.9301733374595642
+                },
+                {
+                    "word": " of",
+                    "start": 34.56,
+                    "end": 34.72,
+                    "probability": 0.9339105486869812
+                },
+                {
+                    "word": " those",
+                    "start": 34.72,
+                    "end": 34.94,
+                    "probability": 0.9994333386421204
+                },
+                {
+                    "word": " elements",
+                    "start": 34.94,
+                    "end": 35.52,
+                    "probability": 0.9994334578514099
+                },
+                {
+                    "word": " that",
+                    "start": 35.52,
+                    "end": 36.34,
+                    "probability": 0.9836183190345764
+                },
+                {
+                    "word": " allow",
+                    "start": 36.34,
+                    "end": 36.62,
+                    "probability": 0.9973204731941223
+                },
+                {
+                    "word": " you",
+                    "start": 36.62,
+                    "end": 36.8,
+                    "probability": 0.9996863603591919
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2608,
+            "start": 36.8,
+            "end": 40.22,
+            "text": " to move faster but to do so with confidence because otherwise you're like the faster you go,",
+            "tokens": [
+                50892,
+                281,
+                1286,
+                4663,
+                457,
+                281,
+                360,
+                370,
+                365,
+                6687,
+                570,
+                5911,
+                291,
+                434,
+                411,
+                264,
+                4663,
+                291,
+                352,
+                11,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16675390005111695,
+            "compression_ratio": 1.6197916666666667,
+            "no_speech_prob": 0.15168793499469757,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 36.8,
+                    "end": 36.96,
+                    "probability": 0.9993751645088196
+                },
+                {
+                    "word": " move",
+                    "start": 36.96,
+                    "end": 37.12,
+                    "probability": 0.9964771866798401
+                },
+                {
+                    "word": " faster",
+                    "start": 37.12,
+                    "end": 37.48,
+                    "probability": 0.9991518259048462
+                },
+                {
+                    "word": " but",
+                    "start": 37.48,
+                    "end": 37.7,
+                    "probability": 0.43223217129707336
+                },
+                {
+                    "word": " to",
+                    "start": 37.7,
+                    "end": 37.86,
+                    "probability": 0.9876470565795898
+                },
+                {
+                    "word": " do",
+                    "start": 37.86,
+                    "end": 37.98,
+                    "probability": 0.9983221888542175
+                },
+                {
+                    "word": " so",
+                    "start": 37.98,
+                    "end": 38.1,
+                    "probability": 0.9982625842094421
+                },
+                {
+                    "word": " with",
+                    "start": 38.1,
+                    "end": 38.36,
+                    "probability": 0.9978050589561462
+                },
+                {
+                    "word": " confidence",
+                    "start": 38.36,
+                    "end": 38.6,
+                    "probability": 0.9989377856254578
+                },
+                {
+                    "word": " because",
+                    "start": 38.6,
+                    "end": 38.82,
+                    "probability": 0.5567090511322021
+                },
+                {
+                    "word": " otherwise",
+                    "start": 38.82,
+                    "end": 39.08,
+                    "probability": 0.9875884652137756
+                },
+                {
+                    "word": " you're",
+                    "start": 39.08,
+                    "end": 39.3,
+                    "probability": 0.8827546536922455
+                },
+                {
+                    "word": " like",
+                    "start": 39.3,
+                    "end": 39.5,
+                    "probability": 0.9579237103462219
+                },
+                {
+                    "word": " the",
+                    "start": 39.5,
+                    "end": 39.76,
+                    "probability": 0.5117136240005493
+                },
+                {
+                    "word": " faster",
+                    "start": 39.76,
+                    "end": 40.02,
+                    "probability": 0.9981163740158081
+                },
+                {
+                    "word": " you",
+                    "start": 40.02,
+                    "end": 40.1,
+                    "probability": 0.9909291863441467
+                },
+                {
+                    "word": " go,",
+                    "start": 40.1,
+                    "end": 40.22,
+                    "probability": 0.9986312985420227
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2608,
+            "start": 40.34,
+            "end": 41.12,
+            "text": " then it gets more dangerous.",
+            "tokens": [
+                51064,
+                550,
+                309,
+                2170,
+                544,
+                5795,
+                13,
+                51116
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.16675390005111695,
+            "compression_ratio": 1.6197916666666667,
+            "no_speech_prob": 0.15168793499469757,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 40.34,
+                    "end": 40.34,
+                    "probability": 0.9611039161682129
+                },
+                {
+                    "word": " it",
+                    "start": 40.34,
+                    "end": 40.42,
+                    "probability": 0.9979590177536011
+                },
+                {
+                    "word": " gets",
+                    "start": 40.42,
+                    "end": 40.52,
+                    "probability": 0.9985170960426331
+                },
+                {
+                    "word": " more",
+                    "start": 40.52,
+                    "end": 40.7,
+                    "probability": 0.9984163045883179
+                },
+                {
+                    "word": " dangerous.",
+                    "start": 40.7,
+                    "end": 41.12,
+                    "probability": 0.9987244009971619
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

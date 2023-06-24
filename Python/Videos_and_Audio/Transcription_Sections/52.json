@@ -1,0 +1,440 @@
+{
+    "text": " We need to have a security one in there. We could have either vulnerability management or I was what I've been struggling with a little bit is I'd like to kind of group the some of this, the proprietary scanning without making it sound like they're scanning improvements, because that sounds like they weren't good before.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.46,
+            "end": 16.86,
+            "text": " We need to have a security one in there. We could have either vulnerability management or I was what I've been struggling with a little bit is I'd like to kind of group the some of this, the proprietary scanning",
+            "tokens": [
+                50364,
+                492,
+                643,
+                281,
+                362,
+                257,
+                3825,
+                472,
+                294,
+                456,
+                13,
+                492,
+                727,
+                362,
+                2139,
+                24210,
+                4592,
+                420,
+                286,
+                390,
+                437,
+                286,
+                600,
+                668,
+                9314,
+                365,
+                257,
+                707,
+                857,
+                307,
+                286,
+                1116,
+                411,
+                281,
+                733,
+                295,
+                1594,
+                264,
+                512,
+                295,
+                341,
+                11,
+                264,
+                38992,
+                27019,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15326508231784985,
+            "compression_ratio": 1.61,
+            "no_speech_prob": 0.00010389571980340406,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.46,
+                    "end": 1.02,
+                    "probability": 0.4094821810722351
+                },
+                {
+                    "word": " need",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.9675834774971008
+                },
+                {
+                    "word": " to",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.993846595287323
+                },
+                {
+                    "word": " have",
+                    "start": 1.38,
+                    "end": 1.46,
+                    "probability": 0.9990529417991638
+                },
+                {
+                    "word": " a",
+                    "start": 1.46,
+                    "end": 1.74,
+                    "probability": 0.9963220357894897
+                },
+                {
+                    "word": " security",
+                    "start": 1.74,
+                    "end": 1.98,
+                    "probability": 0.9957631826400757
+                },
+                {
+                    "word": " one",
+                    "start": 1.98,
+                    "end": 2.14,
+                    "probability": 0.9796535968780518
+                },
+                {
+                    "word": " in",
+                    "start": 2.14,
+                    "end": 2.36,
+                    "probability": 0.994549572467804
+                },
+                {
+                    "word": " there.",
+                    "start": 2.36,
+                    "end": 2.62,
+                    "probability": 0.9958213567733765
+                },
+                {
+                    "word": " We",
+                    "start": 2.84,
+                    "end": 2.84,
+                    "probability": 0.991805911064148
+                },
+                {
+                    "word": " could",
+                    "start": 2.84,
+                    "end": 3.0,
+                    "probability": 0.9207708239555359
+                },
+                {
+                    "word": " have",
+                    "start": 3.0,
+                    "end": 3.24,
+                    "probability": 0.996073842048645
+                },
+                {
+                    "word": " either",
+                    "start": 3.24,
+                    "end": 3.54,
+                    "probability": 0.9886478781700134
+                },
+                {
+                    "word": " vulnerability",
+                    "start": 3.54,
+                    "end": 4.08,
+                    "probability": 0.9470685124397278
+                },
+                {
+                    "word": " management",
+                    "start": 4.08,
+                    "end": 4.8,
+                    "probability": 0.9936590790748596
+                },
+                {
+                    "word": " or",
+                    "start": 4.8,
+                    "end": 5.62,
+                    "probability": 0.8020710349082947
+                },
+                {
+                    "word": " I",
+                    "start": 5.62,
+                    "end": 7.34,
+                    "probability": 0.3642105758190155
+                },
+                {
+                    "word": " was",
+                    "start": 7.34,
+                    "end": 7.74,
+                    "probability": 0.9268631935119629
+                },
+                {
+                    "word": " what",
+                    "start": 7.74,
+                    "end": 8.02,
+                    "probability": 0.6652503609657288
+                },
+                {
+                    "word": " I've",
+                    "start": 8.02,
+                    "end": 8.28,
+                    "probability": 0.9494332671165466
+                },
+                {
+                    "word": " been",
+                    "start": 8.28,
+                    "end": 8.46,
+                    "probability": 0.9988433122634888
+                },
+                {
+                    "word": " struggling",
+                    "start": 8.46,
+                    "end": 8.78,
+                    "probability": 0.9983704686164856
+                },
+                {
+                    "word": " with",
+                    "start": 8.78,
+                    "end": 9.06,
+                    "probability": 0.9986116886138916
+                },
+                {
+                    "word": " a",
+                    "start": 9.06,
+                    "end": 9.22,
+                    "probability": 0.9757416248321533
+                },
+                {
+                    "word": " little",
+                    "start": 9.22,
+                    "end": 9.36,
+                    "probability": 0.99779212474823
+                },
+                {
+                    "word": " bit",
+                    "start": 9.36,
+                    "end": 9.46,
+                    "probability": 0.9985723495483398
+                },
+                {
+                    "word": " is",
+                    "start": 9.46,
+                    "end": 9.64,
+                    "probability": 0.6939316391944885
+                },
+                {
+                    "word": " I'd",
+                    "start": 9.64,
+                    "end": 9.82,
+                    "probability": 0.967947781085968
+                },
+                {
+                    "word": " like",
+                    "start": 9.82,
+                    "end": 9.9,
+                    "probability": 0.9973369240760803
+                },
+                {
+                    "word": " to",
+                    "start": 9.9,
+                    "end": 10.12,
+                    "probability": 0.9987269043922424
+                },
+                {
+                    "word": " kind",
+                    "start": 10.12,
+                    "end": 10.28,
+                    "probability": 0.9736186861991882
+                },
+                {
+                    "word": " of",
+                    "start": 10.28,
+                    "end": 10.54,
+                    "probability": 0.9989606142044067
+                },
+                {
+                    "word": " group",
+                    "start": 10.54,
+                    "end": 10.94,
+                    "probability": 0.9946333169937134
+                },
+                {
+                    "word": " the",
+                    "start": 10.94,
+                    "end": 13.02,
+                    "probability": 0.7314847111701965
+                },
+                {
+                    "word": " some",
+                    "start": 13.02,
+                    "end": 14.36,
+                    "probability": 0.8110924959182739
+                },
+                {
+                    "word": " of",
+                    "start": 14.36,
+                    "end": 14.52,
+                    "probability": 0.9986336827278137
+                },
+                {
+                    "word": " this,",
+                    "start": 14.52,
+                    "end": 15.14,
+                    "probability": 0.9750964045524597
+                },
+                {
+                    "word": " the",
+                    "start": 15.14,
+                    "end": 15.68,
+                    "probability": 0.8265171051025391
+                },
+                {
+                    "word": " proprietary",
+                    "start": 15.68,
+                    "end": 16.14,
+                    "probability": 0.9975734353065491
+                },
+                {
+                    "word": " scanning",
+                    "start": 16.14,
+                    "end": 16.86,
+                    "probability": 0.998599112033844
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 16.86,
+            "end": 27.16,
+            "text": " without making it sound like they're scanning improvements, because that sounds like they weren't good before.",
+            "tokens": [
+                51414,
+                1553,
+                1455,
+                309,
+                1626,
+                411,
+                436,
+                434,
+                27019,
+                13797,
+                11,
+                570,
+                300,
+                3263,
+                411,
+                436,
+                4999,
+                380,
+                665,
+                949,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15326508231784985,
+            "compression_ratio": 1.61,
+            "no_speech_prob": 0.00010389571980340406,
+            "words": [
+                {
+                    "word": " without",
+                    "start": 16.86,
+                    "end": 21.48,
+                    "probability": 0.7255678772926331
+                },
+                {
+                    "word": " making",
+                    "start": 21.48,
+                    "end": 21.8,
+                    "probability": 0.9984918832778931
+                },
+                {
+                    "word": " it",
+                    "start": 21.8,
+                    "end": 22.1,
+                    "probability": 0.9984248876571655
+                },
+                {
+                    "word": " sound",
+                    "start": 22.1,
+                    "end": 22.26,
+                    "probability": 0.9980562925338745
+                },
+                {
+                    "word": " like",
+                    "start": 22.26,
+                    "end": 22.6,
+                    "probability": 0.9991098046302795
+                },
+                {
+                    "word": " they're",
+                    "start": 22.6,
+                    "end": 22.92,
+                    "probability": 0.9570624530315399
+                },
+                {
+                    "word": " scanning",
+                    "start": 22.92,
+                    "end": 23.16,
+                    "probability": 0.9982495903968811
+                },
+                {
+                    "word": " improvements,",
+                    "start": 23.16,
+                    "end": 23.96,
+                    "probability": 0.9951668977737427
+                },
+                {
+                    "word": " because",
+                    "start": 23.96,
+                    "end": 24.52,
+                    "probability": 0.9981449842453003
+                },
+                {
+                    "word": " that",
+                    "start": 24.52,
+                    "end": 24.88,
+                    "probability": 0.9993330836296082
+                },
+                {
+                    "word": " sounds",
+                    "start": 24.88,
+                    "end": 25.2,
+                    "probability": 0.9988104104995728
+                },
+                {
+                    "word": " like",
+                    "start": 25.2,
+                    "end": 25.62,
+                    "probability": 0.9991627931594849
+                },
+                {
+                    "word": " they",
+                    "start": 25.62,
+                    "end": 25.82,
+                    "probability": 0.988849937915802
+                },
+                {
+                    "word": " weren't",
+                    "start": 25.82,
+                    "end": 25.94,
+                    "probability": 0.9977704882621765
+                },
+                {
+                    "word": " good",
+                    "start": 25.94,
+                    "end": 26.2,
+                    "probability": 0.9977366924285889
+                },
+                {
+                    "word": " before.",
+                    "start": 26.2,
+                    "end": 27.16,
+                    "probability": 0.9941995143890381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

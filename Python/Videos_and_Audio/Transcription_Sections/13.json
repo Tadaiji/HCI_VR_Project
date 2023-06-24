@@ -1,0 +1,83 @@
+{
+    "text": " Yeah, GitOps has been canceled after the enablement.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.62,
+            "text": " Yeah, GitOps has been canceled after the enablement.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                16939,
+                36179,
+                575,
+                668,
+                24839,
+                934,
+                264,
+                9528,
+                518,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3278602282206217,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.0009536176221445203,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.5010661482810974
+                },
+                {
+                    "word": " GitOps",
+                    "start": 0.74,
+                    "end": 1.0,
+                    "probability": 0.769189864397049
+                },
+                {
+                    "word": " has",
+                    "start": 1.0,
+                    "end": 1.3,
+                    "probability": 0.9933844208717346
+                },
+                {
+                    "word": " been",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.9957252740859985
+                },
+                {
+                    "word": " canceled",
+                    "start": 1.5,
+                    "end": 2.06,
+                    "probability": 0.6517288088798523
+                },
+                {
+                    "word": " after",
+                    "start": 2.06,
+                    "end": 3.08,
+                    "probability": 0.5563474893569946
+                },
+                {
+                    "word": " the",
+                    "start": 3.08,
+                    "end": 4.08,
+                    "probability": 0.9977930784225464
+                },
+                {
+                    "word": " enablement.",
+                    "start": 4.08,
+                    "end": 4.62,
+                    "probability": 0.9475719332695007
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
