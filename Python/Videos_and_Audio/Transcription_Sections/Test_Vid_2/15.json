@@ -1,0 +1,74 @@
+{
+    "text": " Okay, have you been going to that?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 1.32,
+            "text": " Okay, have you been going to that?",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                362,
+                291,
+                668,
+                516,
+                281,
+                300,
+                30,
+                50432
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39070149262746173,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.009307382628321648,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.1,
+                    "end": 0.4,
+                    "probability": 0.372042715549469
+                },
+                {
+                    "word": " have",
+                    "start": 0.5,
+                    "end": 0.54,
+                    "probability": 0.9905115962028503
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.68,
+                    "probability": 0.999768078327179
+                },
+                {
+                    "word": " been",
+                    "start": 0.68,
+                    "end": 0.84,
+                    "probability": 0.9985826015472412
+                },
+                {
+                    "word": " going",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9984038472175598
+                },
+                {
+                    "word": " to",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.9585646390914917
+                },
+                {
+                    "word": " that?",
+                    "start": 1.26,
+                    "end": 1.32,
+                    "probability": 0.9926286935806274
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

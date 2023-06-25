@@ -1,0 +1,288 @@
+{
+    "text": " That's great. Thank you very much for that Axel and welcome to, I think the first meeting you've been to. Yep. It's nice to have you here. Welcome. Yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.8,
+            "text": " That's great. Thank you very much for that Axel and welcome to, I think the first meeting you've been to.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                869,
+                13,
+                1044,
+                291,
+                588,
+                709,
+                337,
+                300,
+                20118,
+                338,
+                293,
+                2928,
+                281,
+                11,
+                286,
+                519,
+                264,
+                700,
+                3440,
+                291,
+                600,
+                668,
+                281,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766139283472178,
+            "compression_ratio": 1.2540983606557377,
+            "no_speech_prob": 0.009348220191895962,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8816428184509277
+                },
+                {
+                    "word": " great.",
+                    "start": 0.38,
+                    "end": 0.52,
+                    "probability": 0.997450053691864
+                },
+                {
+                    "word": " Thank",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.9952955842018127
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 0.9,
+                    "probability": 0.9997300505638123
+                },
+                {
+                    "word": " very",
+                    "start": 0.9,
+                    "end": 1.1,
+                    "probability": 0.997554361820221
+                },
+                {
+                    "word": " much",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9983277916908264
+                },
+                {
+                    "word": " for",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9947617650032043
+                },
+                {
+                    "word": " that",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.9931422472000122
+                },
+                {
+                    "word": " Axel",
+                    "start": 1.56,
+                    "end": 1.82,
+                    "probability": 0.7043375819921494
+                },
+                {
+                    "word": " and",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.6402341723442078
+                },
+                {
+                    "word": " welcome",
+                    "start": 2.04,
+                    "end": 2.32,
+                    "probability": 0.9919840693473816
+                },
+                {
+                    "word": " to,",
+                    "start": 2.32,
+                    "end": 2.76,
+                    "probability": 0.9746649861335754
+                },
+                {
+                    "word": " I",
+                    "start": 2.92,
+                    "end": 3.04,
+                    "probability": 0.9912875294685364
+                },
+                {
+                    "word": " think",
+                    "start": 3.04,
+                    "end": 3.36,
+                    "probability": 0.9987156391143799
+                },
+                {
+                    "word": " the",
+                    "start": 3.36,
+                    "end": 3.64,
+                    "probability": 0.6334241032600403
+                },
+                {
+                    "word": " first",
+                    "start": 3.64,
+                    "end": 3.94,
+                    "probability": 0.997136116027832
+                },
+                {
+                    "word": " meeting",
+                    "start": 3.94,
+                    "end": 4.2,
+                    "probability": 0.9960301518440247
+                },
+                {
+                    "word": " you've",
+                    "start": 4.2,
+                    "end": 4.48,
+                    "probability": 0.7891690731048584
+                },
+                {
+                    "word": " been",
+                    "start": 4.48,
+                    "end": 4.6,
+                    "probability": 0.990168571472168
+                },
+                {
+                    "word": " to.",
+                    "start": 4.6,
+                    "end": 4.8,
+                    "probability": 0.9584081172943115
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.82,
+            "end": 5.14,
+            "text": " Yep.",
+            "tokens": [
+                50598,
+                7010,
+                13,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766139283472178,
+            "compression_ratio": 1.2540983606557377,
+            "no_speech_prob": 0.009348220191895962,
+            "words": [
+                {
+                    "word": " Yep.",
+                    "start": 4.82,
+                    "end": 5.14,
+                    "probability": 0.1413591057062149
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.64,
+            "end": 9.3,
+            "text": " It's nice to have you here. Welcome.",
+            "tokens": [
+                50754,
+                467,
+                311,
+                1481,
+                281,
+                362,
+                291,
+                510,
+                13,
+                4027,
+                13,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766139283472178,
+            "compression_ratio": 1.2540983606557377,
+            "no_speech_prob": 0.009348220191895962,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 6.64,
+                    "end": 8.28,
+                    "probability": 0.6296047568321228
+                },
+                {
+                    "word": " nice",
+                    "start": 8.28,
+                    "end": 8.28,
+                    "probability": 0.9884207248687744
+                },
+                {
+                    "word": " to",
+                    "start": 8.28,
+                    "end": 8.48,
+                    "probability": 0.9984412789344788
+                },
+                {
+                    "word": " have",
+                    "start": 8.48,
+                    "end": 8.58,
+                    "probability": 0.9994783997535706
+                },
+                {
+                    "word": " you",
+                    "start": 8.58,
+                    "end": 8.74,
+                    "probability": 0.9989156723022461
+                },
+                {
+                    "word": " here.",
+                    "start": 8.74,
+                    "end": 8.94,
+                    "probability": 0.9951209425926208
+                },
+                {
+                    "word": " Welcome.",
+                    "start": 8.96,
+                    "end": 9.3,
+                    "probability": 0.9758018255233765
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.5,
+            "end": 9.68,
+            "text": " Yeah.",
+            "tokens": [
+                50830,
+                865,
+                13,
+                50852
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766139283472178,
+            "compression_ratio": 1.2540983606557377,
+            "no_speech_prob": 0.009348220191895962,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 9.5,
+                    "end": 9.68,
+                    "probability": 0.9746463894844055
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

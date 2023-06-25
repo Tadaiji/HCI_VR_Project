@@ -1,0 +1,858 @@
+{
+    "text": " I'll add something. We have a front end weekly call as well. And Dan, it is hard to kind of scale on that social level. So one thing we've been doing recently is every month we'll do a front end themed call where it gives everybody an opportunity to like, like someone will pick like what's your favorite movie, what's your favorite book, and everybody will list that stuff out. And then everybody votes and chooses a winner and then the winner picks the next theme for some social interaction on a larger scale. So just wanted to throw that out there as an idea.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.12,
+            "text": " I'll add something. We have a front end weekly call as well. And Dan, it is hard to kind of scale",
+            "tokens": [
+                50364,
+                286,
+                603,
+                909,
+                746,
+                13,
+                492,
+                362,
+                257,
+                1868,
+                917,
+                12460,
+                818,
+                382,
+                731,
+                13,
+                400,
+                3394,
+                11,
+                309,
+                307,
+                1152,
+                281,
+                733,
+                295,
+                4373,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14235290459224156,
+            "compression_ratio": 1.769811320754717,
+            "no_speech_prob": 0.004536410328000784,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.7010810077190399
+                },
+                {
+                    "word": " add",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9930258989334106
+                },
+                {
+                    "word": " something.",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.9944273233413696
+                },
+                {
+                    "word": " We",
+                    "start": 2.22,
+                    "end": 3.02,
+                    "probability": 0.6646413803100586
+                },
+                {
+                    "word": " have",
+                    "start": 3.02,
+                    "end": 3.22,
+                    "probability": 0.9978996515274048
+                },
+                {
+                    "word": " a",
+                    "start": 3.22,
+                    "end": 3.36,
+                    "probability": 0.9969164133071899
+                },
+                {
+                    "word": " front",
+                    "start": 3.36,
+                    "end": 3.5,
+                    "probability": 0.9624733924865723
+                },
+                {
+                    "word": " end",
+                    "start": 3.5,
+                    "end": 3.66,
+                    "probability": 0.4377844035625458
+                },
+                {
+                    "word": " weekly",
+                    "start": 3.66,
+                    "end": 3.98,
+                    "probability": 0.988549530506134
+                },
+                {
+                    "word": " call",
+                    "start": 3.98,
+                    "end": 4.24,
+                    "probability": 0.9968124032020569
+                },
+                {
+                    "word": " as",
+                    "start": 4.24,
+                    "end": 4.48,
+                    "probability": 0.9228100180625916
+                },
+                {
+                    "word": " well.",
+                    "start": 4.48,
+                    "end": 5.04,
+                    "probability": 0.9990942478179932
+                },
+                {
+                    "word": " And",
+                    "start": 5.86,
+                    "end": 6.0,
+                    "probability": 0.6362678408622742
+                },
+                {
+                    "word": " Dan,",
+                    "start": 6.0,
+                    "end": 6.1,
+                    "probability": 0.8468479514122009
+                },
+                {
+                    "word": " it",
+                    "start": 6.2,
+                    "end": 6.2,
+                    "probability": 0.992912232875824
+                },
+                {
+                    "word": " is",
+                    "start": 6.2,
+                    "end": 6.4,
+                    "probability": 0.9803147315979004
+                },
+                {
+                    "word": " hard",
+                    "start": 6.4,
+                    "end": 6.5,
+                    "probability": 0.9894864559173584
+                },
+                {
+                    "word": " to",
+                    "start": 6.5,
+                    "end": 6.68,
+                    "probability": 0.9994097948074341
+                },
+                {
+                    "word": " kind",
+                    "start": 6.68,
+                    "end": 6.76,
+                    "probability": 0.7268425822257996
+                },
+                {
+                    "word": " of",
+                    "start": 6.76,
+                    "end": 6.96,
+                    "probability": 0.9984710812568665
+                },
+                {
+                    "word": " scale",
+                    "start": 6.96,
+                    "end": 7.12,
+                    "probability": 0.9988308548927307
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.12,
+            "end": 12.54,
+            "text": " on that social level. So one thing we've been doing recently is every month we'll do a front",
+            "tokens": [
+                50712,
+                322,
+                300,
+                2093,
+                1496,
+                13,
+                407,
+                472,
+                551,
+                321,
+                600,
+                668,
+                884,
+                3938,
+                307,
+                633,
+                1618,
+                321,
+                603,
+                360,
+                257,
+                1868,
+                50984
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14235290459224156,
+            "compression_ratio": 1.769811320754717,
+            "no_speech_prob": 0.004536410328000784,
+            "words": [
+                {
+                    "word": " on",
+                    "start": 7.12,
+                    "end": 7.28,
+                    "probability": 0.8743671178817749
+                },
+                {
+                    "word": " that",
+                    "start": 7.28,
+                    "end": 7.44,
+                    "probability": 0.9254229068756104
+                },
+                {
+                    "word": " social",
+                    "start": 7.44,
+                    "end": 7.9,
+                    "probability": 0.9986962676048279
+                },
+                {
+                    "word": " level.",
+                    "start": 7.9,
+                    "end": 8.24,
+                    "probability": 0.9992720484733582
+                },
+                {
+                    "word": " So",
+                    "start": 8.52,
+                    "end": 8.72,
+                    "probability": 0.9759700298309326
+                },
+                {
+                    "word": " one",
+                    "start": 8.72,
+                    "end": 8.88,
+                    "probability": 0.9203885197639465
+                },
+                {
+                    "word": " thing",
+                    "start": 8.88,
+                    "end": 9.02,
+                    "probability": 0.9985551238059998
+                },
+                {
+                    "word": " we've",
+                    "start": 9.02,
+                    "end": 9.36,
+                    "probability": 0.9962120056152344
+                },
+                {
+                    "word": " been",
+                    "start": 9.36,
+                    "end": 9.52,
+                    "probability": 0.9992964267730713
+                },
+                {
+                    "word": " doing",
+                    "start": 9.52,
+                    "end": 9.68,
+                    "probability": 0.9997559189796448
+                },
+                {
+                    "word": " recently",
+                    "start": 9.68,
+                    "end": 10.1,
+                    "probability": 0.9990382194519043
+                },
+                {
+                    "word": " is",
+                    "start": 10.1,
+                    "end": 10.7,
+                    "probability": 0.9706867337226868
+                },
+                {
+                    "word": " every",
+                    "start": 10.7,
+                    "end": 11.38,
+                    "probability": 0.8535240888595581
+                },
+                {
+                    "word": " month",
+                    "start": 11.38,
+                    "end": 11.7,
+                    "probability": 0.9996520280838013
+                },
+                {
+                    "word": " we'll",
+                    "start": 11.7,
+                    "end": 11.94,
+                    "probability": 0.8949773609638214
+                },
+                {
+                    "word": " do",
+                    "start": 11.94,
+                    "end": 12.16,
+                    "probability": 0.9988755583763123
+                },
+                {
+                    "word": " a",
+                    "start": 12.16,
+                    "end": 12.38,
+                    "probability": 0.9990333318710327
+                },
+                {
+                    "word": " front",
+                    "start": 12.38,
+                    "end": 12.54,
+                    "probability": 0.9975125789642334
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.54,
+            "end": 16.7,
+            "text": " end themed call where it gives everybody an opportunity to like, like someone will pick like",
+            "tokens": [
+                50984,
+                917,
+                33920,
+                818,
+                689,
+                309,
+                2709,
+                2201,
+                364,
+                2650,
+                281,
+                411,
+                11,
+                411,
+                1580,
+                486,
+                1888,
+                411,
+                51188
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14235290459224156,
+            "compression_ratio": 1.769811320754717,
+            "no_speech_prob": 0.004536410328000784,
+            "words": [
+                {
+                    "word": " end",
+                    "start": 12.54,
+                    "end": 12.8,
+                    "probability": 0.9132066965103149
+                },
+                {
+                    "word": " themed",
+                    "start": 12.8,
+                    "end": 13.04,
+                    "probability": 0.819661557674408
+                },
+                {
+                    "word": " call",
+                    "start": 13.04,
+                    "end": 13.46,
+                    "probability": 0.995701253414154
+                },
+                {
+                    "word": " where",
+                    "start": 13.46,
+                    "end": 13.92,
+                    "probability": 0.5674501657485962
+                },
+                {
+                    "word": " it",
+                    "start": 13.92,
+                    "end": 14.0,
+                    "probability": 0.9796182513237
+                },
+                {
+                    "word": " gives",
+                    "start": 14.0,
+                    "end": 14.14,
+                    "probability": 0.9976170659065247
+                },
+                {
+                    "word": " everybody",
+                    "start": 14.14,
+                    "end": 14.48,
+                    "probability": 0.9967343807220459
+                },
+                {
+                    "word": " an",
+                    "start": 14.48,
+                    "end": 14.6,
+                    "probability": 0.9742935299873352
+                },
+                {
+                    "word": " opportunity",
+                    "start": 14.6,
+                    "end": 14.98,
+                    "probability": 0.9995695948600769
+                },
+                {
+                    "word": " to",
+                    "start": 14.98,
+                    "end": 15.2,
+                    "probability": 0.9136149883270264
+                },
+                {
+                    "word": " like,",
+                    "start": 15.2,
+                    "end": 15.82,
+                    "probability": 0.7842975854873657
+                },
+                {
+                    "word": " like",
+                    "start": 15.82,
+                    "end": 16.0,
+                    "probability": 0.5666998624801636
+                },
+                {
+                    "word": " someone",
+                    "start": 16.0,
+                    "end": 16.14,
+                    "probability": 0.7325479984283447
+                },
+                {
+                    "word": " will",
+                    "start": 16.14,
+                    "end": 16.32,
+                    "probability": 0.9110631942749023
+                },
+                {
+                    "word": " pick",
+                    "start": 16.32,
+                    "end": 16.44,
+                    "probability": 0.9809768795967102
+                },
+                {
+                    "word": " like",
+                    "start": 16.44,
+                    "end": 16.7,
+                    "probability": 0.7828096747398376
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.7,
+            "end": 20.28,
+            "text": " what's your favorite movie, what's your favorite book, and everybody will list that stuff out.",
+            "tokens": [
+                51188,
+                437,
+                311,
+                428,
+                2954,
+                3169,
+                11,
+                437,
+                311,
+                428,
+                2954,
+                1446,
+                11,
+                293,
+                2201,
+                486,
+                1329,
+                300,
+                1507,
+                484,
+                13,
+                51380
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14235290459224156,
+            "compression_ratio": 1.769811320754717,
+            "no_speech_prob": 0.004536410328000784,
+            "words": [
+                {
+                    "word": " what's",
+                    "start": 16.7,
+                    "end": 16.88,
+                    "probability": 0.7109535783529282
+                },
+                {
+                    "word": " your",
+                    "start": 16.88,
+                    "end": 17.02,
+                    "probability": 0.9988054037094116
+                },
+                {
+                    "word": " favorite",
+                    "start": 17.02,
+                    "end": 17.26,
+                    "probability": 0.9728397130966187
+                },
+                {
+                    "word": " movie,",
+                    "start": 17.26,
+                    "end": 17.66,
+                    "probability": 0.9978394508361816
+                },
+                {
+                    "word": " what's",
+                    "start": 17.82,
+                    "end": 18.02,
+                    "probability": 0.9936909377574921
+                },
+                {
+                    "word": " your",
+                    "start": 18.02,
+                    "end": 18.14,
+                    "probability": 0.999382734298706
+                },
+                {
+                    "word": " favorite",
+                    "start": 18.14,
+                    "end": 18.36,
+                    "probability": 0.9974368810653687
+                },
+                {
+                    "word": " book,",
+                    "start": 18.36,
+                    "end": 18.7,
+                    "probability": 0.9996278285980225
+                },
+                {
+                    "word": " and",
+                    "start": 18.7,
+                    "end": 18.88,
+                    "probability": 0.9967135190963745
+                },
+                {
+                    "word": " everybody",
+                    "start": 18.88,
+                    "end": 19.14,
+                    "probability": 0.9951701760292053
+                },
+                {
+                    "word": " will",
+                    "start": 19.14,
+                    "end": 19.32,
+                    "probability": 0.7587416768074036
+                },
+                {
+                    "word": " list",
+                    "start": 19.32,
+                    "end": 19.48,
+                    "probability": 0.9979395270347595
+                },
+                {
+                    "word": " that",
+                    "start": 19.48,
+                    "end": 19.76,
+                    "probability": 0.9992546439170837
+                },
+                {
+                    "word": " stuff",
+                    "start": 19.76,
+                    "end": 19.9,
+                    "probability": 0.9996403455734253
+                },
+                {
+                    "word": " out.",
+                    "start": 19.9,
+                    "end": 20.28,
+                    "probability": 0.9994126558303833
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.4,
+            "end": 29.8,
+            "text": " And then everybody votes and chooses a winner and then the winner picks the next theme for",
+            "tokens": [
+                51380,
+                400,
+                550,
+                2201,
+                12068,
+                293,
+                25963,
+                257,
+                8507,
+                293,
+                550,
+                264,
+                8507,
+                16137,
+                264,
+                958,
+                6314,
+                337,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14235290459224156,
+            "compression_ratio": 1.769811320754717,
+            "no_speech_prob": 0.004536410328000784,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 20.4,
+                    "end": 20.62,
+                    "probability": 0.9913297891616821
+                },
+                {
+                    "word": " then",
+                    "start": 20.62,
+                    "end": 21.08,
+                    "probability": 0.9980993866920471
+                },
+                {
+                    "word": " everybody",
+                    "start": 21.08,
+                    "end": 21.5,
+                    "probability": 0.9948087930679321
+                },
+                {
+                    "word": " votes",
+                    "start": 21.5,
+                    "end": 21.9,
+                    "probability": 0.9954063892364502
+                },
+                {
+                    "word": " and",
+                    "start": 21.9,
+                    "end": 22.08,
+                    "probability": 0.9938405752182007
+                },
+                {
+                    "word": " chooses",
+                    "start": 22.08,
+                    "end": 22.28,
+                    "probability": 0.9983797073364258
+                },
+                {
+                    "word": " a",
+                    "start": 22.28,
+                    "end": 22.48,
+                    "probability": 0.6140824556350708
+                },
+                {
+                    "word": " winner",
+                    "start": 22.48,
+                    "end": 22.64,
+                    "probability": 0.9991315007209778
+                },
+                {
+                    "word": " and",
+                    "start": 22.64,
+                    "end": 22.78,
+                    "probability": 0.3563377261161804
+                },
+                {
+                    "word": " then",
+                    "start": 22.78,
+                    "end": 22.94,
+                    "probability": 0.9940800070762634
+                },
+                {
+                    "word": " the",
+                    "start": 22.94,
+                    "end": 23.08,
+                    "probability": 0.9992368221282959
+                },
+                {
+                    "word": " winner",
+                    "start": 23.08,
+                    "end": 23.26,
+                    "probability": 0.9987006187438965
+                },
+                {
+                    "word": " picks",
+                    "start": 23.26,
+                    "end": 23.52,
+                    "probability": 0.9935861229896545
+                },
+                {
+                    "word": " the",
+                    "start": 23.52,
+                    "end": 25.18,
+                    "probability": 0.9937356114387512
+                },
+                {
+                    "word": " next",
+                    "start": 25.18,
+                    "end": 25.38,
+                    "probability": 0.9935877323150635
+                },
+                {
+                    "word": " theme",
+                    "start": 25.38,
+                    "end": 25.66,
+                    "probability": 0.3636936843395233
+                },
+                {
+                    "word": " for",
+                    "start": 25.66,
+                    "end": 29.8,
+                    "probability": 0.9960013031959534
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2980,
+            "start": 29.8,
+            "end": 34.24,
+            "text": " some social interaction on a larger scale. So just wanted to throw that out there as an idea.",
+            "tokens": [
+                50364,
+                512,
+                2093,
+                9285,
+                322,
+                257,
+                4833,
+                4373,
+                13,
+                407,
+                445,
+                1415,
+                281,
+                3507,
+                300,
+                484,
+                456,
+                382,
+                364,
+                1558,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2134561124055282,
+            "compression_ratio": 1.1625,
+            "no_speech_prob": 0.222095787525177,
+            "words": [
+                {
+                    "word": " some",
+                    "start": 29.8,
+                    "end": 30.02,
+                    "probability": 0.5229459404945374
+                },
+                {
+                    "word": " social",
+                    "start": 30.02,
+                    "end": 30.4,
+                    "probability": 0.992331862449646
+                },
+                {
+                    "word": " interaction",
+                    "start": 30.4,
+                    "end": 30.86,
+                    "probability": 0.9969103932380676
+                },
+                {
+                    "word": " on",
+                    "start": 30.86,
+                    "end": 31.08,
+                    "probability": 0.9958258867263794
+                },
+                {
+                    "word": " a",
+                    "start": 31.08,
+                    "end": 31.22,
+                    "probability": 0.9977083206176758
+                },
+                {
+                    "word": " larger",
+                    "start": 31.22,
+                    "end": 31.44,
+                    "probability": 0.9982668161392212
+                },
+                {
+                    "word": " scale.",
+                    "start": 31.44,
+                    "end": 31.72,
+                    "probability": 0.9990824460983276
+                },
+                {
+                    "word": " So",
+                    "start": 31.82,
+                    "end": 31.92,
+                    "probability": 0.921254575252533
+                },
+                {
+                    "word": " just",
+                    "start": 31.92,
+                    "end": 32.04,
+                    "probability": 0.7585724592208862
+                },
+                {
+                    "word": " wanted",
+                    "start": 32.04,
+                    "end": 32.14,
+                    "probability": 0.8235493898391724
+                },
+                {
+                    "word": " to",
+                    "start": 32.14,
+                    "end": 32.3,
+                    "probability": 0.996402382850647
+                },
+                {
+                    "word": " throw",
+                    "start": 32.3,
+                    "end": 32.38,
+                    "probability": 0.9967016577720642
+                },
+                {
+                    "word": " that",
+                    "start": 32.38,
+                    "end": 32.54,
+                    "probability": 0.9981568455696106
+                },
+                {
+                    "word": " out",
+                    "start": 32.54,
+                    "end": 32.64,
+                    "probability": 0.9980419874191284
+                },
+                {
+                    "word": " there",
+                    "start": 32.64,
+                    "end": 32.9,
+                    "probability": 0.9895422458648682
+                },
+                {
+                    "word": " as",
+                    "start": 32.9,
+                    "end": 33.54,
+                    "probability": 0.7703343033790588
+                },
+                {
+                    "word": " an",
+                    "start": 33.54,
+                    "end": 34.0,
+                    "probability": 0.5053755044937134
+                },
+                {
+                    "word": " idea.",
+                    "start": 34.0,
+                    "end": 34.24,
+                    "probability": 0.9984334111213684
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

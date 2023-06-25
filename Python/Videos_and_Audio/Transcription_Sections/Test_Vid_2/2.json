@@ -1,0 +1,497 @@
+{
+    "text": " Sure, not a problem. So I'm Nico. My name is Nicolo, but Nico is perfect for everybody. Before Github, I was working in PuiLab, so I guess Lapa sticks with me. I'm really in love with UJS, and I maintain some open source packages, and I'm really excited to start.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 1.34,
+            "text": " Sure, not a problem.",
+            "tokens": [
+                50364,
+                4894,
+                11,
+                406,
+                257,
+                1154,
+                13,
+                50484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " Sure,",
+                    "start": 0.1,
+                    "end": 0.62,
+                    "probability": 0.7883227467536926
+                },
+                {
+                    "word": " not",
+                    "start": 0.76,
+                    "end": 0.88,
+                    "probability": 0.9701289534568787
+                },
+                {
+                    "word": " a",
+                    "start": 0.88,
+                    "end": 1.06,
+                    "probability": 0.9819867610931396
+                },
+                {
+                    "word": " problem.",
+                    "start": 1.06,
+                    "end": 1.34,
+                    "probability": 0.9978784322738647
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.66,
+            "end": 3.1,
+            "text": " So I'm Nico.",
+            "tokens": [
+                50484,
+                407,
+                286,
+                478,
+                15115,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.66,
+                    "end": 2.72,
+                    "probability": 0.8736433386802673
+                },
+                {
+                    "word": " I'm",
+                    "start": 2.72,
+                    "end": 2.96,
+                    "probability": 0.829961359500885
+                },
+                {
+                    "word": " Nico.",
+                    "start": 2.96,
+                    "end": 3.1,
+                    "probability": 0.7973310351371765
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.28,
+            "end": 5.54,
+            "text": " My name is Nicolo, but Nico is perfect for everybody.",
+            "tokens": [
+                50520,
+                1222,
+                1315,
+                307,
+                14776,
+                7902,
+                11,
+                457,
+                15115,
+                307,
+                2176,
+                337,
+                2201,
+                13,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 3.28,
+                    "end": 3.28,
+                    "probability": 0.9936479926109314
+                },
+                {
+                    "word": " name",
+                    "start": 3.28,
+                    "end": 3.42,
+                    "probability": 0.9987121820449829
+                },
+                {
+                    "word": " is",
+                    "start": 3.42,
+                    "end": 3.6,
+                    "probability": 0.9981257319450378
+                },
+                {
+                    "word": " Nicolo,",
+                    "start": 3.6,
+                    "end": 3.9,
+                    "probability": 0.6753050684928894
+                },
+                {
+                    "word": " but",
+                    "start": 4.02,
+                    "end": 4.14,
+                    "probability": 0.9742343425750732
+                },
+                {
+                    "word": " Nico",
+                    "start": 4.14,
+                    "end": 4.28,
+                    "probability": 0.450361967086792
+                },
+                {
+                    "word": " is",
+                    "start": 4.28,
+                    "end": 4.5,
+                    "probability": 0.7742655873298645
+                },
+                {
+                    "word": " perfect",
+                    "start": 4.5,
+                    "end": 4.84,
+                    "probability": 0.9970284104347229
+                },
+                {
+                    "word": " for",
+                    "start": 4.84,
+                    "end": 5.1,
+                    "probability": 0.9969974756240845
+                },
+                {
+                    "word": " everybody.",
+                    "start": 5.1,
+                    "end": 5.54,
+                    "probability": 0.9979071617126465
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.3,
+            "end": 10.42,
+            "text": " Before Github, I was working in PuiLab,",
+            "tokens": [
+                50776,
+                4546,
+                460,
+                355,
+                836,
+                11,
+                286,
+                390,
+                1364,
+                294,
+                430,
+                3077,
+                37880,
+                11,
+                50884
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " Before",
+                    "start": 8.3,
+                    "end": 8.6,
+                    "probability": 0.9552051424980164
+                },
+                {
+                    "word": " Github,",
+                    "start": 8.6,
+                    "end": 8.88,
+                    "probability": 0.5210802753766378
+                },
+                {
+                    "word": " I",
+                    "start": 8.88,
+                    "end": 9.22,
+                    "probability": 0.9896399974822998
+                },
+                {
+                    "word": " was",
+                    "start": 9.22,
+                    "end": 9.48,
+                    "probability": 0.9930582046508789
+                },
+                {
+                    "word": " working",
+                    "start": 9.48,
+                    "end": 9.84,
+                    "probability": 0.9984633922576904
+                },
+                {
+                    "word": " in",
+                    "start": 9.84,
+                    "end": 10.14,
+                    "probability": 0.9858060479164124
+                },
+                {
+                    "word": " PuiLab,",
+                    "start": 10.14,
+                    "end": 10.42,
+                    "probability": 0.5454612076282501
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.7,
+            "end": 12.92,
+            "text": " so I guess Lapa sticks with me.",
+            "tokens": [
+                50884,
+                370,
+                286,
+                2041,
+                441,
+                7961,
+                12518,
+                365,
+                385,
+                13,
+                51068
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " so",
+                    "start": 10.7,
+                    "end": 10.72,
+                    "probability": 0.9952664375305176
+                },
+                {
+                    "word": " I",
+                    "start": 10.72,
+                    "end": 10.72,
+                    "probability": 0.9782700538635254
+                },
+                {
+                    "word": " guess",
+                    "start": 10.72,
+                    "end": 11.12,
+                    "probability": 0.998963475227356
+                },
+                {
+                    "word": " Lapa",
+                    "start": 11.12,
+                    "end": 11.56,
+                    "probability": 0.40136580169200897
+                },
+                {
+                    "word": " sticks",
+                    "start": 11.56,
+                    "end": 11.84,
+                    "probability": 0.9546792507171631
+                },
+                {
+                    "word": " with",
+                    "start": 11.84,
+                    "end": 12.1,
+                    "probability": 0.9990822076797485
+                },
+                {
+                    "word": " me.",
+                    "start": 12.1,
+                    "end": 12.92,
+                    "probability": 0.9996521472930908
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 13.96,
+            "end": 17.98,
+            "text": " I'm really in love with UJS, and I maintain some open source",
+            "tokens": [
+                51068,
+                286,
+                478,
+                534,
+                294,
+                959,
+                365,
+                624,
+                41,
+                50,
+                11,
+                293,
+                286,
+                6909,
+                512,
+                1269,
+                4009,
+                51260
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 13.96,
+                    "end": 14.36,
+                    "probability": 0.9669203460216522
+                },
+                {
+                    "word": " really",
+                    "start": 14.36,
+                    "end": 14.52,
+                    "probability": 0.8760395050048828
+                },
+                {
+                    "word": " in",
+                    "start": 14.52,
+                    "end": 14.66,
+                    "probability": 0.9975311160087585
+                },
+                {
+                    "word": " love",
+                    "start": 14.66,
+                    "end": 14.78,
+                    "probability": 0.9973330497741699
+                },
+                {
+                    "word": " with",
+                    "start": 14.78,
+                    "end": 15.04,
+                    "probability": 0.9963080883026123
+                },
+                {
+                    "word": " UJS,",
+                    "start": 15.04,
+                    "end": 15.92,
+                    "probability": 0.844926635424296
+                },
+                {
+                    "word": " and",
+                    "start": 15.92,
+                    "end": 16.58,
+                    "probability": 0.9919568300247192
+                },
+                {
+                    "word": " I",
+                    "start": 16.58,
+                    "end": 16.78,
+                    "probability": 0.9984266757965088
+                },
+                {
+                    "word": " maintain",
+                    "start": 16.78,
+                    "end": 17.06,
+                    "probability": 0.9333188533782959
+                },
+                {
+                    "word": " some",
+                    "start": 17.06,
+                    "end": 17.5,
+                    "probability": 0.9973456263542175
+                },
+                {
+                    "word": " open",
+                    "start": 17.5,
+                    "end": 17.74,
+                    "probability": 0.8852888941764832
+                },
+                {
+                    "word": " source",
+                    "start": 17.74,
+                    "end": 17.98,
+                    "probability": 0.7723067998886108
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.98,
+            "end": 19.84,
+            "text": " packages, and I'm really excited to start.",
+            "tokens": [
+                51260,
+                17401,
+                11,
+                293,
+                286,
+                478,
+                534,
+                2919,
+                281,
+                722,
+                13,
+                51416
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32121627632228805,
+            "compression_ratio": 1.4064171122994653,
+            "no_speech_prob": 0.0018204150255769491,
+            "words": [
+                {
+                    "word": " packages,",
+                    "start": 17.98,
+                    "end": 18.4,
+                    "probability": 0.9988844990730286
+                },
+                {
+                    "word": " and",
+                    "start": 18.54,
+                    "end": 18.88,
+                    "probability": 0.9979119896888733
+                },
+                {
+                    "word": " I'm",
+                    "start": 18.88,
+                    "end": 19.08,
+                    "probability": 0.9269281029701233
+                },
+                {
+                    "word": " really",
+                    "start": 19.08,
+                    "end": 19.26,
+                    "probability": 0.963325560092926
+                },
+                {
+                    "word": " excited",
+                    "start": 19.26,
+                    "end": 19.54,
+                    "probability": 0.9987925291061401
+                },
+                {
+                    "word": " to",
+                    "start": 19.54,
+                    "end": 19.62,
+                    "probability": 0.9421268701553345
+                },
+                {
+                    "word": " start.",
+                    "start": 19.62,
+                    "end": 19.84,
+                    "probability": 0.997917115688324
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

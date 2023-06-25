@@ -1,0 +1,508 @@
+{
+    "text": " Yeah, I mean, it's very back and forth. Like some weeks, it doesn't even really happen because nobody puts anything on the agenda. And then other weeks, a few people will show up and read from some other people's notes. But it's I like it just to, you know, get a little face time with some people in other areas.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.16,
+            "end": 5.42,
+            "text": " Yeah, I mean, it's very back and forth. Like some weeks, it doesn't even really happen because",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                914,
+                11,
+                309,
+                311,
+                588,
+                646,
+                293,
+                5220,
+                13,
+                1743,
+                512,
+                3259,
+                11,
+                309,
+                1177,
+                380,
+                754,
+                534,
+                1051,
+                570,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17076723259615612,
+            "compression_ratio": 1.526829268292683,
+            "no_speech_prob": 0.00036797529901377857,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.16,
+                    "end": 1.56,
+                    "probability": 0.7977311611175537
+                },
+                {
+                    "word": " I",
+                    "start": 1.9,
+                    "end": 1.96,
+                    "probability": 0.6599675416946411
+                },
+                {
+                    "word": " mean,",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9947562217712402
+                },
+                {
+                    "word": " it's",
+                    "start": 2.3,
+                    "end": 2.64,
+                    "probability": 0.9950188100337982
+                },
+                {
+                    "word": " very",
+                    "start": 2.64,
+                    "end": 2.82,
+                    "probability": 0.9966985583305359
+                },
+                {
+                    "word": " back",
+                    "start": 2.82,
+                    "end": 3.04,
+                    "probability": 0.9970332384109497
+                },
+                {
+                    "word": " and",
+                    "start": 3.04,
+                    "end": 3.22,
+                    "probability": 0.9391550421714783
+                },
+                {
+                    "word": " forth.",
+                    "start": 3.22,
+                    "end": 3.36,
+                    "probability": 0.9981803894042969
+                },
+                {
+                    "word": " Like",
+                    "start": 3.52,
+                    "end": 3.62,
+                    "probability": 0.7435945868492126
+                },
+                {
+                    "word": " some",
+                    "start": 3.62,
+                    "end": 3.74,
+                    "probability": 0.7331103682518005
+                },
+                {
+                    "word": " weeks,",
+                    "start": 3.74,
+                    "end": 4.0,
+                    "probability": 0.9963729381561279
+                },
+                {
+                    "word": " it",
+                    "start": 4.16,
+                    "end": 4.28,
+                    "probability": 0.9972584247589111
+                },
+                {
+                    "word": " doesn't",
+                    "start": 4.28,
+                    "end": 4.58,
+                    "probability": 0.999699205160141
+                },
+                {
+                    "word": " even",
+                    "start": 4.58,
+                    "end": 4.76,
+                    "probability": 0.9824981093406677
+                },
+                {
+                    "word": " really",
+                    "start": 4.76,
+                    "end": 4.96,
+                    "probability": 0.9965116381645203
+                },
+                {
+                    "word": " happen",
+                    "start": 4.96,
+                    "end": 5.2,
+                    "probability": 0.9964298605918884
+                },
+                {
+                    "word": " because",
+                    "start": 5.2,
+                    "end": 5.42,
+                    "probability": 0.7258279919624329
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.42,
+            "end": 10.5,
+            "text": " nobody puts anything on the agenda. And then other weeks, a few people will show up and read",
+            "tokens": [
+                50624,
+                5079,
+                8137,
+                1340,
+                322,
+                264,
+                9829,
+                13,
+                400,
+                550,
+                661,
+                3259,
+                11,
+                257,
+                1326,
+                561,
+                486,
+                855,
+                493,
+                293,
+                1401,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17076723259615612,
+            "compression_ratio": 1.526829268292683,
+            "no_speech_prob": 0.00036797529901377857,
+            "words": [
+                {
+                    "word": " nobody",
+                    "start": 5.42,
+                    "end": 5.64,
+                    "probability": 0.9969471096992493
+                },
+                {
+                    "word": " puts",
+                    "start": 5.64,
+                    "end": 5.9,
+                    "probability": 0.9977046847343445
+                },
+                {
+                    "word": " anything",
+                    "start": 5.9,
+                    "end": 6.18,
+                    "probability": 0.9991080164909363
+                },
+                {
+                    "word": " on",
+                    "start": 6.18,
+                    "end": 6.4,
+                    "probability": 0.9993763566017151
+                },
+                {
+                    "word": " the",
+                    "start": 6.4,
+                    "end": 6.54,
+                    "probability": 0.9997771382331848
+                },
+                {
+                    "word": " agenda.",
+                    "start": 6.54,
+                    "end": 6.9,
+                    "probability": 0.9984896183013916
+                },
+                {
+                    "word": " And",
+                    "start": 7.46,
+                    "end": 8.24,
+                    "probability": 0.9672297835350037
+                },
+                {
+                    "word": " then",
+                    "start": 8.24,
+                    "end": 8.4,
+                    "probability": 0.9833179712295532
+                },
+                {
+                    "word": " other",
+                    "start": 8.4,
+                    "end": 8.54,
+                    "probability": 0.9730225205421448
+                },
+                {
+                    "word": " weeks,",
+                    "start": 8.54,
+                    "end": 8.78,
+                    "probability": 0.9982004165649414
+                },
+                {
+                    "word": " a",
+                    "start": 8.86,
+                    "end": 8.98,
+                    "probability": 0.9952389001846313
+                },
+                {
+                    "word": " few",
+                    "start": 8.98,
+                    "end": 9.08,
+                    "probability": 0.9998552799224854
+                },
+                {
+                    "word": " people",
+                    "start": 9.08,
+                    "end": 9.34,
+                    "probability": 0.9996345043182373
+                },
+                {
+                    "word": " will",
+                    "start": 9.34,
+                    "end": 9.56,
+                    "probability": 0.99820876121521
+                },
+                {
+                    "word": " show",
+                    "start": 9.56,
+                    "end": 9.7,
+                    "probability": 0.998593270778656
+                },
+                {
+                    "word": " up",
+                    "start": 9.7,
+                    "end": 9.86,
+                    "probability": 0.9996383190155029
+                },
+                {
+                    "word": " and",
+                    "start": 9.86,
+                    "end": 10.14,
+                    "probability": 0.9904014468193054
+                },
+                {
+                    "word": " read",
+                    "start": 10.14,
+                    "end": 10.5,
+                    "probability": 0.9929336309432983
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.5,
+            "end": 16.76,
+            "text": " from some other people's notes. But it's I like it just to, you know, get a little",
+            "tokens": [
+                50892,
+                490,
+                512,
+                661,
+                561,
+                311,
+                5570,
+                13,
+                583,
+                309,
+                311,
+                286,
+                411,
+                309,
+                445,
+                281,
+                11,
+                291,
+                458,
+                11,
+                483,
+                257,
+                707,
+                51192
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17076723259615612,
+            "compression_ratio": 1.526829268292683,
+            "no_speech_prob": 0.00036797529901377857,
+            "words": [
+                {
+                    "word": " from",
+                    "start": 10.5,
+                    "end": 11.0,
+                    "probability": 0.9942849278450012
+                },
+                {
+                    "word": " some",
+                    "start": 11.0,
+                    "end": 11.18,
+                    "probability": 0.9971069693565369
+                },
+                {
+                    "word": " other",
+                    "start": 11.18,
+                    "end": 11.38,
+                    "probability": 0.9961110949516296
+                },
+                {
+                    "word": " people's",
+                    "start": 11.38,
+                    "end": 12.4,
+                    "probability": 0.9933973848819733
+                },
+                {
+                    "word": " notes.",
+                    "start": 12.4,
+                    "end": 12.4,
+                    "probability": 0.997334361076355
+                },
+                {
+                    "word": " But",
+                    "start": 13.82,
+                    "end": 14.32,
+                    "probability": 0.975688636302948
+                },
+                {
+                    "word": " it's",
+                    "start": 14.32,
+                    "end": 14.68,
+                    "probability": 0.7562259137630463
+                },
+                {
+                    "word": " I",
+                    "start": 14.68,
+                    "end": 14.94,
+                    "probability": 0.6422186493873596
+                },
+                {
+                    "word": " like",
+                    "start": 14.94,
+                    "end": 15.12,
+                    "probability": 0.9890774488449097
+                },
+                {
+                    "word": " it",
+                    "start": 15.12,
+                    "end": 15.28,
+                    "probability": 0.9888926148414612
+                },
+                {
+                    "word": " just",
+                    "start": 15.28,
+                    "end": 15.46,
+                    "probability": 0.942884087562561
+                },
+                {
+                    "word": " to,",
+                    "start": 15.46,
+                    "end": 15.74,
+                    "probability": 0.9975773692131042
+                },
+                {
+                    "word": " you",
+                    "start": 15.74,
+                    "end": 15.82,
+                    "probability": 0.9987862706184387
+                },
+                {
+                    "word": " know,",
+                    "start": 15.82,
+                    "end": 16.18,
+                    "probability": 0.9996975660324097
+                },
+                {
+                    "word": " get",
+                    "start": 16.38,
+                    "end": 16.46,
+                    "probability": 0.996802568435669
+                },
+                {
+                    "word": " a",
+                    "start": 16.46,
+                    "end": 16.6,
+                    "probability": 0.9996651411056519
+                },
+                {
+                    "word": " little",
+                    "start": 16.6,
+                    "end": 16.76,
+                    "probability": 0.9998526573181152
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.76,
+            "end": 18.62,
+            "text": " face time with some people in other areas.",
+            "tokens": [
+                51192,
+                1851,
+                565,
+                365,
+                512,
+                561,
+                294,
+                661,
+                3179,
+                13,
+                51324
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17076723259615612,
+            "compression_ratio": 1.526829268292683,
+            "no_speech_prob": 0.00036797529901377857,
+            "words": [
+                {
+                    "word": " face",
+                    "start": 16.76,
+                    "end": 17.04,
+                    "probability": 0.7490407824516296
+                },
+                {
+                    "word": " time",
+                    "start": 17.04,
+                    "end": 17.22,
+                    "probability": 0.9936105608940125
+                },
+                {
+                    "word": " with",
+                    "start": 17.22,
+                    "end": 17.44,
+                    "probability": 0.9988454580307007
+                },
+                {
+                    "word": " some",
+                    "start": 17.44,
+                    "end": 17.6,
+                    "probability": 0.9992433786392212
+                },
+                {
+                    "word": " people",
+                    "start": 17.6,
+                    "end": 17.88,
+                    "probability": 0.9998296499252319
+                },
+                {
+                    "word": " in",
+                    "start": 17.88,
+                    "end": 18.08,
+                    "probability": 0.8854582905769348
+                },
+                {
+                    "word": " other",
+                    "start": 18.08,
+                    "end": 18.22,
+                    "probability": 0.9993554949760437
+                },
+                {
+                    "word": " areas.",
+                    "start": 18.22,
+                    "end": 18.62,
+                    "probability": 0.9992833733558655
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,31 @@
+{
+    "text": " today.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.32,
+            "text": " today.",
+            "tokens": [
+                50364,
+                965,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7525102615356445,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.6860945820808411,
+            "words": [
+                {
+                    "word": " today.",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.460599422454834
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

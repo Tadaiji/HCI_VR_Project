@@ -1,0 +1,1555 @@
+{
+    "text": " I don't blame people for feeling happier that way. So go check that out if you're interested. Don't spend a heap of time on it, but there's already a consensus by the look of it that we may be pulling the weekend on call out. And then we're looking at the next item I had was the way to move forward on the community contribution for Composer, which is the PHP package manager. Gigi's taken a look at that, and I did see a massive commit going to that over the weekend. So many, so many commits, just like, huge emails. So maybe that's going to start moving. I'm following that MR so that I can get notifications when stuff happens on it, because I really would love to see that move forward, because when the community spends time contributing, it's obviously important that we support them as best as we can. So I feel like that one's pretty well answered so far. And on to you, Axel.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.52,
+            "text": " I don't blame people for feeling happier that way.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                10127,
+                561,
+                337,
+                2633,
+                20423,
+                300,
+                636,
+                13,
+                50542
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.8296866416931152
+                },
+                {
+                    "word": " don't",
+                    "start": 0.16,
+                    "end": 0.42,
+                    "probability": 0.9925614297389984
+                },
+                {
+                    "word": " blame",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.9963647723197937
+                },
+                {
+                    "word": " people",
+                    "start": 0.6,
+                    "end": 0.94,
+                    "probability": 0.9970685839653015
+                },
+                {
+                    "word": " for",
+                    "start": 0.94,
+                    "end": 1.2,
+                    "probability": 0.9567235708236694
+                },
+                {
+                    "word": " feeling",
+                    "start": 1.2,
+                    "end": 1.42,
+                    "probability": 0.9820197224617004
+                },
+                {
+                    "word": " happier",
+                    "start": 1.42,
+                    "end": 1.76,
+                    "probability": 0.9735051393508911
+                },
+                {
+                    "word": " that",
+                    "start": 1.76,
+                    "end": 2.02,
+                    "probability": 0.9951509237289429
+                },
+                {
+                    "word": " way.",
+                    "start": 2.02,
+                    "end": 2.52,
+                    "probability": 0.9995063543319702
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.72,
+            "end": 5.66,
+            "text": " So go check that out if you're interested.",
+            "tokens": [
+                50542,
+                407,
+                352,
+                1520,
+                300,
+                484,
+                498,
+                291,
+                434,
+                3102,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 3.72,
+                    "end": 4.02,
+                    "probability": 0.830562174320221
+                },
+                {
+                    "word": " go",
+                    "start": 4.02,
+                    "end": 4.36,
+                    "probability": 0.7926734089851379
+                },
+                {
+                    "word": " check",
+                    "start": 4.36,
+                    "end": 4.58,
+                    "probability": 0.9881552457809448
+                },
+                {
+                    "word": " that",
+                    "start": 4.58,
+                    "end": 4.86,
+                    "probability": 0.8540012836456299
+                },
+                {
+                    "word": " out",
+                    "start": 4.86,
+                    "end": 5.02,
+                    "probability": 0.9258564114570618
+                },
+                {
+                    "word": " if",
+                    "start": 5.02,
+                    "end": 5.04,
+                    "probability": 0.9125033617019653
+                },
+                {
+                    "word": " you're",
+                    "start": 5.04,
+                    "end": 5.24,
+                    "probability": 0.9947119057178497
+                },
+                {
+                    "word": " interested.",
+                    "start": 5.24,
+                    "end": 5.66,
+                    "probability": 0.9980936646461487
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.08,
+            "end": 8.22,
+            "text": " Don't spend a heap of time on it, but there's already",
+            "tokens": [
+                50664,
+                1468,
+                380,
+                3496,
+                257,
+                33591,
+                295,
+                565,
+                322,
+                309,
+                11,
+                457,
+                456,
+                311,
+                1217,
+                50782
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " Don't",
+                    "start": 6.08,
+                    "end": 6.28,
+                    "probability": 0.8980252742767334
+                },
+                {
+                    "word": " spend",
+                    "start": 6.28,
+                    "end": 6.48,
+                    "probability": 0.993857204914093
+                },
+                {
+                    "word": " a",
+                    "start": 6.48,
+                    "end": 6.62,
+                    "probability": 0.9925642609596252
+                },
+                {
+                    "word": " heap",
+                    "start": 6.62,
+                    "end": 6.74,
+                    "probability": 0.9680050611495972
+                },
+                {
+                    "word": " of",
+                    "start": 6.74,
+                    "end": 6.92,
+                    "probability": 0.990934431552887
+                },
+                {
+                    "word": " time",
+                    "start": 6.92,
+                    "end": 7.04,
+                    "probability": 0.999184787273407
+                },
+                {
+                    "word": " on",
+                    "start": 7.04,
+                    "end": 7.18,
+                    "probability": 0.9990228414535522
+                },
+                {
+                    "word": " it,",
+                    "start": 7.18,
+                    "end": 7.34,
+                    "probability": 0.9974619150161743
+                },
+                {
+                    "word": " but",
+                    "start": 7.34,
+                    "end": 7.5,
+                    "probability": 0.997047483921051
+                },
+                {
+                    "word": " there's",
+                    "start": 7.5,
+                    "end": 7.74,
+                    "probability": 0.9914823770523071
+                },
+                {
+                    "word": " already",
+                    "start": 7.74,
+                    "end": 8.22,
+                    "probability": 0.9969810843467712
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.22,
+            "end": 10.86,
+            "text": " a consensus by the look of it that we may be pulling",
+            "tokens": [
+                50782,
+                257,
+                19115,
+                538,
+                264,
+                574,
+                295,
+                309,
+                300,
+                321,
+                815,
+                312,
+                8407,
+                50910
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 8.22,
+                    "end": 8.72,
+                    "probability": 0.4635360538959503
+                },
+                {
+                    "word": " consensus",
+                    "start": 8.72,
+                    "end": 9.36,
+                    "probability": 0.6408483982086182
+                },
+                {
+                    "word": " by",
+                    "start": 9.36,
+                    "end": 9.56,
+                    "probability": 0.7501932382583618
+                },
+                {
+                    "word": " the",
+                    "start": 9.56,
+                    "end": 9.64,
+                    "probability": 0.877565860748291
+                },
+                {
+                    "word": " look",
+                    "start": 9.64,
+                    "end": 9.76,
+                    "probability": 0.8704690337181091
+                },
+                {
+                    "word": " of",
+                    "start": 9.76,
+                    "end": 9.8,
+                    "probability": 0.5285879969596863
+                },
+                {
+                    "word": " it",
+                    "start": 9.8,
+                    "end": 9.9,
+                    "probability": 0.9667204022407532
+                },
+                {
+                    "word": " that",
+                    "start": 9.9,
+                    "end": 10.0,
+                    "probability": 0.8177152276039124
+                },
+                {
+                    "word": " we",
+                    "start": 10.0,
+                    "end": 10.34,
+                    "probability": 0.9861648082733154
+                },
+                {
+                    "word": " may",
+                    "start": 10.34,
+                    "end": 10.5,
+                    "probability": 0.9507677555084229
+                },
+                {
+                    "word": " be",
+                    "start": 10.5,
+                    "end": 10.66,
+                    "probability": 0.9987307190895081
+                },
+                {
+                    "word": " pulling",
+                    "start": 10.66,
+                    "end": 10.86,
+                    "probability": 0.9922357201576233
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.86,
+            "end": 12.74,
+            "text": " the weekend on call out.",
+            "tokens": [
+                50910,
+                264,
+                6711,
+                322,
+                818,
+                484,
+                13,
+                50978
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 10.86,
+                    "end": 11.4,
+                    "probability": 0.743836522102356
+                },
+                {
+                    "word": " weekend",
+                    "start": 11.4,
+                    "end": 11.68,
+                    "probability": 0.8769882321357727
+                },
+                {
+                    "word": " on",
+                    "start": 11.68,
+                    "end": 11.92,
+                    "probability": 0.9244426488876343
+                },
+                {
+                    "word": " call",
+                    "start": 11.92,
+                    "end": 12.1,
+                    "probability": 0.8617034554481506
+                },
+                {
+                    "word": " out.",
+                    "start": 12.1,
+                    "end": 12.74,
+                    "probability": 0.6118075847625732
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.98,
+            "end": 21.92,
+            "text": " And then we're looking at the next item I had",
+            "tokens": [
+                51102,
+                400,
+                550,
+                321,
+                434,
+                1237,
+                412,
+                264,
+                958,
+                3174,
+                286,
+                632,
+                51458
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 14.98,
+                    "end": 14.98,
+                    "probability": 0.893059253692627
+                },
+                {
+                    "word": " then",
+                    "start": 14.98,
+                    "end": 16.6,
+                    "probability": 0.994516909122467
+                },
+                {
+                    "word": " we're",
+                    "start": 16.6,
+                    "end": 18.82,
+                    "probability": 0.8009738326072693
+                },
+                {
+                    "word": " looking",
+                    "start": 18.82,
+                    "end": 19.14,
+                    "probability": 0.9991753697395325
+                },
+                {
+                    "word": " at",
+                    "start": 19.14,
+                    "end": 19.56,
+                    "probability": 0.9976202845573425
+                },
+                {
+                    "word": " the",
+                    "start": 19.56,
+                    "end": 20.7,
+                    "probability": 0.8836168050765991
+                },
+                {
+                    "word": " next",
+                    "start": 20.7,
+                    "end": 21.34,
+                    "probability": 0.6196008324623108
+                },
+                {
+                    "word": " item",
+                    "start": 21.34,
+                    "end": 21.54,
+                    "probability": 0.9989575147628784
+                },
+                {
+                    "word": " I",
+                    "start": 21.54,
+                    "end": 21.76,
+                    "probability": 0.9726144671440125
+                },
+                {
+                    "word": " had",
+                    "start": 21.76,
+                    "end": 21.92,
+                    "probability": 0.9977444410324097
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 21.92,
+            "end": 26.44,
+            "text": " was the way to move forward on the community contribution",
+            "tokens": [
+                51458,
+                390,
+                264,
+                636,
+                281,
+                1286,
+                2128,
+                322,
+                264,
+                1768,
+                13150,
+                51688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23920902676052516,
+            "compression_ratio": 1.5373831775700935,
+            "no_speech_prob": 0.007571263238787651,
+            "words": [
+                {
+                    "word": " was",
+                    "start": 21.92,
+                    "end": 22.42,
+                    "probability": 0.9375759363174438
+                },
+                {
+                    "word": " the",
+                    "start": 22.42,
+                    "end": 23.14,
+                    "probability": 0.7638527750968933
+                },
+                {
+                    "word": " way",
+                    "start": 23.14,
+                    "end": 23.72,
+                    "probability": 0.9319173097610474
+                },
+                {
+                    "word": " to",
+                    "start": 23.72,
+                    "end": 23.86,
+                    "probability": 0.5017326474189758
+                },
+                {
+                    "word": " move",
+                    "start": 23.86,
+                    "end": 24.02,
+                    "probability": 0.9988216757774353
+                },
+                {
+                    "word": " forward",
+                    "start": 24.02,
+                    "end": 24.42,
+                    "probability": 0.9997453093528748
+                },
+                {
+                    "word": " on",
+                    "start": 24.42,
+                    "end": 24.84,
+                    "probability": 0.9992904663085938
+                },
+                {
+                    "word": " the",
+                    "start": 24.84,
+                    "end": 25.28,
+                    "probability": 0.9990052580833435
+                },
+                {
+                    "word": " community",
+                    "start": 25.28,
+                    "end": 25.62,
+                    "probability": 0.9383735060691833
+                },
+                {
+                    "word": " contribution",
+                    "start": 25.62,
+                    "end": 26.44,
+                    "probability": 0.9984831213951111
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2644,
+            "start": 27.62,
+            "end": 30.16,
+            "text": " for Composer, which is the PHP package manager.",
+            "tokens": [
+                50368,
+                337,
+                6620,
+                22150,
+                11,
+                597,
+                307,
+                264,
+                47298,
+                7372,
+                6598,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 27.62,
+                    "end": 28.1,
+                    "probability": 0.686704695224762
+                },
+                {
+                    "word": " Composer,",
+                    "start": 28.1,
+                    "end": 28.38,
+                    "probability": 0.8483138978481293
+                },
+                {
+                    "word": " which",
+                    "start": 28.58,
+                    "end": 28.62,
+                    "probability": 0.9442552924156189
+                },
+                {
+                    "word": " is",
+                    "start": 28.62,
+                    "end": 28.78,
+                    "probability": 0.992752194404602
+                },
+                {
+                    "word": " the",
+                    "start": 28.78,
+                    "end": 28.9,
+                    "probability": 0.48443105816841125
+                },
+                {
+                    "word": " PHP",
+                    "start": 28.9,
+                    "end": 29.24,
+                    "probability": 0.986381471157074
+                },
+                {
+                    "word": " package",
+                    "start": 29.24,
+                    "end": 29.64,
+                    "probability": 0.9365151524543762
+                },
+                {
+                    "word": " manager.",
+                    "start": 29.64,
+                    "end": 30.16,
+                    "probability": 0.9982301592826843
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2644,
+            "start": 31.18,
+            "end": 34.36,
+            "text": " Gigi's taken a look at that, and I did see a massive commit",
+            "tokens": [
+                50592,
+                460,
+                19789,
+                311,
+                2726,
+                257,
+                574,
+                412,
+                300,
+                11,
+                293,
+                286,
+                630,
+                536,
+                257,
+                5994,
+                5599,
+                50760
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " Gigi's",
+                    "start": 31.18,
+                    "end": 31.44,
+                    "probability": 0.7953657905260721
+                },
+                {
+                    "word": " taken",
+                    "start": 31.44,
+                    "end": 31.66,
+                    "probability": 0.7788220047950745
+                },
+                {
+                    "word": " a",
+                    "start": 31.66,
+                    "end": 31.78,
+                    "probability": 0.9991002082824707
+                },
+                {
+                    "word": " look",
+                    "start": 31.78,
+                    "end": 31.9,
+                    "probability": 0.9993240833282471
+                },
+                {
+                    "word": " at",
+                    "start": 31.9,
+                    "end": 32.0,
+                    "probability": 0.9986070990562439
+                },
+                {
+                    "word": " that,",
+                    "start": 32.0,
+                    "end": 32.16,
+                    "probability": 0.9981831908226013
+                },
+                {
+                    "word": " and",
+                    "start": 32.16,
+                    "end": 32.28,
+                    "probability": 0.994674563407898
+                },
+                {
+                    "word": " I",
+                    "start": 32.28,
+                    "end": 32.46,
+                    "probability": 0.9962790608406067
+                },
+                {
+                    "word": " did",
+                    "start": 32.46,
+                    "end": 32.68,
+                    "probability": 0.9969635605812073
+                },
+                {
+                    "word": " see",
+                    "start": 32.68,
+                    "end": 32.96,
+                    "probability": 0.9990227222442627
+                },
+                {
+                    "word": " a",
+                    "start": 32.96,
+                    "end": 33.6,
+                    "probability": 0.9991689920425415
+                },
+                {
+                    "word": " massive",
+                    "start": 33.6,
+                    "end": 34.02,
+                    "probability": 0.9975917339324951
+                },
+                {
+                    "word": " commit",
+                    "start": 34.02,
+                    "end": 34.36,
+                    "probability": 0.9882092475891113
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2644,
+            "start": 34.36,
+            "end": 35.94,
+            "text": " going to that over the weekend.",
+            "tokens": [
+                50760,
+                516,
+                281,
+                300,
+                670,
+                264,
+                6711,
+                13,
+                50874
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " going",
+                    "start": 34.36,
+                    "end": 34.62,
+                    "probability": 0.9859150648117065
+                },
+                {
+                    "word": " to",
+                    "start": 34.62,
+                    "end": 34.88,
+                    "probability": 0.6553535461425781
+                },
+                {
+                    "word": " that",
+                    "start": 34.88,
+                    "end": 35.1,
+                    "probability": 0.9989110231399536
+                },
+                {
+                    "word": " over",
+                    "start": 35.1,
+                    "end": 35.38,
+                    "probability": 0.9796074628829956
+                },
+                {
+                    "word": " the",
+                    "start": 35.38,
+                    "end": 35.52,
+                    "probability": 0.9981451034545898
+                },
+                {
+                    "word": " weekend.",
+                    "start": 35.52,
+                    "end": 35.94,
+                    "probability": 0.9941374063491821
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2644,
+            "start": 36.74,
+            "end": 40.78,
+            "text": " So many, so many commits, just like, huge emails.",
+            "tokens": [
+                50874,
+                407,
+                867,
+                11,
+                370,
+                867,
+                48311,
+                11,
+                445,
+                411,
+                11,
+                2603,
+                12524,
+                13,
+                51082
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 36.74,
+                    "end": 37.28,
+                    "probability": 0.6887032985687256
+                },
+                {
+                    "word": " many,",
+                    "start": 37.28,
+                    "end": 37.78,
+                    "probability": 0.9848281741142273
+                },
+                {
+                    "word": " so",
+                    "start": 37.78,
+                    "end": 38.08,
+                    "probability": 0.810414731502533
+                },
+                {
+                    "word": " many",
+                    "start": 38.08,
+                    "end": 38.58,
+                    "probability": 0.9904333353042603
+                },
+                {
+                    "word": " commits,",
+                    "start": 38.58,
+                    "end": 38.94,
+                    "probability": 0.8236050009727478
+                },
+                {
+                    "word": " just",
+                    "start": 39.24,
+                    "end": 39.34,
+                    "probability": 0.9863380789756775
+                },
+                {
+                    "word": " like,",
+                    "start": 39.34,
+                    "end": 40.3,
+                    "probability": 0.94940185546875
+                },
+                {
+                    "word": " huge",
+                    "start": 40.42,
+                    "end": 40.46,
+                    "probability": 0.55364990234375
+                },
+                {
+                    "word": " emails.",
+                    "start": 40.46,
+                    "end": 40.78,
+                    "probability": 0.7295904159545898
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2644,
+            "start": 41.04,
+            "end": 42.28,
+            "text": " So maybe that's going to start moving.",
+            "tokens": [
+                51082,
+                407,
+                1310,
+                300,
+                311,
+                516,
+                281,
+                722,
+                2684,
+                13,
+                51158
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 41.04,
+                    "end": 41.18,
+                    "probability": 0.8992301821708679
+                },
+                {
+                    "word": " maybe",
+                    "start": 41.18,
+                    "end": 41.42,
+                    "probability": 0.8996855020523071
+                },
+                {
+                    "word": " that's",
+                    "start": 41.42,
+                    "end": 41.7,
+                    "probability": 0.9939655661582947
+                },
+                {
+                    "word": " going",
+                    "start": 41.7,
+                    "end": 41.78,
+                    "probability": 0.6719013452529907
+                },
+                {
+                    "word": " to",
+                    "start": 41.78,
+                    "end": 41.92,
+                    "probability": 0.9993461966514587
+                },
+                {
+                    "word": " start",
+                    "start": 41.92,
+                    "end": 42.04,
+                    "probability": 0.993901252746582
+                },
+                {
+                    "word": " moving.",
+                    "start": 42.04,
+                    "end": 42.28,
+                    "probability": 0.9975647926330566
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2644,
+            "start": 42.5,
+            "end": 44.96,
+            "text": " I'm following that MR so that I can get notifications",
+            "tokens": [
+                51158,
+                286,
+                478,
+                3480,
+                300,
+                9808,
+                370,
+                300,
+                286,
+                393,
+                483,
+                13426,
+                51292
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 42.5,
+                    "end": 42.56,
+                    "probability": 0.9976320266723633
+                },
+                {
+                    "word": " following",
+                    "start": 42.56,
+                    "end": 42.94,
+                    "probability": 0.9989120960235596
+                },
+                {
+                    "word": " that",
+                    "start": 42.94,
+                    "end": 43.28,
+                    "probability": 0.997037410736084
+                },
+                {
+                    "word": " MR",
+                    "start": 43.28,
+                    "end": 43.48,
+                    "probability": 0.9174731969833374
+                },
+                {
+                    "word": " so",
+                    "start": 43.48,
+                    "end": 43.74,
+                    "probability": 0.7914984226226807
+                },
+                {
+                    "word": " that",
+                    "start": 43.74,
+                    "end": 43.9,
+                    "probability": 0.9924342632293701
+                },
+                {
+                    "word": " I",
+                    "start": 43.9,
+                    "end": 43.98,
+                    "probability": 0.9984758496284485
+                },
+                {
+                    "word": " can",
+                    "start": 43.98,
+                    "end": 44.16,
+                    "probability": 0.9995065927505493
+                },
+                {
+                    "word": " get",
+                    "start": 44.16,
+                    "end": 44.36,
+                    "probability": 0.9996670484542847
+                },
+                {
+                    "word": " notifications",
+                    "start": 44.36,
+                    "end": 44.96,
+                    "probability": 0.9943410158157349
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2644,
+            "start": 44.96,
+            "end": 46.58,
+            "text": " when stuff happens on it, because I really",
+            "tokens": [
+                51292,
+                562,
+                1507,
+                2314,
+                322,
+                309,
+                11,
+                570,
+                286,
+                534,
+                51374
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " when",
+                    "start": 44.96,
+                    "end": 45.24,
+                    "probability": 0.9897617697715759
+                },
+                {
+                    "word": " stuff",
+                    "start": 45.24,
+                    "end": 45.48,
+                    "probability": 0.9988231062889099
+                },
+                {
+                    "word": " happens",
+                    "start": 45.48,
+                    "end": 45.8,
+                    "probability": 0.9995474219322205
+                },
+                {
+                    "word": " on",
+                    "start": 45.8,
+                    "end": 46.0,
+                    "probability": 0.9976099729537964
+                },
+                {
+                    "word": " it,",
+                    "start": 46.0,
+                    "end": 46.06,
+                    "probability": 0.998714804649353
+                },
+                {
+                    "word": " because",
+                    "start": 46.08,
+                    "end": 46.16,
+                    "probability": 0.7728170156478882
+                },
+                {
+                    "word": " I",
+                    "start": 46.16,
+                    "end": 46.38,
+                    "probability": 0.9987917542457581
+                },
+                {
+                    "word": " really",
+                    "start": 46.38,
+                    "end": 46.58,
+                    "probability": 0.9904683232307434
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2644,
+            "start": 46.58,
+            "end": 48.86,
+            "text": " would love to see that move forward,",
+            "tokens": [
+                51374,
+                576,
+                959,
+                281,
+                536,
+                300,
+                1286,
+                2128,
+                11,
+                51488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " would",
+                    "start": 46.58,
+                    "end": 46.74,
+                    "probability": 0.9994107484817505
+                },
+                {
+                    "word": " love",
+                    "start": 46.74,
+                    "end": 46.86,
+                    "probability": 0.9864720106124878
+                },
+                {
+                    "word": " to",
+                    "start": 46.86,
+                    "end": 47.08,
+                    "probability": 0.9997259974479675
+                },
+                {
+                    "word": " see",
+                    "start": 47.08,
+                    "end": 47.16,
+                    "probability": 0.9994977712631226
+                },
+                {
+                    "word": " that",
+                    "start": 47.16,
+                    "end": 47.46,
+                    "probability": 0.9992371797561646
+                },
+                {
+                    "word": " move",
+                    "start": 47.46,
+                    "end": 48.16,
+                    "probability": 0.9925782084465027
+                },
+                {
+                    "word": " forward,",
+                    "start": 48.16,
+                    "end": 48.86,
+                    "probability": 0.7122198343276978
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2644,
+            "start": 48.92,
+            "end": 52.32,
+            "text": " because when the community spends time contributing,",
+            "tokens": [
+                51488,
+                570,
+                562,
+                264,
+                1768,
+                25620,
+                565,
+                19270,
+                11,
+                51660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 48.92,
+                    "end": 49.5,
+                    "probability": 0.9983201622962952
+                },
+                {
+                    "word": " when",
+                    "start": 49.5,
+                    "end": 50.08,
+                    "probability": 0.5093419551849365
+                },
+                {
+                    "word": " the",
+                    "start": 50.08,
+                    "end": 50.32,
+                    "probability": 0.9982557892799377
+                },
+                {
+                    "word": " community",
+                    "start": 50.32,
+                    "end": 50.84,
+                    "probability": 0.9978412389755249
+                },
+                {
+                    "word": " spends",
+                    "start": 50.84,
+                    "end": 51.58,
+                    "probability": 0.9962976574897766
+                },
+                {
+                    "word": " time",
+                    "start": 51.58,
+                    "end": 51.9,
+                    "probability": 0.9989219903945923
+                },
+                {
+                    "word": " contributing,",
+                    "start": 51.9,
+                    "end": 52.32,
+                    "probability": 0.9992610812187195
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2644,
+            "start": 52.36,
+            "end": 54.58,
+            "text": " it's obviously important that we support them",
+            "tokens": [
+                51660,
+                309,
+                311,
+                2745,
+                1021,
+                300,
+                321,
+                1406,
+                552,
+                51770
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 52.36,
+                    "end": 52.6,
+                    "probability": 0.9989416599273682
+                },
+                {
+                    "word": " obviously",
+                    "start": 52.6,
+                    "end": 52.82,
+                    "probability": 0.998534083366394
+                },
+                {
+                    "word": " important",
+                    "start": 52.82,
+                    "end": 53.12,
+                    "probability": 0.9991692304611206
+                },
+                {
+                    "word": " that",
+                    "start": 53.12,
+                    "end": 53.34,
+                    "probability": 0.9728485941886902
+                },
+                {
+                    "word": " we",
+                    "start": 53.34,
+                    "end": 53.92,
+                    "probability": 0.9985108971595764
+                },
+                {
+                    "word": " support",
+                    "start": 53.92,
+                    "end": 54.4,
+                    "probability": 0.9239972829818726
+                },
+                {
+                    "word": " them",
+                    "start": 54.4,
+                    "end": 54.58,
+                    "probability": 0.9884713888168335
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2644,
+            "start": 54.58,
+            "end": 55.64,
+            "text": " as best as we can.",
+            "tokens": [
+                51770,
+                382,
+                1151,
+                382,
+                321,
+                393,
+                13,
+                51840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21322389749380258,
+            "compression_ratio": 1.6216216216216217,
+            "no_speech_prob": 0.21830154955387115,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 54.58,
+                    "end": 54.78,
+                    "probability": 0.9975624084472656
+                },
+                {
+                    "word": " best",
+                    "start": 54.78,
+                    "end": 54.94,
+                    "probability": 0.9992192983627319
+                },
+                {
+                    "word": " as",
+                    "start": 54.94,
+                    "end": 55.16,
+                    "probability": 0.9871125817298889
+                },
+                {
+                    "word": " we",
+                    "start": 55.16,
+                    "end": 55.4,
+                    "probability": 0.9995328187942505
+                },
+                {
+                    "word": " can.",
+                    "start": 55.4,
+                    "end": 55.64,
+                    "probability": 0.9997381567955017
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 5564,
+            "start": 55.94,
+            "end": 59.38,
+            "text": " So I feel like that one's pretty well answered so far.",
+            "tokens": [
+                50380,
+                407,
+                286,
+                841,
+                411,
+                300,
+                472,
+                311,
+                1238,
+                731,
+                10103,
+                370,
+                1400,
+                13,
+                50582
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28549953607412487,
+            "compression_ratio": 0.974025974025974,
+            "no_speech_prob": 0.0011838923674076796,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 55.94,
+                    "end": 56.46,
+                    "probability": 0.7308604717254639
+                },
+                {
+                    "word": " I",
+                    "start": 56.46,
+                    "end": 56.84,
+                    "probability": 0.7247473001480103
+                },
+                {
+                    "word": " feel",
+                    "start": 56.84,
+                    "end": 56.98,
+                    "probability": 0.99703049659729
+                },
+                {
+                    "word": " like",
+                    "start": 56.98,
+                    "end": 57.18,
+                    "probability": 0.9930129647254944
+                },
+                {
+                    "word": " that",
+                    "start": 57.18,
+                    "end": 57.32,
+                    "probability": 0.9980438947677612
+                },
+                {
+                    "word": " one's",
+                    "start": 57.32,
+                    "end": 57.62,
+                    "probability": 0.95034059882164
+                },
+                {
+                    "word": " pretty",
+                    "start": 57.62,
+                    "end": 57.82,
+                    "probability": 0.9983996748924255
+                },
+                {
+                    "word": " well",
+                    "start": 57.82,
+                    "end": 58.08,
+                    "probability": 0.997367799282074
+                },
+                {
+                    "word": " answered",
+                    "start": 58.08,
+                    "end": 58.36,
+                    "probability": 0.9564587473869324
+                },
+                {
+                    "word": " so",
+                    "start": 58.36,
+                    "end": 58.66,
+                    "probability": 0.9812923669815063
+                },
+                {
+                    "word": " far.",
+                    "start": 58.66,
+                    "end": 59.38,
+                    "probability": 0.9964184761047363
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 5564,
+            "start": 60.44,
+            "end": 61.46,
+            "text": " And on to you, Axel.",
+            "tokens": [
+                50582,
+                400,
+                322,
+                281,
+                291,
+                11,
+                20118,
+                338,
+                13,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28549953607412487,
+            "compression_ratio": 0.974025974025974,
+            "no_speech_prob": 0.0011838923674076796,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 60.44,
+                    "end": 60.5,
+                    "probability": 0.9163726568222046
+                },
+                {
+                    "word": " on",
+                    "start": 60.5,
+                    "end": 60.86,
+                    "probability": 0.8746780157089233
+                },
+                {
+                    "word": " to",
+                    "start": 60.86,
+                    "end": 61.12,
+                    "probability": 0.9953783750534058
+                },
+                {
+                    "word": " you,",
+                    "start": 61.12,
+                    "end": 61.26,
+                    "probability": 0.35522162914276123
+                },
+                {
+                    "word": " Axel.",
+                    "start": 61.4,
+                    "end": 61.46,
+                    "probability": 0.9179515242576599
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

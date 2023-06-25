@@ -1,0 +1,39 @@
+{
+    "text": " Thanks, everyone.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.44,
+            "text": " Thanks, everyone.",
+            "tokens": [
+                50364,
+                2561,
+                11,
+                1518,
+                13,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5615943159375872,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.0035269607324153185,
+            "words": [
+                {
+                    "word": " Thanks,",
+                    "start": 0.02,
+                    "end": 0.24,
+                    "probability": 0.7069745659828186
+                },
+                {
+                    "word": " everyone.",
+                    "start": 0.36,
+                    "end": 0.44,
+                    "probability": 0.9867433309555054
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
