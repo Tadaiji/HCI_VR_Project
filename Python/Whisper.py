@@ -13,22 +13,21 @@ from pydub import AudioSegment
 from datetime import timedelta
 
 ################# Global Vars #################
-meeting = "/Videos_and_Audio/Test2.mp4" #Path to the video
+meeting = "" #Path to the video
 model = "" #Whisper Model
 number_of_speakers = 0
 
 output_path = "/videos/"
 access_token = ""
+openai_organization = ""
 openai_key = ""
 ################# Methods #################
 """ Extracts the audio of a video
 
 The implementation with the ffmpeg wrapper is missing
 """
-def get_wav(video: str):
-    print("command")
+def get_wav(video: str): 
     command = f"ffmpeg -i {video} -ab 160k -ac 2 -ar 44100 -vn {video}.wav"
-    print("subcommand")
     subprocess.call(command, shell=True)
     return ""
     
@@ -52,13 +51,11 @@ Returns:
 def get_speakers(audio: str):
     if not(access_token):
         from huggingface_hub import notebook_login
-        print("login")
         notebook_login()
 
-    print("pipeline")
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
                                         use_auth_token=access_token)
-    print("dz")
+
     dz = pipeline(audio)  
 
     with open("diarization.txt", "w") as text_file:
@@ -135,13 +132,10 @@ Returns:
     The transcriptions of the audio files
 
 """
-
 def transcribe(groups: list):
-    print("transcribe")
-    device = torch.device("cuda")
+    device = torch.device("cpu")
     if torch.cuda.is_available():
-        print("gpu")
-        #device = torch.cuda.device(0)
+        device = torch.device("cuda")
     #else:
         #dml = torch_directml.device()
 
@@ -197,7 +191,7 @@ def combine_speakers_transcribtion(groups):
                 #text.append(f'{w["word"]}')
             text.append('\n')
 
-    with open(r"Videos_and_Audio/Transcription_Sections/capspeaker.txt", "w", encoding='utf-8') as file:
+    with open(r"Videos_and_Audio/capspeaker.txt", "w", encoding='utf-8') as file:
         s = "".join(text)
         file.write(s)
         print(s+'\n')
@@ -205,14 +199,20 @@ def combine_speakers_transcribtion(groups):
 """ This method summarizes the given textfile using GPT4
 """
 def summarize(textfile):
-    text  = ""
-    
+    text = ""
+    with open("Python\Videos_and_Audio\Transcription_Sections\capspeaker.txt", "r") as file:
+        text = file.read()
+
+    print(text)
+
     openai.api_key = openai_key
-    openai.Completion.create(
-        model = "gpt-4-32k",
-        prompt = text + "",
-        maxtokens = 200,
-        temperature = 0
+    openai.organization = openai_organization
+    compeletion = openai.ChatCompletion.create(
+        model = "gpt-3.5-turbo-16k",
+        messages = [
+        {"role": "system", "content": "You summarize a meeting in a way that a person not present at the meeting is able to understand the most important things said in the meeting. Return the most important lines unchanged and do not change the timestamps and identification of the speaker."},
+        {"role": "user", "content": text}
+        ]
     )
 
 ################# Helper Methods #################
@@ -244,17 +244,19 @@ def timeStr(t):
 
 
 ################# Program #################
-#print("Making .wav file")
-#get_wav("Videos_and_Audio/Test2.mp4")
+print("Making .wav file")
+#get_wav("Videos_and_Audio/Test.mp4")
 
-#print("Finding speakers")
-#get_speakers(r"Videos_and_Audio/Test2.mp4.wav")
+print("Finding speakers")
+#get_speakers(r"Videos_and_Audio/Test.mp4.wav")
 
-#print("Grouping speakers")
-groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test2.mp4.wav")
+print("Grouping speakers")
+#groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test.mp4.wav")
 
-print("Transcribing (This might take a while without CUDA support)")
-transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
-                    # takes about 20 min for a 40 min video with a GPU (GTX1060)
+#print("Transcribing (This might take a while without CUDA support)")
+#transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)
+
 print("Finalizing Document")
-combine_speakers_transcribtion(groups)
+#combine_speakers_transcribtion(groups)
+
+summarize("")
