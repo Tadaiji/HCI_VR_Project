@@ -199,21 +199,8 @@ def combine_speakers_transcribtion(groups):
 """ This method summarizes the given textfile using GPT4
 """
 def summarize(textfile):
-    text = ""
-    with open("Python\Videos_and_Audio\Transcription_Sections\capspeaker.txt", "r") as file:
-        text = file.read()
+    text = "I give the transcription of a meeting to you and want you to filter out the most importent spoken lines regarding the information of a third person, who was not present at the meeting itself.  Return the most important lines meaning carrying the most important information unchanged and do not change the timestamps and identification of the speaker. "
 
-    print(text)
-
-    openai.api_key = openai_key
-    openai.organization = openai_organization
-    compeletion = openai.ChatCompletion.create(
-        model = "gpt-3.5-turbo-16k",
-        messages = [
-        {"role": "system", "content": "You summarize a meeting in a way that a person not present at the meeting is able to understand the most important things said in the meeting. Return the most important lines unchanged and do not change the timestamps and identification of the speaker."},
-        {"role": "user", "content": text}
-        ]
-    )
 
 ################# Helper Methods #################
 """ Helper Method to convert everything to millisecs

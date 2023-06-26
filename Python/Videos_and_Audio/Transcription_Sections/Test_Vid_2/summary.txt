@@ -1,0 +1,196 @@
+[00:00:008.16 --> 00:00:013.66] [SPEAKER_02]  Yeah, thanks, Dan. So hey, welcome, everybody. Would like to give Nico a warm welcome. Nico is
+
+[00:00:013.66 --> 00:00:019.26] [SPEAKER_02]  joining us today as a new front-end engineer on the package team. We're very excited to have you,
+
+[00:00:019.36 --> 00:00:024.12] [SPEAKER_02]  Nico. Nico, I know you just did this, but would you mind just giving us a real quick snippet about
+
+[00:00:024.12 --> 00:00:024.68] [SPEAKER_02]  yourself?
+
+[00:00:025.10 --> 00:00:026.34] [SPEAKER_03]  Sure, not a problem.
+
+[00:00:027.66 --> 00:00:028.10] [SPEAKER_03]  So I'm Nico.
+
+[00:00:028.28 --> 00:00:030.54] [SPEAKER_03]  My name is Nicolo, but Nico is perfect for everybody.
+
+[00:00:033.30 --> 00:00:035.42] [SPEAKER_03]  Before Github, I was working in PuiLab,
+
+[00:00:035.70 --> 00:00:037.92] [SPEAKER_03]  so I guess Lapa sticks with me.
+
+[00:00:038.96 --> 00:00:042.98] [SPEAKER_03]  I'm really in love with UJS, and I maintain some open source
+
+[00:00:042.98 --> 00:00:044.84] [SPEAKER_03]  packages, and I'm really excited to start.
+
+[00:00:058.01 --> 00:01:000.53] [SPEAKER_04]  And next item was issue herder for doing
+
+[00:01:000.53 --> 00:01:002.47] [SPEAKER_04]  async issue weight estimates.
+
+[00:01:003.09 --> 00:01:007.53] [SPEAKER_04]  So we've been walking through adding to our very lightweight
+
+[00:01:007.53 --> 00:01:009.33] [SPEAKER_04]  process as we need to add it.
+
+[00:01:009.63 --> 00:01:011.17] [SPEAKER_04]  As we're seeing gaps, the plan is
+
+[00:01:011.17 --> 00:01:013.45] [SPEAKER_04]  to do as little effort as we can and then
+
+[00:01:013.45 --> 00:01:014.43] [SPEAKER_04]  just start working on things.
+
+[00:01:027.97 --> 00:01:029.87] [SPEAKER_04]  And we're going to finalize what's
+
+[00:01:029.87 --> 00:01:031.91] [SPEAKER_04]  deliverable on the 17th before we actually
+
+[00:01:031.91 --> 00:01:034.05] [SPEAKER_04]  keep off work on the 18th of our new milestones.
+
+[00:01:035.69 --> 00:01:037.41] [SPEAKER_04]  I would like to see everyone's feedback,
+
+[00:01:037.41 --> 00:01:042.73] [SPEAKER_04]  and I see people have already commented in the agenda.
+
+[00:01:043.03 --> 00:01:044.91] [SPEAKER_04]  But I think what we want to do is
+
+[00:01:044.91 --> 00:01:046.83] [SPEAKER_04]  to decide if we feel like this is helpful.
+
+[00:02:007.07 --> 00:02:009.95] [SPEAKER_04]  John's used it so John can answer questions better
+
+[00:02:009.95 --> 00:02:012.21] [SPEAKER_04]  than I can with the issue header.
+
+[00:02:012.79 --> 00:02:015.23] [SPEAKER_04]  And so yeah, just flag that for everyone.
+
+[00:02:015.33 --> 00:02:016.25] [SPEAKER_04]  Go take a look at that tool.
+
+[00:02:039.57 --> 00:02:040.55] [SPEAKER_04]  Do you have the next item, John?
+
+[00:02:041.27 --> 00:02:048.65] [SPEAKER_02]  Yeah, thanks, Dan. Yeah, please reach out for issue herder. I can give you a walkthrough of how, why we built it, what it does, all that good stuff.
+
+[00:03:006.78 --> 00:03:010.60] [SPEAKER_01]  Uh, yeah, I was just thinking, or the last week to realize that, um,
+
+[00:03:010.68 --> 00:03:014.10] [SPEAKER_01]  some of us might have daylight savings coming up and realize that maybe not all
+
+[00:03:014.10 --> 00:03:014.98] [SPEAKER_01]  of ours line up.
+
+[00:03:025.88 --> 00:03:030.40] [SPEAKER_01]  Um, but it looks like some people have started to just post their dates and
+
+[00:03:030.40 --> 00:03:034.82] [SPEAKER_01]  just something to keep in mind as we kind of reach the end of October in a
+
+[00:03:034.82 --> 00:03:035.28] [SPEAKER_01]  month or so.
+
+[00:03:037.26 --> 00:03:045.26] [SPEAKER_04]  Cool. Yeah, good call out Steve. Thanks for that. Nice job. I will add mine as well. People want
+
+[00:03:045.26 --> 00:03:050.36] [SPEAKER_04]  to go through and add that to the agenda. I mean, it will just happen with our meetings and everything
+
+[00:03:050.36 --> 00:03:055.18] [SPEAKER_04]  in terms of them sliding, but they won't move automatically. So it's a good, it's a really good
+
+[00:03:055.18 --> 00:04:000.32] [SPEAKER_04]  point. We do have async meetings for a reason. So if they turn into a time that doesn't work
+
+[00:04:000.32 --> 00:04:005.72] [SPEAKER_04]  for people, then we should be able to attend as best as we can with the meeting notes and then
+
+[00:04:005.72 --> 00:04:010.38] [SPEAKER_04]  watching the meeting. Just for anyone that can't make a meeting, just as a friendly reminder that
+
+[00:04:010.38 --> 00:04:016.24] [SPEAKER_04]  you should consider that meeting the next day that you're available or working. 
+
+[00:04:039.76 --> 00:04:045.26] [SPEAKER_04]  There's a discussion that I linked to here of going around iterating on our infrared dev
+
+[00:04:045.26 --> 00:04:052.32] [SPEAKER_04]  escalation process to remove the weekend on call element of that for now. There are a lot of,
+
+[00:04:052.38 --> 00:04:058.24] [SPEAKER_04]  if you look through that thread, hi Tim. If you look through that thread, you'll find that
+
+[00:04:058.24 --> 00:05:003.22] [SPEAKER_04]  the initial issue was raised to say, hey, let's iterate and remove this because there are a bunch
+
+[00:05:003.22 --> 00:05:008.80] [SPEAKER_04]  of actual legal considerations around people working on weekends in some countries without
+
+[00:05:008.80 --> 00:05:013.98] [SPEAKER_04]  being paid. And so there's a lot of considerations to the iteration that are being proposed is to
+
+[00:05:013.98 --> 00:05:020.24] [SPEAKER_04]  remove the weekend element of on call, which might make some people feel a little happier
+
+[00:05:020.24 --> 00:05:022.78] [SPEAKER_04]  because they don't have to be on call on weekends. But
+
+[00:05:029.75 --> 00:05:031.89] [SPEAKER_04]  Don't spend a heap of time on it, but there's already
+
+[00:05:031.89 --> 00:05:034.53] [SPEAKER_04]  a consensus by the look of it that we may be pulling
+
+[00:05:034.53 --> 00:05:036.41] [SPEAKER_04]  the weekend on call out.
+
+[00:05:038.65 --> 00:05:045.59] [SPEAKER_04]  And then we're looking at the next item I had
+
+[00:05:045.59 --> 00:05:050.11] [SPEAKER_04]  was the way to move forward on the community contribution
+
+[00:05:051.29 --> 00:05:053.83] [SPEAKER_04]  for Composer, which is the PHP package manager.
+
+[00:05:054.85 --> 00:05:058.03] [SPEAKER_04]  Gigi's taken a look at that, and I did see a massive commit
+
+[00:05:058.03 --> 00:05:059.61] [SPEAKER_04]  going to that over the weekend.
+
+[00:06:024.11 --> 00:06:025.13] [SPEAKER_04]  And on to you, Axel.
+
+[00:06:026.55 --> 00:06:044.03] [SPEAKER_00]  Yeah, thanks. So on Friday, I put together a merge request about improving the navigation of the package features. So right now, they are all under one roof because before they were scheduled all over the place. So I think this is going to improve things as Tim suggested.
+
+[00:06:045.81 --> 00:06:053.91] [SPEAKER_00]  And I bring the issue, the merge request and the review app if you want to check it out and leave some feedback. I don't know. So yeah.
+
+[00:07:012.80 --> 00:07:016.00] [SPEAKER_04]  There is a backend weekly call that goes on.
+
+[00:07:019.34 --> 00:07:021.28] [SPEAKER_04]  If you look at the team meetings,
+
+[00:07:021.42 --> 00:07:023.20] [SPEAKER_04]  you'll actually be able to find that.
+
+[00:07:023.50 --> 00:07:027.44] [SPEAKER_04]  And this is mostly for you, Steve and Gigi,
+
+[00:07:032.18 --> 00:07:033.74] [SPEAKER_04]  Just go check that meeting out.
+
+[00:08:023.37 --> 00:08:027.23] [SPEAKER_04]  Nice. And how is that something that you find helpful so far?
+
+[00:08:029.36 --> 00:08:033.62] [SPEAKER_01]  Yeah, I mean, it's very back and forth. Like some weeks, it doesn't even really happen because
+
+[00:08:033.62 --> 00:08:038.70] [SPEAKER_01]  nobody puts anything on the agenda. And then other weeks, a few people will show up and read
+
+[00:08:038.70 --> 00:08:044.96] [SPEAKER_01]  from some other people's notes. But it's I like it just to, you know, get a little
+
+[00:08:044.96 --> 00:08:046.82] [SPEAKER_01]  face time with some people in other areas.
+
+[00:08:047.70 --> 00:08:053.06] [SPEAKER_04]  Nice. Yeah, so I would say that it sounds like as an org, we're going to try and invest a little
+
+[00:08:053.06 --> 00:08:057.80] [SPEAKER_04]  bit more in that meeting. So maybe have a think about what you think could be really useful there.
+
+[00:08:058.12 --> 00:09:001.72] [SPEAKER_04]  There's a suggestion of, like I said, tips and tricks and whatnot, and even making it somewhat
+
+[00:09:001.72 --> 00:09:008.10] [SPEAKER_04]  of a social thing. If there wasn't any tips and tricks, I think there's problems with scaling.
+
+[00:09:008.22 --> 00:09:012.68] [SPEAKER_04]  Once you get the tipping points, once you go through scaling of social things where it gets
+
+[00:09:012.68 --> 00:09:017.12] [SPEAKER_04]  to like 10 people in it, there's just too many people for anyone to really feel like they're
+
+[00:09:017.52 --> 00:09:023.42] [SPEAKER_04]  social value out of something, I think. But that's something definitely worth looking at. Thank you
+
+[00:09:023.42 --> 00:09:029.36] [SPEAKER_04]  for that. And maybe think about any other items you want to suggest for that, like in that realm
+
+[00:09:029.36 --> 00:09:034.42] [SPEAKER_04]  of like, hey, how should this work? Maybe there's ideas of like, here's a cool MR or here's an issue
+
+[00:09:034.42 --> 00:09:046.48] [SPEAKER_04]  here as I resolve this, whatever ideas you think are useful, and maybe put them forward in the
+
+[00:09:047.28 --> 00:09:051.48] [SPEAKER_04]  questions for anyone. That's the end of our items in our agenda. Does anyone have anything
+
+[00:09:051.48 --> 00:10:001.66] [SPEAKER_04]  else they want to raise? Awkward amount of silence. Yes.
+
+[00:10:010.54 --> 00:10:015.96] [SPEAKER_02]  on that social level. So one thing we've been doing recently is every month we'll do a front
+
+[00:10:015.96 --> 00:10:020.12] [SPEAKER_02]  end themed call where it gives everybody an opportunity to like, like someone will pick like
+
+[00:10:020.12 --> 00:10:023.70] [SPEAKER_02]  what's your favorite movie, what's your favorite book, and everybody will list that stuff out.
+
+[00:10:023.82 --> 00:10:033.22] [SPEAKER_02]  And then everybody votes and chooses a winner and then the winner picks the next theme for
+
+[00:10:033.22 --> 00:10:037.66] [SPEAKER_02]  some social interaction on a larger scale. So just wanted to throw that out there as an idea.
+
+[00:10:038.79 --> 00:10:041.43] [SPEAKER_04]  Yeah, Tim mentioned that to me as well.
+
+[00:10:043.41 --> 00:10:048.87] [SPEAKER_04]  Yeah, I mean, I'm not trying to set what people do in there and what people find
+
+[00:10:048.87 --> 00:10:051.63] [SPEAKER_04]  interesting out of those calls, but I think that's a good suggestion.
+
+[00:11:054.12 --> 00:12:000.22] [SPEAKER_04]  and awkward silence. Yes. All right. I think that's good to wrap up. And I think I just wanted to say
+
+[00:12:000.22 --> 00:12:005.12] [SPEAKER_04]  thank you so much for everyone joining us and Axel, lovely to see you. And thank you so much
+
+[00:12:005.12 --> 00:12:011.78] [SPEAKER_04]  for your hard work. And I hope everyone has a good rest of however much as rest of their day,
+
+[00:12:011.80 --> 00:12:013.62] [SPEAKER_04]  lives left of their day. Thanks.
+
+
+
