@@ -1,0 +1,109 @@
+{
+    "text": " Nice. And how is that something that you find helpful so far?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.86,
+            "text": " Nice. And how is that something that you find helpful so far?",
+            "tokens": [
+                50364,
+                5490,
+                13,
+                400,
+                577,
+                307,
+                300,
+                746,
+                300,
+                291,
+                915,
+                4961,
+                370,
+                1400,
+                30,
+                50556
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1580347594092874,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.003114463295787573,
+            "words": [
+                {
+                    "word": " Nice.",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.8737651109695435
+                },
+                {
+                    "word": " And",
+                    "start": 0.74,
+                    "end": 1.08,
+                    "probability": 0.9508698582649231
+                },
+                {
+                    "word": " how",
+                    "start": 1.08,
+                    "end": 1.48,
+                    "probability": 0.8152349591255188
+                },
+                {
+                    "word": " is",
+                    "start": 1.48,
+                    "end": 1.9,
+                    "probability": 0.8182862401008606
+                },
+                {
+                    "word": " that",
+                    "start": 1.9,
+                    "end": 2.1,
+                    "probability": 0.9979444146156311
+                },
+                {
+                    "word": " something",
+                    "start": 2.1,
+                    "end": 2.34,
+                    "probability": 0.9983595013618469
+                },
+                {
+                    "word": " that",
+                    "start": 2.34,
+                    "end": 2.58,
+                    "probability": 0.9968501925468445
+                },
+                {
+                    "word": " you",
+                    "start": 2.58,
+                    "end": 2.78,
+                    "probability": 0.9995334148406982
+                },
+                {
+                    "word": " find",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.9881392121315002
+                },
+                {
+                    "word": " helpful",
+                    "start": 3.04,
+                    "end": 3.44,
+                    "probability": 0.9993762373924255
+                },
+                {
+                    "word": " so",
+                    "start": 3.44,
+                    "end": 3.74,
+                    "probability": 0.9889193177223206
+                },
+                {
+                    "word": " far?",
+                    "start": 3.74,
+                    "end": 3.86,
+                    "probability": 0.9989043474197388
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

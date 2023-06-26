@@ -1,0 +1,548 @@
+{
+    "text": " and awkward silence. Yes. All right. I think that's good to wrap up. And I think I just wanted to say thank you so much for everyone joining us and Axel, lovely to see you. And thank you so much for your hard work. And I hope everyone has a good rest of however much as rest of their day, lives left of their day. Thanks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.1,
+            "text": " and awkward silence. Yes. All right. I think that's good to wrap up. And I think I just wanted to say",
+            "tokens": [
+                50364,
+                293,
+                11411,
+                12239,
+                13,
+                1079,
+                13,
+                1057,
+                558,
+                13,
+                286,
+                519,
+                300,
+                311,
+                665,
+                281,
+                7019,
+                493,
+                13,
+                400,
+                286,
+                519,
+                286,
+                445,
+                1415,
+                281,
+                584,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22514301606978493,
+            "compression_ratio": 1.671875,
+            "no_speech_prob": 0.0015452711377292871,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.47027137875556946
+                },
+                {
+                    "word": " awkward",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9497801065444946
+                },
+                {
+                    "word": " silence.",
+                    "start": 0.68,
+                    "end": 1.2,
+                    "probability": 0.996559202671051
+                },
+                {
+                    "word": " Yes.",
+                    "start": 1.8,
+                    "end": 1.8,
+                    "probability": 0.8698156476020813
+                },
+                {
+                    "word": " All",
+                    "start": 2.4,
+                    "end": 2.54,
+                    "probability": 0.7741484642028809
+                },
+                {
+                    "word": " right.",
+                    "start": 2.54,
+                    "end": 2.76,
+                    "probability": 0.9983618855476379
+                },
+                {
+                    "word": " I",
+                    "start": 2.76,
+                    "end": 3.16,
+                    "probability": 0.9005849957466125
+                },
+                {
+                    "word": " think",
+                    "start": 3.16,
+                    "end": 3.32,
+                    "probability": 0.99835604429245
+                },
+                {
+                    "word": " that's",
+                    "start": 3.32,
+                    "end": 3.6,
+                    "probability": 0.9961442351341248
+                },
+                {
+                    "word": " good",
+                    "start": 3.6,
+                    "end": 3.74,
+                    "probability": 0.9983363747596741
+                },
+                {
+                    "word": " to",
+                    "start": 3.74,
+                    "end": 3.94,
+                    "probability": 0.995057225227356
+                },
+                {
+                    "word": " wrap",
+                    "start": 3.94,
+                    "end": 4.1,
+                    "probability": 0.9994623064994812
+                },
+                {
+                    "word": " up.",
+                    "start": 4.1,
+                    "end": 4.36,
+                    "probability": 0.9975263476371765
+                },
+                {
+                    "word": " And",
+                    "start": 4.6,
+                    "end": 4.6,
+                    "probability": 0.8155589699745178
+                },
+                {
+                    "word": " I",
+                    "start": 4.6,
+                    "end": 4.74,
+                    "probability": 0.9919682145118713
+                },
+                {
+                    "word": " think",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.9645459651947021
+                },
+                {
+                    "word": " I",
+                    "start": 5.02,
+                    "end": 5.52,
+                    "probability": 0.32712429761886597
+                },
+                {
+                    "word": " just",
+                    "start": 5.52,
+                    "end": 5.66,
+                    "probability": 0.9958999752998352
+                },
+                {
+                    "word": " wanted",
+                    "start": 5.66,
+                    "end": 5.78,
+                    "probability": 0.9144672155380249
+                },
+                {
+                    "word": " to",
+                    "start": 5.78,
+                    "end": 5.94,
+                    "probability": 0.9988144636154175
+                },
+                {
+                    "word": " say",
+                    "start": 5.94,
+                    "end": 6.1,
+                    "probability": 0.9971389770507812
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.1,
+            "end": 11.0,
+            "text": " thank you so much for everyone joining us and Axel, lovely to see you. And thank you so much",
+            "tokens": [
+                50664,
+                1309,
+                291,
+                370,
+                709,
+                337,
+                1518,
+                5549,
+                505,
+                293,
+                20118,
+                338,
+                11,
+                7496,
+                281,
+                536,
+                291,
+                13,
+                400,
+                1309,
+                291,
+                370,
+                709,
+                50908
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22514301606978493,
+            "compression_ratio": 1.671875,
+            "no_speech_prob": 0.0015452711377292871,
+            "words": [
+                {
+                    "word": " thank",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.898958146572113
+                },
+                {
+                    "word": " you",
+                    "start": 6.36,
+                    "end": 6.5,
+                    "probability": 0.9997605681419373
+                },
+                {
+                    "word": " so",
+                    "start": 6.5,
+                    "end": 6.68,
+                    "probability": 0.9972746968269348
+                },
+                {
+                    "word": " much",
+                    "start": 6.68,
+                    "end": 6.78,
+                    "probability": 0.9995730519294739
+                },
+                {
+                    "word": " for",
+                    "start": 6.78,
+                    "end": 7.0,
+                    "probability": 0.9901195764541626
+                },
+                {
+                    "word": " everyone",
+                    "start": 7.0,
+                    "end": 7.48,
+                    "probability": 0.9959827661514282
+                },
+                {
+                    "word": " joining",
+                    "start": 7.48,
+                    "end": 8.56,
+                    "probability": 0.7432848215103149
+                },
+                {
+                    "word": " us",
+                    "start": 8.56,
+                    "end": 8.9,
+                    "probability": 0.9986706972122192
+                },
+                {
+                    "word": " and",
+                    "start": 8.9,
+                    "end": 9.12,
+                    "probability": 0.5063546895980835
+                },
+                {
+                    "word": " Axel,",
+                    "start": 9.12,
+                    "end": 9.3,
+                    "probability": 0.7179575562477112
+                },
+                {
+                    "word": " lovely",
+                    "start": 9.3,
+                    "end": 9.58,
+                    "probability": 0.9885878562927246
+                },
+                {
+                    "word": " to",
+                    "start": 9.58,
+                    "end": 9.78,
+                    "probability": 0.9978991746902466
+                },
+                {
+                    "word": " see",
+                    "start": 9.78,
+                    "end": 9.92,
+                    "probability": 0.998775064945221
+                },
+                {
+                    "word": " you.",
+                    "start": 9.92,
+                    "end": 10.2,
+                    "probability": 0.9979780316352844
+                },
+                {
+                    "word": " And",
+                    "start": 10.22,
+                    "end": 10.46,
+                    "probability": 0.9853330254554749
+                },
+                {
+                    "word": " thank",
+                    "start": 10.46,
+                    "end": 10.58,
+                    "probability": 0.9573411345481873
+                },
+                {
+                    "word": " you",
+                    "start": 10.58,
+                    "end": 10.7,
+                    "probability": 0.9992616772651672
+                },
+                {
+                    "word": " so",
+                    "start": 10.7,
+                    "end": 10.84,
+                    "probability": 0.9986849427223206
+                },
+                {
+                    "word": " much",
+                    "start": 10.84,
+                    "end": 11.0,
+                    "probability": 0.9997895359992981
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.0,
+            "end": 17.66,
+            "text": " for your hard work. And I hope everyone has a good rest of however much as rest of their day,",
+            "tokens": [
+                50908,
+                337,
+                428,
+                1152,
+                589,
+                13,
+                400,
+                286,
+                1454,
+                1518,
+                575,
+                257,
+                665,
+                1472,
+                295,
+                4461,
+                709,
+                382,
+                1472,
+                295,
+                641,
+                786,
+                11,
+                51244
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22514301606978493,
+            "compression_ratio": 1.671875,
+            "no_speech_prob": 0.0015452711377292871,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 11.0,
+                    "end": 11.2,
+                    "probability": 0.9969755411148071
+                },
+                {
+                    "word": " your",
+                    "start": 11.2,
+                    "end": 11.32,
+                    "probability": 0.9915400147438049
+                },
+                {
+                    "word": " hard",
+                    "start": 11.32,
+                    "end": 11.5,
+                    "probability": 0.9894253015518188
+                },
+                {
+                    "word": " work.",
+                    "start": 11.5,
+                    "end": 12.02,
+                    "probability": 0.998683512210846
+                },
+                {
+                    "word": " And",
+                    "start": 14.06,
+                    "end": 14.06,
+                    "probability": 0.9268304705619812
+                },
+                {
+                    "word": " I",
+                    "start": 14.06,
+                    "end": 14.46,
+                    "probability": 0.7785186767578125
+                },
+                {
+                    "word": " hope",
+                    "start": 14.46,
+                    "end": 14.58,
+                    "probability": 0.9873148202896118
+                },
+                {
+                    "word": " everyone",
+                    "start": 14.58,
+                    "end": 14.82,
+                    "probability": 0.997660756111145
+                },
+                {
+                    "word": " has",
+                    "start": 14.82,
+                    "end": 15.08,
+                    "probability": 0.9969334602355957
+                },
+                {
+                    "word": " a",
+                    "start": 15.08,
+                    "end": 15.12,
+                    "probability": 0.991359531879425
+                },
+                {
+                    "word": " good",
+                    "start": 15.12,
+                    "end": 15.32,
+                    "probability": 0.9993181228637695
+                },
+                {
+                    "word": " rest",
+                    "start": 15.32,
+                    "end": 15.56,
+                    "probability": 0.9970489144325256
+                },
+                {
+                    "word": " of",
+                    "start": 15.56,
+                    "end": 16.04,
+                    "probability": 0.8739604353904724
+                },
+                {
+                    "word": " however",
+                    "start": 16.04,
+                    "end": 16.28,
+                    "probability": 0.6175135374069214
+                },
+                {
+                    "word": " much",
+                    "start": 16.28,
+                    "end": 16.56,
+                    "probability": 0.9728804230690002
+                },
+                {
+                    "word": " as",
+                    "start": 16.56,
+                    "end": 16.7,
+                    "probability": 0.3985784947872162
+                },
+                {
+                    "word": " rest",
+                    "start": 16.7,
+                    "end": 16.86,
+                    "probability": 0.9056428074836731
+                },
+                {
+                    "word": " of",
+                    "start": 16.86,
+                    "end": 17.08,
+                    "probability": 0.9941897392272949
+                },
+                {
+                    "word": " their",
+                    "start": 17.08,
+                    "end": 17.22,
+                    "probability": 0.9620611071586609
+                },
+                {
+                    "word": " day,",
+                    "start": 17.22,
+                    "end": 17.66,
+                    "probability": 0.9979652166366577
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.68,
+            "end": 19.5,
+            "text": " lives left of their day. Thanks.",
+            "tokens": [
+                51244,
+                2909,
+                1411,
+                295,
+                641,
+                786,
+                13,
+                2561,
+                13,
+                51396
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22514301606978493,
+            "compression_ratio": 1.671875,
+            "no_speech_prob": 0.0015452711377292871,
+            "words": [
+                {
+                    "word": " lives",
+                    "start": 17.68,
+                    "end": 18.0,
+                    "probability": 0.06085188686847687
+                },
+                {
+                    "word": " left",
+                    "start": 18.0,
+                    "end": 18.3,
+                    "probability": 0.6859503388404846
+                },
+                {
+                    "word": " of",
+                    "start": 18.3,
+                    "end": 18.46,
+                    "probability": 0.3304653465747833
+                },
+                {
+                    "word": " their",
+                    "start": 18.46,
+                    "end": 18.62,
+                    "probability": 0.8712659478187561
+                },
+                {
+                    "word": " day.",
+                    "start": 18.62,
+                    "end": 18.88,
+                    "probability": 0.9906213283538818
+                },
+                {
+                    "word": " Thanks.",
+                    "start": 19.5,
+                    "end": 19.5,
+                    "probability": 0.6610473394393921
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

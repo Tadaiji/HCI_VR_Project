@@ -1,0 +1,539 @@
+{
+    "text": " Yeah, thanks, Dan. Yeah, please reach out for issue herder. I can give you a walkthrough of how, why we built it, what it does, all that good stuff. Next point is just a silly Chuck or a silly point we're saying hi to Chuck. Chuck is a good friend who's been sometimes follows our meetings on YouTube. So, hi Chuck. Over to Steve. Thanks, everybody.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 7.42,
+            "text": " Yeah, thanks, Dan. Yeah, please reach out for issue herder. I can give you a walkthrough of how, why we built it, what it does, all that good stuff.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                3231,
+                11,
+                3394,
+                13,
+                865,
+                11,
+                1767,
+                2524,
+                484,
+                337,
+                2734,
+                720,
+                1068,
+                13,
+                286,
+                393,
+                976,
+                291,
+                257,
+                1792,
+                11529,
+                295,
+                577,
+                11,
+                983,
+                321,
+                3094,
+                309,
+                11,
+                437,
+                309,
+                775,
+                11,
+                439,
+                300,
+                665,
+                1507,
+                13,
+                50730
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2549381051012265,
+            "compression_ratio": 1.517391304347826,
+            "no_speech_prob": 0.0002867444127332419,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.04,
+                    "end": 0.48,
+                    "probability": 0.7967334985733032
+                },
+                {
+                    "word": " thanks,",
+                    "start": 0.72,
+                    "end": 0.9,
+                    "probability": 0.9121437072753906
+                },
+                {
+                    "word": " Dan.",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.4616447687149048
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 1.2,
+                    "end": 1.5,
+                    "probability": 0.9175764918327332
+                },
+                {
+                    "word": " please",
+                    "start": 1.62,
+                    "end": 2.0,
+                    "probability": 0.9905429482460022
+                },
+                {
+                    "word": " reach",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.29434865713119507
+                },
+                {
+                    "word": " out",
+                    "start": 2.24,
+                    "end": 2.62,
+                    "probability": 0.999381422996521
+                },
+                {
+                    "word": " for",
+                    "start": 2.62,
+                    "end": 3.18,
+                    "probability": 0.9835014939308167
+                },
+                {
+                    "word": " issue",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.5372832417488098
+                },
+                {
+                    "word": " herder.",
+                    "start": 3.4,
+                    "end": 3.86,
+                    "probability": 0.525226753205061
+                },
+                {
+                    "word": " I",
+                    "start": 3.92,
+                    "end": 4.1,
+                    "probability": 0.9637625813484192
+                },
+                {
+                    "word": " can",
+                    "start": 4.1,
+                    "end": 4.26,
+                    "probability": 0.9956514239311218
+                },
+                {
+                    "word": " give",
+                    "start": 4.26,
+                    "end": 4.36,
+                    "probability": 0.9990111589431763
+                },
+                {
+                    "word": " you",
+                    "start": 4.36,
+                    "end": 4.52,
+                    "probability": 0.9989829659461975
+                },
+                {
+                    "word": " a",
+                    "start": 4.52,
+                    "end": 4.6,
+                    "probability": 0.8981562852859497
+                },
+                {
+                    "word": " walkthrough",
+                    "start": 4.6,
+                    "end": 5.0,
+                    "probability": 0.8182533085346222
+                },
+                {
+                    "word": " of",
+                    "start": 5.0,
+                    "end": 5.22,
+                    "probability": 0.7683592438697815
+                },
+                {
+                    "word": " how,",
+                    "start": 5.22,
+                    "end": 5.58,
+                    "probability": 0.42751654982566833
+                },
+                {
+                    "word": " why",
+                    "start": 5.58,
+                    "end": 5.7,
+                    "probability": 0.9968872666358948
+                },
+                {
+                    "word": " we",
+                    "start": 5.7,
+                    "end": 5.86,
+                    "probability": 0.9714889526367188
+                },
+                {
+                    "word": " built",
+                    "start": 5.86,
+                    "end": 6.02,
+                    "probability": 0.9972955584526062
+                },
+                {
+                    "word": " it,",
+                    "start": 6.02,
+                    "end": 6.26,
+                    "probability": 0.9937898516654968
+                },
+                {
+                    "word": " what",
+                    "start": 6.28,
+                    "end": 6.38,
+                    "probability": 0.9909350275993347
+                },
+                {
+                    "word": " it",
+                    "start": 6.38,
+                    "end": 6.52,
+                    "probability": 0.9966303706169128
+                },
+                {
+                    "word": " does,",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.9984369874000549
+                },
+                {
+                    "word": " all",
+                    "start": 6.8,
+                    "end": 6.9,
+                    "probability": 0.9932802319526672
+                },
+                {
+                    "word": " that",
+                    "start": 6.9,
+                    "end": 7.0,
+                    "probability": 0.997538685798645
+                },
+                {
+                    "word": " good",
+                    "start": 7.0,
+                    "end": 7.16,
+                    "probability": 0.998238205909729
+                },
+                {
+                    "word": " stuff.",
+                    "start": 7.16,
+                    "end": 7.42,
+                    "probability": 0.9996203184127808
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.68,
+            "end": 18.72,
+            "text": " Next point is just a silly Chuck or a silly point we're saying hi to Chuck. Chuck is a good friend who's been sometimes follows our meetings on YouTube. So, hi Chuck.",
+            "tokens": [
+                50792,
+                3087,
+                935,
+                307,
+                445,
+                257,
+                11774,
+                21607,
+                420,
+                257,
+                11774,
+                935,
+                321,
+                434,
+                1566,
+                4879,
+                281,
+                21607,
+                13,
+                21607,
+                307,
+                257,
+                665,
+                1277,
+                567,
+                311,
+                668,
+                2171,
+                10002,
+                527,
+                8410,
+                322,
+                3088,
+                13,
+                407,
+                11,
+                4879,
+                21607,
+                13,
+                51294
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2549381051012265,
+            "compression_ratio": 1.517391304347826,
+            "no_speech_prob": 0.0002867444127332419,
+            "words": [
+                {
+                    "word": " Next",
+                    "start": 8.68,
+                    "end": 8.84,
+                    "probability": 0.9206717014312744
+                },
+                {
+                    "word": " point",
+                    "start": 8.84,
+                    "end": 9.06,
+                    "probability": 0.9972193241119385
+                },
+                {
+                    "word": " is",
+                    "start": 9.06,
+                    "end": 9.22,
+                    "probability": 0.9902993440628052
+                },
+                {
+                    "word": " just",
+                    "start": 9.22,
+                    "end": 9.54,
+                    "probability": 0.9957250356674194
+                },
+                {
+                    "word": " a",
+                    "start": 9.54,
+                    "end": 10.1,
+                    "probability": 0.9751116037368774
+                },
+                {
+                    "word": " silly",
+                    "start": 10.1,
+                    "end": 10.28,
+                    "probability": 0.9893159866333008
+                },
+                {
+                    "word": " Chuck",
+                    "start": 10.28,
+                    "end": 10.5,
+                    "probability": 0.3608834147453308
+                },
+                {
+                    "word": " or",
+                    "start": 10.5,
+                    "end": 10.86,
+                    "probability": 0.5545458197593689
+                },
+                {
+                    "word": " a",
+                    "start": 10.86,
+                    "end": 10.98,
+                    "probability": 0.8530076742172241
+                },
+                {
+                    "word": " silly",
+                    "start": 10.98,
+                    "end": 11.1,
+                    "probability": 0.9991390705108643
+                },
+                {
+                    "word": " point",
+                    "start": 11.1,
+                    "end": 11.32,
+                    "probability": 0.998879611492157
+                },
+                {
+                    "word": " we're",
+                    "start": 11.32,
+                    "end": 11.58,
+                    "probability": 0.6471079438924789
+                },
+                {
+                    "word": " saying",
+                    "start": 11.58,
+                    "end": 11.68,
+                    "probability": 0.9993009567260742
+                },
+                {
+                    "word": " hi",
+                    "start": 11.68,
+                    "end": 11.96,
+                    "probability": 0.9231058359146118
+                },
+                {
+                    "word": " to",
+                    "start": 11.96,
+                    "end": 12.26,
+                    "probability": 0.9925128221511841
+                },
+                {
+                    "word": " Chuck.",
+                    "start": 12.26,
+                    "end": 12.56,
+                    "probability": 0.9721294641494751
+                },
+                {
+                    "word": " Chuck",
+                    "start": 12.84,
+                    "end": 13.0,
+                    "probability": 0.9983874559402466
+                },
+                {
+                    "word": " is",
+                    "start": 13.0,
+                    "end": 13.22,
+                    "probability": 0.9896788597106934
+                },
+                {
+                    "word": " a",
+                    "start": 13.22,
+                    "end": 13.46,
+                    "probability": 0.9741122126579285
+                },
+                {
+                    "word": " good",
+                    "start": 13.46,
+                    "end": 13.74,
+                    "probability": 0.8682891130447388
+                },
+                {
+                    "word": " friend",
+                    "start": 13.74,
+                    "end": 14.0,
+                    "probability": 0.9993188381195068
+                },
+                {
+                    "word": " who's",
+                    "start": 14.0,
+                    "end": 14.22,
+                    "probability": 0.8494299948215485
+                },
+                {
+                    "word": " been",
+                    "start": 14.22,
+                    "end": 14.72,
+                    "probability": 0.9783841371536255
+                },
+                {
+                    "word": " sometimes",
+                    "start": 14.72,
+                    "end": 15.4,
+                    "probability": 0.4945489764213562
+                },
+                {
+                    "word": " follows",
+                    "start": 15.4,
+                    "end": 15.84,
+                    "probability": 0.9739006161689758
+                },
+                {
+                    "word": " our",
+                    "start": 15.84,
+                    "end": 16.2,
+                    "probability": 0.9977428913116455
+                },
+                {
+                    "word": " meetings",
+                    "start": 16.2,
+                    "end": 16.62,
+                    "probability": 0.998433530330658
+                },
+                {
+                    "word": " on",
+                    "start": 16.62,
+                    "end": 17.28,
+                    "probability": 0.9950515627861023
+                },
+                {
+                    "word": " YouTube.",
+                    "start": 17.28,
+                    "end": 17.54,
+                    "probability": 0.9867650270462036
+                },
+                {
+                    "word": " So,",
+                    "start": 18.02,
+                    "end": 18.18,
+                    "probability": 0.9609141945838928
+                },
+                {
+                    "word": " hi",
+                    "start": 18.22,
+                    "end": 18.3,
+                    "probability": 0.8295767307281494
+                },
+                {
+                    "word": " Chuck.",
+                    "start": 18.3,
+                    "end": 18.72,
+                    "probability": 0.6205078363418579
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 21.86,
+            "end": 23.8,
+            "text": " Over to Steve. Thanks, everybody.",
+            "tokens": [
+                51452,
+                4886,
+                281,
+                7466,
+                13,
+                2561,
+                11,
+                2201,
+                13,
+                51554
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2549381051012265,
+            "compression_ratio": 1.517391304347826,
+            "no_speech_prob": 0.0002867444127332419,
+            "words": [
+                {
+                    "word": " Over",
+                    "start": 21.86,
+                    "end": 22.06,
+                    "probability": 0.07135351002216339
+                },
+                {
+                    "word": " to",
+                    "start": 22.06,
+                    "end": 22.46,
+                    "probability": 0.9963763356208801
+                },
+                {
+                    "word": " Steve.",
+                    "start": 22.46,
+                    "end": 22.84,
+                    "probability": 0.9857646822929382
+                },
+                {
+                    "word": " Thanks,",
+                    "start": 23.42,
+                    "end": 23.54,
+                    "probability": 0.997198224067688
+                },
+                {
+                    "word": " everybody.",
+                    "start": 23.54,
+                    "end": 23.8,
+                    "probability": 0.9964816570281982
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

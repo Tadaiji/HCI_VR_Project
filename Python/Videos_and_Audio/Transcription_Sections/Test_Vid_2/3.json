@@ -1,0 +1,233 @@
+{
+    "text": " Mika, we are super excited you're here. Thank you for that and welcome. Awesome. Thanks, Dan. Over to you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " Mika, we are super excited you're here.",
+            "tokens": [
+                50364,
+                376,
+                5439,
+                11,
+                321,
+                366,
+                1687,
+                2919,
+                291,
+                434,
+                510,
+                13,
+                50474
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30298345516889524,
+            "compression_ratio": 1.1041666666666667,
+            "no_speech_prob": 0.0005524950684048235,
+            "words": [
+                {
+                    "word": " Mika,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.4231320470571518
+                },
+                {
+                    "word": " we",
+                    "start": 0.44,
+                    "end": 0.56,
+                    "probability": 0.9940832257270813
+                },
+                {
+                    "word": " are",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.8335751295089722
+                },
+                {
+                    "word": " super",
+                    "start": 0.8,
+                    "end": 1.12,
+                    "probability": 0.9984220266342163
+                },
+                {
+                    "word": " excited",
+                    "start": 1.12,
+                    "end": 1.38,
+                    "probability": 0.9861462712287903
+                },
+                {
+                    "word": " you're",
+                    "start": 1.38,
+                    "end": 1.66,
+                    "probability": 0.9716253280639648
+                },
+                {
+                    "word": " here.",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.9993941783905029
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.3,
+            "end": 3.82,
+            "text": " Thank you for that and welcome.",
+            "tokens": [
+                50474,
+                1044,
+                291,
+                337,
+                300,
+                293,
+                2928,
+                13,
+                50590
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30298345516889524,
+            "compression_ratio": 1.1041666666666667,
+            "no_speech_prob": 0.0005524950684048235,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.985054612159729
+                },
+                {
+                    "word": " you",
+                    "start": 2.48,
+                    "end": 2.64,
+                    "probability": 0.9996205568313599
+                },
+                {
+                    "word": " for",
+                    "start": 2.64,
+                    "end": 2.84,
+                    "probability": 0.9986611604690552
+                },
+                {
+                    "word": " that",
+                    "start": 2.84,
+                    "end": 3.2,
+                    "probability": 0.99967360496521
+                },
+                {
+                    "word": " and",
+                    "start": 3.2,
+                    "end": 3.54,
+                    "probability": 0.44581151008605957
+                },
+                {
+                    "word": " welcome.",
+                    "start": 3.54,
+                    "end": 3.82,
+                    "probability": 0.9982740879058838
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.72,
+            "end": 4.94,
+            "text": " Awesome.",
+            "tokens": [
+                50590,
+                10391,
+                13,
+                50638
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30298345516889524,
+            "compression_ratio": 1.1041666666666667,
+            "no_speech_prob": 0.0005524950684048235,
+            "words": [
+                {
+                    "word": " Awesome.",
+                    "start": 4.72,
+                    "end": 4.94,
+                    "probability": 0.9724434018135071
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.58,
+            "end": 6.12,
+            "text": " Thanks, Dan.",
+            "tokens": [
+                50638,
+                2561,
+                11,
+                3394,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30298345516889524,
+            "compression_ratio": 1.1041666666666667,
+            "no_speech_prob": 0.0005524950684048235,
+            "words": [
+                {
+                    "word": " Thanks,",
+                    "start": 5.58,
+                    "end": 5.86,
+                    "probability": 0.9462487697601318
+                },
+                {
+                    "word": " Dan.",
+                    "start": 6.02,
+                    "end": 6.12,
+                    "probability": 0.9943917393684387
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.18,
+            "end": 6.72,
+            "text": " Over to you.",
+            "tokens": [
+                50672,
+                4886,
+                281,
+                291,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30298345516889524,
+            "compression_ratio": 1.1041666666666667,
+            "no_speech_prob": 0.0005524950684048235,
+            "words": [
+                {
+                    "word": " Over",
+                    "start": 6.18,
+                    "end": 6.38,
+                    "probability": 0.9944463968276978
+                },
+                {
+                    "word": " to",
+                    "start": 6.38,
+                    "end": 6.58,
+                    "probability": 0.9992867112159729
+                },
+                {
+                    "word": " you.",
+                    "start": 6.58,
+                    "end": 6.72,
+                    "probability": 0.999121367931366
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

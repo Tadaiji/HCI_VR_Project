@@ -1,0 +1,238 @@
+{
+    "text": " There's a, there's also a link in the, um, the description of the backend channel. There's a link for the backend call, which includes the agenda document.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.1,
+            "text": " There's a, there's also a link in the, um, the description of the backend channel.",
+            "tokens": [
+                50364,
+                821,
+                311,
+                257,
+                11,
+                456,
+                311,
+                611,
+                257,
+                2113,
+                294,
+                264,
+                11,
+                1105,
+                11,
+                264,
+                3855,
+                295,
+                264,
+                38087,
+                2269,
+                13,
+                50671
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17983887835246762,
+            "compression_ratio": 1.4351851851851851,
+            "no_speech_prob": 0.000479743757750839,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.8380619585514069
+                },
+                {
+                    "word": " a,",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.8001957535743713
+                },
+                {
+                    "word": " there's",
+                    "start": 0.8,
+                    "end": 1.34,
+                    "probability": 0.931467205286026
+                },
+                {
+                    "word": " also",
+                    "start": 1.34,
+                    "end": 1.56,
+                    "probability": 0.9986349940299988
+                },
+                {
+                    "word": " a",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.9990922212600708
+                },
+                {
+                    "word": " link",
+                    "start": 1.78,
+                    "end": 2.02,
+                    "probability": 0.9993215799331665
+                },
+                {
+                    "word": " in",
+                    "start": 2.02,
+                    "end": 2.52,
+                    "probability": 0.995518684387207
+                },
+                {
+                    "word": " the,",
+                    "start": 2.52,
+                    "end": 3.2,
+                    "probability": 0.9988741278648376
+                },
+                {
+                    "word": " um,",
+                    "start": 3.2,
+                    "end": 4.0,
+                    "probability": 0.22252148389816284
+                },
+                {
+                    "word": " the",
+                    "start": 4.5,
+                    "end": 4.72,
+                    "probability": 0.7941502928733826
+                },
+                {
+                    "word": " description",
+                    "start": 4.72,
+                    "end": 5.06,
+                    "probability": 0.9971287846565247
+                },
+                {
+                    "word": " of",
+                    "start": 5.06,
+                    "end": 5.24,
+                    "probability": 0.9991940855979919
+                },
+                {
+                    "word": " the",
+                    "start": 5.24,
+                    "end": 5.42,
+                    "probability": 0.9994977712631226
+                },
+                {
+                    "word": " backend",
+                    "start": 5.42,
+                    "end": 5.68,
+                    "probability": 0.8140549063682556
+                },
+                {
+                    "word": " channel.",
+                    "start": 5.68,
+                    "end": 6.1,
+                    "probability": 0.9847516417503357
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.14,
+            "end": 10.04,
+            "text": " There's a link for the backend call, which includes the agenda document.",
+            "tokens": [
+                50671,
+                821,
+                311,
+                257,
+                2113,
+                337,
+                264,
+                38087,
+                818,
+                11,
+                597,
+                5974,
+                264,
+                9829,
+                4166,
+                13,
+                50865
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17983887835246762,
+            "compression_ratio": 1.4351851851851851,
+            "no_speech_prob": 0.000479743757750839,
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 6.14,
+                    "end": 6.44,
+                    "probability": 0.9980994462966919
+                },
+                {
+                    "word": " a",
+                    "start": 6.44,
+                    "end": 6.6,
+                    "probability": 0.9996863603591919
+                },
+                {
+                    "word": " link",
+                    "start": 6.6,
+                    "end": 6.78,
+                    "probability": 0.9986668825149536
+                },
+                {
+                    "word": " for",
+                    "start": 6.78,
+                    "end": 7.12,
+                    "probability": 0.9992415904998779
+                },
+                {
+                    "word": " the",
+                    "start": 7.12,
+                    "end": 7.4,
+                    "probability": 0.9992895126342773
+                },
+                {
+                    "word": " backend",
+                    "start": 7.4,
+                    "end": 7.72,
+                    "probability": 0.9838011860847473
+                },
+                {
+                    "word": " call,",
+                    "start": 7.72,
+                    "end": 8.18,
+                    "probability": 0.9883956909179688
+                },
+                {
+                    "word": " which",
+                    "start": 8.34,
+                    "end": 8.6,
+                    "probability": 0.9997105002403259
+                },
+                {
+                    "word": " includes",
+                    "start": 8.6,
+                    "end": 8.94,
+                    "probability": 0.9988436698913574
+                },
+                {
+                    "word": " the",
+                    "start": 8.94,
+                    "end": 9.28,
+                    "probability": 0.9990785121917725
+                },
+                {
+                    "word": " agenda",
+                    "start": 9.28,
+                    "end": 9.58,
+                    "probability": 0.996275782585144
+                },
+                {
+                    "word": " document.",
+                    "start": 9.58,
+                    "end": 10.04,
+                    "probability": 0.9760515689849854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

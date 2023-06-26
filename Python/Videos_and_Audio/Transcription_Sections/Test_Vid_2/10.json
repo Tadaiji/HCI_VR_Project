@@ -1,0 +1,638 @@
+{
+    "text": " Yeah, thanks. So on Friday, I put together a merge request about improving the navigation of the package features. So right now, they are all under one roof because before they were scheduled all over the place. So I think this is going to improve things as Tim suggested. And I bring the issue, the merge request and the review app if you want to check it out and leave some feedback. I don't know. So yeah. That's it from me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 17.48,
+            "text": " Yeah, thanks. So on Friday, I put together a merge request about improving the navigation of the package features. So right now, they are all under one roof because before they were scheduled all over the place. So I think this is going to improve things as Tim suggested.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                3231,
+                13,
+                407,
+                322,
+                6984,
+                11,
+                286,
+                829,
+                1214,
+                257,
+                22183,
+                5308,
+                466,
+                11470,
+                264,
+                17346,
+                295,
+                264,
+                7372,
+                4122,
+                13,
+                407,
+                558,
+                586,
+                11,
+                436,
+                366,
+                439,
+                833,
+                472,
+                8418,
+                570,
+                949,
+                436,
+                645,
+                15678,
+                439,
+                670,
+                264,
+                1081,
+                13,
+                407,
+                286,
+                519,
+                341,
+                307,
+                516,
+                281,
+                3470,
+                721,
+                382,
+                7172,
+                10945,
+                13,
+                51236
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26696046193440753,
+            "compression_ratio": 1.599250936329588,
+            "no_speech_prob": 0.00036831069155596197,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7447920441627502
+                },
+                {
+                    "word": " thanks.",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.9916055202484131
+                },
+                {
+                    "word": " So",
+                    "start": 0.66,
+                    "end": 1.2,
+                    "probability": 0.9842921495437622
+                },
+                {
+                    "word": " on",
+                    "start": 1.2,
+                    "end": 1.4,
+                    "probability": 0.5852972269058228
+                },
+                {
+                    "word": " Friday,",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.7724831104278564
+                },
+                {
+                    "word": " I",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.47401905059814453
+                },
+                {
+                    "word": " put",
+                    "start": 1.78,
+                    "end": 1.88,
+                    "probability": 0.9939690828323364
+                },
+                {
+                    "word": " together",
+                    "start": 1.88,
+                    "end": 2.58,
+                    "probability": 0.5309830904006958
+                },
+                {
+                    "word": " a",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.7493318319320679
+                },
+                {
+                    "word": " merge",
+                    "start": 2.88,
+                    "end": 2.94,
+                    "probability": 0.400119423866272
+                },
+                {
+                    "word": " request",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.9610124230384827
+                },
+                {
+                    "word": " about",
+                    "start": 3.24,
+                    "end": 3.6,
+                    "probability": 0.9540473222732544
+                },
+                {
+                    "word": " improving",
+                    "start": 3.6,
+                    "end": 3.96,
+                    "probability": 0.9741305112838745
+                },
+                {
+                    "word": " the",
+                    "start": 3.96,
+                    "end": 4.18,
+                    "probability": 0.8912923336029053
+                },
+                {
+                    "word": " navigation",
+                    "start": 4.18,
+                    "end": 4.52,
+                    "probability": 0.9020938873291016
+                },
+                {
+                    "word": " of",
+                    "start": 4.52,
+                    "end": 5.28,
+                    "probability": 0.9251353144645691
+                },
+                {
+                    "word": " the",
+                    "start": 5.28,
+                    "end": 5.52,
+                    "probability": 0.8008382320404053
+                },
+                {
+                    "word": " package",
+                    "start": 5.52,
+                    "end": 5.92,
+                    "probability": 0.6871370673179626
+                },
+                {
+                    "word": " features.",
+                    "start": 5.92,
+                    "end": 6.4,
+                    "probability": 0.9848173260688782
+                },
+                {
+                    "word": " So",
+                    "start": 6.52,
+                    "end": 6.96,
+                    "probability": 0.98237544298172
+                },
+                {
+                    "word": " right",
+                    "start": 6.96,
+                    "end": 7.2,
+                    "probability": 0.9436179399490356
+                },
+                {
+                    "word": " now,",
+                    "start": 7.2,
+                    "end": 7.5,
+                    "probability": 0.9994736313819885
+                },
+                {
+                    "word": " they",
+                    "start": 7.5,
+                    "end": 8.58,
+                    "probability": 0.9848530292510986
+                },
+                {
+                    "word": " are",
+                    "start": 8.58,
+                    "end": 8.88,
+                    "probability": 0.990121603012085
+                },
+                {
+                    "word": " all",
+                    "start": 8.88,
+                    "end": 9.04,
+                    "probability": 0.9950518012046814
+                },
+                {
+                    "word": " under",
+                    "start": 9.04,
+                    "end": 9.3,
+                    "probability": 0.9628106355667114
+                },
+                {
+                    "word": " one",
+                    "start": 9.3,
+                    "end": 9.56,
+                    "probability": 0.9789902567863464
+                },
+                {
+                    "word": " roof",
+                    "start": 9.56,
+                    "end": 9.82,
+                    "probability": 0.9974241256713867
+                },
+                {
+                    "word": " because",
+                    "start": 9.82,
+                    "end": 10.42,
+                    "probability": 0.6046993136405945
+                },
+                {
+                    "word": " before",
+                    "start": 10.42,
+                    "end": 11.1,
+                    "probability": 0.9577756524085999
+                },
+                {
+                    "word": " they",
+                    "start": 11.1,
+                    "end": 11.52,
+                    "probability": 0.7020684480667114
+                },
+                {
+                    "word": " were",
+                    "start": 11.52,
+                    "end": 11.76,
+                    "probability": 0.9951700568199158
+                },
+                {
+                    "word": " scheduled",
+                    "start": 11.76,
+                    "end": 12.06,
+                    "probability": 0.7300577759742737
+                },
+                {
+                    "word": " all",
+                    "start": 12.06,
+                    "end": 12.26,
+                    "probability": 0.42342862486839294
+                },
+                {
+                    "word": " over",
+                    "start": 12.26,
+                    "end": 12.4,
+                    "probability": 0.9732781052589417
+                },
+                {
+                    "word": " the",
+                    "start": 12.4,
+                    "end": 12.48,
+                    "probability": 0.8199977874755859
+                },
+                {
+                    "word": " place.",
+                    "start": 12.48,
+                    "end": 12.98,
+                    "probability": 0.9990605711936951
+                },
+                {
+                    "word": " So",
+                    "start": 13.2,
+                    "end": 14.12,
+                    "probability": 0.986775815486908
+                },
+                {
+                    "word": " I",
+                    "start": 14.12,
+                    "end": 14.46,
+                    "probability": 0.8931434750556946
+                },
+                {
+                    "word": " think",
+                    "start": 14.46,
+                    "end": 14.6,
+                    "probability": 0.9974570870399475
+                },
+                {
+                    "word": " this",
+                    "start": 14.6,
+                    "end": 14.98,
+                    "probability": 0.7639628052711487
+                },
+                {
+                    "word": " is",
+                    "start": 14.98,
+                    "end": 15.0,
+                    "probability": 0.7562581300735474
+                },
+                {
+                    "word": " going",
+                    "start": 15.0,
+                    "end": 15.32,
+                    "probability": 0.7276516556739807
+                },
+                {
+                    "word": " to",
+                    "start": 15.32,
+                    "end": 15.64,
+                    "probability": 0.9929426908493042
+                },
+                {
+                    "word": " improve",
+                    "start": 15.64,
+                    "end": 15.82,
+                    "probability": 0.9745757579803467
+                },
+                {
+                    "word": " things",
+                    "start": 15.82,
+                    "end": 16.4,
+                    "probability": 0.9980255365371704
+                },
+                {
+                    "word": " as",
+                    "start": 16.4,
+                    "end": 16.82,
+                    "probability": 0.643538773059845
+                },
+                {
+                    "word": " Tim",
+                    "start": 16.82,
+                    "end": 16.92,
+                    "probability": 0.6207752227783203
+                },
+                {
+                    "word": " suggested.",
+                    "start": 16.92,
+                    "end": 17.48,
+                    "probability": 0.9917254447937012
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 19.26,
+            "end": 27.36,
+            "text": " And I bring the issue, the merge request and the review app if you want to check it out and leave some feedback. I don't know. So yeah.",
+            "tokens": [
+                51278,
+                400,
+                286,
+                1565,
+                264,
+                2734,
+                11,
+                264,
+                22183,
+                5308,
+                293,
+                264,
+                3131,
+                724,
+                498,
+                291,
+                528,
+                281,
+                1520,
+                309,
+                484,
+                293,
+                1856,
+                512,
+                5824,
+                13,
+                286,
+                500,
+                380,
+                458,
+                13,
+                407,
+                1338,
+                13,
+                51722
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26696046193440753,
+            "compression_ratio": 1.599250936329588,
+            "no_speech_prob": 0.00036831069155596197,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 19.26,
+                    "end": 19.52,
+                    "probability": 0.6212470531463623
+                },
+                {
+                    "word": " I",
+                    "start": 19.52,
+                    "end": 19.64,
+                    "probability": 0.930503249168396
+                },
+                {
+                    "word": " bring",
+                    "start": 19.64,
+                    "end": 19.72,
+                    "probability": 0.45817264914512634
+                },
+                {
+                    "word": " the",
+                    "start": 19.72,
+                    "end": 20.02,
+                    "probability": 0.8973379731178284
+                },
+                {
+                    "word": " issue,",
+                    "start": 20.02,
+                    "end": 20.3,
+                    "probability": 0.9888604283332825
+                },
+                {
+                    "word": " the",
+                    "start": 20.5,
+                    "end": 20.66,
+                    "probability": 0.9809983372688293
+                },
+                {
+                    "word": " merge",
+                    "start": 20.66,
+                    "end": 20.84,
+                    "probability": 0.8596153259277344
+                },
+                {
+                    "word": " request",
+                    "start": 20.84,
+                    "end": 21.16,
+                    "probability": 0.9619063138961792
+                },
+                {
+                    "word": " and",
+                    "start": 21.16,
+                    "end": 21.36,
+                    "probability": 0.3479490876197815
+                },
+                {
+                    "word": " the",
+                    "start": 21.36,
+                    "end": 21.46,
+                    "probability": 0.7743014097213745
+                },
+                {
+                    "word": " review",
+                    "start": 21.46,
+                    "end": 21.64,
+                    "probability": 0.9618206024169922
+                },
+                {
+                    "word": " app",
+                    "start": 21.64,
+                    "end": 21.88,
+                    "probability": 0.5302901268005371
+                },
+                {
+                    "word": " if",
+                    "start": 21.88,
+                    "end": 22.04,
+                    "probability": 0.48316341638565063
+                },
+                {
+                    "word": " you",
+                    "start": 22.04,
+                    "end": 22.18,
+                    "probability": 0.9964652061462402
+                },
+                {
+                    "word": " want",
+                    "start": 22.18,
+                    "end": 22.32,
+                    "probability": 0.996875524520874
+                },
+                {
+                    "word": " to",
+                    "start": 22.32,
+                    "end": 23.56,
+                    "probability": 0.9973620772361755
+                },
+                {
+                    "word": " check",
+                    "start": 23.56,
+                    "end": 23.68,
+                    "probability": 0.7271131277084351
+                },
+                {
+                    "word": " it",
+                    "start": 23.68,
+                    "end": 23.88,
+                    "probability": 0.9982750415802002
+                },
+                {
+                    "word": " out",
+                    "start": 23.88,
+                    "end": 24.0,
+                    "probability": 0.998004138469696
+                },
+                {
+                    "word": " and",
+                    "start": 24.0,
+                    "end": 24.52,
+                    "probability": 0.9085744619369507
+                },
+                {
+                    "word": " leave",
+                    "start": 24.52,
+                    "end": 24.66,
+                    "probability": 0.7179239988327026
+                },
+                {
+                    "word": " some",
+                    "start": 24.66,
+                    "end": 24.9,
+                    "probability": 0.9908677339553833
+                },
+                {
+                    "word": " feedback.",
+                    "start": 24.9,
+                    "end": 25.28,
+                    "probability": 0.9941160678863525
+                },
+                {
+                    "word": " I",
+                    "start": 25.46,
+                    "end": 25.46,
+                    "probability": 0.8034915328025818
+                },
+                {
+                    "word": " don't",
+                    "start": 25.46,
+                    "end": 25.58,
+                    "probability": 0.9831136167049408
+                },
+                {
+                    "word": " know.",
+                    "start": 25.58,
+                    "end": 25.86,
+                    "probability": 0.9982112646102905
+                },
+                {
+                    "word": " So",
+                    "start": 26.5,
+                    "end": 27.0,
+                    "probability": 0.9854516386985779
+                },
+                {
+                    "word": " yeah.",
+                    "start": 27.0,
+                    "end": 27.36,
+                    "probability": 0.6146416068077087
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 28.56,
+            "end": 28.96,
+            "text": " That's it from me.",
+            "tokens": [
+                51788,
+                663,
+                311,
+                309,
+                490,
+                385,
+                13,
+                51812
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26696046193440753,
+            "compression_ratio": 1.599250936329588,
+            "no_speech_prob": 0.00036831069155596197,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 28.56,
+                    "end": 28.84,
+                    "probability": 0.9784808158874512
+                },
+                {
+                    "word": " it",
+                    "start": 28.84,
+                    "end": 28.9,
+                    "probability": 0.9693034291267395
+                },
+                {
+                    "word": " from",
+                    "start": 28.9,
+                    "end": 28.96,
+                    "probability": 0.9387395977973938
+                },
+                {
+                    "word": " me.",
+                    "start": 28.96,
+                    "end": 28.96,
+                    "probability": 0.9126476049423218
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

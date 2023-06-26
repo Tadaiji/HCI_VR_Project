@@ -1,0 +1,213 @@
+{
+    "text": " Okay. All right, good to go. You wanna lead us off, John? I think you have the first item.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 3.6,
+            "end": 3.92,
+            "text": " Okay.",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523537972394158,
+            "compression_ratio": 1.0112359550561798,
+            "no_speech_prob": 0.007574143819510937,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 3.6,
+                    "end": 3.92,
+                    "probability": 0.33392539620399475
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.86,
+            "end": 5.24,
+            "text": " All right, good to go.",
+            "tokens": [
+                50570,
+                1057,
+                558,
+                11,
+                665,
+                281,
+                352,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523537972394158,
+            "compression_ratio": 1.0112359550561798,
+            "no_speech_prob": 0.007574143819510937,
+            "words": [
+                {
+                    "word": " All",
+                    "start": 3.86,
+                    "end": 4.24,
+                    "probability": 0.7646467685699463
+                },
+                {
+                    "word": " right,",
+                    "start": 4.24,
+                    "end": 4.7,
+                    "probability": 0.9981926083564758
+                },
+                {
+                    "word": " good",
+                    "start": 4.9,
+                    "end": 5.02,
+                    "probability": 0.9390995502471924
+                },
+                {
+                    "word": " to",
+                    "start": 5.02,
+                    "end": 5.14,
+                    "probability": 0.9077079892158508
+                },
+                {
+                    "word": " go.",
+                    "start": 5.14,
+                    "end": 5.24,
+                    "probability": 0.9496063590049744
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.34,
+            "end": 6.34,
+            "text": " You wanna lead us off, John?",
+            "tokens": [
+                50628,
+                509,
+                1948,
+                1477,
+                505,
+                766,
+                11,
+                2619,
+                30,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523537972394158,
+            "compression_ratio": 1.0112359550561798,
+            "no_speech_prob": 0.007574143819510937,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 5.34,
+                    "end": 5.34,
+                    "probability": 0.5369834899902344
+                },
+                {
+                    "word": " wanna",
+                    "start": 5.34,
+                    "end": 5.5,
+                    "probability": 0.36069801449775696
+                },
+                {
+                    "word": " lead",
+                    "start": 5.5,
+                    "end": 5.68,
+                    "probability": 0.949505090713501
+                },
+                {
+                    "word": " us",
+                    "start": 5.68,
+                    "end": 5.84,
+                    "probability": 0.9439886808395386
+                },
+                {
+                    "word": " off,",
+                    "start": 5.84,
+                    "end": 6.06,
+                    "probability": 0.98173987865448
+                },
+                {
+                    "word": " John?",
+                    "start": 6.26,
+                    "end": 6.34,
+                    "probability": 0.7723056077957153
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 6.44,
+            "end": 7.22,
+            "text": " I think you have the first item.",
+            "tokens": [
+                50684,
+                286,
+                519,
+                291,
+                362,
+                264,
+                700,
+                3174,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3523537972394158,
+            "compression_ratio": 1.0112359550561798,
+            "no_speech_prob": 0.007574143819510937,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 6.44,
+                    "end": 6.44,
+                    "probability": 0.9969781637191772
+                },
+                {
+                    "word": " think",
+                    "start": 6.44,
+                    "end": 6.58,
+                    "probability": 0.9993898868560791
+                },
+                {
+                    "word": " you",
+                    "start": 6.58,
+                    "end": 6.68,
+                    "probability": 0.9911160469055176
+                },
+                {
+                    "word": " have",
+                    "start": 6.68,
+                    "end": 6.72,
+                    "probability": 0.8711643815040588
+                },
+                {
+                    "word": " the",
+                    "start": 6.72,
+                    "end": 6.9,
+                    "probability": 0.9562103748321533
+                },
+                {
+                    "word": " first",
+                    "start": 6.9,
+                    "end": 7.08,
+                    "probability": 0.9987227320671082
+                },
+                {
+                    "word": " item.",
+                    "start": 7.08,
+                    "end": 7.22,
+                    "probability": 0.9950088262557983
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
