@@ -1,0 +1,39 @@
+{
+    "text": " That's right.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.62,
+            "text": " That's right.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                558,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7583953993661063,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.8411251306533813,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.548717837780714
+                },
+                {
+                    "word": " right.",
+                    "start": 0.58,
+                    "end": 0.62,
+                    "probability": 0.8488035202026367
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,180 @@
+{
+    "text": " Yeah, we could do this, but I'm still for the company. And as I said, it's not that expensive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.64,
+            "end": 6.66,
+            "text": " Yeah, we could do this, but I'm still for the company.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                727,
+                360,
+                341,
+                11,
+                457,
+                286,
+                478,
+                920,
+                337,
+                264,
+                2237,
+                13,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3546635104763892,
+            "compression_ratio": 1.0561797752808988,
+            "no_speech_prob": 0.07610749453306198,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.64,
+                    "end": 1.24,
+                    "probability": 0.27225837111473083
+                },
+                {
+                    "word": " we",
+                    "start": 1.4,
+                    "end": 1.96,
+                    "probability": 0.9822381138801575
+                },
+                {
+                    "word": " could",
+                    "start": 1.96,
+                    "end": 2.46,
+                    "probability": 0.6823712587356567
+                },
+                {
+                    "word": " do",
+                    "start": 2.46,
+                    "end": 2.7,
+                    "probability": 0.9960225820541382
+                },
+                {
+                    "word": " this,",
+                    "start": 2.7,
+                    "end": 3.26,
+                    "probability": 0.9962412118911743
+                },
+                {
+                    "word": " but",
+                    "start": 3.66,
+                    "end": 3.94,
+                    "probability": 0.9688718914985657
+                },
+                {
+                    "word": " I'm",
+                    "start": 3.94,
+                    "end": 4.22,
+                    "probability": 0.9371634423732758
+                },
+                {
+                    "word": " still",
+                    "start": 4.22,
+                    "end": 4.8,
+                    "probability": 0.9955123066902161
+                },
+                {
+                    "word": " for",
+                    "start": 4.8,
+                    "end": 5.56,
+                    "probability": 0.9207553863525391
+                },
+                {
+                    "word": " the",
+                    "start": 5.56,
+                    "end": 6.28,
+                    "probability": 0.9914277791976929
+                },
+                {
+                    "word": " company.",
+                    "start": 6.28,
+                    "end": 6.66,
+                    "probability": 0.9172916412353516
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.32,
+            "end": 9.34,
+            "text": " And as I said, it's not that expensive.",
+            "tokens": [
+                50704,
+                400,
+                382,
+                286,
+                848,
+                11,
+                309,
+                311,
+                406,
+                300,
+                5124,
+                13,
+                50824
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3546635104763892,
+            "compression_ratio": 1.0561797752808988,
+            "no_speech_prob": 0.07610749453306198,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 7.32,
+                    "end": 7.38,
+                    "probability": 0.36908501386642456
+                },
+                {
+                    "word": " as",
+                    "start": 7.38,
+                    "end": 7.54,
+                    "probability": 0.9599037766456604
+                },
+                {
+                    "word": " I",
+                    "start": 7.54,
+                    "end": 7.7,
+                    "probability": 0.9958211183547974
+                },
+                {
+                    "word": " said,",
+                    "start": 7.7,
+                    "end": 7.88,
+                    "probability": 0.9982011318206787
+                },
+                {
+                    "word": " it's",
+                    "start": 8.18,
+                    "end": 8.42,
+                    "probability": 0.9412021934986115
+                },
+                {
+                    "word": " not",
+                    "start": 8.42,
+                    "end": 8.66,
+                    "probability": 0.9988724589347839
+                },
+                {
+                    "word": " that",
+                    "start": 8.66,
+                    "end": 8.86,
+                    "probability": 0.9940189123153687
+                },
+                {
+                    "word": " expensive.",
+                    "start": 8.86,
+                    "end": 9.34,
+                    "probability": 0.9972584247589111
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

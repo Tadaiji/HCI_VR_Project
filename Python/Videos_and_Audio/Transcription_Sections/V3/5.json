@@ -1,0 +1,790 @@
+{
+    "text": " Well, I'm looking forward for it and I do have time and I am pretty much excited for this one and not only With this food or so. I want to have some Bit of thrill in the party and we will be gathering many of our friends together and all of our friends will enjoy this Integration of Make real fun in the party. I think apart from the traditional Birthday party. I think we can have some more fun with it. And yeah, he can make some really good time for us",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.96,
+            "text": " Well, I'm looking forward for it and I do have time and I am pretty much excited for this one",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                478,
+                1237,
+                2128,
+                337,
+                309,
+                293,
+                286,
+                360,
+                362,
+                565,
+                293,
+                286,
+                669,
+                1238,
+                709,
+                2919,
+                337,
+                341,
+                472,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20277976989746094,
+            "compression_ratio": 1.5898876404494382,
+            "no_speech_prob": 0.09523198753595352,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.5622870922088623
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.44,
+                    "end": 0.78,
+                    "probability": 0.8632597625255585
+                },
+                {
+                    "word": " looking",
+                    "start": 0.78,
+                    "end": 1.04,
+                    "probability": 0.9975661039352417
+                },
+                {
+                    "word": " forward",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9929266571998596
+                },
+                {
+                    "word": " for",
+                    "start": 1.32,
+                    "end": 1.5,
+                    "probability": 0.9032282829284668
+                },
+                {
+                    "word": " it",
+                    "start": 1.5,
+                    "end": 2.06,
+                    "probability": 0.9840079545974731
+                },
+                {
+                    "word": " and",
+                    "start": 2.06,
+                    "end": 2.54,
+                    "probability": 0.60273677110672
+                },
+                {
+                    "word": " I",
+                    "start": 2.54,
+                    "end": 2.74,
+                    "probability": 0.9797250628471375
+                },
+                {
+                    "word": " do",
+                    "start": 2.74,
+                    "end": 2.94,
+                    "probability": 0.9922533631324768
+                },
+                {
+                    "word": " have",
+                    "start": 2.94,
+                    "end": 3.18,
+                    "probability": 0.9980518817901611
+                },
+                {
+                    "word": " time",
+                    "start": 3.18,
+                    "end": 3.52,
+                    "probability": 0.9984849095344543
+                },
+                {
+                    "word": " and",
+                    "start": 3.52,
+                    "end": 3.86,
+                    "probability": 0.9800606966018677
+                },
+                {
+                    "word": " I",
+                    "start": 3.86,
+                    "end": 4.16,
+                    "probability": 0.9952966570854187
+                },
+                {
+                    "word": " am",
+                    "start": 4.16,
+                    "end": 4.44,
+                    "probability": 0.9729170799255371
+                },
+                {
+                    "word": " pretty",
+                    "start": 4.44,
+                    "end": 4.82,
+                    "probability": 0.996975302696228
+                },
+                {
+                    "word": " much",
+                    "start": 4.82,
+                    "end": 5.12,
+                    "probability": 0.9819595217704773
+                },
+                {
+                    "word": " excited",
+                    "start": 5.12,
+                    "end": 5.8,
+                    "probability": 0.9275256395339966
+                },
+                {
+                    "word": " for",
+                    "start": 5.8,
+                    "end": 6.12,
+                    "probability": 0.9732977747917175
+                },
+                {
+                    "word": " this",
+                    "start": 6.12,
+                    "end": 6.5,
+                    "probability": 0.998115062713623
+                },
+                {
+                    "word": " one",
+                    "start": 6.5,
+                    "end": 6.96,
+                    "probability": 0.9919064044952393
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.96,
+            "end": 9.24,
+            "text": " and not only",
+            "tokens": [
+                50716,
+                293,
+                406,
+                787,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20277976989746094,
+            "compression_ratio": 1.5898876404494382,
+            "no_speech_prob": 0.09523198753595352,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 6.96,
+                    "end": 7.66,
+                    "probability": 0.3179183304309845
+                },
+                {
+                    "word": " not",
+                    "start": 7.66,
+                    "end": 8.24,
+                    "probability": 0.9255695343017578
+                },
+                {
+                    "word": " only",
+                    "start": 8.24,
+                    "end": 9.24,
+                    "probability": 0.9972748160362244
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.24,
+            "end": 14.22,
+            "text": " With this food or so. I want to have some",
+            "tokens": [
+                50864,
+                2022,
+                341,
+                1755,
+                420,
+                370,
+                13,
+                286,
+                528,
+                281,
+                362,
+                512,
+                51040
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20277976989746094,
+            "compression_ratio": 1.5898876404494382,
+            "no_speech_prob": 0.09523198753595352,
+            "words": [
+                {
+                    "word": " With",
+                    "start": 9.24,
+                    "end": 10.48,
+                    "probability": 0.46795207262039185
+                },
+                {
+                    "word": " this",
+                    "start": 10.48,
+                    "end": 10.94,
+                    "probability": 0.9665977358818054
+                },
+                {
+                    "word": " food",
+                    "start": 10.94,
+                    "end": 11.34,
+                    "probability": 0.8666138648986816
+                },
+                {
+                    "word": " or",
+                    "start": 11.34,
+                    "end": 11.68,
+                    "probability": 0.5351592302322388
+                },
+                {
+                    "word": " so.",
+                    "start": 11.68,
+                    "end": 12.0,
+                    "probability": 0.9948427081108093
+                },
+                {
+                    "word": " I",
+                    "start": 12.0,
+                    "end": 12.72,
+                    "probability": 0.9973224997520447
+                },
+                {
+                    "word": " want",
+                    "start": 12.72,
+                    "end": 12.98,
+                    "probability": 0.8428934812545776
+                },
+                {
+                    "word": " to",
+                    "start": 12.98,
+                    "end": 13.24,
+                    "probability": 0.9887948036193848
+                },
+                {
+                    "word": " have",
+                    "start": 13.24,
+                    "end": 13.46,
+                    "probability": 0.8427202105522156
+                },
+                {
+                    "word": " some",
+                    "start": 13.46,
+                    "end": 14.22,
+                    "probability": 0.9112147092819214
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.22,
+            "end": 22.74,
+            "text": " Bit of thrill in the party and we will be gathering many of our friends together and all of our friends will enjoy this",
+            "tokens": [
+                51068,
+                9101,
+                295,
+                32935,
+                294,
+                264,
+                3595,
+                293,
+                321,
+                486,
+                312,
+                13519,
+                867,
+                295,
+                527,
+                1855,
+                1214,
+                293,
+                439,
+                295,
+                527,
+                1855,
+                486,
+                2103,
+                341,
+                51420
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20277976989746094,
+            "compression_ratio": 1.5898876404494382,
+            "no_speech_prob": 0.09523198753595352,
+            "words": [
+                {
+                    "word": " Bit",
+                    "start": 14.22,
+                    "end": 14.46,
+                    "probability": 0.03295087069272995
+                },
+                {
+                    "word": " of",
+                    "start": 14.46,
+                    "end": 14.8,
+                    "probability": 0.9989076852798462
+                },
+                {
+                    "word": " thrill",
+                    "start": 14.8,
+                    "end": 15.02,
+                    "probability": 0.9677833914756775
+                },
+                {
+                    "word": " in",
+                    "start": 15.02,
+                    "end": 15.26,
+                    "probability": 0.9988717436790466
+                },
+                {
+                    "word": " the",
+                    "start": 15.26,
+                    "end": 15.48,
+                    "probability": 0.9996503591537476
+                },
+                {
+                    "word": " party",
+                    "start": 15.48,
+                    "end": 15.86,
+                    "probability": 0.9916001558303833
+                },
+                {
+                    "word": " and",
+                    "start": 15.86,
+                    "end": 16.46,
+                    "probability": 0.8807231783866882
+                },
+                {
+                    "word": " we",
+                    "start": 16.46,
+                    "end": 16.58,
+                    "probability": 0.8385362029075623
+                },
+                {
+                    "word": " will",
+                    "start": 16.58,
+                    "end": 16.66,
+                    "probability": 0.892562985420227
+                },
+                {
+                    "word": " be",
+                    "start": 16.66,
+                    "end": 16.86,
+                    "probability": 0.9997264742851257
+                },
+                {
+                    "word": " gathering",
+                    "start": 16.86,
+                    "end": 17.1,
+                    "probability": 0.9146585464477539
+                },
+                {
+                    "word": " many",
+                    "start": 17.1,
+                    "end": 17.42,
+                    "probability": 0.9985135197639465
+                },
+                {
+                    "word": " of",
+                    "start": 17.42,
+                    "end": 17.66,
+                    "probability": 0.9994638562202454
+                },
+                {
+                    "word": " our",
+                    "start": 17.66,
+                    "end": 17.88,
+                    "probability": 0.9994169473648071
+                },
+                {
+                    "word": " friends",
+                    "start": 17.88,
+                    "end": 18.12,
+                    "probability": 0.988089382648468
+                },
+                {
+                    "word": " together",
+                    "start": 18.12,
+                    "end": 18.68,
+                    "probability": 0.9972637891769409
+                },
+                {
+                    "word": " and",
+                    "start": 18.68,
+                    "end": 18.98,
+                    "probability": 0.980391263961792
+                },
+                {
+                    "word": " all",
+                    "start": 18.98,
+                    "end": 19.22,
+                    "probability": 0.9993801116943359
+                },
+                {
+                    "word": " of",
+                    "start": 19.22,
+                    "end": 19.42,
+                    "probability": 0.9974343180656433
+                },
+                {
+                    "word": " our",
+                    "start": 19.42,
+                    "end": 19.7,
+                    "probability": 0.9989455342292786
+                },
+                {
+                    "word": " friends",
+                    "start": 19.7,
+                    "end": 20.0,
+                    "probability": 0.9903960227966309
+                },
+                {
+                    "word": " will",
+                    "start": 20.0,
+                    "end": 20.42,
+                    "probability": 0.8876144289970398
+                },
+                {
+                    "word": " enjoy",
+                    "start": 20.42,
+                    "end": 20.94,
+                    "probability": 0.9926958084106445
+                },
+                {
+                    "word": " this",
+                    "start": 20.94,
+                    "end": 22.74,
+                    "probability": 0.9921475052833557
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 22.74,
+            "end": 28.56,
+            "text": " Integration of",
+            "tokens": [
+                51539,
+                47713,
+                295,
+                51620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20277976989746094,
+            "compression_ratio": 1.5898876404494382,
+            "no_speech_prob": 0.09523198753595352,
+            "words": [
+                {
+                    "word": " Integration",
+                    "start": 22.74,
+                    "end": 24.04,
+                    "probability": 0.9260353446006775
+                },
+                {
+                    "word": " of",
+                    "start": 24.04,
+                    "end": 28.56,
+                    "probability": 0.9933652281761169
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2856,
+            "start": 28.56,
+            "end": 33.14,
+            "text": " Make real fun in the party. I think apart from the traditional",
+            "tokens": [
+                50364,
+                4387,
+                957,
+                1019,
+                294,
+                264,
+                3595,
+                13,
+                286,
+                519,
+                4936,
+                490,
+                264,
+                5164,
+                50569
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25539131598039105,
+            "compression_ratio": 1.3983739837398375,
+            "no_speech_prob": 0.03770918399095535,
+            "words": [
+                {
+                    "word": " Make",
+                    "start": 28.56,
+                    "end": 28.88,
+                    "probability": 0.008793480694293976
+                },
+                {
+                    "word": " real",
+                    "start": 28.88,
+                    "end": 29.32,
+                    "probability": 0.7965676784515381
+                },
+                {
+                    "word": " fun",
+                    "start": 29.32,
+                    "end": 29.62,
+                    "probability": 0.9835653901100159
+                },
+                {
+                    "word": " in",
+                    "start": 29.62,
+                    "end": 29.84,
+                    "probability": 0.8778091073036194
+                },
+                {
+                    "word": " the",
+                    "start": 29.84,
+                    "end": 30.04,
+                    "probability": 0.9823033213615417
+                },
+                {
+                    "word": " party.",
+                    "start": 30.04,
+                    "end": 30.28,
+                    "probability": 0.9805342555046082
+                },
+                {
+                    "word": " I",
+                    "start": 30.56,
+                    "end": 30.56,
+                    "probability": 0.7754577994346619
+                },
+                {
+                    "word": " think",
+                    "start": 30.56,
+                    "end": 30.84,
+                    "probability": 0.9812053442001343
+                },
+                {
+                    "word": " apart",
+                    "start": 30.84,
+                    "end": 31.72,
+                    "probability": 0.831419825553894
+                },
+                {
+                    "word": " from",
+                    "start": 31.72,
+                    "end": 32.0,
+                    "probability": 0.993545413017273
+                },
+                {
+                    "word": " the",
+                    "start": 32.0,
+                    "end": 32.24,
+                    "probability": 0.9887153506278992
+                },
+                {
+                    "word": " traditional",
+                    "start": 32.24,
+                    "end": 33.14,
+                    "probability": 0.9836348295211792
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2856,
+            "start": 33.14,
+            "end": 40.14,
+            "text": " Birthday party. I think we can have some more fun with it. And yeah, he can make some really good time for us",
+            "tokens": [
+                50592,
+                29236,
+                3595,
+                13,
+                286,
+                519,
+                321,
+                393,
+                362,
+                512,
+                544,
+                1019,
+                365,
+                309,
+                13,
+                400,
+                1338,
+                11,
+                415,
+                393,
+                652,
+                512,
+                534,
+                665,
+                565,
+                337,
+                505,
+                50932
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25539131598039105,
+            "compression_ratio": 1.3983739837398375,
+            "no_speech_prob": 0.03770918399095535,
+            "words": [
+                {
+                    "word": " Birthday",
+                    "start": 33.14,
+                    "end": 33.64,
+                    "probability": 0.33892375230789185
+                },
+                {
+                    "word": " party.",
+                    "start": 33.64,
+                    "end": 34.0,
+                    "probability": 0.9316975474357605
+                },
+                {
+                    "word": " I",
+                    "start": 34.02,
+                    "end": 34.28,
+                    "probability": 0.9934874773025513
+                },
+                {
+                    "word": " think",
+                    "start": 34.28,
+                    "end": 34.44,
+                    "probability": 0.9967842102050781
+                },
+                {
+                    "word": " we",
+                    "start": 34.44,
+                    "end": 34.68,
+                    "probability": 0.997204601764679
+                },
+                {
+                    "word": " can",
+                    "start": 34.68,
+                    "end": 34.76,
+                    "probability": 0.9969310760498047
+                },
+                {
+                    "word": " have",
+                    "start": 34.76,
+                    "end": 34.98,
+                    "probability": 0.9971691966056824
+                },
+                {
+                    "word": " some",
+                    "start": 34.98,
+                    "end": 35.3,
+                    "probability": 0.9887985587120056
+                },
+                {
+                    "word": " more",
+                    "start": 35.3,
+                    "end": 35.54,
+                    "probability": 0.9975064396858215
+                },
+                {
+                    "word": " fun",
+                    "start": 35.54,
+                    "end": 35.74,
+                    "probability": 0.9988666772842407
+                },
+                {
+                    "word": " with",
+                    "start": 35.74,
+                    "end": 35.96,
+                    "probability": 0.9970245957374573
+                },
+                {
+                    "word": " it.",
+                    "start": 35.96,
+                    "end": 36.46,
+                    "probability": 0.9977559447288513
+                },
+                {
+                    "word": " And",
+                    "start": 36.46,
+                    "end": 37.2,
+                    "probability": 0.9485667943954468
+                },
+                {
+                    "word": " yeah,",
+                    "start": 37.2,
+                    "end": 37.52,
+                    "probability": 0.9398740530014038
+                },
+                {
+                    "word": " he",
+                    "start": 37.64,
+                    "end": 37.74,
+                    "probability": 0.9914552569389343
+                },
+                {
+                    "word": " can",
+                    "start": 37.74,
+                    "end": 37.98,
+                    "probability": 0.9992408752441406
+                },
+                {
+                    "word": " make",
+                    "start": 37.98,
+                    "end": 38.22,
+                    "probability": 0.9974437952041626
+                },
+                {
+                    "word": " some",
+                    "start": 38.22,
+                    "end": 38.78,
+                    "probability": 0.9974018335342407
+                },
+                {
+                    "word": " really",
+                    "start": 38.78,
+                    "end": 39.22,
+                    "probability": 0.9884573817253113
+                },
+                {
+                    "word": " good",
+                    "start": 39.22,
+                    "end": 39.5,
+                    "probability": 0.9969967603683472
+                },
+                {
+                    "word": " time",
+                    "start": 39.5,
+                    "end": 39.7,
+                    "probability": 0.9865562915802002
+                },
+                {
+                    "word": " for",
+                    "start": 39.7,
+                    "end": 39.98,
+                    "probability": 0.9845120906829834
+                },
+                {
+                    "word": " us",
+                    "start": 39.98,
+                    "end": 40.14,
+                    "probability": 0.9812121987342834
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

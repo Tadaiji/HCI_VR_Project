@@ -1,0 +1,136 @@
+{
+    "text": " Sure, let's meet this week and we can arrange our things. Nice, nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.58,
+            "end": 3.9,
+            "text": " Sure, let's meet this week and we can arrange our things.",
+            "tokens": [
+                50364,
+                4894,
+                11,
+                718,
+                311,
+                1677,
+                341,
+                1243,
+                293,
+                321,
+                393,
+                9424,
+                527,
+                721,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4737422362617824,
+            "compression_ratio": 0.971830985915493,
+            "no_speech_prob": 0.16946183145046234,
+            "words": [
+                {
+                    "word": " Sure,",
+                    "start": 0.58,
+                    "end": 1.1,
+                    "probability": 0.6257184147834778
+                },
+                {
+                    "word": " let's",
+                    "start": 1.18,
+                    "end": 1.62,
+                    "probability": 0.8731025457382202
+                },
+                {
+                    "word": " meet",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.9940063953399658
+                },
+                {
+                    "word": " this",
+                    "start": 1.92,
+                    "end": 2.2,
+                    "probability": 0.9915198683738708
+                },
+                {
+                    "word": " week",
+                    "start": 2.2,
+                    "end": 2.4,
+                    "probability": 0.989782989025116
+                },
+                {
+                    "word": " and",
+                    "start": 2.4,
+                    "end": 2.68,
+                    "probability": 0.9155651330947876
+                },
+                {
+                    "word": " we",
+                    "start": 2.68,
+                    "end": 2.82,
+                    "probability": 0.9030485153198242
+                },
+                {
+                    "word": " can",
+                    "start": 2.82,
+                    "end": 3.08,
+                    "probability": 0.9862632751464844
+                },
+                {
+                    "word": " arrange",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.9623990654945374
+                },
+                {
+                    "word": " our",
+                    "start": 3.34,
+                    "end": 3.52,
+                    "probability": 0.9147589802742004
+                },
+                {
+                    "word": " things.",
+                    "start": 3.52,
+                    "end": 3.9,
+                    "probability": 0.9827797412872314
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.46,
+            "end": 5.1,
+            "text": " Nice, nice.",
+            "tokens": [
+                50564,
+                5490,
+                11,
+                1481,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4737422362617824,
+            "compression_ratio": 0.971830985915493,
+            "no_speech_prob": 0.16946183145046234,
+            "words": [
+                {
+                    "word": " Nice,",
+                    "start": 4.46,
+                    "end": 4.7,
+                    "probability": 0.34942880272865295
+                },
+                {
+                    "word": " nice.",
+                    "start": 4.88,
+                    "end": 5.1,
+                    "probability": 0.4971873164176941
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

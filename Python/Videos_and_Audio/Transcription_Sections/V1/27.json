@@ -1,0 +1,524 @@
+{
+    "text": " I don't know. Yeah, I agree with George. I also think we should take the couch with us to the new flat. But yeah, we have to think about getting it out of this building because last year the main entrance, as you know, was redone. And I think the new door is...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.72,
+            "text": " I don't know.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                458,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.33135300874710083
+                },
+                {
+                    "word": " don't",
+                    "start": 0.38,
+                    "end": 0.38,
+                    "probability": 0.7525004744529724
+                },
+                {
+                    "word": " know.",
+                    "start": 0.38,
+                    "end": 0.72,
+                    "probability": 0.9980746507644653
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.96,
+            "end": 2.36,
+            "text": " Yeah, I agree with George.",
+            "tokens": [
+                50406,
+                865,
+                11,
+                286,
+                3986,
+                365,
+                7136,
+                13,
+                50490
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.7437580227851868
+                },
+                {
+                    "word": " I",
+                    "start": 1.22,
+                    "end": 1.34,
+                    "probability": 0.9903274178504944
+                },
+                {
+                    "word": " agree",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9983953833580017
+                },
+                {
+                    "word": " with",
+                    "start": 1.54,
+                    "end": 1.84,
+                    "probability": 0.998868465423584
+                },
+                {
+                    "word": " George.",
+                    "start": 1.84,
+                    "end": 2.36,
+                    "probability": 0.7483249306678772
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.24,
+            "end": 8.16,
+            "text": " I also think we should take the couch with us",
+            "tokens": [
+                50642,
+                286,
+                611,
+                519,
+                321,
+                820,
+                747,
+                264,
+                16511,
+                365,
+                505,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 4.24,
+                    "end": 5.64,
+                    "probability": 0.5335607528686523
+                },
+                {
+                    "word": " also",
+                    "start": 5.64,
+                    "end": 6.0,
+                    "probability": 0.9805032014846802
+                },
+                {
+                    "word": " think",
+                    "start": 6.0,
+                    "end": 6.22,
+                    "probability": 0.9977328777313232
+                },
+                {
+                    "word": " we",
+                    "start": 6.22,
+                    "end": 6.36,
+                    "probability": 0.9691774845123291
+                },
+                {
+                    "word": " should",
+                    "start": 6.36,
+                    "end": 6.6,
+                    "probability": 0.9975470900535583
+                },
+                {
+                    "word": " take",
+                    "start": 6.6,
+                    "end": 6.94,
+                    "probability": 0.9904409646987915
+                },
+                {
+                    "word": " the",
+                    "start": 6.94,
+                    "end": 7.16,
+                    "probability": 0.9938086867332458
+                },
+                {
+                    "word": " couch",
+                    "start": 7.16,
+                    "end": 7.4,
+                    "probability": 0.9614830613136292
+                },
+                {
+                    "word": " with",
+                    "start": 7.4,
+                    "end": 7.8,
+                    "probability": 0.989970862865448
+                },
+                {
+                    "word": " us",
+                    "start": 7.8,
+                    "end": 8.16,
+                    "probability": 0.9985771179199219
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.16,
+            "end": 8.9,
+            "text": " to the new flat.",
+            "tokens": [
+                50772,
+                281,
+                264,
+                777,
+                4962,
+                13,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " to",
+                    "start": 8.16,
+                    "end": 8.4,
+                    "probability": 0.9512708783149719
+                },
+                {
+                    "word": " the",
+                    "start": 8.4,
+                    "end": 8.42,
+                    "probability": 0.9948200583457947
+                },
+                {
+                    "word": " new",
+                    "start": 8.42,
+                    "end": 8.62,
+                    "probability": 0.996894121170044
+                },
+                {
+                    "word": " flat.",
+                    "start": 8.62,
+                    "end": 8.9,
+                    "probability": 0.9932529330253601
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 10.48,
+            "end": 14.46,
+            "text": " But yeah, we have to think about getting it out",
+            "tokens": [
+                50876,
+                583,
+                1338,
+                11,
+                321,
+                362,
+                281,
+                519,
+                466,
+                1242,
+                309,
+                484,
+                51086
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 10.48,
+                    "end": 10.8,
+                    "probability": 0.8578169941902161
+                },
+                {
+                    "word": " yeah,",
+                    "start": 10.8,
+                    "end": 11.8,
+                    "probability": 0.5109615325927734
+                },
+                {
+                    "word": " we",
+                    "start": 11.9,
+                    "end": 11.94,
+                    "probability": 0.9989205598831177
+                },
+                {
+                    "word": " have",
+                    "start": 11.94,
+                    "end": 12.12,
+                    "probability": 0.997183620929718
+                },
+                {
+                    "word": " to",
+                    "start": 12.12,
+                    "end": 12.74,
+                    "probability": 0.9993875026702881
+                },
+                {
+                    "word": " think",
+                    "start": 12.74,
+                    "end": 12.98,
+                    "probability": 0.9977647066116333
+                },
+                {
+                    "word": " about",
+                    "start": 12.98,
+                    "end": 13.8,
+                    "probability": 0.9991384744644165
+                },
+                {
+                    "word": " getting",
+                    "start": 13.8,
+                    "end": 14.2,
+                    "probability": 0.997616171836853
+                },
+                {
+                    "word": " it",
+                    "start": 14.2,
+                    "end": 14.36,
+                    "probability": 0.9655725955963135
+                },
+                {
+                    "word": " out",
+                    "start": 14.36,
+                    "end": 14.46,
+                    "probability": 0.9990383386611938
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 14.46,
+            "end": 17.22,
+            "text": " of this building because last year the main entrance,",
+            "tokens": [
+                51086,
+                295,
+                341,
+                2390,
+                570,
+                1036,
+                1064,
+                264,
+                2135,
+                12014,
+                11,
+                51252
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 14.46,
+                    "end": 14.62,
+                    "probability": 0.9978723526000977
+                },
+                {
+                    "word": " this",
+                    "start": 14.62,
+                    "end": 14.74,
+                    "probability": 0.9897419214248657
+                },
+                {
+                    "word": " building",
+                    "start": 14.74,
+                    "end": 15.06,
+                    "probability": 0.9995699524879456
+                },
+                {
+                    "word": " because",
+                    "start": 15.06,
+                    "end": 15.78,
+                    "probability": 0.5273547768592834
+                },
+                {
+                    "word": " last",
+                    "start": 15.78,
+                    "end": 16.18,
+                    "probability": 0.9762160778045654
+                },
+                {
+                    "word": " year",
+                    "start": 16.18,
+                    "end": 16.34,
+                    "probability": 0.999195396900177
+                },
+                {
+                    "word": " the",
+                    "start": 16.34,
+                    "end": 16.46,
+                    "probability": 0.7630957961082458
+                },
+                {
+                    "word": " main",
+                    "start": 16.46,
+                    "end": 16.64,
+                    "probability": 0.9985727071762085
+                },
+                {
+                    "word": " entrance,",
+                    "start": 16.64,
+                    "end": 17.22,
+                    "probability": 0.9962651133537292
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.64,
+            "end": 20.22,
+            "text": " as you know, was redone.",
+            "tokens": [
+                51252,
+                382,
+                291,
+                458,
+                11,
+                390,
+                2182,
+                546,
+                13,
+                51382
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 17.64,
+                    "end": 17.9,
+                    "probability": 0.9959185719490051
+                },
+                {
+                    "word": " you",
+                    "start": 17.9,
+                    "end": 18.06,
+                    "probability": 0.9977222084999084
+                },
+                {
+                    "word": " know,",
+                    "start": 18.06,
+                    "end": 18.24,
+                    "probability": 0.9979110360145569
+                },
+                {
+                    "word": " was",
+                    "start": 18.56,
+                    "end": 19.7,
+                    "probability": 0.998202919960022
+                },
+                {
+                    "word": " redone.",
+                    "start": 19.7,
+                    "end": 20.22,
+                    "probability": 0.8876160681247711
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 20.38,
+            "end": 21.92,
+            "text": " And I think the new door is...",
+            "tokens": [
+                51382,
+                400,
+                286,
+                519,
+                264,
+                777,
+                2853,
+                307,
+                485,
+                51476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32445194103099684,
+            "compression_ratio": 1.5086705202312138,
+            "no_speech_prob": 0.0021436884999275208,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 20.38,
+                    "end": 20.64,
+                    "probability": 0.9307836890220642
+                },
+                {
+                    "word": " I",
+                    "start": 20.64,
+                    "end": 20.82,
+                    "probability": 0.9903732538223267
+                },
+                {
+                    "word": " think",
+                    "start": 20.82,
+                    "end": 21.06,
+                    "probability": 0.9995222091674805
+                },
+                {
+                    "word": " the",
+                    "start": 21.06,
+                    "end": 21.28,
+                    "probability": 0.9911878108978271
+                },
+                {
+                    "word": " new",
+                    "start": 21.28,
+                    "end": 21.5,
+                    "probability": 0.99664306640625
+                },
+                {
+                    "word": " door",
+                    "start": 21.5,
+                    "end": 21.8,
+                    "probability": 0.9961976408958435
+                },
+                {
+                    "word": " is...",
+                    "start": 21.8,
+                    "end": 21.92,
+                    "probability": 0.5082616219297051
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

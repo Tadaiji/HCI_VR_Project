@@ -1,0 +1,185 @@
+{
+    "text": " I don't know the answer to that. Let's just say we're going to have to wait for the next question.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 2.6,
+            "end": 5.4,
+            "text": " I don't know the answer to that.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                458,
+                264,
+                1867,
+                281,
+                300,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9906863530476888,
+            "compression_ratio": 1.1264367816091954,
+            "no_speech_prob": 0.2900812029838562,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 2.6,
+                    "end": 3.12,
+                    "probability": 0.47709473967552185
+                },
+                {
+                    "word": " don't",
+                    "start": 3.12,
+                    "end": 3.42,
+                    "probability": 0.9661152064800262
+                },
+                {
+                    "word": " know",
+                    "start": 3.42,
+                    "end": 3.64,
+                    "probability": 0.9927555918693542
+                },
+                {
+                    "word": " the",
+                    "start": 3.64,
+                    "end": 3.88,
+                    "probability": 0.9819475412368774
+                },
+                {
+                    "word": " answer",
+                    "start": 3.88,
+                    "end": 4.14,
+                    "probability": 0.9690357446670532
+                },
+                {
+                    "word": " to",
+                    "start": 4.14,
+                    "end": 4.38,
+                    "probability": 0.9802166819572449
+                },
+                {
+                    "word": " that.",
+                    "start": 4.38,
+                    "end": 5.4,
+                    "probability": 0.9909130334854126
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.52,
+            "end": 7.24,
+            "text": " Let's just say we're going to have to wait for the next question.",
+            "tokens": [
+                50614,
+                961,
+                311,
+                445,
+                584,
+                321,
+                434,
+                516,
+                281,
+                362,
+                281,
+                1699,
+                337,
+                264,
+                958,
+                1168,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9906863530476888,
+            "compression_ratio": 1.1264367816091954,
+            "no_speech_prob": 0.2900812029838562,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 6.52,
+                    "end": 6.9,
+                    "probability": 0.6776900142431259
+                },
+                {
+                    "word": " just",
+                    "start": 6.9,
+                    "end": 7.1,
+                    "probability": 0.9831472039222717
+                },
+                {
+                    "word": " say",
+                    "start": 7.1,
+                    "end": 7.24,
+                    "probability": 0.9934911131858826
+                },
+                {
+                    "word": " we're",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.30178292840719223
+                },
+                {
+                    "word": " going",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.08472713083028793
+                },
+                {
+                    "word": " to",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.7597298622131348
+                },
+                {
+                    "word": " have",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.06425750255584717
+                },
+                {
+                    "word": " to",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.5025860667228699
+                },
+                {
+                    "word": " wait",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.07442527264356613
+                },
+                {
+                    "word": " for",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.22330023348331451
+                },
+                {
+                    "word": " the",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.21524088084697723
+                },
+                {
+                    "word": " next",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.07078817486763
+                },
+                {
+                    "word": " question.",
+                    "start": 7.24,
+                    "end": 7.24,
+                    "probability": 0.14378055930137634
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

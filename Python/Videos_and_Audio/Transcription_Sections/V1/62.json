@@ -1,0 +1,558 @@
+{
+    "text": " Well, I have one I can take one day off from my company and they have this move out vacation plan so I can take that one and in a whole week we can gradually pack all stuff we can accommodate stuff our stuff nearly in the basement so we can take heavy stuff on weekends and then we can do this gradually what what do you think check",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.18,
+            "text": " Well, I have one I can take one day off from my company and they have this move out",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                362,
+                472,
+                286,
+                393,
+                747,
+                472,
+                786,
+                766,
+                490,
+                452,
+                2237,
+                293,
+                436,
+                362,
+                341,
+                1286,
+                484,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15044630026515526,
+            "compression_ratio": 1.7754010695187166,
+            "no_speech_prob": 0.001815716503188014,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7170019745826721
+                },
+                {
+                    "word": " I",
+                    "start": 0.72,
+                    "end": 0.72,
+                    "probability": 0.9748587608337402
+                },
+                {
+                    "word": " have",
+                    "start": 0.72,
+                    "end": 1.0,
+                    "probability": 0.7884157299995422
+                },
+                {
+                    "word": " one",
+                    "start": 1.0,
+                    "end": 1.48,
+                    "probability": 0.9783591628074646
+                },
+                {
+                    "word": " I",
+                    "start": 1.48,
+                    "end": 2.08,
+                    "probability": 0.38591545820236206
+                },
+                {
+                    "word": " can",
+                    "start": 2.08,
+                    "end": 2.36,
+                    "probability": 0.9965841770172119
+                },
+                {
+                    "word": " take",
+                    "start": 2.36,
+                    "end": 2.62,
+                    "probability": 0.9920601844787598
+                },
+                {
+                    "word": " one",
+                    "start": 2.62,
+                    "end": 2.88,
+                    "probability": 0.9841769933700562
+                },
+                {
+                    "word": " day",
+                    "start": 2.88,
+                    "end": 3.08,
+                    "probability": 0.9954979419708252
+                },
+                {
+                    "word": " off",
+                    "start": 3.08,
+                    "end": 3.42,
+                    "probability": 0.9822764992713928
+                },
+                {
+                    "word": " from",
+                    "start": 3.42,
+                    "end": 3.74,
+                    "probability": 0.9955015778541565
+                },
+                {
+                    "word": " my",
+                    "start": 3.74,
+                    "end": 3.96,
+                    "probability": 0.998021125793457
+                },
+                {
+                    "word": " company",
+                    "start": 3.96,
+                    "end": 4.42,
+                    "probability": 0.9960814118385315
+                },
+                {
+                    "word": " and",
+                    "start": 4.42,
+                    "end": 5.32,
+                    "probability": 0.8335525989532471
+                },
+                {
+                    "word": " they",
+                    "start": 5.32,
+                    "end": 5.68,
+                    "probability": 0.9858421683311462
+                },
+                {
+                    "word": " have",
+                    "start": 5.68,
+                    "end": 5.84,
+                    "probability": 0.9271402955055237
+                },
+                {
+                    "word": " this",
+                    "start": 5.84,
+                    "end": 6.7,
+                    "probability": 0.9953049421310425
+                },
+                {
+                    "word": " move",
+                    "start": 6.7,
+                    "end": 6.98,
+                    "probability": 0.8502904772758484
+                },
+                {
+                    "word": " out",
+                    "start": 6.98,
+                    "end": 8.18,
+                    "probability": 0.9394385814666748
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.18,
+            "end": 14.64,
+            "text": " vacation plan so I can take that one and in a whole week we can gradually pack all stuff we",
+            "tokens": [
+                50772,
+                12830,
+                1393,
+                370,
+                286,
+                393,
+                747,
+                300,
+                472,
+                293,
+                294,
+                257,
+                1379,
+                1243,
+                321,
+                393,
+                13145,
+                2844,
+                439,
+                1507,
+                321,
+                51084
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15044630026515526,
+            "compression_ratio": 1.7754010695187166,
+            "no_speech_prob": 0.001815716503188014,
+            "words": [
+                {
+                    "word": " vacation",
+                    "start": 8.18,
+                    "end": 8.8,
+                    "probability": 0.7224569320678711
+                },
+                {
+                    "word": " plan",
+                    "start": 8.8,
+                    "end": 9.14,
+                    "probability": 0.9829573035240173
+                },
+                {
+                    "word": " so",
+                    "start": 9.14,
+                    "end": 9.44,
+                    "probability": 0.6700862050056458
+                },
+                {
+                    "word": " I",
+                    "start": 9.44,
+                    "end": 9.64,
+                    "probability": 0.9629008173942566
+                },
+                {
+                    "word": " can",
+                    "start": 9.64,
+                    "end": 10.14,
+                    "probability": 0.9976868629455566
+                },
+                {
+                    "word": " take",
+                    "start": 10.14,
+                    "end": 10.72,
+                    "probability": 0.923981785774231
+                },
+                {
+                    "word": " that",
+                    "start": 10.72,
+                    "end": 11.02,
+                    "probability": 0.9957393407821655
+                },
+                {
+                    "word": " one",
+                    "start": 11.02,
+                    "end": 11.18,
+                    "probability": 0.9948737025260925
+                },
+                {
+                    "word": " and",
+                    "start": 11.18,
+                    "end": 11.6,
+                    "probability": 0.8891891837120056
+                },
+                {
+                    "word": " in",
+                    "start": 11.6,
+                    "end": 12.0,
+                    "probability": 0.9837654232978821
+                },
+                {
+                    "word": " a",
+                    "start": 12.0,
+                    "end": 12.14,
+                    "probability": 0.5647907257080078
+                },
+                {
+                    "word": " whole",
+                    "start": 12.14,
+                    "end": 12.36,
+                    "probability": 0.9899961948394775
+                },
+                {
+                    "word": " week",
+                    "start": 12.36,
+                    "end": 12.72,
+                    "probability": 0.9911895990371704
+                },
+                {
+                    "word": " we",
+                    "start": 12.72,
+                    "end": 12.94,
+                    "probability": 0.7874777317047119
+                },
+                {
+                    "word": " can",
+                    "start": 12.94,
+                    "end": 13.18,
+                    "probability": 0.9955494403839111
+                },
+                {
+                    "word": " gradually",
+                    "start": 13.18,
+                    "end": 13.62,
+                    "probability": 0.9850049018859863
+                },
+                {
+                    "word": " pack",
+                    "start": 13.62,
+                    "end": 13.92,
+                    "probability": 0.8798928260803223
+                },
+                {
+                    "word": " all",
+                    "start": 13.92,
+                    "end": 14.12,
+                    "probability": 0.6111680865287781
+                },
+                {
+                    "word": " stuff",
+                    "start": 14.12,
+                    "end": 14.42,
+                    "probability": 0.5603078603744507
+                },
+                {
+                    "word": " we",
+                    "start": 14.42,
+                    "end": 14.64,
+                    "probability": 0.3867240846157074
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.64,
+            "end": 21.34,
+            "text": " can accommodate stuff our stuff nearly in the basement so we can take heavy stuff on weekends",
+            "tokens": [
+                51084,
+                393,
+                21410,
+                1507,
+                527,
+                1507,
+                6217,
+                294,
+                264,
+                16893,
+                370,
+                321,
+                393,
+                747,
+                4676,
+                1507,
+                322,
+                23595,
+                51432
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15044630026515526,
+            "compression_ratio": 1.7754010695187166,
+            "no_speech_prob": 0.001815716503188014,
+            "words": [
+                {
+                    "word": " can",
+                    "start": 14.64,
+                    "end": 14.76,
+                    "probability": 0.813457727432251
+                },
+                {
+                    "word": " accommodate",
+                    "start": 14.76,
+                    "end": 15.2,
+                    "probability": 0.9151075482368469
+                },
+                {
+                    "word": " stuff",
+                    "start": 15.2,
+                    "end": 15.58,
+                    "probability": 0.9563509225845337
+                },
+                {
+                    "word": " our",
+                    "start": 15.58,
+                    "end": 15.86,
+                    "probability": 0.43697112798690796
+                },
+                {
+                    "word": " stuff",
+                    "start": 15.86,
+                    "end": 16.26,
+                    "probability": 0.9532694220542908
+                },
+                {
+                    "word": " nearly",
+                    "start": 16.26,
+                    "end": 16.96,
+                    "probability": 0.9035624861717224
+                },
+                {
+                    "word": " in",
+                    "start": 16.96,
+                    "end": 17.48,
+                    "probability": 0.9971534013748169
+                },
+                {
+                    "word": " the",
+                    "start": 17.48,
+                    "end": 17.7,
+                    "probability": 0.9990975856781006
+                },
+                {
+                    "word": " basement",
+                    "start": 17.7,
+                    "end": 18.08,
+                    "probability": 0.9912967681884766
+                },
+                {
+                    "word": " so",
+                    "start": 18.08,
+                    "end": 18.74,
+                    "probability": 0.7904514074325562
+                },
+                {
+                    "word": " we",
+                    "start": 18.74,
+                    "end": 19.12,
+                    "probability": 0.9866366982460022
+                },
+                {
+                    "word": " can",
+                    "start": 19.12,
+                    "end": 19.36,
+                    "probability": 0.9987804293632507
+                },
+                {
+                    "word": " take",
+                    "start": 19.36,
+                    "end": 19.82,
+                    "probability": 0.9412654042243958
+                },
+                {
+                    "word": " heavy",
+                    "start": 19.82,
+                    "end": 20.24,
+                    "probability": 0.982343316078186
+                },
+                {
+                    "word": " stuff",
+                    "start": 20.24,
+                    "end": 20.58,
+                    "probability": 0.9970609545707703
+                },
+                {
+                    "word": " on",
+                    "start": 20.58,
+                    "end": 20.9,
+                    "probability": 0.9986696243286133
+                },
+                {
+                    "word": " weekends",
+                    "start": 20.9,
+                    "end": 21.34,
+                    "probability": 0.9450857043266296
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 21.34,
+            "end": 24.8,
+            "text": " and then we can do this gradually what what do you think check",
+            "tokens": [
+                51432,
+                293,
+                550,
+                321,
+                393,
+                360,
+                341,
+                13145,
+                437,
+                437,
+                360,
+                291,
+                519,
+                1520,
+                51596
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.15044630026515526,
+            "compression_ratio": 1.7754010695187166,
+            "no_speech_prob": 0.001815716503188014,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 21.34,
+                    "end": 21.74,
+                    "probability": 0.9538089036941528
+                },
+                {
+                    "word": " then",
+                    "start": 21.74,
+                    "end": 21.88,
+                    "probability": 0.9947404265403748
+                },
+                {
+                    "word": " we",
+                    "start": 21.88,
+                    "end": 22.04,
+                    "probability": 0.9905125498771667
+                },
+                {
+                    "word": " can",
+                    "start": 22.04,
+                    "end": 22.18,
+                    "probability": 0.9989483952522278
+                },
+                {
+                    "word": " do",
+                    "start": 22.18,
+                    "end": 22.36,
+                    "probability": 0.9986135959625244
+                },
+                {
+                    "word": " this",
+                    "start": 22.36,
+                    "end": 22.6,
+                    "probability": 0.9982800483703613
+                },
+                {
+                    "word": " gradually",
+                    "start": 22.6,
+                    "end": 22.9,
+                    "probability": 0.9753140807151794
+                },
+                {
+                    "word": " what",
+                    "start": 22.9,
+                    "end": 23.16,
+                    "probability": 0.43436914682388306
+                },
+                {
+                    "word": " what",
+                    "start": 23.16,
+                    "end": 23.4,
+                    "probability": 0.5262748003005981
+                },
+                {
+                    "word": " do",
+                    "start": 23.4,
+                    "end": 23.52,
+                    "probability": 0.9907622933387756
+                },
+                {
+                    "word": " you",
+                    "start": 23.52,
+                    "end": 23.62,
+                    "probability": 0.9988975524902344
+                },
+                {
+                    "word": " think",
+                    "start": 23.62,
+                    "end": 24.26,
+                    "probability": 0.9975969195365906
+                },
+                {
+                    "word": " check",
+                    "start": 24.26,
+                    "end": 24.8,
+                    "probability": 0.3287533223628998
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

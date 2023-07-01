@@ -1,0 +1,156 @@
+{
+    "text": " Yeah, okay. No problem. Should. If you guys can do it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.88,
+            "text": " Yeah, okay.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1392,
+                13,
+                50408
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5246648025512696,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.12884141504764557,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.02,
+                    "end": 0.38,
+                    "probability": 0.6650035977363586
+                },
+                {
+                    "word": " okay.",
+                    "start": 0.44,
+                    "end": 0.88,
+                    "probability": 0.4702548384666443
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.08,
+            "end": 1.76,
+            "text": " No problem.",
+            "tokens": [
+                50408,
+                883,
+                1154,
+                13,
+                50458
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5246648025512696,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.12884141504764557,
+            "words": [
+                {
+                    "word": " No",
+                    "start": 1.08,
+                    "end": 1.22,
+                    "probability": 0.7838793396949768
+                },
+                {
+                    "word": " problem.",
+                    "start": 1.22,
+                    "end": 1.76,
+                    "probability": 0.9741140007972717
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.06,
+            "end": 2.34,
+            "text": " Should.",
+            "tokens": [
+                50458,
+                6454,
+                13,
+                50508
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5246648025512696,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.12884141504764557,
+            "words": [
+                {
+                    "word": " Should.",
+                    "start": 2.06,
+                    "end": 2.34,
+                    "probability": 0.4082467257976532
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 3.7,
+            "end": 4.54,
+            "text": " If you guys can do it.",
+            "tokens": [
+                50544,
+                759,
+                291,
+                1074,
+                393,
+                360,
+                309,
+                13,
+                50594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5246648025512696,
+            "compression_ratio": 0.8709677419354839,
+            "no_speech_prob": 0.12884141504764557,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 3.7,
+                    "end": 3.86,
+                    "probability": 0.9695172309875488
+                },
+                {
+                    "word": " you",
+                    "start": 3.86,
+                    "end": 3.98,
+                    "probability": 0.9979779124259949
+                },
+                {
+                    "word": " guys",
+                    "start": 3.98,
+                    "end": 4.14,
+                    "probability": 0.995978593826294
+                },
+                {
+                    "word": " can",
+                    "start": 4.14,
+                    "end": 4.32,
+                    "probability": 0.9951890707015991
+                },
+                {
+                    "word": " do",
+                    "start": 4.32,
+                    "end": 4.42,
+                    "probability": 0.9948518872261047
+                },
+                {
+                    "word": " it.",
+                    "start": 4.42,
+                    "end": 4.54,
+                    "probability": 0.9912871718406677
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

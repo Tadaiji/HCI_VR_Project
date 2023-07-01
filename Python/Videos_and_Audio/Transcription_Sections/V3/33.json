@@ -1,0 +1,30 @@
+{
+    "text": " with",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.16,
+            "text": " with",
+            "tokens": [
+                50364,
+                365,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8891846537590027,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.7672354578971863,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.1027626320719719
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

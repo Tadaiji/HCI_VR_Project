@@ -1,0 +1,311 @@
+{
+    "text": " Yeah, I think they should be put somewhere else if we if we put the couch here because yes, you said having your Heads on them all the times they will fall off the wall and yeah, it's",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 9.7,
+            "text": " Yeah, I think they should be put somewhere else if we if we put the couch here because yes, you said having your",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                436,
+                820,
+                312,
+                829,
+                4079,
+                1646,
+                498,
+                321,
+                498,
+                321,
+                829,
+                264,
+                16511,
+                510,
+                570,
+                2086,
+                11,
+                291,
+                848,
+                1419,
+                428,
+                50771
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38693968454996747,
+            "compression_ratio": 1.4186046511627908,
+            "no_speech_prob": 0.03831668198108673,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.04,
+                    "end": 0.56,
+                    "probability": 0.49150142073631287
+                },
+                {
+                    "word": " I",
+                    "start": 0.56,
+                    "end": 0.8,
+                    "probability": 0.8459562659263611
+                },
+                {
+                    "word": " think",
+                    "start": 0.8,
+                    "end": 1.04,
+                    "probability": 0.9953961968421936
+                },
+                {
+                    "word": " they",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.8559766411781311
+                },
+                {
+                    "word": " should",
+                    "start": 1.24,
+                    "end": 1.52,
+                    "probability": 0.9955164790153503
+                },
+                {
+                    "word": " be",
+                    "start": 1.52,
+                    "end": 2.02,
+                    "probability": 0.994460940361023
+                },
+                {
+                    "word": " put",
+                    "start": 2.02,
+                    "end": 2.42,
+                    "probability": 0.9846627712249756
+                },
+                {
+                    "word": " somewhere",
+                    "start": 2.42,
+                    "end": 2.92,
+                    "probability": 0.9918928146362305
+                },
+                {
+                    "word": " else",
+                    "start": 2.92,
+                    "end": 3.44,
+                    "probability": 0.9970268607139587
+                },
+                {
+                    "word": " if",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.661870539188385
+                },
+                {
+                    "word": " we",
+                    "start": 3.7,
+                    "end": 4.5,
+                    "probability": 0.475595623254776
+                },
+                {
+                    "word": " if",
+                    "start": 4.5,
+                    "end": 4.5,
+                    "probability": 0.3167269825935364
+                },
+                {
+                    "word": " we",
+                    "start": 4.5,
+                    "end": 4.78,
+                    "probability": 0.41406187415122986
+                },
+                {
+                    "word": " put",
+                    "start": 4.78,
+                    "end": 4.94,
+                    "probability": 0.8913536667823792
+                },
+                {
+                    "word": " the",
+                    "start": 4.94,
+                    "end": 5.14,
+                    "probability": 0.9093407988548279
+                },
+                {
+                    "word": " couch",
+                    "start": 5.14,
+                    "end": 5.34,
+                    "probability": 0.9862729907035828
+                },
+                {
+                    "word": " here",
+                    "start": 5.34,
+                    "end": 5.6,
+                    "probability": 0.99427729845047
+                },
+                {
+                    "word": " because",
+                    "start": 5.6,
+                    "end": 6.38,
+                    "probability": 0.9165669083595276
+                },
+                {
+                    "word": " yes,",
+                    "start": 6.38,
+                    "end": 6.76,
+                    "probability": 0.6776323318481445
+                },
+                {
+                    "word": " you",
+                    "start": 6.76,
+                    "end": 6.98,
+                    "probability": 0.6530288457870483
+                },
+                {
+                    "word": " said",
+                    "start": 6.98,
+                    "end": 7.32,
+                    "probability": 0.9843984842300415
+                },
+                {
+                    "word": " having",
+                    "start": 7.32,
+                    "end": 7.98,
+                    "probability": 0.9594507217407227
+                },
+                {
+                    "word": " your",
+                    "start": 7.98,
+                    "end": 9.7,
+                    "probability": 0.99006187915802
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.7,
+            "end": 15.36,
+            "text": " Heads on them all the times they will fall off the wall and yeah, it's",
+            "tokens": [
+                50854,
+                634,
+                5834,
+                322,
+                552,
+                439,
+                264,
+                1413,
+                436,
+                486,
+                2100,
+                766,
+                264,
+                2929,
+                293,
+                1338,
+                11,
+                309,
+                311,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.38693968454996747,
+            "compression_ratio": 1.4186046511627908,
+            "no_speech_prob": 0.03831668198108673,
+            "words": [
+                {
+                    "word": " Heads",
+                    "start": 9.7,
+                    "end": 10.6,
+                    "probability": 0.6077659130096436
+                },
+                {
+                    "word": " on",
+                    "start": 10.6,
+                    "end": 10.8,
+                    "probability": 0.5009453296661377
+                },
+                {
+                    "word": " them",
+                    "start": 10.8,
+                    "end": 11.02,
+                    "probability": 0.9184463024139404
+                },
+                {
+                    "word": " all",
+                    "start": 11.02,
+                    "end": 11.24,
+                    "probability": 0.8139680027961731
+                },
+                {
+                    "word": " the",
+                    "start": 11.24,
+                    "end": 11.38,
+                    "probability": 0.9939038157463074
+                },
+                {
+                    "word": " times",
+                    "start": 11.38,
+                    "end": 11.58,
+                    "probability": 0.8208605647087097
+                },
+                {
+                    "word": " they",
+                    "start": 11.58,
+                    "end": 11.82,
+                    "probability": 0.6045931577682495
+                },
+                {
+                    "word": " will",
+                    "start": 11.82,
+                    "end": 12.06,
+                    "probability": 0.4256640076637268
+                },
+                {
+                    "word": " fall",
+                    "start": 12.06,
+                    "end": 12.5,
+                    "probability": 0.9624655246734619
+                },
+                {
+                    "word": " off",
+                    "start": 12.5,
+                    "end": 12.82,
+                    "probability": 0.6667907238006592
+                },
+                {
+                    "word": " the",
+                    "start": 12.82,
+                    "end": 12.98,
+                    "probability": 0.9959147572517395
+                },
+                {
+                    "word": " wall",
+                    "start": 12.98,
+                    "end": 13.2,
+                    "probability": 0.993556797504425
+                },
+                {
+                    "word": " and",
+                    "start": 13.2,
+                    "end": 13.72,
+                    "probability": 0.6370031237602234
+                },
+                {
+                    "word": " yeah,",
+                    "start": 13.72,
+                    "end": 13.9,
+                    "probability": 0.6840350031852722
+                },
+                {
+                    "word": " it's",
+                    "start": 14.0,
+                    "end": 15.36,
+                    "probability": 0.9795434474945068
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,70 @@
+{
+    "text": " Yeah. On the floor.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.28,
+            "text": " Yeah.",
+            "tokens": [
+                50364,
+                865,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4081775491887873,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.19810837507247925,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.2547930181026459
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.34,
+            "end": 0.78,
+            "text": " On the floor.",
+            "tokens": [
+                50406,
+                1282,
+                264,
+                4123,
+                13,
+                50447
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4081775491887873,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.19810837507247925,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.7810561060905457
+                },
+                {
+                    "word": " the",
+                    "start": 0.56,
+                    "end": 0.7,
+                    "probability": 0.8660228252410889
+                },
+                {
+                    "word": " floor.",
+                    "start": 0.7,
+                    "end": 0.78,
+                    "probability": 0.960799515247345
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

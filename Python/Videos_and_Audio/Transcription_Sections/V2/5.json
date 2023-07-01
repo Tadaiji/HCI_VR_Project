@@ -1,0 +1,108 @@
+{
+    "text": " three to four years now yeah let's do something different this time",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 7.68,
+            "text": " three to four years now yeah let's do something different this time",
+            "tokens": [
+                50364,
+                1045,
+                281,
+                1451,
+                924,
+                586,
+                1338,
+                718,
+                311,
+                360,
+                746,
+                819,
+                341,
+                565,
+                50844
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2839476764202118,
+            "compression_ratio": 1.046875,
+            "no_speech_prob": 0.03147735819220543,
+            "words": [
+                {
+                    "word": " three",
+                    "start": 0.06,
+                    "end": 1.2,
+                    "probability": 0.2677864730358124
+                },
+                {
+                    "word": " to",
+                    "start": 1.2,
+                    "end": 1.8,
+                    "probability": 0.9500123262405396
+                },
+                {
+                    "word": " four",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.9986735582351685
+                },
+                {
+                    "word": " years",
+                    "start": 2.1,
+                    "end": 2.38,
+                    "probability": 0.9959225654602051
+                },
+                {
+                    "word": " now",
+                    "start": 2.38,
+                    "end": 3.44,
+                    "probability": 0.9792577624320984
+                },
+                {
+                    "word": " yeah",
+                    "start": 3.44,
+                    "end": 4.56,
+                    "probability": 0.5060253143310547
+                },
+                {
+                    "word": " let's",
+                    "start": 4.56,
+                    "end": 5.1,
+                    "probability": 0.9754178524017334
+                },
+                {
+                    "word": " do",
+                    "start": 5.1,
+                    "end": 5.26,
+                    "probability": 0.9991193413734436
+                },
+                {
+                    "word": " something",
+                    "start": 5.26,
+                    "end": 5.8,
+                    "probability": 0.9994007349014282
+                },
+                {
+                    "word": " different",
+                    "start": 5.8,
+                    "end": 6.5,
+                    "probability": 0.9325106143951416
+                },
+                {
+                    "word": " this",
+                    "start": 6.5,
+                    "end": 7.52,
+                    "probability": 0.9893739819526672
+                },
+                {
+                    "word": " time",
+                    "start": 7.52,
+                    "end": 7.68,
+                    "probability": 0.9993481040000916
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

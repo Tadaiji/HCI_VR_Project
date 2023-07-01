@@ -1,0 +1,130 @@
+{
+    "text": " Okay, if you are willing to get me a picture of this would be nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.88,
+            "text": " Okay, if you are willing to get me a picture of this would be nice.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                498,
+                291,
+                366,
+                4950,
+                281,
+                483,
+                385,
+                257,
+                3036,
+                295,
+                341,
+                576,
+                312,
+                1481,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3338186740875244,
+            "compression_ratio": 0.9710144927536232,
+            "no_speech_prob": 0.021276680752635002,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.5570537447929382
+                },
+                {
+                    "word": " if",
+                    "start": 0.52,
+                    "end": 0.58,
+                    "probability": 0.9660055041313171
+                },
+                {
+                    "word": " you",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9980681538581848
+                },
+                {
+                    "word": " are",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.8137014508247375
+                },
+                {
+                    "word": " willing",
+                    "start": 1.08,
+                    "end": 1.6,
+                    "probability": 0.9915014505386353
+                },
+                {
+                    "word": " to",
+                    "start": 1.6,
+                    "end": 2.68,
+                    "probability": 0.9841225147247314
+                },
+                {
+                    "word": " get",
+                    "start": 2.68,
+                    "end": 2.88,
+                    "probability": 0.9092760682106018
+                },
+                {
+                    "word": " me",
+                    "start": 2.88,
+                    "end": 3.06,
+                    "probability": 0.9065434336662292
+                },
+                {
+                    "word": " a",
+                    "start": 3.06,
+                    "end": 3.2,
+                    "probability": 0.9830886721611023
+                },
+                {
+                    "word": " picture",
+                    "start": 3.2,
+                    "end": 3.52,
+                    "probability": 0.9927942156791687
+                },
+                {
+                    "word": " of",
+                    "start": 3.52,
+                    "end": 4.46,
+                    "probability": 0.4454927444458008
+                },
+                {
+                    "word": " this",
+                    "start": 4.46,
+                    "end": 5.16,
+                    "probability": 0.5689617395401001
+                },
+                {
+                    "word": " would",
+                    "start": 5.16,
+                    "end": 5.46,
+                    "probability": 0.2886049747467041
+                },
+                {
+                    "word": " be",
+                    "start": 5.46,
+                    "end": 5.64,
+                    "probability": 0.9331969022750854
+                },
+                {
+                    "word": " nice.",
+                    "start": 5.64,
+                    "end": 5.88,
+                    "probability": 0.9904857277870178
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,266 @@
+{
+    "text": " But we have many friends and maybe we can get them together and just take the stuff and move. And we just lend us a truck or something and move with them.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.5,
+            "text": " But we have many friends and maybe we can get them together and just take the stuff and move.",
+            "tokens": [
+                50364,
+                583,
+                321,
+                362,
+                867,
+                1855,
+                293,
+                1310,
+                321,
+                393,
+                483,
+                552,
+                1214,
+                293,
+                445,
+                747,
+                264,
+                1507,
+                293,
+                1286,
+                13,
+                50796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35439011989495695,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.017606422305107117,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5907444357872009
+                },
+                {
+                    "word": " we",
+                    "start": 0.36,
+                    "end": 0.48,
+                    "probability": 0.869663655757904
+                },
+                {
+                    "word": " have",
+                    "start": 0.48,
+                    "end": 0.6,
+                    "probability": 0.8897086977958679
+                },
+                {
+                    "word": " many",
+                    "start": 0.6,
+                    "end": 0.86,
+                    "probability": 0.8767465353012085
+                },
+                {
+                    "word": " friends",
+                    "start": 0.86,
+                    "end": 1.3,
+                    "probability": 0.9954617619514465
+                },
+                {
+                    "word": " and",
+                    "start": 1.3,
+                    "end": 2.54,
+                    "probability": 0.7240578532218933
+                },
+                {
+                    "word": " maybe",
+                    "start": 2.54,
+                    "end": 2.94,
+                    "probability": 0.9474480152130127
+                },
+                {
+                    "word": " we",
+                    "start": 2.94,
+                    "end": 3.18,
+                    "probability": 0.9931535720825195
+                },
+                {
+                    "word": " can",
+                    "start": 3.18,
+                    "end": 3.6,
+                    "probability": 0.9900699257850647
+                },
+                {
+                    "word": " get",
+                    "start": 3.6,
+                    "end": 3.86,
+                    "probability": 0.983028769493103
+                },
+                {
+                    "word": " them",
+                    "start": 3.86,
+                    "end": 3.96,
+                    "probability": 0.5864970684051514
+                },
+                {
+                    "word": " together",
+                    "start": 3.96,
+                    "end": 4.64,
+                    "probability": 0.9960200190544128
+                },
+                {
+                    "word": " and",
+                    "start": 4.64,
+                    "end": 6.28,
+                    "probability": 0.8604052662849426
+                },
+                {
+                    "word": " just",
+                    "start": 6.28,
+                    "end": 7.14,
+                    "probability": 0.9085277915000916
+                },
+                {
+                    "word": " take",
+                    "start": 7.14,
+                    "end": 7.54,
+                    "probability": 0.9847185015678406
+                },
+                {
+                    "word": " the",
+                    "start": 7.54,
+                    "end": 7.72,
+                    "probability": 0.9679796099662781
+                },
+                {
+                    "word": " stuff",
+                    "start": 7.72,
+                    "end": 7.94,
+                    "probability": 0.9938073754310608
+                },
+                {
+                    "word": " and",
+                    "start": 7.94,
+                    "end": 8.18,
+                    "probability": 0.9683544039726257
+                },
+                {
+                    "word": " move.",
+                    "start": 8.18,
+                    "end": 8.5,
+                    "probability": 0.9892205595970154
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.4,
+            "end": 14.68,
+            "text": " And we just lend us a truck or something and move with them.",
+            "tokens": [
+                50796,
+                400,
+                321,
+                445,
+                21774,
+                505,
+                257,
+                5898,
+                420,
+                746,
+                293,
+                1286,
+                365,
+                552,
+                13,
+                51101
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.35439011989495695,
+            "compression_ratio": 1.375,
+            "no_speech_prob": 0.017606422305107117,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.4,
+                    "end": 9.86,
+                    "probability": 0.5269036293029785
+                },
+                {
+                    "word": " we",
+                    "start": 9.86,
+                    "end": 9.98,
+                    "probability": 0.9684861898422241
+                },
+                {
+                    "word": " just",
+                    "start": 9.98,
+                    "end": 10.82,
+                    "probability": 0.9261929392814636
+                },
+                {
+                    "word": " lend",
+                    "start": 10.82,
+                    "end": 11.14,
+                    "probability": 0.9029955267906189
+                },
+                {
+                    "word": " us",
+                    "start": 11.14,
+                    "end": 11.34,
+                    "probability": 0.8033312559127808
+                },
+                {
+                    "word": " a",
+                    "start": 11.34,
+                    "end": 11.54,
+                    "probability": 0.965284526348114
+                },
+                {
+                    "word": " truck",
+                    "start": 11.54,
+                    "end": 11.72,
+                    "probability": 0.9974362254142761
+                },
+                {
+                    "word": " or",
+                    "start": 11.72,
+                    "end": 11.92,
+                    "probability": 0.9516012072563171
+                },
+                {
+                    "word": " something",
+                    "start": 11.92,
+                    "end": 12.3,
+                    "probability": 0.993837296962738
+                },
+                {
+                    "word": " and",
+                    "start": 12.3,
+                    "end": 13.72,
+                    "probability": 0.5537327527999878
+                },
+                {
+                    "word": " move",
+                    "start": 13.72,
+                    "end": 14.26,
+                    "probability": 0.962864339351654
+                },
+                {
+                    "word": " with",
+                    "start": 14.26,
+                    "end": 14.48,
+                    "probability": 0.931207001209259
+                },
+                {
+                    "word": " them.",
+                    "start": 14.48,
+                    "end": 14.68,
+                    "probability": 0.5388708710670471
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

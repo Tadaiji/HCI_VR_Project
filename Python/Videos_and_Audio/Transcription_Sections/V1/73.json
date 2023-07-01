@@ -1,0 +1,242 @@
+{
+    "text": " You will talk to the company again. Yes, I will. So, and we try to get a new table and stuff. Sure, okay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.76,
+            "text": " You will talk to the company again.",
+            "tokens": [
+                50364,
+                509,
+                486,
+                751,
+                281,
+                264,
+                2237,
+                797,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5335186200264173,
+            "compression_ratio": 1.1538461538461537,
+            "no_speech_prob": 0.06040862947702408,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.47557303309440613
+                },
+                {
+                    "word": " will",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.44495439529418945
+                },
+                {
+                    "word": " talk",
+                    "start": 0.6,
+                    "end": 0.72,
+                    "probability": 0.9844319820404053
+                },
+                {
+                    "word": " to",
+                    "start": 0.72,
+                    "end": 2.82,
+                    "probability": 0.5244234204292297
+                },
+                {
+                    "word": " the",
+                    "start": 2.82,
+                    "end": 3.0,
+                    "probability": 0.9673110842704773
+                },
+                {
+                    "word": " company",
+                    "start": 3.0,
+                    "end": 3.34,
+                    "probability": 0.9788033366203308
+                },
+                {
+                    "word": " again.",
+                    "start": 3.34,
+                    "end": 3.76,
+                    "probability": 0.7927271723747253
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.76,
+            "end": 4.24,
+            "text": " Yes, I will.",
+            "tokens": [
+                50564,
+                1079,
+                11,
+                286,
+                486,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5335186200264173,
+            "compression_ratio": 1.1538461538461537,
+            "no_speech_prob": 0.06040862947702408,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 3.76,
+                    "end": 3.86,
+                    "probability": 0.39998793601989746
+                },
+                {
+                    "word": " I",
+                    "start": 4.12,
+                    "end": 4.12,
+                    "probability": 0.888428807258606
+                },
+                {
+                    "word": " will.",
+                    "start": 4.12,
+                    "end": 4.24,
+                    "probability": 0.9724494814872742
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.98,
+            "end": 10.52,
+            "text": " So, and we try to get a new table and stuff.",
+            "tokens": [
+                50614,
+                407,
+                11,
+                293,
+                321,
+                853,
+                281,
+                483,
+                257,
+                777,
+                3199,
+                293,
+                1507,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5335186200264173,
+            "compression_ratio": 1.1538461538461537,
+            "no_speech_prob": 0.06040862947702408,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 4.98,
+                    "end": 4.98,
+                    "probability": 0.06734410673379898
+                },
+                {
+                    "word": " and",
+                    "start": 5.68,
+                    "end": 6.38,
+                    "probability": 0.42963096499443054
+                },
+                {
+                    "word": " we",
+                    "start": 6.38,
+                    "end": 7.9,
+                    "probability": 0.8584369421005249
+                },
+                {
+                    "word": " try",
+                    "start": 7.9,
+                    "end": 8.22,
+                    "probability": 0.8297907114028931
+                },
+                {
+                    "word": " to",
+                    "start": 8.22,
+                    "end": 8.84,
+                    "probability": 0.9976451992988586
+                },
+                {
+                    "word": " get",
+                    "start": 8.84,
+                    "end": 9.16,
+                    "probability": 0.986687958240509
+                },
+                {
+                    "word": " a",
+                    "start": 9.16,
+                    "end": 9.3,
+                    "probability": 0.6892623901367188
+                },
+                {
+                    "word": " new",
+                    "start": 9.3,
+                    "end": 9.46,
+                    "probability": 0.9952998161315918
+                },
+                {
+                    "word": " table",
+                    "start": 9.46,
+                    "end": 9.78,
+                    "probability": 0.994261622428894
+                },
+                {
+                    "word": " and",
+                    "start": 9.78,
+                    "end": 10.08,
+                    "probability": 0.950373113155365
+                },
+                {
+                    "word": " stuff.",
+                    "start": 10.08,
+                    "end": 10.52,
+                    "probability": 0.9929074048995972
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.48,
+            "end": 11.8,
+            "text": " Sure, okay.",
+            "tokens": [
+                50914,
+                4894,
+                11,
+                1392,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5335186200264173,
+            "compression_ratio": 1.1538461538461537,
+            "no_speech_prob": 0.06040862947702408,
+            "words": [
+                {
+                    "word": " Sure,",
+                    "start": 11.48,
+                    "end": 11.56,
+                    "probability": 0.8569440245628357
+                },
+                {
+                    "word": " okay.",
+                    "start": 11.66,
+                    "end": 11.8,
+                    "probability": 0.4317280054092407
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

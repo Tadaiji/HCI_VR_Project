@@ -1,0 +1,45 @@
+{
+    "text": " remove the table.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.92,
+            "text": " remove the table.",
+            "tokens": [
+                50364,
+                4159,
+                264,
+                3199,
+                13,
+                50440
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7820115089416504,
+            "compression_ratio": 0.7391304347826086,
+            "no_speech_prob": 0.1422722488641739,
+            "words": [
+                {
+                    "word": " remove",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.3658904731273651
+                },
+                {
+                    "word": " the",
+                    "start": 0.4,
+                    "end": 0.62,
+                    "probability": 0.9952101111412048
+                },
+                {
+                    "word": " table.",
+                    "start": 0.62,
+                    "end": 0.92,
+                    "probability": 0.8060742020606995
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

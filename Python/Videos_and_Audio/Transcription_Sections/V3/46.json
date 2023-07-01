@@ -1,0 +1,538 @@
+{
+    "text": " What do you guys think? Yeah, sounds nice. I think if we then move, if we have moved the TV and have something to cool the drinks in there, I think it would be nice. It could look good. Sounds like a good plan. Yeah, but you want to rotate the table under there? Yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.14,
+            "text": " What do you guys think?",
+            "tokens": [
+                50364,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6192322373390198
+                },
+                {
+                    "word": " do",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9500607848167419
+                },
+                {
+                    "word": " you",
+                    "start": 0.32,
+                    "end": 0.4,
+                    "probability": 0.9922635555267334
+                },
+                {
+                    "word": " guys",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.9026299118995667
+                },
+                {
+                    "word": " think?",
+                    "start": 0.6,
+                    "end": 1.14,
+                    "probability": 0.9950426816940308
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.84,
+            "end": 4.14,
+            "text": " Yeah, sounds nice.",
+            "tokens": [
+                50464,
+                865,
+                11,
+                3263,
+                1481,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.84,
+                    "end": 2.34,
+                    "probability": 0.5566986799240112
+                },
+                {
+                    "word": " sounds",
+                    "start": 2.36,
+                    "end": 3.68,
+                    "probability": 0.7713998556137085
+                },
+                {
+                    "word": " nice.",
+                    "start": 3.68,
+                    "end": 4.14,
+                    "probability": 0.8371608853340149
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.44,
+            "end": 12.14,
+            "text": " I think if we then move, if we have moved the TV and have something to cool the drinks in there,",
+            "tokens": [
+                50564,
+                286,
+                519,
+                498,
+                321,
+                550,
+                1286,
+                11,
+                498,
+                321,
+                362,
+                4259,
+                264,
+                3558,
+                293,
+                362,
+                746,
+                281,
+                1627,
+                264,
+                12142,
+                294,
+                456,
+                11,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 4.44,
+                    "end": 4.44,
+                    "probability": 0.8127716183662415
+                },
+                {
+                    "word": " think",
+                    "start": 4.44,
+                    "end": 4.8,
+                    "probability": 0.996239185333252
+                },
+                {
+                    "word": " if",
+                    "start": 4.8,
+                    "end": 5.58,
+                    "probability": 0.8754483461380005
+                },
+                {
+                    "word": " we",
+                    "start": 5.58,
+                    "end": 5.72,
+                    "probability": 0.9831380844116211
+                },
+                {
+                    "word": " then",
+                    "start": 5.72,
+                    "end": 6.18,
+                    "probability": 0.6269150972366333
+                },
+                {
+                    "word": " move,",
+                    "start": 6.18,
+                    "end": 7.18,
+                    "probability": 0.8681023716926575
+                },
+                {
+                    "word": " if",
+                    "start": 8.22,
+                    "end": 8.38,
+                    "probability": 0.8105593323707581
+                },
+                {
+                    "word": " we",
+                    "start": 8.38,
+                    "end": 8.56,
+                    "probability": 0.965213418006897
+                },
+                {
+                    "word": " have",
+                    "start": 8.56,
+                    "end": 8.72,
+                    "probability": 0.9172492623329163
+                },
+                {
+                    "word": " moved",
+                    "start": 8.72,
+                    "end": 8.88,
+                    "probability": 0.8891311883926392
+                },
+                {
+                    "word": " the",
+                    "start": 8.88,
+                    "end": 9.1,
+                    "probability": 0.9486122131347656
+                },
+                {
+                    "word": " TV",
+                    "start": 9.1,
+                    "end": 9.34,
+                    "probability": 0.9020182490348816
+                },
+                {
+                    "word": " and",
+                    "start": 9.34,
+                    "end": 9.66,
+                    "probability": 0.9478244185447693
+                },
+                {
+                    "word": " have",
+                    "start": 9.66,
+                    "end": 9.82,
+                    "probability": 0.9309930801391602
+                },
+                {
+                    "word": " something",
+                    "start": 9.82,
+                    "end": 10.62,
+                    "probability": 0.4578578770160675
+                },
+                {
+                    "word": " to",
+                    "start": 10.62,
+                    "end": 11.16,
+                    "probability": 0.9668517708778381
+                },
+                {
+                    "word": " cool",
+                    "start": 11.16,
+                    "end": 11.34,
+                    "probability": 0.9808329343795776
+                },
+                {
+                    "word": " the",
+                    "start": 11.34,
+                    "end": 11.54,
+                    "probability": 0.9826347231864929
+                },
+                {
+                    "word": " drinks",
+                    "start": 11.54,
+                    "end": 11.7,
+                    "probability": 0.9948908090591431
+                },
+                {
+                    "word": " in",
+                    "start": 11.7,
+                    "end": 11.94,
+                    "probability": 0.9591417908668518
+                },
+                {
+                    "word": " there,",
+                    "start": 11.94,
+                    "end": 12.14,
+                    "probability": 0.9865657687187195
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.58,
+            "end": 14.02,
+            "text": " I think it would be nice.",
+            "tokens": [
+                50964,
+                286,
+                519,
+                309,
+                576,
+                312,
+                1481,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 12.58,
+                    "end": 12.78,
+                    "probability": 0.9760029911994934
+                },
+                {
+                    "word": " think",
+                    "start": 12.78,
+                    "end": 13.02,
+                    "probability": 0.9985578656196594
+                },
+                {
+                    "word": " it",
+                    "start": 13.02,
+                    "end": 13.32,
+                    "probability": 0.987409234046936
+                },
+                {
+                    "word": " would",
+                    "start": 13.32,
+                    "end": 13.46,
+                    "probability": 0.9520694613456726
+                },
+                {
+                    "word": " be",
+                    "start": 13.46,
+                    "end": 13.7,
+                    "probability": 0.9978118538856506
+                },
+                {
+                    "word": " nice.",
+                    "start": 13.7,
+                    "end": 14.02,
+                    "probability": 0.9978194236755371
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.7,
+            "end": 15.64,
+            "text": " It could look good.",
+            "tokens": [
+                51064,
+                467,
+                727,
+                574,
+                665,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 14.7,
+                    "end": 15.0,
+                    "probability": 0.7710302472114563
+                },
+                {
+                    "word": " could",
+                    "start": 15.0,
+                    "end": 15.18,
+                    "probability": 0.8387457132339478
+                },
+                {
+                    "word": " look",
+                    "start": 15.18,
+                    "end": 15.36,
+                    "probability": 0.9890430569648743
+                },
+                {
+                    "word": " good.",
+                    "start": 15.36,
+                    "end": 15.64,
+                    "probability": 0.9976696372032166
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 15.82,
+            "end": 17.0,
+            "text": " Sounds like a good plan.",
+            "tokens": [
+                51164,
+                14576,
+                411,
+                257,
+                665,
+                1393,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " Sounds",
+                    "start": 15.82,
+                    "end": 16.08,
+                    "probability": 0.9036554098129272
+                },
+                {
+                    "word": " like",
+                    "start": 16.08,
+                    "end": 16.28,
+                    "probability": 0.9953734278678894
+                },
+                {
+                    "word": " a",
+                    "start": 16.28,
+                    "end": 16.42,
+                    "probability": 0.987133264541626
+                },
+                {
+                    "word": " good",
+                    "start": 16.42,
+                    "end": 16.66,
+                    "probability": 0.9894734025001526
+                },
+                {
+                    "word": " plan.",
+                    "start": 16.66,
+                    "end": 17.0,
+                    "probability": 0.9980146884918213
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 17.4,
+            "end": 21.52,
+            "text": " Yeah, but you want to rotate the table under there?",
+            "tokens": [
+                51264,
+                865,
+                11,
+                457,
+                291,
+                528,
+                281,
+                13121,
+                264,
+                3199,
+                833,
+                456,
+                30,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 17.4,
+                    "end": 17.56,
+                    "probability": 0.8815287947654724
+                },
+                {
+                    "word": " but",
+                    "start": 17.68,
+                    "end": 18.06,
+                    "probability": 0.9946324825286865
+                },
+                {
+                    "word": " you",
+                    "start": 18.06,
+                    "end": 19.4,
+                    "probability": 0.8966200947761536
+                },
+                {
+                    "word": " want",
+                    "start": 19.4,
+                    "end": 19.72,
+                    "probability": 0.4748172461986542
+                },
+                {
+                    "word": " to",
+                    "start": 19.72,
+                    "end": 20.0,
+                    "probability": 0.9481210112571716
+                },
+                {
+                    "word": " rotate",
+                    "start": 20.0,
+                    "end": 20.32,
+                    "probability": 0.9936076402664185
+                },
+                {
+                    "word": " the",
+                    "start": 20.32,
+                    "end": 20.62,
+                    "probability": 0.9886809587478638
+                },
+                {
+                    "word": " table",
+                    "start": 20.62,
+                    "end": 20.94,
+                    "probability": 0.9968743324279785
+                },
+                {
+                    "word": " under",
+                    "start": 20.94,
+                    "end": 21.3,
+                    "probability": 0.7930094003677368
+                },
+                {
+                    "word": " there?",
+                    "start": 21.3,
+                    "end": 21.52,
+                    "probability": 0.9779537916183472
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 22.06,
+            "end": 22.44,
+            "text": " Yeah.",
+            "tokens": [
+                51464,
+                865,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2596464042203972,
+            "compression_ratio": 1.5857988165680474,
+            "no_speech_prob": 0.006750293076038361,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 22.06,
+                    "end": 22.44,
+                    "probability": 0.5554245114326477
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

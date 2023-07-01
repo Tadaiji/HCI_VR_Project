@@ -1,0 +1,242 @@
+{
+    "text": " Yeah, let's do that, because as we said, our main point is to have a bit more space here and have it a bit more cozy, I think.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.36,
+            "end": 8.78,
+            "text": " Yeah, let's do that, because as we said, our main point is to have a bit more space here",
+            "tokens": [
+                50364,
+                865,
+                11,
+                718,
+                311,
+                360,
+                300,
+                11,
+                570,
+                382,
+                321,
+                848,
+                11,
+                527,
+                2135,
+                935,
+                307,
+                281,
+                362,
+                257,
+                857,
+                544,
+                1901,
+                510,
+                50800
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32965897291134566,
+            "compression_ratio": 1.2115384615384615,
+            "no_speech_prob": 0.032348476350307465,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.36,
+                    "end": 1.12,
+                    "probability": 0.5264371037483215
+                },
+                {
+                    "word": " let's",
+                    "start": 1.34,
+                    "end": 1.8,
+                    "probability": 0.8543991446495056
+                },
+                {
+                    "word": " do",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.9961608648300171
+                },
+                {
+                    "word": " that,",
+                    "start": 1.96,
+                    "end": 2.28,
+                    "probability": 0.9942863583564758
+                },
+                {
+                    "word": " because",
+                    "start": 2.9,
+                    "end": 2.9,
+                    "probability": 0.9583276510238647
+                },
+                {
+                    "word": " as",
+                    "start": 2.9,
+                    "end": 3.28,
+                    "probability": 0.753352701663971
+                },
+                {
+                    "word": " we",
+                    "start": 3.28,
+                    "end": 3.62,
+                    "probability": 0.9951512813568115
+                },
+                {
+                    "word": " said,",
+                    "start": 3.62,
+                    "end": 4.22,
+                    "probability": 0.9459003806114197
+                },
+                {
+                    "word": " our",
+                    "start": 5.36,
+                    "end": 5.4,
+                    "probability": 0.9836114048957825
+                },
+                {
+                    "word": " main",
+                    "start": 5.4,
+                    "end": 5.66,
+                    "probability": 0.9975109100341797
+                },
+                {
+                    "word": " point",
+                    "start": 5.66,
+                    "end": 5.94,
+                    "probability": 0.9871795773506165
+                },
+                {
+                    "word": " is",
+                    "start": 5.94,
+                    "end": 6.34,
+                    "probability": 0.9912540316581726
+                },
+                {
+                    "word": " to",
+                    "start": 6.34,
+                    "end": 6.92,
+                    "probability": 0.9919372797012329
+                },
+                {
+                    "word": " have",
+                    "start": 6.92,
+                    "end": 7.08,
+                    "probability": 0.9712528586387634
+                },
+                {
+                    "word": " a",
+                    "start": 7.08,
+                    "end": 7.22,
+                    "probability": 0.9220594167709351
+                },
+                {
+                    "word": " bit",
+                    "start": 7.22,
+                    "end": 7.56,
+                    "probability": 0.9775675535202026
+                },
+                {
+                    "word": " more",
+                    "start": 7.56,
+                    "end": 7.86,
+                    "probability": 0.9966049194335938
+                },
+                {
+                    "word": " space",
+                    "start": 7.86,
+                    "end": 8.3,
+                    "probability": 0.9902453422546387
+                },
+                {
+                    "word": " here",
+                    "start": 8.3,
+                    "end": 8.78,
+                    "probability": 0.5982938408851624
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.78,
+            "end": 12.74,
+            "text": " and have it a bit more cozy, I think.",
+            "tokens": [
+                50800,
+                293,
+                362,
+                309,
+                257,
+                857,
+                544,
+                29414,
+                11,
+                286,
+                519,
+                13,
+                51042
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32965897291134566,
+            "compression_ratio": 1.2115384615384615,
+            "no_speech_prob": 0.032348476350307465,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 8.78,
+                    "end": 9.18,
+                    "probability": 0.7941290140151978
+                },
+                {
+                    "word": " have",
+                    "start": 9.18,
+                    "end": 9.32,
+                    "probability": 0.7509823441505432
+                },
+                {
+                    "word": " it",
+                    "start": 9.32,
+                    "end": 9.52,
+                    "probability": 0.6312940120697021
+                },
+                {
+                    "word": " a",
+                    "start": 9.52,
+                    "end": 9.52,
+                    "probability": 0.9413310885429382
+                },
+                {
+                    "word": " bit",
+                    "start": 9.52,
+                    "end": 9.64,
+                    "probability": 0.9898979663848877
+                },
+                {
+                    "word": " more",
+                    "start": 9.64,
+                    "end": 10.4,
+                    "probability": 0.990409255027771
+                },
+                {
+                    "word": " cozy,",
+                    "start": 10.4,
+                    "end": 10.78,
+                    "probability": 0.7529433369636536
+                },
+                {
+                    "word": " I",
+                    "start": 11.98,
+                    "end": 11.98,
+                    "probability": 0.969322144985199
+                },
+                {
+                    "word": " think.",
+                    "start": 11.98,
+                    "end": 12.74,
+                    "probability": 0.9966112971305847
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

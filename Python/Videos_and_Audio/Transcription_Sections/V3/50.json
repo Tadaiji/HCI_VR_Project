@@ -1,0 +1,287 @@
+{
+    "text": " I don't know maybe they hit their head or something that's not that space efficient. So I think we should carry the table to the attic. So it's out of the way.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " I don't know maybe they hit their head or something that's not that space efficient.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                458,
+                1310,
+                436,
+                2045,
+                641,
+                1378,
+                420,
+                746,
+                300,
+                311,
+                406,
+                300,
+                1901,
+                7148,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2905972374810113,
+            "compression_ratio": 1.3706896551724137,
+            "no_speech_prob": 0.06768348067998886,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.5606442093849182
+                },
+                {
+                    "word": " don't",
+                    "start": 0.42,
+                    "end": 0.52,
+                    "probability": 0.9701331853866577
+                },
+                {
+                    "word": " know",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9979192614555359
+                },
+                {
+                    "word": " maybe",
+                    "start": 0.7,
+                    "end": 0.92,
+                    "probability": 0.4756042957305908
+                },
+                {
+                    "word": " they",
+                    "start": 0.92,
+                    "end": 1.06,
+                    "probability": 0.9756839871406555
+                },
+                {
+                    "word": " hit",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.9779154062271118
+                },
+                {
+                    "word": " their",
+                    "start": 1.22,
+                    "end": 1.52,
+                    "probability": 0.9036025404930115
+                },
+                {
+                    "word": " head",
+                    "start": 1.52,
+                    "end": 1.94,
+                    "probability": 0.6403471827507019
+                },
+                {
+                    "word": " or",
+                    "start": 1.94,
+                    "end": 2.22,
+                    "probability": 0.9707990884780884
+                },
+                {
+                    "word": " something",
+                    "start": 2.22,
+                    "end": 2.58,
+                    "probability": 0.9949154853820801
+                },
+                {
+                    "word": " that's",
+                    "start": 2.58,
+                    "end": 3.28,
+                    "probability": 0.6721187829971313
+                },
+                {
+                    "word": " not",
+                    "start": 3.28,
+                    "end": 3.52,
+                    "probability": 0.991533100605011
+                },
+                {
+                    "word": " that",
+                    "start": 3.52,
+                    "end": 3.76,
+                    "probability": 0.9895762205123901
+                },
+                {
+                    "word": " space",
+                    "start": 3.76,
+                    "end": 3.94,
+                    "probability": 0.9533340930938721
+                },
+                {
+                    "word": " efficient.",
+                    "start": 3.94,
+                    "end": 4.32,
+                    "probability": 0.5517767667770386
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.38,
+            "end": 7.78,
+            "text": " So I think we should carry the table to the attic.",
+            "tokens": [
+                50580,
+                407,
+                286,
+                519,
+                321,
+                820,
+                3985,
+                264,
+                3199,
+                281,
+                264,
+                40766,
+                13,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2905972374810113,
+            "compression_ratio": 1.3706896551724137,
+            "no_speech_prob": 0.06768348067998886,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 4.38,
+                    "end": 4.64,
+                    "probability": 0.9516162872314453
+                },
+                {
+                    "word": " I",
+                    "start": 4.64,
+                    "end": 4.84,
+                    "probability": 0.8348659873008728
+                },
+                {
+                    "word": " think",
+                    "start": 4.84,
+                    "end": 5.14,
+                    "probability": 0.9988768696784973
+                },
+                {
+                    "word": " we",
+                    "start": 5.14,
+                    "end": 5.74,
+                    "probability": 0.9406489133834839
+                },
+                {
+                    "word": " should",
+                    "start": 5.74,
+                    "end": 6.18,
+                    "probability": 0.9987038373947144
+                },
+                {
+                    "word": " carry",
+                    "start": 6.18,
+                    "end": 6.56,
+                    "probability": 0.9900524020195007
+                },
+                {
+                    "word": " the",
+                    "start": 6.56,
+                    "end": 6.8,
+                    "probability": 0.6684837937355042
+                },
+                {
+                    "word": " table",
+                    "start": 6.8,
+                    "end": 7.04,
+                    "probability": 0.9913977384567261
+                },
+                {
+                    "word": " to",
+                    "start": 7.04,
+                    "end": 7.32,
+                    "probability": 0.9959532022476196
+                },
+                {
+                    "word": " the",
+                    "start": 7.32,
+                    "end": 7.5,
+                    "probability": 0.9797536730766296
+                },
+                {
+                    "word": " attic.",
+                    "start": 7.5,
+                    "end": 7.78,
+                    "probability": 0.9899243712425232
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.82,
+            "end": 9.74,
+            "text": " So it's out of the way.",
+            "tokens": [
+                50804,
+                407,
+                309,
+                311,
+                484,
+                295,
+                264,
+                636,
+                13,
+                50844
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2905972374810113,
+            "compression_ratio": 1.3706896551724137,
+            "no_speech_prob": 0.06768348067998886,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 7.82,
+                    "end": 9.14,
+                    "probability": 0.49383991956710815
+                },
+                {
+                    "word": " it's",
+                    "start": 9.14,
+                    "end": 9.42,
+                    "probability": 0.8451545238494873
+                },
+                {
+                    "word": " out",
+                    "start": 9.42,
+                    "end": 9.46,
+                    "probability": 0.9021797180175781
+                },
+                {
+                    "word": " of",
+                    "start": 9.46,
+                    "end": 9.58,
+                    "probability": 0.9934900999069214
+                },
+                {
+                    "word": " the",
+                    "start": 9.58,
+                    "end": 9.74,
+                    "probability": 0.9928334951400757
+                },
+                {
+                    "word": " way.",
+                    "start": 9.74,
+                    "end": 9.74,
+                    "probability": 0.9974340796470642
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,45 @@
+{
+    "text": " Look at that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 0.5,
+            "text": " Look at that.",
+            "tokens": [
+                50364,
+                2053,
+                412,
+                300,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5808818680899483,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.6256832480430603,
+            "words": [
+                {
+                    "word": " Look",
+                    "start": 0.06,
+                    "end": 0.3,
+                    "probability": 0.5732607245445251
+                },
+                {
+                    "word": " at",
+                    "start": 0.3,
+                    "end": 0.42,
+                    "probability": 0.9962045550346375
+                },
+                {
+                    "word": " that.",
+                    "start": 0.42,
+                    "end": 0.5,
+                    "probability": 0.8663042187690735
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,299 @@
+{
+    "text": " I won't be able to attend the party. I would say Robert said he doesn't like clowns still. Maybe you should go with the cook, the chef on the balcony who could grill some good food.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.66,
+            "text": " I won't be able to attend the party. I would say Robert said he doesn't like clowns still.",
+            "tokens": [
+                50364,
+                286,
+                1582,
+                380,
+                312,
+                1075,
+                281,
+                6888,
+                264,
+                3595,
+                13,
+                286,
+                576,
+                584,
+                7977,
+                848,
+                415,
+                1177,
+                380,
+                411,
+                22209,
+                82,
+                920,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26008395353953045,
+            "compression_ratio": 1.371212121212121,
+            "no_speech_prob": 0.008666139096021652,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 0.43196627497673035
+                },
+                {
+                    "word": " won't",
+                    "start": 0.82,
+                    "end": 1.44,
+                    "probability": 0.9268330931663513
+                },
+                {
+                    "word": " be",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.9906617999076843
+                },
+                {
+                    "word": " able",
+                    "start": 1.62,
+                    "end": 1.82,
+                    "probability": 0.9983989596366882
+                },
+                {
+                    "word": " to",
+                    "start": 1.82,
+                    "end": 2.02,
+                    "probability": 0.9992955923080444
+                },
+                {
+                    "word": " attend",
+                    "start": 2.02,
+                    "end": 2.62,
+                    "probability": 0.9950841069221497
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 3.32,
+                    "probability": 0.9855964183807373
+                },
+                {
+                    "word": " party.",
+                    "start": 3.32,
+                    "end": 3.66,
+                    "probability": 0.9954980611801147
+                },
+                {
+                    "word": " I",
+                    "start": 4.24,
+                    "end": 4.24,
+                    "probability": 0.88353031873703
+                },
+                {
+                    "word": " would",
+                    "start": 4.24,
+                    "end": 4.74,
+                    "probability": 0.9220548868179321
+                },
+                {
+                    "word": " say",
+                    "start": 4.74,
+                    "end": 5.24,
+                    "probability": 0.9971569776535034
+                },
+                {
+                    "word": " Robert",
+                    "start": 5.24,
+                    "end": 6.8,
+                    "probability": 0.35894113779067993
+                },
+                {
+                    "word": " said",
+                    "start": 6.8,
+                    "end": 7.06,
+                    "probability": 0.920918881893158
+                },
+                {
+                    "word": " he",
+                    "start": 7.06,
+                    "end": 7.18,
+                    "probability": 0.9160934090614319
+                },
+                {
+                    "word": " doesn't",
+                    "start": 7.18,
+                    "end": 7.48,
+                    "probability": 0.9915685653686523
+                },
+                {
+                    "word": " like",
+                    "start": 7.48,
+                    "end": 8.02,
+                    "probability": 0.997806966304779
+                },
+                {
+                    "word": " clowns",
+                    "start": 8.02,
+                    "end": 9.34,
+                    "probability": 0.9732227921485901
+                },
+                {
+                    "word": " still.",
+                    "start": 9.34,
+                    "end": 9.66,
+                    "probability": 0.5996520519256592
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 10.88,
+            "end": 20.06,
+            "text": " Maybe you should go with the cook, the chef on the balcony who could grill some good food.",
+            "tokens": [
+                50864,
+                2704,
+                291,
+                820,
+                352,
+                365,
+                264,
+                2543,
+                11,
+                264,
+                10530,
+                322,
+                264,
+                29468,
+                567,
+                727,
+                16492,
+                512,
+                665,
+                1755,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26008395353953045,
+            "compression_ratio": 1.371212121212121,
+            "no_speech_prob": 0.008666139096021652,
+            "words": [
+                {
+                    "word": " Maybe",
+                    "start": 10.88,
+                    "end": 10.88,
+                    "probability": 0.9530637860298157
+                },
+                {
+                    "word": " you",
+                    "start": 10.88,
+                    "end": 12.1,
+                    "probability": 0.7389557957649231
+                },
+                {
+                    "word": " should",
+                    "start": 12.1,
+                    "end": 12.54,
+                    "probability": 0.9916648268699646
+                },
+                {
+                    "word": " go",
+                    "start": 12.54,
+                    "end": 12.86,
+                    "probability": 0.9780137538909912
+                },
+                {
+                    "word": " with",
+                    "start": 12.86,
+                    "end": 13.54,
+                    "probability": 0.9088020324707031
+                },
+                {
+                    "word": " the",
+                    "start": 13.54,
+                    "end": 13.74,
+                    "probability": 0.9881824851036072
+                },
+                {
+                    "word": " cook,",
+                    "start": 13.74,
+                    "end": 14.0,
+                    "probability": 0.9119715690612793
+                },
+                {
+                    "word": " the",
+                    "start": 14.56,
+                    "end": 14.76,
+                    "probability": 0.9888386726379395
+                },
+                {
+                    "word": " chef",
+                    "start": 14.76,
+                    "end": 15.12,
+                    "probability": 0.9875164031982422
+                },
+                {
+                    "word": " on",
+                    "start": 15.12,
+                    "end": 15.48,
+                    "probability": 0.9327896237373352
+                },
+                {
+                    "word": " the",
+                    "start": 15.48,
+                    "end": 15.64,
+                    "probability": 0.9961305856704712
+                },
+                {
+                    "word": " balcony",
+                    "start": 15.64,
+                    "end": 15.98,
+                    "probability": 0.9980118274688721
+                },
+                {
+                    "word": " who",
+                    "start": 15.98,
+                    "end": 17.1,
+                    "probability": 0.7070858478546143
+                },
+                {
+                    "word": " could",
+                    "start": 17.1,
+                    "end": 18.04,
+                    "probability": 0.8437129259109497
+                },
+                {
+                    "word": " grill",
+                    "start": 18.04,
+                    "end": 19.12,
+                    "probability": 0.9906142950057983
+                },
+                {
+                    "word": " some",
+                    "start": 19.12,
+                    "end": 19.42,
+                    "probability": 0.9947287440299988
+                },
+                {
+                    "word": " good",
+                    "start": 19.42,
+                    "end": 19.64,
+                    "probability": 0.9967688322067261
+                },
+                {
+                    "word": " food.",
+                    "start": 19.64,
+                    "end": 20.06,
+                    "probability": 0.9977218508720398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

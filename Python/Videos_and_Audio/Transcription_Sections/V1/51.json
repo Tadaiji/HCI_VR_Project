@@ -1,0 +1,436 @@
+{
+    "text": " as compared to the one which we had right now and this table will help a lot in arranging party getting all the stuff together and we can have we can gather many guests dinner on that table yeah i think i can bring this table okay yeah George new table sounds nice but",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.42,
+            "text": " as compared to the one which we had right now and this table will help a lot in arranging party",
+            "tokens": [
+                50364,
+                382,
+                5347,
+                281,
+                264,
+                472,
+                597,
+                321,
+                632,
+                558,
+                586,
+                293,
+                341,
+                3199,
+                486,
+                854,
+                257,
+                688,
+                294,
+                5539,
+                9741,
+                3595,
+                50744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21431475300942698,
+            "compression_ratio": 1.6242424242424243,
+            "no_speech_prob": 0.017545925453305244,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.7573769688606262
+                },
+                {
+                    "word": " compared",
+                    "start": 0.42,
+                    "end": 0.74,
+                    "probability": 0.9859290719032288
+                },
+                {
+                    "word": " to",
+                    "start": 0.74,
+                    "end": 0.94,
+                    "probability": 0.9921648502349854
+                },
+                {
+                    "word": " the",
+                    "start": 0.94,
+                    "end": 1.08,
+                    "probability": 0.9927210211753845
+                },
+                {
+                    "word": " one",
+                    "start": 1.08,
+                    "end": 1.16,
+                    "probability": 0.987135112285614
+                },
+                {
+                    "word": " which",
+                    "start": 1.16,
+                    "end": 1.4,
+                    "probability": 0.8413203954696655
+                },
+                {
+                    "word": " we",
+                    "start": 1.4,
+                    "end": 1.62,
+                    "probability": 0.9983006119728088
+                },
+                {
+                    "word": " had",
+                    "start": 1.62,
+                    "end": 1.9,
+                    "probability": 0.8113178014755249
+                },
+                {
+                    "word": " right",
+                    "start": 1.9,
+                    "end": 2.56,
+                    "probability": 0.9304579496383667
+                },
+                {
+                    "word": " now",
+                    "start": 2.56,
+                    "end": 3.0,
+                    "probability": 0.9986768364906311
+                },
+                {
+                    "word": " and",
+                    "start": 3.0,
+                    "end": 3.82,
+                    "probability": 0.6433554291725159
+                },
+                {
+                    "word": " this",
+                    "start": 3.82,
+                    "end": 3.96,
+                    "probability": 0.6074849963188171
+                },
+                {
+                    "word": " table",
+                    "start": 3.96,
+                    "end": 4.06,
+                    "probability": 0.972542941570282
+                },
+                {
+                    "word": " will",
+                    "start": 4.06,
+                    "end": 4.4,
+                    "probability": 0.9953582882881165
+                },
+                {
+                    "word": " help",
+                    "start": 4.4,
+                    "end": 4.64,
+                    "probability": 0.9981866478919983
+                },
+                {
+                    "word": " a",
+                    "start": 4.64,
+                    "end": 4.9,
+                    "probability": 0.9964821338653564
+                },
+                {
+                    "word": " lot",
+                    "start": 4.9,
+                    "end": 5.42,
+                    "probability": 0.9995872378349304
+                },
+                {
+                    "word": " in",
+                    "start": 5.42,
+                    "end": 6.52,
+                    "probability": 0.9663705825805664
+                },
+                {
+                    "word": " arranging",
+                    "start": 6.52,
+                    "end": 6.94,
+                    "probability": 0.9891147911548615
+                },
+                {
+                    "word": " party",
+                    "start": 6.94,
+                    "end": 7.42,
+                    "probability": 0.8389703631401062
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.42,
+            "end": 15.76,
+            "text": " getting all the stuff together and we can have we can gather many guests dinner on that table yeah",
+            "tokens": [
+                50744,
+                1242,
+                439,
+                264,
+                1507,
+                1214,
+                293,
+                321,
+                393,
+                362,
+                321,
+                393,
+                5448,
+                867,
+                9804,
+                6148,
+                322,
+                300,
+                3199,
+                1338,
+                51152
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21431475300942698,
+            "compression_ratio": 1.6242424242424243,
+            "no_speech_prob": 0.017545925453305244,
+            "words": [
+                {
+                    "word": " getting",
+                    "start": 7.42,
+                    "end": 8.0,
+                    "probability": 0.4771788716316223
+                },
+                {
+                    "word": " all",
+                    "start": 8.0,
+                    "end": 8.24,
+                    "probability": 0.9976292252540588
+                },
+                {
+                    "word": " the",
+                    "start": 8.24,
+                    "end": 8.46,
+                    "probability": 0.9736142754554749
+                },
+                {
+                    "word": " stuff",
+                    "start": 8.46,
+                    "end": 8.76,
+                    "probability": 0.9788879752159119
+                },
+                {
+                    "word": " together",
+                    "start": 8.76,
+                    "end": 9.46,
+                    "probability": 0.9878195524215698
+                },
+                {
+                    "word": " and",
+                    "start": 9.46,
+                    "end": 9.86,
+                    "probability": 0.38582277297973633
+                },
+                {
+                    "word": " we",
+                    "start": 9.86,
+                    "end": 9.96,
+                    "probability": 0.9950175881385803
+                },
+                {
+                    "word": " can",
+                    "start": 9.96,
+                    "end": 10.14,
+                    "probability": 0.9974066615104675
+                },
+                {
+                    "word": " have",
+                    "start": 10.14,
+                    "end": 10.6,
+                    "probability": 0.761689305305481
+                },
+                {
+                    "word": " we",
+                    "start": 10.6,
+                    "end": 11.88,
+                    "probability": 0.6209565997123718
+                },
+                {
+                    "word": " can",
+                    "start": 11.88,
+                    "end": 12.16,
+                    "probability": 0.9994145631790161
+                },
+                {
+                    "word": " gather",
+                    "start": 12.16,
+                    "end": 12.5,
+                    "probability": 0.9736343026161194
+                },
+                {
+                    "word": " many",
+                    "start": 12.5,
+                    "end": 12.96,
+                    "probability": 0.9947033524513245
+                },
+                {
+                    "word": " guests",
+                    "start": 12.96,
+                    "end": 13.44,
+                    "probability": 0.929137647151947
+                },
+                {
+                    "word": " dinner",
+                    "start": 13.44,
+                    "end": 14.7,
+                    "probability": 0.7523114085197449
+                },
+                {
+                    "word": " on",
+                    "start": 14.7,
+                    "end": 14.96,
+                    "probability": 0.9654211401939392
+                },
+                {
+                    "word": " that",
+                    "start": 14.96,
+                    "end": 15.16,
+                    "probability": 0.9005612134933472
+                },
+                {
+                    "word": " table",
+                    "start": 15.16,
+                    "end": 15.4,
+                    "probability": 0.7855888605117798
+                },
+                {
+                    "word": " yeah",
+                    "start": 15.4,
+                    "end": 15.76,
+                    "probability": 0.7553035616874695
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.76,
+            "end": 20.3,
+            "text": " i think i can bring this table okay yeah George new table sounds nice but",
+            "tokens": [
+                51152,
+                741,
+                519,
+                741,
+                393,
+                1565,
+                341,
+                3199,
+                1392,
+                1338,
+                7136,
+                777,
+                3199,
+                3263,
+                1481,
+                457,
+                51368
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21431475300942698,
+            "compression_ratio": 1.6242424242424243,
+            "no_speech_prob": 0.017545925453305244,
+            "words": [
+                {
+                    "word": " i",
+                    "start": 15.76,
+                    "end": 16.08,
+                    "probability": 0.6842702031135559
+                },
+                {
+                    "word": " think",
+                    "start": 16.08,
+                    "end": 16.18,
+                    "probability": 0.4478549361228943
+                },
+                {
+                    "word": " i",
+                    "start": 16.18,
+                    "end": 16.34,
+                    "probability": 0.9142395853996277
+                },
+                {
+                    "word": " can",
+                    "start": 16.34,
+                    "end": 16.5,
+                    "probability": 0.9982550740242004
+                },
+                {
+                    "word": " bring",
+                    "start": 16.5,
+                    "end": 16.7,
+                    "probability": 0.999514102935791
+                },
+                {
+                    "word": " this",
+                    "start": 16.7,
+                    "end": 16.94,
+                    "probability": 0.9959993362426758
+                },
+                {
+                    "word": " table",
+                    "start": 16.94,
+                    "end": 17.28,
+                    "probability": 0.9957337975502014
+                },
+                {
+                    "word": " okay",
+                    "start": 17.28,
+                    "end": 17.92,
+                    "probability": 0.8152927160263062
+                },
+                {
+                    "word": " yeah",
+                    "start": 17.92,
+                    "end": 18.24,
+                    "probability": 0.9533386826515198
+                },
+                {
+                    "word": " George",
+                    "start": 18.24,
+                    "end": 18.52,
+                    "probability": 0.2654370069503784
+                },
+                {
+                    "word": " new",
+                    "start": 18.52,
+                    "end": 18.84,
+                    "probability": 0.4374050796031952
+                },
+                {
+                    "word": " table",
+                    "start": 18.84,
+                    "end": 19.24,
+                    "probability": 0.9933439493179321
+                },
+                {
+                    "word": " sounds",
+                    "start": 19.24,
+                    "end": 19.56,
+                    "probability": 0.9818170070648193
+                },
+                {
+                    "word": " nice",
+                    "start": 19.56,
+                    "end": 19.94,
+                    "probability": 0.9997170567512512
+                },
+                {
+                    "word": " but",
+                    "start": 19.94,
+                    "end": 20.3,
+                    "probability": 0.9883707761764526
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

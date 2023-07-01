@@ -1,0 +1,197 @@
+{
+    "text": " Quite a good idea. Well, can't forget that there's some more stuff on the TV. But yeah, I would.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.8,
+            "text": " Quite a good idea.",
+            "tokens": [
+                50364,
+                20464,
+                257,
+                665,
+                1558,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6182764804724491,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.5018160343170166,
+            "words": [
+                {
+                    "word": " Quite",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.03730537369847298
+                },
+                {
+                    "word": " a",
+                    "start": 0.2,
+                    "end": 0.22,
+                    "probability": 0.9223705530166626
+                },
+                {
+                    "word": " good",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9929814338684082
+                },
+                {
+                    "word": " idea.",
+                    "start": 0.44,
+                    "end": 0.8,
+                    "probability": 0.9907039999961853
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.56,
+            "end": 5.8,
+            "text": " Well, can't forget that there's some more stuff on the TV.",
+            "tokens": [
+                50414,
+                1042,
+                11,
+                393,
+                380,
+                2870,
+                300,
+                456,
+                311,
+                512,
+                544,
+                1507,
+                322,
+                264,
+                3558,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6182764804724491,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.5018160343170166,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 1.56,
+                    "end": 1.56,
+                    "probability": 0.06472291797399521
+                },
+                {
+                    "word": " can't",
+                    "start": 1.72,
+                    "end": 2.86,
+                    "probability": 0.7278703898191452
+                },
+                {
+                    "word": " forget",
+                    "start": 2.86,
+                    "end": 3.04,
+                    "probability": 0.9964807629585266
+                },
+                {
+                    "word": " that",
+                    "start": 3.04,
+                    "end": 3.4,
+                    "probability": 0.875163733959198
+                },
+                {
+                    "word": " there's",
+                    "start": 3.4,
+                    "end": 3.9,
+                    "probability": 0.8579416573047638
+                },
+                {
+                    "word": " some",
+                    "start": 3.9,
+                    "end": 4.12,
+                    "probability": 0.9816826581954956
+                },
+                {
+                    "word": " more",
+                    "start": 4.12,
+                    "end": 4.28,
+                    "probability": 0.9886621832847595
+                },
+                {
+                    "word": " stuff",
+                    "start": 4.28,
+                    "end": 4.76,
+                    "probability": 0.9942700862884521
+                },
+                {
+                    "word": " on",
+                    "start": 4.76,
+                    "end": 5.34,
+                    "probability": 0.192888543009758
+                },
+                {
+                    "word": " the",
+                    "start": 5.34,
+                    "end": 5.34,
+                    "probability": 0.43089717626571655
+                },
+                {
+                    "word": " TV.",
+                    "start": 5.34,
+                    "end": 5.8,
+                    "probability": 0.8765690326690674
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.9,
+            "end": 8.26,
+            "text": " But yeah, I would.",
+            "tokens": [
+                50664,
+                583,
+                1338,
+                11,
+                286,
+                576,
+                13,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6182764804724491,
+            "compression_ratio": 1.0666666666666667,
+            "no_speech_prob": 0.5018160343170166,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 6.9,
+                    "end": 6.9,
+                    "probability": 0.7639468312263489
+                },
+                {
+                    "word": " yeah,",
+                    "start": 6.9,
+                    "end": 7.7,
+                    "probability": 0.6880359649658203
+                },
+                {
+                    "word": " I",
+                    "start": 7.76,
+                    "end": 7.9,
+                    "probability": 0.8484301567077637
+                },
+                {
+                    "word": " would.",
+                    "start": 7.9,
+                    "end": 8.26,
+                    "probability": 0.9567763209342957
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

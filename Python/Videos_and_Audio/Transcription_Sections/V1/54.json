@@ -1,0 +1,490 @@
+{
+    "text": " Yeah, also this table which I have seen it's really cool. It has like you can also play a poker on the table. You can just swap the top and from the below you can have this poker table stuff pop up. So it's really incredible. I think you guys will be happy with it. Yeah, sounds like.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.02,
+            "text": " Yeah, also this table which I have seen it's really cool. It has like you can also play a poker on the table.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                611,
+                341,
+                3199,
+                597,
+                286,
+                362,
+                1612,
+                309,
+                311,
+                534,
+                1627,
+                13,
+                467,
+                575,
+                411,
+                291,
+                393,
+                611,
+                862,
+                257,
+                36863,
+                322,
+                264,
+                3199,
+                13,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3031831221147017,
+            "compression_ratio": 1.6136363636363635,
+            "no_speech_prob": 0.0019530273275449872,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5180045366287231
+                },
+                {
+                    "word": " also",
+                    "start": 0.36,
+                    "end": 0.78,
+                    "probability": 0.6028352975845337
+                },
+                {
+                    "word": " this",
+                    "start": 0.78,
+                    "end": 1.08,
+                    "probability": 0.9469440579414368
+                },
+                {
+                    "word": " table",
+                    "start": 1.08,
+                    "end": 1.48,
+                    "probability": 0.9919909834861755
+                },
+                {
+                    "word": " which",
+                    "start": 1.48,
+                    "end": 1.88,
+                    "probability": 0.7300627827644348
+                },
+                {
+                    "word": " I",
+                    "start": 1.88,
+                    "end": 2.1,
+                    "probability": 0.903204083442688
+                },
+                {
+                    "word": " have",
+                    "start": 2.1,
+                    "end": 2.3,
+                    "probability": 0.9971115589141846
+                },
+                {
+                    "word": " seen",
+                    "start": 2.3,
+                    "end": 2.54,
+                    "probability": 0.9984299540519714
+                },
+                {
+                    "word": " it's",
+                    "start": 2.54,
+                    "end": 3.02,
+                    "probability": 0.8149994909763336
+                },
+                {
+                    "word": " really",
+                    "start": 3.02,
+                    "end": 3.36,
+                    "probability": 0.9969409108161926
+                },
+                {
+                    "word": " cool.",
+                    "start": 3.36,
+                    "end": 3.82,
+                    "probability": 0.9985647797584534
+                },
+                {
+                    "word": " It",
+                    "start": 4.58,
+                    "end": 4.7,
+                    "probability": 0.8209264278411865
+                },
+                {
+                    "word": " has",
+                    "start": 4.7,
+                    "end": 5.24,
+                    "probability": 0.5583775639533997
+                },
+                {
+                    "word": " like",
+                    "start": 5.24,
+                    "end": 6.64,
+                    "probability": 0.4871021807193756
+                },
+                {
+                    "word": " you",
+                    "start": 6.64,
+                    "end": 6.78,
+                    "probability": 0.8021029233932495
+                },
+                {
+                    "word": " can",
+                    "start": 6.78,
+                    "end": 7.04,
+                    "probability": 0.9980810880661011
+                },
+                {
+                    "word": " also",
+                    "start": 7.04,
+                    "end": 7.4,
+                    "probability": 0.9960456490516663
+                },
+                {
+                    "word": " play",
+                    "start": 7.4,
+                    "end": 7.62,
+                    "probability": 0.9977973699569702
+                },
+                {
+                    "word": " a",
+                    "start": 7.62,
+                    "end": 7.86,
+                    "probability": 0.9691610336303711
+                },
+                {
+                    "word": " poker",
+                    "start": 7.86,
+                    "end": 8.1,
+                    "probability": 0.9766819477081299
+                },
+                {
+                    "word": " on",
+                    "start": 8.1,
+                    "end": 8.54,
+                    "probability": 0.9932323694229126
+                },
+                {
+                    "word": " the",
+                    "start": 8.54,
+                    "end": 8.72,
+                    "probability": 0.6746007800102234
+                },
+                {
+                    "word": " table.",
+                    "start": 8.72,
+                    "end": 9.02,
+                    "probability": 0.9975317716598511
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.4,
+            "end": 18.74,
+            "text": " You can just swap the top and from the below you can have this poker table stuff pop up.",
+            "tokens": [
+                50832,
+                509,
+                393,
+                445,
+                18135,
+                264,
+                1192,
+                293,
+                490,
+                264,
+                2507,
+                291,
+                393,
+                362,
+                341,
+                36863,
+                3199,
+                1507,
+                1665,
+                493,
+                13,
+                51296
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3031831221147017,
+            "compression_ratio": 1.6136363636363635,
+            "no_speech_prob": 0.0019530273275449872,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 9.4,
+                    "end": 9.58,
+                    "probability": 0.9830354452133179
+                },
+                {
+                    "word": " can",
+                    "start": 9.58,
+                    "end": 9.86,
+                    "probability": 0.9989234805107117
+                },
+                {
+                    "word": " just",
+                    "start": 9.86,
+                    "end": 10.44,
+                    "probability": 0.9966588020324707
+                },
+                {
+                    "word": " swap",
+                    "start": 10.44,
+                    "end": 10.86,
+                    "probability": 0.9951316118240356
+                },
+                {
+                    "word": " the",
+                    "start": 10.86,
+                    "end": 12.28,
+                    "probability": 0.843228280544281
+                },
+                {
+                    "word": " top",
+                    "start": 12.28,
+                    "end": 12.82,
+                    "probability": 0.10788686573505402
+                },
+                {
+                    "word": " and",
+                    "start": 12.82,
+                    "end": 13.5,
+                    "probability": 0.9019273519515991
+                },
+                {
+                    "word": " from",
+                    "start": 13.5,
+                    "end": 14.04,
+                    "probability": 0.5942156910896301
+                },
+                {
+                    "word": " the",
+                    "start": 14.04,
+                    "end": 14.32,
+                    "probability": 0.7679073810577393
+                },
+                {
+                    "word": " below",
+                    "start": 14.32,
+                    "end": 14.42,
+                    "probability": 0.972266435623169
+                },
+                {
+                    "word": " you",
+                    "start": 14.42,
+                    "end": 14.62,
+                    "probability": 0.8971295356750488
+                },
+                {
+                    "word": " can",
+                    "start": 14.62,
+                    "end": 15.34,
+                    "probability": 0.9861627221107483
+                },
+                {
+                    "word": " have",
+                    "start": 15.34,
+                    "end": 16.44,
+                    "probability": 0.9653473496437073
+                },
+                {
+                    "word": " this",
+                    "start": 16.44,
+                    "end": 16.76,
+                    "probability": 0.9930421113967896
+                },
+                {
+                    "word": " poker",
+                    "start": 16.76,
+                    "end": 17.18,
+                    "probability": 0.9882283806800842
+                },
+                {
+                    "word": " table",
+                    "start": 17.18,
+                    "end": 17.8,
+                    "probability": 0.9982884526252747
+                },
+                {
+                    "word": " stuff",
+                    "start": 17.8,
+                    "end": 18.28,
+                    "probability": 0.4678030014038086
+                },
+                {
+                    "word": " pop",
+                    "start": 18.28,
+                    "end": 18.58,
+                    "probability": 0.9791480302810669
+                },
+                {
+                    "word": " up.",
+                    "start": 18.58,
+                    "end": 18.74,
+                    "probability": 0.9188641905784607
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.74,
+            "end": 21.76,
+            "text": " So it's really incredible. I think you guys will be happy with it.",
+            "tokens": [
+                51296,
+                407,
+                309,
+                311,
+                534,
+                4651,
+                13,
+                286,
+                519,
+                291,
+                1074,
+                486,
+                312,
+                2055,
+                365,
+                309,
+                13,
+                51448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3031831221147017,
+            "compression_ratio": 1.6136363636363635,
+            "no_speech_prob": 0.0019530273275449872,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 18.74,
+                    "end": 18.9,
+                    "probability": 0.9523171782493591
+                },
+                {
+                    "word": " it's",
+                    "start": 18.9,
+                    "end": 19.22,
+                    "probability": 0.9175260066986084
+                },
+                {
+                    "word": " really",
+                    "start": 19.22,
+                    "end": 19.38,
+                    "probability": 0.9820629358291626
+                },
+                {
+                    "word": " incredible.",
+                    "start": 19.38,
+                    "end": 19.78,
+                    "probability": 0.9975581169128418
+                },
+                {
+                    "word": " I",
+                    "start": 19.84,
+                    "end": 20.0,
+                    "probability": 0.9952734112739563
+                },
+                {
+                    "word": " think",
+                    "start": 20.0,
+                    "end": 20.24,
+                    "probability": 0.9992538094520569
+                },
+                {
+                    "word": " you",
+                    "start": 20.24,
+                    "end": 20.46,
+                    "probability": 0.9964867830276489
+                },
+                {
+                    "word": " guys",
+                    "start": 20.46,
+                    "end": 20.72,
+                    "probability": 0.9959065914154053
+                },
+                {
+                    "word": " will",
+                    "start": 20.72,
+                    "end": 20.9,
+                    "probability": 0.9924207329750061
+                },
+                {
+                    "word": " be",
+                    "start": 20.9,
+                    "end": 21.04,
+                    "probability": 0.9996391534805298
+                },
+                {
+                    "word": " happy",
+                    "start": 21.04,
+                    "end": 21.22,
+                    "probability": 0.9964064955711365
+                },
+                {
+                    "word": " with",
+                    "start": 21.22,
+                    "end": 21.42,
+                    "probability": 0.9976436495780945
+                },
+                {
+                    "word": " it.",
+                    "start": 21.42,
+                    "end": 21.76,
+                    "probability": 0.9885842800140381
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 21.8,
+            "end": 22.4,
+            "text": " Yeah, sounds like.",
+            "tokens": [
+                51448,
+                865,
+                11,
+                3263,
+                411,
+                13,
+                51480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3031831221147017,
+            "compression_ratio": 1.6136363636363635,
+            "no_speech_prob": 0.0019530273275449872,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 21.8,
+                    "end": 22.1,
+                    "probability": 0.9056647419929504
+                },
+                {
+                    "word": " sounds",
+                    "start": 22.24,
+                    "end": 22.34,
+                    "probability": 0.8144009113311768
+                },
+                {
+                    "word": " like.",
+                    "start": 22.34,
+                    "end": 22.4,
+                    "probability": 0.9893715381622314
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

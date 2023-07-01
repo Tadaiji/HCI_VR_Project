@@ -1,0 +1,52 @@
+{
+    "text": " We have to be.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.72,
+            "text": " We have to be.",
+            "tokens": [
+                50364,
+                492,
+                362,
+                281,
+                312,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7767800092697144,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.6756753325462341,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.33507484197616577
+                },
+                {
+                    "word": " have",
+                    "start": 0.22,
+                    "end": 0.42,
+                    "probability": 0.9642693400382996
+                },
+                {
+                    "word": " to",
+                    "start": 0.42,
+                    "end": 0.54,
+                    "probability": 0.9910070300102234
+                },
+                {
+                    "word": " be.",
+                    "start": 0.54,
+                    "end": 0.72,
+                    "probability": 0.6872745752334595
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

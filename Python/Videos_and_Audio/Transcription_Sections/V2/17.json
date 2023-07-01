@@ -1,0 +1,38 @@
+{
+    "text": " even better.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.56,
+            "text": " even better.",
+            "tokens": [
+                50364,
+                754,
+                1101,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5384850899378458,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.30809786915779114,
+            "words": [
+                {
+                    "word": " even",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.3304949402809143
+                },
+                {
+                    "word": " better.",
+                    "start": 0.24,
+                    "end": 0.56,
+                    "probability": 0.9782424569129944
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

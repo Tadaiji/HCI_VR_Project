@@ -1,0 +1,851 @@
+{
+    "text": " I think. Okay, I don't think we have the space for it. I think it's if you know you rotate it and then you have the slope there. I don't know what and you have a slope here so if the guests go to the table they could hit their head or something. I don't really like it. Works. Yeah, okay, it works. Good. So Thomas you wanted to move the table over rotate over there. I don't think it's the best idea because with the slope of the roof you know and if the people then go grab the drinks.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.86,
+            "text": " I think. Okay, I don't think we have the space for it. I think it's if you know",
+            "tokens": [
+                50364,
+                286,
+                519,
+                13,
+                1033,
+                11,
+                286,
+                500,
+                380,
+                519,
+                321,
+                362,
+                264,
+                1901,
+                337,
+                309,
+                13,
+                286,
+                519,
+                309,
+                311,
+                498,
+                291,
+                458,
+                50702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27613416739872526,
+            "compression_ratio": 1.811926605504587,
+            "no_speech_prob": 0.5822175741195679,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.30064573884010315
+                },
+                {
+                    "word": " think.",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.336206316947937
+                },
+                {
+                    "word": " Okay,",
+                    "start": 0.96,
+                    "end": 1.46,
+                    "probability": 0.27102628350257874
+                },
+                {
+                    "word": " I",
+                    "start": 2.64,
+                    "end": 2.66,
+                    "probability": 0.9489290714263916
+                },
+                {
+                    "word": " don't",
+                    "start": 2.66,
+                    "end": 3.04,
+                    "probability": 0.9887472987174988
+                },
+                {
+                    "word": " think",
+                    "start": 3.04,
+                    "end": 3.22,
+                    "probability": 0.9981265664100647
+                },
+                {
+                    "word": " we",
+                    "start": 3.22,
+                    "end": 3.42,
+                    "probability": 0.9916649460792542
+                },
+                {
+                    "word": " have",
+                    "start": 3.42,
+                    "end": 3.66,
+                    "probability": 0.9977372884750366
+                },
+                {
+                    "word": " the",
+                    "start": 3.66,
+                    "end": 4.02,
+                    "probability": 0.9136777520179749
+                },
+                {
+                    "word": " space",
+                    "start": 4.02,
+                    "end": 4.32,
+                    "probability": 0.9942037463188171
+                },
+                {
+                    "word": " for",
+                    "start": 4.32,
+                    "end": 4.56,
+                    "probability": 0.9931602478027344
+                },
+                {
+                    "word": " it.",
+                    "start": 4.56,
+                    "end": 4.7,
+                    "probability": 0.9946247935295105
+                },
+                {
+                    "word": " I",
+                    "start": 4.76,
+                    "end": 4.76,
+                    "probability": 0.7740667462348938
+                },
+                {
+                    "word": " think",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.996536135673523
+                },
+                {
+                    "word": " it's",
+                    "start": 5.0,
+                    "end": 5.64,
+                    "probability": 0.8408231437206268
+                },
+                {
+                    "word": " if",
+                    "start": 5.64,
+                    "end": 5.96,
+                    "probability": 0.5122107267379761
+                },
+                {
+                    "word": " you",
+                    "start": 5.96,
+                    "end": 6.54,
+                    "probability": 0.5272938013076782
+                },
+                {
+                    "word": " know",
+                    "start": 6.54,
+                    "end": 6.86,
+                    "probability": 0.5620277523994446
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.86,
+            "end": 11.68,
+            "text": " you rotate it and then you have the slope there. I don't know what and you have a",
+            "tokens": [
+                50702,
+                291,
+                13121,
+                309,
+                293,
+                550,
+                291,
+                362,
+                264,
+                13525,
+                456,
+                13,
+                286,
+                500,
+                380,
+                458,
+                437,
+                293,
+                291,
+                362,
+                257,
+                50940
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27613416739872526,
+            "compression_ratio": 1.811926605504587,
+            "no_speech_prob": 0.5822175741195679,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 6.86,
+                    "end": 7.3,
+                    "probability": 0.7230501174926758
+                },
+                {
+                    "word": " rotate",
+                    "start": 7.3,
+                    "end": 7.56,
+                    "probability": 0.9023299813270569
+                },
+                {
+                    "word": " it",
+                    "start": 7.56,
+                    "end": 7.96,
+                    "probability": 0.9893766641616821
+                },
+                {
+                    "word": " and",
+                    "start": 7.96,
+                    "end": 8.08,
+                    "probability": 0.7714924812316895
+                },
+                {
+                    "word": " then",
+                    "start": 8.08,
+                    "end": 8.26,
+                    "probability": 0.9896292090415955
+                },
+                {
+                    "word": " you",
+                    "start": 8.26,
+                    "end": 8.4,
+                    "probability": 0.981141209602356
+                },
+                {
+                    "word": " have",
+                    "start": 8.4,
+                    "end": 8.62,
+                    "probability": 0.9660506248474121
+                },
+                {
+                    "word": " the",
+                    "start": 8.62,
+                    "end": 8.72,
+                    "probability": 0.5194347500801086
+                },
+                {
+                    "word": " slope",
+                    "start": 8.72,
+                    "end": 8.86,
+                    "probability": 0.973102867603302
+                },
+                {
+                    "word": " there.",
+                    "start": 8.86,
+                    "end": 9.22,
+                    "probability": 0.9649806618690491
+                },
+                {
+                    "word": " I",
+                    "start": 9.22,
+                    "end": 9.32,
+                    "probability": 0.9642213582992554
+                },
+                {
+                    "word": " don't",
+                    "start": 9.32,
+                    "end": 9.52,
+                    "probability": 0.9979075789451599
+                },
+                {
+                    "word": " know",
+                    "start": 9.52,
+                    "end": 9.66,
+                    "probability": 0.9974326491355896
+                },
+                {
+                    "word": " what",
+                    "start": 9.66,
+                    "end": 10.0,
+                    "probability": 0.4082580506801605
+                },
+                {
+                    "word": " and",
+                    "start": 10.0,
+                    "end": 11.16,
+                    "probability": 0.40962302684783936
+                },
+                {
+                    "word": " you",
+                    "start": 11.16,
+                    "end": 11.36,
+                    "probability": 0.6594269871711731
+                },
+                {
+                    "word": " have",
+                    "start": 11.36,
+                    "end": 11.56,
+                    "probability": 0.9737715721130371
+                },
+                {
+                    "word": " a",
+                    "start": 11.56,
+                    "end": 11.68,
+                    "probability": 0.8366627097129822
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.68,
+            "end": 15.24,
+            "text": " slope here so if the guests go to the table they could hit their head or",
+            "tokens": [
+                50940,
+                13525,
+                510,
+                370,
+                498,
+                264,
+                9804,
+                352,
+                281,
+                264,
+                3199,
+                436,
+                727,
+                2045,
+                641,
+                1378,
+                420,
+                51121
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27613416739872526,
+            "compression_ratio": 1.811926605504587,
+            "no_speech_prob": 0.5822175741195679,
+            "words": [
+                {
+                    "word": " slope",
+                    "start": 11.68,
+                    "end": 11.86,
+                    "probability": 0.9926366806030273
+                },
+                {
+                    "word": " here",
+                    "start": 11.86,
+                    "end": 12.2,
+                    "probability": 0.995689332485199
+                },
+                {
+                    "word": " so",
+                    "start": 12.2,
+                    "end": 12.36,
+                    "probability": 0.2125328928232193
+                },
+                {
+                    "word": " if",
+                    "start": 12.36,
+                    "end": 12.54,
+                    "probability": 0.9605837464332581
+                },
+                {
+                    "word": " the",
+                    "start": 12.54,
+                    "end": 12.68,
+                    "probability": 0.9891465902328491
+                },
+                {
+                    "word": " guests",
+                    "start": 12.68,
+                    "end": 12.82,
+                    "probability": 0.9532911777496338
+                },
+                {
+                    "word": " go",
+                    "start": 12.82,
+                    "end": 13.04,
+                    "probability": 0.93231201171875
+                },
+                {
+                    "word": " to",
+                    "start": 13.04,
+                    "end": 13.24,
+                    "probability": 0.996025800704956
+                },
+                {
+                    "word": " the",
+                    "start": 13.24,
+                    "end": 13.44,
+                    "probability": 0.9984210729598999
+                },
+                {
+                    "word": " table",
+                    "start": 13.44,
+                    "end": 13.96,
+                    "probability": 0.9982168078422546
+                },
+                {
+                    "word": " they",
+                    "start": 13.96,
+                    "end": 14.42,
+                    "probability": 0.6290715336799622
+                },
+                {
+                    "word": " could",
+                    "start": 14.42,
+                    "end": 14.62,
+                    "probability": 0.9786569476127625
+                },
+                {
+                    "word": " hit",
+                    "start": 14.62,
+                    "end": 14.78,
+                    "probability": 0.9578598737716675
+                },
+                {
+                    "word": " their",
+                    "start": 14.78,
+                    "end": 14.94,
+                    "probability": 0.8872758746147156
+                },
+                {
+                    "word": " head",
+                    "start": 14.94,
+                    "end": 15.04,
+                    "probability": 0.9634449481964111
+                },
+                {
+                    "word": " or",
+                    "start": 15.04,
+                    "end": 15.24,
+                    "probability": 0.9873813390731812
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.24,
+            "end": 23.78,
+            "text": " something. I don't really like it. Works. Yeah, okay, it works. Good. So Thomas you",
+            "tokens": [
+                51121,
+                746,
+                13,
+                286,
+                500,
+                380,
+                534,
+                411,
+                309,
+                13,
+                27914,
+                13,
+                865,
+                11,
+                1392,
+                11,
+                309,
+                1985,
+                13,
+                2205,
+                13,
+                407,
+                8500,
+                291,
+                51550
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27613416739872526,
+            "compression_ratio": 1.811926605504587,
+            "no_speech_prob": 0.5822175741195679,
+            "words": [
+                {
+                    "word": " something.",
+                    "start": 15.24,
+                    "end": 15.56,
+                    "probability": 0.9946810603141785
+                },
+                {
+                    "word": " I",
+                    "start": 15.78,
+                    "end": 15.78,
+                    "probability": 0.9816327095031738
+                },
+                {
+                    "word": " don't",
+                    "start": 15.78,
+                    "end": 16.42,
+                    "probability": 0.9961864948272705
+                },
+                {
+                    "word": " really",
+                    "start": 16.42,
+                    "end": 17.1,
+                    "probability": 0.5158451795578003
+                },
+                {
+                    "word": " like",
+                    "start": 17.1,
+                    "end": 18.3,
+                    "probability": 0.9872356057167053
+                },
+                {
+                    "word": " it.",
+                    "start": 18.3,
+                    "end": 18.78,
+                    "probability": 0.27979224920272827
+                },
+                {
+                    "word": " Works.",
+                    "start": 19.26,
+                    "end": 19.26,
+                    "probability": 0.42527395486831665
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 19.86,
+                    "end": 20.0,
+                    "probability": 0.9056345820426941
+                },
+                {
+                    "word": " okay,",
+                    "start": 20.12,
+                    "end": 20.44,
+                    "probability": 0.9581034779548645
+                },
+                {
+                    "word": " it",
+                    "start": 20.6,
+                    "end": 20.62,
+                    "probability": 0.7441440224647522
+                },
+                {
+                    "word": " works.",
+                    "start": 20.62,
+                    "end": 20.94,
+                    "probability": 0.9917460083961487
+                },
+                {
+                    "word": " Good.",
+                    "start": 21.48,
+                    "end": 21.56,
+                    "probability": 0.7846513390541077
+                },
+                {
+                    "word": " So",
+                    "start": 22.9,
+                    "end": 23.44,
+                    "probability": 0.7620858550071716
+                },
+                {
+                    "word": " Thomas",
+                    "start": 23.44,
+                    "end": 23.6,
+                    "probability": 0.649232804775238
+                },
+                {
+                    "word": " you",
+                    "start": 23.6,
+                    "end": 23.78,
+                    "probability": 0.5808489918708801
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 23.78,
+            "end": 29.16,
+            "text": " wanted to move the table over rotate over there. I don't think it's the best",
+            "tokens": [
+                51550,
+                1415,
+                281,
+                1286,
+                264,
+                3199,
+                670,
+                13121,
+                670,
+                456,
+                13,
+                286,
+                500,
+                380,
+                519,
+                309,
+                311,
+                264,
+                1151,
+                51814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27613416739872526,
+            "compression_ratio": 1.811926605504587,
+            "no_speech_prob": 0.5822175741195679,
+            "words": [
+                {
+                    "word": " wanted",
+                    "start": 23.78,
+                    "end": 24.0,
+                    "probability": 0.9624477624893188
+                },
+                {
+                    "word": " to",
+                    "start": 24.0,
+                    "end": 24.28,
+                    "probability": 0.9986374974250793
+                },
+                {
+                    "word": " move",
+                    "start": 24.28,
+                    "end": 24.38,
+                    "probability": 0.9912502765655518
+                },
+                {
+                    "word": " the",
+                    "start": 24.38,
+                    "end": 24.64,
+                    "probability": 0.9964046478271484
+                },
+                {
+                    "word": " table",
+                    "start": 24.64,
+                    "end": 25.0,
+                    "probability": 0.9904358983039856
+                },
+                {
+                    "word": " over",
+                    "start": 25.0,
+                    "end": 25.9,
+                    "probability": 0.7518830895423889
+                },
+                {
+                    "word": " rotate",
+                    "start": 25.9,
+                    "end": 26.44,
+                    "probability": 0.6993058323860168
+                },
+                {
+                    "word": " over",
+                    "start": 26.44,
+                    "end": 26.7,
+                    "probability": 0.9775713086128235
+                },
+                {
+                    "word": " there.",
+                    "start": 26.7,
+                    "end": 26.98,
+                    "probability": 0.9970359802246094
+                },
+                {
+                    "word": " I",
+                    "start": 26.98,
+                    "end": 27.48,
+                    "probability": 0.9986346364021301
+                },
+                {
+                    "word": " don't",
+                    "start": 27.48,
+                    "end": 27.82,
+                    "probability": 0.9985600113868713
+                },
+                {
+                    "word": " think",
+                    "start": 27.82,
+                    "end": 27.98,
+                    "probability": 0.9996877908706665
+                },
+                {
+                    "word": " it's",
+                    "start": 27.98,
+                    "end": 28.66,
+                    "probability": 0.9974983036518097
+                },
+                {
+                    "word": " the",
+                    "start": 28.66,
+                    "end": 28.9,
+                    "probability": 0.9992333650588989
+                },
+                {
+                    "word": " best",
+                    "start": 28.9,
+                    "end": 29.16,
+                    "probability": 0.9993731379508972
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2916,
+            "start": 29.94,
+            "end": 34.58,
+            "text": " idea because with the slope of the roof you know and if the people then go grab",
+            "tokens": [
+                50364,
+                1558,
+                570,
+                365,
+                264,
+                13525,
+                295,
+                264,
+                8418,
+                291,
+                458,
+                293,
+                498,
+                264,
+                561,
+                550,
+                352,
+                4444,
+                50630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3688662338256836,
+            "compression_ratio": 1.1973684210526316,
+            "no_speech_prob": 0.8387234807014465,
+            "words": [
+                {
+                    "word": " idea",
+                    "start": 29.94,
+                    "end": 30.46,
+                    "probability": 0.1611393392086029
+                },
+                {
+                    "word": " because",
+                    "start": 30.46,
+                    "end": 30.46,
+                    "probability": 0.6048247218132019
+                },
+                {
+                    "word": " with",
+                    "start": 30.46,
+                    "end": 30.98,
+                    "probability": 0.9291996359825134
+                },
+                {
+                    "word": " the",
+                    "start": 30.98,
+                    "end": 31.24,
+                    "probability": 0.9945114850997925
+                },
+                {
+                    "word": " slope",
+                    "start": 31.24,
+                    "end": 31.42,
+                    "probability": 0.9783898591995239
+                },
+                {
+                    "word": " of",
+                    "start": 31.42,
+                    "end": 31.64,
+                    "probability": 0.7358190417289734
+                },
+                {
+                    "word": " the",
+                    "start": 31.64,
+                    "end": 31.86,
+                    "probability": 0.9929482936859131
+                },
+                {
+                    "word": " roof",
+                    "start": 31.86,
+                    "end": 32.28,
+                    "probability": 0.9463028907775879
+                },
+                {
+                    "word": " you",
+                    "start": 32.28,
+                    "end": 32.46,
+                    "probability": 0.5540199279785156
+                },
+                {
+                    "word": " know",
+                    "start": 32.46,
+                    "end": 32.9,
+                    "probability": 0.9953224062919617
+                },
+                {
+                    "word": " and",
+                    "start": 32.9,
+                    "end": 33.26,
+                    "probability": 0.9171673655509949
+                },
+                {
+                    "word": " if",
+                    "start": 33.26,
+                    "end": 33.38,
+                    "probability": 0.733991801738739
+                },
+                {
+                    "word": " the",
+                    "start": 33.38,
+                    "end": 33.5,
+                    "probability": 0.9762415289878845
+                },
+                {
+                    "word": " people",
+                    "start": 33.5,
+                    "end": 33.72,
+                    "probability": 0.9967840909957886
+                },
+                {
+                    "word": " then",
+                    "start": 33.72,
+                    "end": 34.14,
+                    "probability": 0.3769243657588959
+                },
+                {
+                    "word": " go",
+                    "start": 34.14,
+                    "end": 34.36,
+                    "probability": 0.9867015480995178
+                },
+                {
+                    "word": " grab",
+                    "start": 34.36,
+                    "end": 34.58,
+                    "probability": 0.9840515851974487
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2916,
+            "start": 34.58,
+            "end": 35.16,
+            "text": " the drinks.",
+            "tokens": [
+                50630,
+                264,
+                12142,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3688662338256836,
+            "compression_ratio": 1.1973684210526316,
+            "no_speech_prob": 0.8387234807014465,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 34.58,
+                    "end": 34.84,
+                    "probability": 0.7748013138771057
+                },
+                {
+                    "word": " drinks.",
+                    "start": 34.84,
+                    "end": 35.16,
+                    "probability": 0.9639375805854797
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

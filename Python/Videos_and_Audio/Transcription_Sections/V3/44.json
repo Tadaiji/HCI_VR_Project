@@ -1,0 +1,144 @@
+{
+    "text": " Do you guys know where we want to put it? I think we should put it there.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " Do you guys know where we want to put it? I think we should put it there.",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                1074,
+                458,
+                689,
+                321,
+                528,
+                281,
+                829,
+                309,
+                30,
+                286,
+                519,
+                321,
+                820,
+                829,
+                309,
+                456,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.10939806157892401,
+            "compression_ratio": 1.042857142857143,
+            "no_speech_prob": 0.06618931889533997,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.8251328468322754
+                },
+                {
+                    "word": " you",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.9964673519134521
+                },
+                {
+                    "word": " guys",
+                    "start": 0.5,
+                    "end": 0.72,
+                    "probability": 0.9597969651222229
+                },
+                {
+                    "word": " know",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9912801384925842
+                },
+                {
+                    "word": " where",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.985721230506897
+                },
+                {
+                    "word": " we",
+                    "start": 1.08,
+                    "end": 1.5,
+                    "probability": 0.9663333892822266
+                },
+                {
+                    "word": " want",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.9606571197509766
+                },
+                {
+                    "word": " to",
+                    "start": 1.7,
+                    "end": 1.84,
+                    "probability": 0.9931719303131104
+                },
+                {
+                    "word": " put",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.9960231781005859
+                },
+                {
+                    "word": " it?",
+                    "start": 1.98,
+                    "end": 2.24,
+                    "probability": 0.9851555228233337
+                },
+                {
+                    "word": " I",
+                    "start": 2.34,
+                    "end": 2.62,
+                    "probability": 0.9780364632606506
+                },
+                {
+                    "word": " think",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.9971930384635925
+                },
+                {
+                    "word": " we",
+                    "start": 2.86,
+                    "end": 3.1,
+                    "probability": 0.9869557619094849
+                },
+                {
+                    "word": " should",
+                    "start": 3.1,
+                    "end": 3.24,
+                    "probability": 0.9973849654197693
+                },
+                {
+                    "word": " put",
+                    "start": 3.24,
+                    "end": 3.42,
+                    "probability": 0.9962409734725952
+                },
+                {
+                    "word": " it",
+                    "start": 3.42,
+                    "end": 3.56,
+                    "probability": 0.9972561001777649
+                },
+                {
+                    "word": " there.",
+                    "start": 3.56,
+                    "end": 3.78,
+                    "probability": 0.9887626767158508
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

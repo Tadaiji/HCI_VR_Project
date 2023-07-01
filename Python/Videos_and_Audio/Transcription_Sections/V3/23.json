@@ -1,0 +1,45 @@
+{
+    "text": " makes people happy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.9,
+            "text": " makes people happy.",
+            "tokens": [
+                50364,
+                1669,
+                561,
+                2055,
+                13,
+                50508
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7772283554077148,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.20585264265537262,
+            "words": [
+                {
+                    "word": " makes",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.09885016083717346
+                },
+                {
+                    "word": " people",
+                    "start": 0.2,
+                    "end": 0.62,
+                    "probability": 0.9968163371086121
+                },
+                {
+                    "word": " happy.",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9982423782348633
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

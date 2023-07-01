@@ -1,0 +1,907 @@
+{
+    "text": " The thing is before doing this window blind stuff think we need to get rid of this wall-to-wall carpet Yes, sometimes in the summer when we open the window a lot of dust there. It's also not healthy and Because of that we need to clean most of the time Vacuum cleaner so also the consumption of electricity so I think we can get rid of this thing This is the modern era veniles are very much into the market. They are easy to clean and you can also wash them Partially so getting venile is a good idea. I believe what you guys think about it. Yeah",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.94,
+            "text": " The thing is before doing this window blind stuff think we need to get rid of this wall-to-wall carpet",
+            "tokens": [
+                50364,
+                440,
+                551,
+                307,
+                949,
+                884,
+                341,
+                4910,
+                6865,
+                1507,
+                519,
+                321,
+                643,
+                281,
+                483,
+                3973,
+                295,
+                341,
+                2929,
+                12,
+                1353,
+                12,
+                16256,
+                18119,
+                50703
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23830485343933105,
+            "compression_ratio": 1.6634615384615385,
+            "no_speech_prob": 0.08121901750564575,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.17068257927894592
+                },
+                {
+                    "word": " thing",
+                    "start": 0.58,
+                    "end": 0.82,
+                    "probability": 0.7489458918571472
+                },
+                {
+                    "word": " is",
+                    "start": 0.82,
+                    "end": 1.38,
+                    "probability": 0.9940283298492432
+                },
+                {
+                    "word": " before",
+                    "start": 1.38,
+                    "end": 2.06,
+                    "probability": 0.8544902801513672
+                },
+                {
+                    "word": " doing",
+                    "start": 2.06,
+                    "end": 2.6,
+                    "probability": 0.9333903789520264
+                },
+                {
+                    "word": " this",
+                    "start": 2.6,
+                    "end": 3.08,
+                    "probability": 0.9952932000160217
+                },
+                {
+                    "word": " window",
+                    "start": 3.08,
+                    "end": 3.46,
+                    "probability": 0.9743719696998596
+                },
+                {
+                    "word": " blind",
+                    "start": 3.46,
+                    "end": 3.76,
+                    "probability": 0.988274335861206
+                },
+                {
+                    "word": " stuff",
+                    "start": 3.76,
+                    "end": 4.4,
+                    "probability": 0.8555247783660889
+                },
+                {
+                    "word": " think",
+                    "start": 4.4,
+                    "end": 4.72,
+                    "probability": 0.3652505874633789
+                },
+                {
+                    "word": " we",
+                    "start": 4.72,
+                    "end": 4.9,
+                    "probability": 0.990009069442749
+                },
+                {
+                    "word": " need",
+                    "start": 4.9,
+                    "end": 5.04,
+                    "probability": 0.9990524649620056
+                },
+                {
+                    "word": " to",
+                    "start": 5.04,
+                    "end": 5.22,
+                    "probability": 0.9986097812652588
+                },
+                {
+                    "word": " get",
+                    "start": 5.22,
+                    "end": 5.38,
+                    "probability": 0.9971791505813599
+                },
+                {
+                    "word": " rid",
+                    "start": 5.38,
+                    "end": 5.5,
+                    "probability": 0.9980258941650391
+                },
+                {
+                    "word": " of",
+                    "start": 5.5,
+                    "end": 5.66,
+                    "probability": 0.986354649066925
+                },
+                {
+                    "word": " this",
+                    "start": 5.66,
+                    "end": 6.0,
+                    "probability": 0.9808962345123291
+                },
+                {
+                    "word": " wall",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.7519763708114624
+                },
+                {
+                    "word": "-to",
+                    "start": 6.24,
+                    "end": 6.36,
+                    "probability": 0.6812920421361923
+                },
+                {
+                    "word": "-wall",
+                    "start": 6.36,
+                    "end": 6.46,
+                    "probability": 0.99760702252388
+                },
+                {
+                    "word": " carpet",
+                    "start": 6.46,
+                    "end": 6.94,
+                    "probability": 0.9881579279899597
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.94,
+            "end": 14.52,
+            "text": " Yes, sometimes in the summer when we open the window a lot of dust there. It's also not healthy and",
+            "tokens": [
+                50703,
+                1079,
+                11,
+                2171,
+                294,
+                264,
+                4266,
+                562,
+                321,
+                1269,
+                264,
+                4910,
+                257,
+                688,
+                295,
+                8634,
+                456,
+                13,
+                467,
+                311,
+                611,
+                406,
+                4627,
+                293,
+                51038
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23830485343933105,
+            "compression_ratio": 1.6634615384615385,
+            "no_speech_prob": 0.08121901750564575,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 6.94,
+                    "end": 7.46,
+                    "probability": 0.4571695029735565
+                },
+                {
+                    "word": " sometimes",
+                    "start": 7.46,
+                    "end": 8.16,
+                    "probability": 0.9507018327713013
+                },
+                {
+                    "word": " in",
+                    "start": 8.16,
+                    "end": 8.5,
+                    "probability": 0.9987747073173523
+                },
+                {
+                    "word": " the",
+                    "start": 8.5,
+                    "end": 8.7,
+                    "probability": 0.9986750483512878
+                },
+                {
+                    "word": " summer",
+                    "start": 8.7,
+                    "end": 8.94,
+                    "probability": 0.9966020584106445
+                },
+                {
+                    "word": " when",
+                    "start": 8.94,
+                    "end": 9.14,
+                    "probability": 0.8996363878250122
+                },
+                {
+                    "word": " we",
+                    "start": 9.14,
+                    "end": 9.34,
+                    "probability": 0.6361001133918762
+                },
+                {
+                    "word": " open",
+                    "start": 9.34,
+                    "end": 9.44,
+                    "probability": 0.9623599648475647
+                },
+                {
+                    "word": " the",
+                    "start": 9.44,
+                    "end": 9.66,
+                    "probability": 0.9993500113487244
+                },
+                {
+                    "word": " window",
+                    "start": 9.66,
+                    "end": 10.28,
+                    "probability": 0.9601869583129883
+                },
+                {
+                    "word": " a",
+                    "start": 10.28,
+                    "end": 10.66,
+                    "probability": 0.17995736002922058
+                },
+                {
+                    "word": " lot",
+                    "start": 10.66,
+                    "end": 10.78,
+                    "probability": 0.9871413707733154
+                },
+                {
+                    "word": " of",
+                    "start": 10.78,
+                    "end": 11.08,
+                    "probability": 0.9971942901611328
+                },
+                {
+                    "word": " dust",
+                    "start": 11.08,
+                    "end": 11.42,
+                    "probability": 0.9909067153930664
+                },
+                {
+                    "word": " there.",
+                    "start": 11.42,
+                    "end": 11.92,
+                    "probability": 0.9726549386978149
+                },
+                {
+                    "word": " It's",
+                    "start": 11.92,
+                    "end": 12.38,
+                    "probability": 0.9990455210208893
+                },
+                {
+                    "word": " also",
+                    "start": 12.38,
+                    "end": 12.68,
+                    "probability": 0.9990377426147461
+                },
+                {
+                    "word": " not",
+                    "start": 12.68,
+                    "end": 12.98,
+                    "probability": 0.9972134232521057
+                },
+                {
+                    "word": " healthy",
+                    "start": 12.98,
+                    "end": 13.4,
+                    "probability": 0.9795829653739929
+                },
+                {
+                    "word": " and",
+                    "start": 13.4,
+                    "end": 14.52,
+                    "probability": 0.9815187454223633
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.52,
+            "end": 16.44,
+            "text": " Because of that we need to clean",
+            "tokens": [
+                51073,
+                1436,
+                295,
+                300,
+                321,
+                643,
+                281,
+                2541,
+                51173
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23830485343933105,
+            "compression_ratio": 1.6634615384615385,
+            "no_speech_prob": 0.08121901750564575,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 14.52,
+                    "end": 14.72,
+                    "probability": 0.6345691084861755
+                },
+                {
+                    "word": " of",
+                    "start": 14.72,
+                    "end": 14.96,
+                    "probability": 0.998521625995636
+                },
+                {
+                    "word": " that",
+                    "start": 14.96,
+                    "end": 15.12,
+                    "probability": 0.9990559220314026
+                },
+                {
+                    "word": " we",
+                    "start": 15.12,
+                    "end": 15.32,
+                    "probability": 0.8677077293395996
+                },
+                {
+                    "word": " need",
+                    "start": 15.32,
+                    "end": 15.54,
+                    "probability": 0.9990053772926331
+                },
+                {
+                    "word": " to",
+                    "start": 15.54,
+                    "end": 15.9,
+                    "probability": 0.9984387755393982
+                },
+                {
+                    "word": " clean",
+                    "start": 15.9,
+                    "end": 16.44,
+                    "probability": 0.9968963861465454
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.44,
+            "end": 18.9,
+            "text": " most of the time",
+            "tokens": [
+                51223,
+                881,
+                295,
+                264,
+                565,
+                51323
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23830485343933105,
+            "compression_ratio": 1.6634615384615385,
+            "no_speech_prob": 0.08121901750564575,
+            "words": [
+                {
+                    "word": " most",
+                    "start": 16.44,
+                    "end": 17.78,
+                    "probability": 0.5130879282951355
+                },
+                {
+                    "word": " of",
+                    "start": 17.78,
+                    "end": 17.94,
+                    "probability": 0.996505618095398
+                },
+                {
+                    "word": " the",
+                    "start": 17.94,
+                    "end": 18.12,
+                    "probability": 0.9989066123962402
+                },
+                {
+                    "word": " time",
+                    "start": 18.12,
+                    "end": 18.9,
+                    "probability": 0.9875423312187195
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.9,
+            "end": 25.9,
+            "text": " Vacuum cleaner so also the consumption of electricity so I think we can get rid of this thing",
+            "tokens": [
+                51361,
+                44442,
+                12823,
+                16532,
+                370,
+                611,
+                264,
+                12126,
+                295,
+                10356,
+                370,
+                286,
+                519,
+                321,
+                393,
+                483,
+                3973,
+                295,
+                341,
+                551,
+                51652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23830485343933105,
+            "compression_ratio": 1.6634615384615385,
+            "no_speech_prob": 0.08121901750564575,
+            "words": [
+                {
+                    "word": " Vacuum",
+                    "start": 18.9,
+                    "end": 20.62,
+                    "probability": 0.5144493533298373
+                },
+                {
+                    "word": " cleaner",
+                    "start": 20.62,
+                    "end": 21.0,
+                    "probability": 0.9870655536651611
+                },
+                {
+                    "word": " so",
+                    "start": 21.0,
+                    "end": 21.76,
+                    "probability": 0.6168882250785828
+                },
+                {
+                    "word": " also",
+                    "start": 21.76,
+                    "end": 22.1,
+                    "probability": 0.9977784752845764
+                },
+                {
+                    "word": " the",
+                    "start": 22.1,
+                    "end": 22.36,
+                    "probability": 0.9990392923355103
+                },
+                {
+                    "word": " consumption",
+                    "start": 22.36,
+                    "end": 22.72,
+                    "probability": 0.9970182180404663
+                },
+                {
+                    "word": " of",
+                    "start": 22.72,
+                    "end": 23.04,
+                    "probability": 0.9989460110664368
+                },
+                {
+                    "word": " electricity",
+                    "start": 23.04,
+                    "end": 23.64,
+                    "probability": 0.977982759475708
+                },
+                {
+                    "word": " so",
+                    "start": 23.64,
+                    "end": 24.26,
+                    "probability": 0.4230400025844574
+                },
+                {
+                    "word": " I",
+                    "start": 24.26,
+                    "end": 24.46,
+                    "probability": 0.995730459690094
+                },
+                {
+                    "word": " think",
+                    "start": 24.46,
+                    "end": 24.56,
+                    "probability": 0.9986390471458435
+                },
+                {
+                    "word": " we",
+                    "start": 24.56,
+                    "end": 24.78,
+                    "probability": 0.9982617497444153
+                },
+                {
+                    "word": " can",
+                    "start": 24.78,
+                    "end": 24.92,
+                    "probability": 0.999423623085022
+                },
+                {
+                    "word": " get",
+                    "start": 24.92,
+                    "end": 25.18,
+                    "probability": 0.9965123534202576
+                },
+                {
+                    "word": " rid",
+                    "start": 25.18,
+                    "end": 25.3,
+                    "probability": 0.9989849925041199
+                },
+                {
+                    "word": " of",
+                    "start": 25.3,
+                    "end": 25.5,
+                    "probability": 0.9989174604415894
+                },
+                {
+                    "word": " this",
+                    "start": 25.5,
+                    "end": 25.74,
+                    "probability": 0.9974790215492249
+                },
+                {
+                    "word": " thing",
+                    "start": 25.74,
+                    "end": 25.9,
+                    "probability": 0.9925278425216675
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2590,
+            "start": 25.9,
+            "end": 33.64,
+            "text": " This is the modern era veniles are very much into the market. They are easy to clean and you can also wash them",
+            "tokens": [
+                50364,
+                639,
+                307,
+                264,
+                4363,
+                4249,
+                6138,
+                4680,
+                366,
+                588,
+                709,
+                666,
+                264,
+                2142,
+                13,
+                814,
+                366,
+                1858,
+                281,
+                2541,
+                293,
+                291,
+                393,
+                611,
+                5675,
+                552,
+                50707
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30247119828766467,
+            "compression_ratio": 1.3888888888888888,
+            "no_speech_prob": 0.06138777732849121,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 25.9,
+                    "end": 26.04,
+                    "probability": 0.48165982961654663
+                },
+                {
+                    "word": " is",
+                    "start": 26.04,
+                    "end": 26.22,
+                    "probability": 0.9917370676994324
+                },
+                {
+                    "word": " the",
+                    "start": 26.22,
+                    "end": 26.3,
+                    "probability": 0.928051769733429
+                },
+                {
+                    "word": " modern",
+                    "start": 26.3,
+                    "end": 26.62,
+                    "probability": 0.9678144454956055
+                },
+                {
+                    "word": " era",
+                    "start": 26.62,
+                    "end": 27.12,
+                    "probability": 0.9047062993049622
+                },
+                {
+                    "word": " veniles",
+                    "start": 27.12,
+                    "end": 27.7,
+                    "probability": 0.17138272523880005
+                },
+                {
+                    "word": " are",
+                    "start": 27.7,
+                    "end": 28.04,
+                    "probability": 0.9646055102348328
+                },
+                {
+                    "word": " very",
+                    "start": 28.04,
+                    "end": 28.36,
+                    "probability": 0.9698010087013245
+                },
+                {
+                    "word": " much",
+                    "start": 28.36,
+                    "end": 28.64,
+                    "probability": 0.9989762306213379
+                },
+                {
+                    "word": " into",
+                    "start": 28.64,
+                    "end": 28.92,
+                    "probability": 0.985300600528717
+                },
+                {
+                    "word": " the",
+                    "start": 28.92,
+                    "end": 29.14,
+                    "probability": 0.9989509582519531
+                },
+                {
+                    "word": " market.",
+                    "start": 29.14,
+                    "end": 29.54,
+                    "probability": 0.9977858066558838
+                },
+                {
+                    "word": " They",
+                    "start": 29.78,
+                    "end": 29.94,
+                    "probability": 0.9711823463439941
+                },
+                {
+                    "word": " are",
+                    "start": 29.94,
+                    "end": 30.08,
+                    "probability": 0.9065291881561279
+                },
+                {
+                    "word": " easy",
+                    "start": 30.08,
+                    "end": 30.32,
+                    "probability": 0.9985454082489014
+                },
+                {
+                    "word": " to",
+                    "start": 30.32,
+                    "end": 30.68,
+                    "probability": 0.9957659244537354
+                },
+                {
+                    "word": " clean",
+                    "start": 30.68,
+                    "end": 31.02,
+                    "probability": 0.9979469180107117
+                },
+                {
+                    "word": " and",
+                    "start": 31.02,
+                    "end": 31.36,
+                    "probability": 0.9715861678123474
+                },
+                {
+                    "word": " you",
+                    "start": 31.36,
+                    "end": 31.44,
+                    "probability": 0.9979902505874634
+                },
+                {
+                    "word": " can",
+                    "start": 31.44,
+                    "end": 31.72,
+                    "probability": 0.9996045231819153
+                },
+                {
+                    "word": " also",
+                    "start": 31.72,
+                    "end": 32.32,
+                    "probability": 0.9978293776512146
+                },
+                {
+                    "word": " wash",
+                    "start": 32.32,
+                    "end": 32.62,
+                    "probability": 0.9216881394386292
+                },
+                {
+                    "word": " them",
+                    "start": 32.62,
+                    "end": 33.64,
+                    "probability": 0.9979203343391418
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2590,
+            "start": 33.64,
+            "end": 39.0,
+            "text": " Partially so getting venile is a good idea. I believe what you guys think about it. Yeah",
+            "tokens": [
+                50750,
+                4100,
+                2270,
+                370,
+                1242,
+                6138,
+                794,
+                307,
+                257,
+                665,
+                1558,
+                13,
+                286,
+                1697,
+                437,
+                291,
+                1074,
+                519,
+                466,
+                309,
+                13,
+                865,
+                51016
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30247119828766467,
+            "compression_ratio": 1.3888888888888888,
+            "no_speech_prob": 0.06138777732849121,
+            "words": [
+                {
+                    "word": " Partially",
+                    "start": 33.64,
+                    "end": 34.34,
+                    "probability": 0.8354390561580658
+                },
+                {
+                    "word": " so",
+                    "start": 34.34,
+                    "end": 34.96,
+                    "probability": 0.5012641549110413
+                },
+                {
+                    "word": " getting",
+                    "start": 34.96,
+                    "end": 35.44,
+                    "probability": 0.9322397112846375
+                },
+                {
+                    "word": " venile",
+                    "start": 35.44,
+                    "end": 35.84,
+                    "probability": 0.38460442423820496
+                },
+                {
+                    "word": " is",
+                    "start": 35.84,
+                    "end": 35.98,
+                    "probability": 0.9923403263092041
+                },
+                {
+                    "word": " a",
+                    "start": 35.98,
+                    "end": 36.12,
+                    "probability": 0.9991915822029114
+                },
+                {
+                    "word": " good",
+                    "start": 36.12,
+                    "end": 36.28,
+                    "probability": 0.9994039535522461
+                },
+                {
+                    "word": " idea.",
+                    "start": 36.28,
+                    "end": 36.6,
+                    "probability": 0.9844847917556763
+                },
+                {
+                    "word": " I",
+                    "start": 37.16,
+                    "end": 37.36,
+                    "probability": 0.9819324612617493
+                },
+                {
+                    "word": " believe",
+                    "start": 37.36,
+                    "end": 37.36,
+                    "probability": 0.9979456067085266
+                },
+                {
+                    "word": " what",
+                    "start": 37.36,
+                    "end": 37.7,
+                    "probability": 0.9786995649337769
+                },
+                {
+                    "word": " you",
+                    "start": 37.7,
+                    "end": 37.86,
+                    "probability": 0.9415120482444763
+                },
+                {
+                    "word": " guys",
+                    "start": 37.86,
+                    "end": 38.0,
+                    "probability": 0.993177056312561
+                },
+                {
+                    "word": " think",
+                    "start": 38.0,
+                    "end": 38.26,
+                    "probability": 0.8677785396575928
+                },
+                {
+                    "word": " about",
+                    "start": 38.26,
+                    "end": 38.44,
+                    "probability": 0.9826693534851074
+                },
+                {
+                    "word": " it.",
+                    "start": 38.44,
+                    "end": 38.66,
+                    "probability": 0.9980965256690979
+                },
+                {
+                    "word": " Yeah",
+                    "start": 38.74,
+                    "end": 39.0,
+                    "probability": 0.9558842778205872
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

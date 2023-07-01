@@ -1,0 +1,67 @@
+{
+    "text": " Nice. We can count on her.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 1.7,
+            "text": " Nice. We can count on her.",
+            "tokens": [
+                50364,
+                5490,
+                13,
+                492,
+                393,
+                1207,
+                322,
+                720,
+                13,
+                50449
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5512801517139782,
+            "compression_ratio": 0.7647058823529411,
+            "no_speech_prob": 0.4453226923942566,
+            "words": [
+                {
+                    "word": " Nice.",
+                    "start": 0.1,
+                    "end": 0.46,
+                    "probability": 0.2665308713912964
+                },
+                {
+                    "word": " We",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.8002330660820007
+                },
+                {
+                    "word": " can",
+                    "start": 0.96,
+                    "end": 1.14,
+                    "probability": 0.9962121248245239
+                },
+                {
+                    "word": " count",
+                    "start": 1.14,
+                    "end": 1.42,
+                    "probability": 0.9930175542831421
+                },
+                {
+                    "word": " on",
+                    "start": 1.42,
+                    "end": 1.52,
+                    "probability": 0.9981445074081421
+                },
+                {
+                    "word": " her.",
+                    "start": 1.52,
+                    "end": 1.7,
+                    "probability": 0.9921512603759766
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

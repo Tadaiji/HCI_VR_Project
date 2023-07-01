@@ -1,0 +1,240 @@
+{
+    "text": " Yeah, I want to have this here because it's not enough place to someone to stand or to sit here. So the table would be set here enough.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.06,
+            "text": " Yeah, I want to have this here because it's not enough place to someone to stand or to sit here.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                528,
+                281,
+                362,
+                341,
+                510,
+                570,
+                309,
+                311,
+                406,
+                1547,
+                1081,
+                281,
+                1580,
+                281,
+                1463,
+                420,
+                281,
+                1394,
+                510,
+                13,
+                50660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3471631230534734,
+            "compression_ratio": 1.2857142857142858,
+            "no_speech_prob": 0.019916020333766937,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.26995953917503357
+                },
+                {
+                    "word": " I",
+                    "start": 0.4,
+                    "end": 0.4,
+                    "probability": 0.724190890789032
+                },
+                {
+                    "word": " want",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.9698968529701233
+                },
+                {
+                    "word": " to",
+                    "start": 0.68,
+                    "end": 0.88,
+                    "probability": 0.9848432540893555
+                },
+                {
+                    "word": " have",
+                    "start": 0.88,
+                    "end": 1.02,
+                    "probability": 0.9847186207771301
+                },
+                {
+                    "word": " this",
+                    "start": 1.02,
+                    "end": 1.32,
+                    "probability": 0.9856594800949097
+                },
+                {
+                    "word": " here",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.9716642498970032
+                },
+                {
+                    "word": " because",
+                    "start": 1.52,
+                    "end": 1.78,
+                    "probability": 0.7313361763954163
+                },
+                {
+                    "word": " it's",
+                    "start": 1.78,
+                    "end": 2.34,
+                    "probability": 0.9462754130363464
+                },
+                {
+                    "word": " not",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.9971054196357727
+                },
+                {
+                    "word": " enough",
+                    "start": 2.56,
+                    "end": 2.82,
+                    "probability": 0.9940828680992126
+                },
+                {
+                    "word": " place",
+                    "start": 2.82,
+                    "end": 3.2,
+                    "probability": 0.9502149820327759
+                },
+                {
+                    "word": " to",
+                    "start": 3.2,
+                    "end": 3.66,
+                    "probability": 0.7182108163833618
+                },
+                {
+                    "word": " someone",
+                    "start": 3.66,
+                    "end": 4.1,
+                    "probability": 0.7961530685424805
+                },
+                {
+                    "word": " to",
+                    "start": 4.1,
+                    "end": 4.6,
+                    "probability": 0.9521538615226746
+                },
+                {
+                    "word": " stand",
+                    "start": 4.6,
+                    "end": 4.9,
+                    "probability": 0.9987286925315857
+                },
+                {
+                    "word": " or",
+                    "start": 4.9,
+                    "end": 5.22,
+                    "probability": 0.9785221219062805
+                },
+                {
+                    "word": " to",
+                    "start": 5.22,
+                    "end": 5.48,
+                    "probability": 0.9851395487785339
+                },
+                {
+                    "word": " sit",
+                    "start": 5.48,
+                    "end": 5.62,
+                    "probability": 0.9966762065887451
+                },
+                {
+                    "word": " here.",
+                    "start": 5.62,
+                    "end": 6.06,
+                    "probability": 0.9940762519836426
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.4,
+            "end": 8.4,
+            "text": " So the table would be set here enough.",
+            "tokens": [
+                50660,
+                407,
+                264,
+                3199,
+                576,
+                312,
+                992,
+                510,
+                1547,
+                13,
+                50785
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3471631230534734,
+            "compression_ratio": 1.2857142857142858,
+            "no_speech_prob": 0.019916020333766937,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.4,
+                    "end": 6.44,
+                    "probability": 0.8554330468177795
+                },
+                {
+                    "word": " the",
+                    "start": 6.44,
+                    "end": 6.62,
+                    "probability": 0.5136094689369202
+                },
+                {
+                    "word": " table",
+                    "start": 6.62,
+                    "end": 6.92,
+                    "probability": 0.9912079572677612
+                },
+                {
+                    "word": " would",
+                    "start": 6.92,
+                    "end": 7.36,
+                    "probability": 0.9872775673866272
+                },
+                {
+                    "word": " be",
+                    "start": 7.36,
+                    "end": 7.84,
+                    "probability": 0.9869175553321838
+                },
+                {
+                    "word": " set",
+                    "start": 7.84,
+                    "end": 8.0,
+                    "probability": 0.9136539697647095
+                },
+                {
+                    "word": " here",
+                    "start": 8.0,
+                    "end": 8.3,
+                    "probability": 0.9950181245803833
+                },
+                {
+                    "word": " enough.",
+                    "start": 8.3,
+                    "end": 8.4,
+                    "probability": 0.8930331468582153
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

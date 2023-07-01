@@ -1,0 +1,688 @@
+{
+    "text": " Yeah, so as I just said, my birthday is at the end of the month and I wanted to have it in a month from there. So in about one and a half months I want to have my birthday party because of work, because I need to work. And then I can have my birthday party for this date because I have holidays there. So I will use that. And is this all right with you or don't you have time for this?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.68,
+            "text": " Yeah, so as I just said, my birthday is at the end of the month and I wanted to have it in a month from there.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                370,
+                382,
+                286,
+                445,
+                848,
+                11,
+                452,
+                6154,
+                307,
+                412,
+                264,
+                917,
+                295,
+                264,
+                1618,
+                293,
+                286,
+                1415,
+                281,
+                362,
+                309,
+                294,
+                257,
+                1618,
+                490,
+                456,
+                13,
+                50796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23595302919798258,
+            "compression_ratio": 1.7705882352941176,
+            "no_speech_prob": 0.03755074739456177,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.6476475596427917
+                },
+                {
+                    "word": " so",
+                    "start": 0.64,
+                    "end": 0.98,
+                    "probability": 0.9223650693893433
+                },
+                {
+                    "word": " as",
+                    "start": 0.98,
+                    "end": 1.48,
+                    "probability": 0.6913866996765137
+                },
+                {
+                    "word": " I",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.8821591734886169
+                },
+                {
+                    "word": " just",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.8188464045524597
+                },
+                {
+                    "word": " said,",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.9944287538528442
+                },
+                {
+                    "word": " my",
+                    "start": 2.24,
+                    "end": 2.32,
+                    "probability": 0.9933481812477112
+                },
+                {
+                    "word": " birthday",
+                    "start": 2.32,
+                    "end": 2.74,
+                    "probability": 0.9856380820274353
+                },
+                {
+                    "word": " is",
+                    "start": 2.74,
+                    "end": 3.08,
+                    "probability": 0.9871709942817688
+                },
+                {
+                    "word": " at",
+                    "start": 3.08,
+                    "end": 3.28,
+                    "probability": 0.9734134078025818
+                },
+                {
+                    "word": " the",
+                    "start": 3.28,
+                    "end": 3.28,
+                    "probability": 0.9988628625869751
+                },
+                {
+                    "word": " end",
+                    "start": 3.28,
+                    "end": 3.44,
+                    "probability": 0.9990783929824829
+                },
+                {
+                    "word": " of",
+                    "start": 3.44,
+                    "end": 3.6,
+                    "probability": 0.9991281628608704
+                },
+                {
+                    "word": " the",
+                    "start": 3.6,
+                    "end": 3.76,
+                    "probability": 0.9959347248077393
+                },
+                {
+                    "word": " month",
+                    "start": 3.76,
+                    "end": 4.06,
+                    "probability": 0.9990680813789368
+                },
+                {
+                    "word": " and",
+                    "start": 4.06,
+                    "end": 4.76,
+                    "probability": 0.692238986492157
+                },
+                {
+                    "word": " I",
+                    "start": 4.76,
+                    "end": 5.28,
+                    "probability": 0.9813701510429382
+                },
+                {
+                    "word": " wanted",
+                    "start": 5.28,
+                    "end": 5.8,
+                    "probability": 0.86295086145401
+                },
+                {
+                    "word": " to",
+                    "start": 5.8,
+                    "end": 6.1,
+                    "probability": 0.9926108717918396
+                },
+                {
+                    "word": " have",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.9927383065223694
+                },
+                {
+                    "word": " it",
+                    "start": 6.36,
+                    "end": 7.08,
+                    "probability": 0.9900362491607666
+                },
+                {
+                    "word": " in",
+                    "start": 7.08,
+                    "end": 7.44,
+                    "probability": 0.9549441933631897
+                },
+                {
+                    "word": " a",
+                    "start": 7.44,
+                    "end": 7.62,
+                    "probability": 0.5185595154762268
+                },
+                {
+                    "word": " month",
+                    "start": 7.62,
+                    "end": 7.86,
+                    "probability": 0.9993547797203064
+                },
+                {
+                    "word": " from",
+                    "start": 7.86,
+                    "end": 8.18,
+                    "probability": 0.9763062596321106
+                },
+                {
+                    "word": " there.",
+                    "start": 8.18,
+                    "end": 8.68,
+                    "probability": 0.9666342735290527
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.78,
+            "end": 18.44,
+            "text": " So in about one and a half months I want to have my birthday party because of work, because I need to work.",
+            "tokens": [
+                50796,
+                407,
+                294,
+                466,
+                472,
+                293,
+                257,
+                1922,
+                2493,
+                286,
+                528,
+                281,
+                362,
+                452,
+                6154,
+                3595,
+                570,
+                295,
+                589,
+                11,
+                570,
+                286,
+                643,
+                281,
+                589,
+                13,
+                51284
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23595302919798258,
+            "compression_ratio": 1.7705882352941176,
+            "no_speech_prob": 0.03755074739456177,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 8.78,
+                    "end": 9.48,
+                    "probability": 0.9562886357307434
+                },
+                {
+                    "word": " in",
+                    "start": 9.48,
+                    "end": 10.62,
+                    "probability": 0.7135878205299377
+                },
+                {
+                    "word": " about",
+                    "start": 10.62,
+                    "end": 11.24,
+                    "probability": 0.9955657124519348
+                },
+                {
+                    "word": " one",
+                    "start": 11.24,
+                    "end": 12.06,
+                    "probability": 0.9059618711471558
+                },
+                {
+                    "word": " and",
+                    "start": 12.06,
+                    "end": 12.24,
+                    "probability": 0.9682474136352539
+                },
+                {
+                    "word": " a",
+                    "start": 12.24,
+                    "end": 12.28,
+                    "probability": 0.9810346961021423
+                },
+                {
+                    "word": " half",
+                    "start": 12.28,
+                    "end": 12.42,
+                    "probability": 0.9989140033721924
+                },
+                {
+                    "word": " months",
+                    "start": 12.42,
+                    "end": 12.7,
+                    "probability": 0.943511962890625
+                },
+                {
+                    "word": " I",
+                    "start": 12.7,
+                    "end": 12.84,
+                    "probability": 0.4903511106967926
+                },
+                {
+                    "word": " want",
+                    "start": 12.84,
+                    "end": 13.08,
+                    "probability": 0.9573197364807129
+                },
+                {
+                    "word": " to",
+                    "start": 13.08,
+                    "end": 13.5,
+                    "probability": 0.9983662962913513
+                },
+                {
+                    "word": " have",
+                    "start": 13.5,
+                    "end": 13.68,
+                    "probability": 0.9985277652740479
+                },
+                {
+                    "word": " my",
+                    "start": 13.68,
+                    "end": 14.08,
+                    "probability": 0.9959762692451477
+                },
+                {
+                    "word": " birthday",
+                    "start": 14.08,
+                    "end": 14.42,
+                    "probability": 0.9939337372779846
+                },
+                {
+                    "word": " party",
+                    "start": 14.42,
+                    "end": 15.08,
+                    "probability": 0.9958867430686951
+                },
+                {
+                    "word": " because",
+                    "start": 15.08,
+                    "end": 16.66,
+                    "probability": 0.7786837816238403
+                },
+                {
+                    "word": " of",
+                    "start": 16.66,
+                    "end": 16.92,
+                    "probability": 0.8279980421066284
+                },
+                {
+                    "word": " work,",
+                    "start": 16.92,
+                    "end": 17.26,
+                    "probability": 0.99405837059021
+                },
+                {
+                    "word": " because",
+                    "start": 17.36,
+                    "end": 17.62,
+                    "probability": 0.986469030380249
+                },
+                {
+                    "word": " I",
+                    "start": 17.62,
+                    "end": 17.76,
+                    "probability": 0.9858077764511108
+                },
+                {
+                    "word": " need",
+                    "start": 17.76,
+                    "end": 17.92,
+                    "probability": 0.9775258898735046
+                },
+                {
+                    "word": " to",
+                    "start": 17.92,
+                    "end": 18.12,
+                    "probability": 0.9934226870536804
+                },
+                {
+                    "word": " work.",
+                    "start": 18.12,
+                    "end": 18.44,
+                    "probability": 0.9987647533416748
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.44,
+            "end": 26.68,
+            "text": " And then I can have my birthday party for this date because I have holidays there.",
+            "tokens": [
+                51284,
+                400,
+                550,
+                286,
+                393,
+                362,
+                452,
+                6154,
+                3595,
+                337,
+                341,
+                4002,
+                570,
+                286,
+                362,
+                15734,
+                456,
+                13,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23595302919798258,
+            "compression_ratio": 1.7705882352941176,
+            "no_speech_prob": 0.03755074739456177,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 18.44,
+                    "end": 18.7,
+                    "probability": 0.9533349871635437
+                },
+                {
+                    "word": " then",
+                    "start": 18.7,
+                    "end": 19.08,
+                    "probability": 0.9982831478118896
+                },
+                {
+                    "word": " I",
+                    "start": 19.08,
+                    "end": 19.3,
+                    "probability": 0.9940460920333862
+                },
+                {
+                    "word": " can",
+                    "start": 19.3,
+                    "end": 19.72,
+                    "probability": 0.9972670078277588
+                },
+                {
+                    "word": " have",
+                    "start": 19.72,
+                    "end": 20.8,
+                    "probability": 0.9944483041763306
+                },
+                {
+                    "word": " my",
+                    "start": 20.8,
+                    "end": 21.5,
+                    "probability": 0.9948135614395142
+                },
+                {
+                    "word": " birthday",
+                    "start": 21.5,
+                    "end": 21.9,
+                    "probability": 0.9973153471946716
+                },
+                {
+                    "word": " party",
+                    "start": 21.9,
+                    "end": 22.18,
+                    "probability": 0.9979436993598938
+                },
+                {
+                    "word": " for",
+                    "start": 22.18,
+                    "end": 22.48,
+                    "probability": 0.9914482831954956
+                },
+                {
+                    "word": " this",
+                    "start": 22.48,
+                    "end": 22.72,
+                    "probability": 0.5495350360870361
+                },
+                {
+                    "word": " date",
+                    "start": 22.72,
+                    "end": 23.0,
+                    "probability": 0.946768045425415
+                },
+                {
+                    "word": " because",
+                    "start": 23.0,
+                    "end": 23.46,
+                    "probability": 0.7049028277397156
+                },
+                {
+                    "word": " I",
+                    "start": 23.46,
+                    "end": 24.22,
+                    "probability": 0.856080174446106
+                },
+                {
+                    "word": " have",
+                    "start": 24.22,
+                    "end": 25.1,
+                    "probability": 0.9925817251205444
+                },
+                {
+                    "word": " holidays",
+                    "start": 25.1,
+                    "end": 26.14,
+                    "probability": 0.9682218432426453
+                },
+                {
+                    "word": " there.",
+                    "start": 26.14,
+                    "end": 26.68,
+                    "probability": 0.9735577702522278
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 2668,
+            "start": 27.16,
+            "end": 28.72,
+            "text": " So I will use that.",
+            "tokens": [
+                50388,
+                407,
+                286,
+                486,
+                764,
+                300,
+                13,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3250607031363028,
+            "compression_ratio": 1.0506329113924051,
+            "no_speech_prob": 0.020327476784586906,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 27.16,
+                    "end": 27.56,
+                    "probability": 0.6074953079223633
+                },
+                {
+                    "word": " I",
+                    "start": 27.56,
+                    "end": 27.72,
+                    "probability": 0.6672698259353638
+                },
+                {
+                    "word": " will",
+                    "start": 27.72,
+                    "end": 27.92,
+                    "probability": 0.9267500638961792
+                },
+                {
+                    "word": " use",
+                    "start": 27.92,
+                    "end": 28.1,
+                    "probability": 0.9872035384178162
+                },
+                {
+                    "word": " that.",
+                    "start": 28.1,
+                    "end": 28.72,
+                    "probability": 0.937787652015686
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2668,
+            "start": 30.14,
+            "end": 34.74,
+            "text": " And is this all right with you or don't you have time for this?",
+            "tokens": [
+                50524,
+                400,
+                307,
+                341,
+                439,
+                558,
+                365,
+                291,
+                420,
+                500,
+                380,
+                291,
+                362,
+                565,
+                337,
+                341,
+                30,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3250607031363028,
+            "compression_ratio": 1.0506329113924051,
+            "no_speech_prob": 0.020327476784586906,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 30.14,
+                    "end": 30.54,
+                    "probability": 0.3822208046913147
+                },
+                {
+                    "word": " is",
+                    "start": 30.54,
+                    "end": 31.2,
+                    "probability": 0.8294576406478882
+                },
+                {
+                    "word": " this",
+                    "start": 31.2,
+                    "end": 31.38,
+                    "probability": 0.9540660977363586
+                },
+                {
+                    "word": " all",
+                    "start": 31.38,
+                    "end": 31.54,
+                    "probability": 0.43697088956832886
+                },
+                {
+                    "word": " right",
+                    "start": 31.54,
+                    "end": 31.7,
+                    "probability": 0.9500532150268555
+                },
+                {
+                    "word": " with",
+                    "start": 31.7,
+                    "end": 31.96,
+                    "probability": 0.966851532459259
+                },
+                {
+                    "word": " you",
+                    "start": 31.96,
+                    "end": 32.26,
+                    "probability": 0.996896505355835
+                },
+                {
+                    "word": " or",
+                    "start": 32.26,
+                    "end": 33.32,
+                    "probability": 0.5251344442367554
+                },
+                {
+                    "word": " don't",
+                    "start": 33.32,
+                    "end": 34.02,
+                    "probability": 0.8824812769889832
+                },
+                {
+                    "word": " you",
+                    "start": 34.02,
+                    "end": 34.12,
+                    "probability": 0.9866541028022766
+                },
+                {
+                    "word": " have",
+                    "start": 34.12,
+                    "end": 34.32,
+                    "probability": 0.9968968629837036
+                },
+                {
+                    "word": " time",
+                    "start": 34.32,
+                    "end": 34.48,
+                    "probability": 0.9889535903930664
+                },
+                {
+                    "word": " for",
+                    "start": 34.48,
+                    "end": 34.62,
+                    "probability": 0.9897283315658569
+                },
+                {
+                    "word": " this?",
+                    "start": 34.62,
+                    "end": 34.74,
+                    "probability": 0.9536111354827881
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

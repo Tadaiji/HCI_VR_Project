@@ -1,0 +1,73 @@
+{
+    "text": " or do we need something else though?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.76,
+            "end": 2.24,
+            "text": " or do we need something else though?",
+            "tokens": [
+                50364,
+                420,
+                360,
+                321,
+                643,
+                746,
+                1646,
+                1673,
+                30,
+                50476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.601512692191384,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.4086727201938629,
+            "words": [
+                {
+                    "word": " or",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.17413556575775146
+                },
+                {
+                    "word": " do",
+                    "start": 1.14,
+                    "end": 1.34,
+                    "probability": 0.9110274910926819
+                },
+                {
+                    "word": " we",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.9891267418861389
+                },
+                {
+                    "word": " need",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.9953225255012512
+                },
+                {
+                    "word": " something",
+                    "start": 1.66,
+                    "end": 1.96,
+                    "probability": 0.8414891362190247
+                },
+                {
+                    "word": " else",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.4137111008167267
+                },
+                {
+                    "word": " though?",
+                    "start": 2.16,
+                    "end": 2.24,
+                    "probability": 0.5516778230667114
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

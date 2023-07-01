@@ -1,0 +1,400 @@
+{
+    "text": " bad idea. Yeah it's a good idea but where do we want to have him set up because we don't have that much space in here and if there are people in here and then a clown I don't know if there's so much room. But yeah but.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.82,
+            "text": " bad idea. Yeah it's a good idea but where do we want to have him set up because we don't have that",
+            "tokens": [
+                50364,
+                1578,
+                1558,
+                13,
+                865,
+                309,
+                311,
+                257,
+                665,
+                1558,
+                457,
+                689,
+                360,
+                321,
+                528,
+                281,
+                362,
+                796,
+                992,
+                493,
+                570,
+                321,
+                500,
+                380,
+                362,
+                300,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2382015259035172,
+            "compression_ratio": 1.5034482758620689,
+            "no_speech_prob": 0.19867748022079468,
+            "words": [
+                {
+                    "word": " bad",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.12147162854671478
+                },
+                {
+                    "word": " idea.",
+                    "start": 0.36,
+                    "end": 0.7,
+                    "probability": 0.9909602999687195
+                },
+                {
+                    "word": " Yeah",
+                    "start": 1.14,
+                    "end": 1.14,
+                    "probability": 0.4358707070350647
+                },
+                {
+                    "word": " it's",
+                    "start": 1.14,
+                    "end": 1.68,
+                    "probability": 0.7209208607673645
+                },
+                {
+                    "word": " a",
+                    "start": 1.68,
+                    "end": 1.68,
+                    "probability": 0.9131438732147217
+                },
+                {
+                    "word": " good",
+                    "start": 1.68,
+                    "end": 1.86,
+                    "probability": 0.9916198253631592
+                },
+                {
+                    "word": " idea",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.9964834451675415
+                },
+                {
+                    "word": " but",
+                    "start": 2.14,
+                    "end": 2.56,
+                    "probability": 0.6131566762924194
+                },
+                {
+                    "word": " where",
+                    "start": 2.56,
+                    "end": 3.18,
+                    "probability": 0.9393099546432495
+                },
+                {
+                    "word": " do",
+                    "start": 3.18,
+                    "end": 3.4,
+                    "probability": 0.9771450161933899
+                },
+                {
+                    "word": " we",
+                    "start": 3.4,
+                    "end": 3.6,
+                    "probability": 0.9971857666969299
+                },
+                {
+                    "word": " want",
+                    "start": 3.6,
+                    "end": 3.86,
+                    "probability": 0.996758759021759
+                },
+                {
+                    "word": " to",
+                    "start": 3.86,
+                    "end": 4.86,
+                    "probability": 0.9926213026046753
+                },
+                {
+                    "word": " have",
+                    "start": 4.86,
+                    "end": 4.98,
+                    "probability": 0.9864518642425537
+                },
+                {
+                    "word": " him",
+                    "start": 4.98,
+                    "end": 5.2,
+                    "probability": 0.8158746957778931
+                },
+                {
+                    "word": " set",
+                    "start": 5.2,
+                    "end": 5.42,
+                    "probability": 0.9338102340698242
+                },
+                {
+                    "word": " up",
+                    "start": 5.42,
+                    "end": 5.58,
+                    "probability": 0.9960445165634155
+                },
+                {
+                    "word": " because",
+                    "start": 5.58,
+                    "end": 5.92,
+                    "probability": 0.7767003178596497
+                },
+                {
+                    "word": " we",
+                    "start": 5.92,
+                    "end": 6.12,
+                    "probability": 0.9967340230941772
+                },
+                {
+                    "word": " don't",
+                    "start": 6.12,
+                    "end": 6.34,
+                    "probability": 0.9952298700809479
+                },
+                {
+                    "word": " have",
+                    "start": 6.34,
+                    "end": 6.52,
+                    "probability": 0.9989385008811951
+                },
+                {
+                    "word": " that",
+                    "start": 6.52,
+                    "end": 6.82,
+                    "probability": 0.9963546991348267
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.82,
+            "end": 13.8,
+            "text": " much space in here and if there are people in here and then a clown I don't know if there's so much",
+            "tokens": [
+                50692,
+                709,
+                1901,
+                294,
+                510,
+                293,
+                498,
+                456,
+                366,
+                561,
+                294,
+                510,
+                293,
+                550,
+                257,
+                22209,
+                286,
+                500,
+                380,
+                458,
+                498,
+                456,
+                311,
+                370,
+                709,
+                51044
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2382015259035172,
+            "compression_ratio": 1.5034482758620689,
+            "no_speech_prob": 0.19867748022079468,
+            "words": [
+                {
+                    "word": " much",
+                    "start": 6.82,
+                    "end": 7.02,
+                    "probability": 0.9989365935325623
+                },
+                {
+                    "word": " space",
+                    "start": 7.02,
+                    "end": 7.34,
+                    "probability": 0.994619607925415
+                },
+                {
+                    "word": " in",
+                    "start": 7.34,
+                    "end": 7.62,
+                    "probability": 0.9750049114227295
+                },
+                {
+                    "word": " here",
+                    "start": 7.62,
+                    "end": 7.76,
+                    "probability": 0.9957002401351929
+                },
+                {
+                    "word": " and",
+                    "start": 7.76,
+                    "end": 8.22,
+                    "probability": 0.8304970860481262
+                },
+                {
+                    "word": " if",
+                    "start": 8.22,
+                    "end": 8.52,
+                    "probability": 0.9756119251251221
+                },
+                {
+                    "word": " there",
+                    "start": 8.52,
+                    "end": 8.7,
+                    "probability": 0.9785560369491577
+                },
+                {
+                    "word": " are",
+                    "start": 8.7,
+                    "end": 8.86,
+                    "probability": 0.9986771941184998
+                },
+                {
+                    "word": " people",
+                    "start": 8.86,
+                    "end": 9.3,
+                    "probability": 0.9979814291000366
+                },
+                {
+                    "word": " in",
+                    "start": 9.3,
+                    "end": 9.72,
+                    "probability": 0.9940348267555237
+                },
+                {
+                    "word": " here",
+                    "start": 9.72,
+                    "end": 10.14,
+                    "probability": 0.9961417317390442
+                },
+                {
+                    "word": " and",
+                    "start": 10.14,
+                    "end": 10.88,
+                    "probability": 0.9421816468238831
+                },
+                {
+                    "word": " then",
+                    "start": 10.88,
+                    "end": 11.08,
+                    "probability": 0.9920810461044312
+                },
+                {
+                    "word": " a",
+                    "start": 11.08,
+                    "end": 11.28,
+                    "probability": 0.9143613576889038
+                },
+                {
+                    "word": " clown",
+                    "start": 11.28,
+                    "end": 11.5,
+                    "probability": 0.9883434772491455
+                },
+                {
+                    "word": " I",
+                    "start": 11.5,
+                    "end": 11.8,
+                    "probability": 0.5980367064476013
+                },
+                {
+                    "word": " don't",
+                    "start": 11.8,
+                    "end": 12.16,
+                    "probability": 0.9885206818580627
+                },
+                {
+                    "word": " know",
+                    "start": 12.16,
+                    "end": 12.48,
+                    "probability": 0.8223315477371216
+                },
+                {
+                    "word": " if",
+                    "start": 12.48,
+                    "end": 13.04,
+                    "probability": 0.9656306505203247
+                },
+                {
+                    "word": " there's",
+                    "start": 13.04,
+                    "end": 13.44,
+                    "probability": 0.9403170049190521
+                },
+                {
+                    "word": " so",
+                    "start": 13.44,
+                    "end": 13.6,
+                    "probability": 0.9917969703674316
+                },
+                {
+                    "word": " much",
+                    "start": 13.6,
+                    "end": 13.8,
+                    "probability": 0.9994953870773315
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.8,
+            "end": 16.42,
+            "text": " room. But yeah but.",
+            "tokens": [
+                51044,
+                1808,
+                13,
+                583,
+                1338,
+                457,
+                13,
+                51180
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2382015259035172,
+            "compression_ratio": 1.5034482758620689,
+            "no_speech_prob": 0.19867748022079468,
+            "words": [
+                {
+                    "word": " room.",
+                    "start": 13.8,
+                    "end": 14.28,
+                    "probability": 0.9983987212181091
+                },
+                {
+                    "word": " But",
+                    "start": 15.6,
+                    "end": 15.66,
+                    "probability": 0.4895968735218048
+                },
+                {
+                    "word": " yeah",
+                    "start": 15.66,
+                    "end": 16.06,
+                    "probability": 0.5596404671669006
+                },
+                {
+                    "word": " but.",
+                    "start": 16.06,
+                    "end": 16.42,
+                    "probability": 0.5953807234764099
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,393 @@
+{
+    "text": " Yes of course, she does everything with the small and the big and the medium sized paintings and she's really good with this fine art stuff so we can have a walk in the evening and we can visit her gallery. That would be interesting.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.76,
+            "text": " Yes of course, she does everything with the small and the big and the medium sized paintings",
+            "tokens": [
+                50364,
+                1079,
+                295,
+                1164,
+                11,
+                750,
+                775,
+                1203,
+                365,
+                264,
+                1359,
+                293,
+                264,
+                955,
+                293,
+                264,
+                6399,
+                20004,
+                14880,
+                50653
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32924099626212283,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.007543015293776989,
+            "words": [
+                {
+                    "word": " Yes",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.744763195514679
+                },
+                {
+                    "word": " of",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.48576879501342773
+                },
+                {
+                    "word": " course,",
+                    "start": 0.54,
+                    "end": 0.78,
+                    "probability": 0.9670642018318176
+                },
+                {
+                    "word": " she",
+                    "start": 1.0,
+                    "end": 1.02,
+                    "probability": 0.919619083404541
+                },
+                {
+                    "word": " does",
+                    "start": 1.02,
+                    "end": 1.54,
+                    "probability": 0.5162011981010437
+                },
+                {
+                    "word": " everything",
+                    "start": 1.54,
+                    "end": 2.2,
+                    "probability": 0.8949567079544067
+                },
+                {
+                    "word": " with",
+                    "start": 2.2,
+                    "end": 2.96,
+                    "probability": 0.6567635536193848
+                },
+                {
+                    "word": " the",
+                    "start": 2.96,
+                    "end": 3.2,
+                    "probability": 0.5119002461433411
+                },
+                {
+                    "word": " small",
+                    "start": 3.2,
+                    "end": 3.54,
+                    "probability": 0.9546001553535461
+                },
+                {
+                    "word": " and",
+                    "start": 3.54,
+                    "end": 3.84,
+                    "probability": 0.6652935147285461
+                },
+                {
+                    "word": " the",
+                    "start": 3.84,
+                    "end": 4.0,
+                    "probability": 0.9094842672348022
+                },
+                {
+                    "word": " big",
+                    "start": 4.0,
+                    "end": 4.22,
+                    "probability": 0.9569525718688965
+                },
+                {
+                    "word": " and",
+                    "start": 4.22,
+                    "end": 4.42,
+                    "probability": 0.9125809073448181
+                },
+                {
+                    "word": " the",
+                    "start": 4.42,
+                    "end": 4.66,
+                    "probability": 0.8906830549240112
+                },
+                {
+                    "word": " medium",
+                    "start": 4.66,
+                    "end": 4.92,
+                    "probability": 0.9946764707565308
+                },
+                {
+                    "word": " sized",
+                    "start": 4.92,
+                    "end": 5.26,
+                    "probability": 0.49551159143447876
+                },
+                {
+                    "word": " paintings",
+                    "start": 5.26,
+                    "end": 5.76,
+                    "probability": 0.9028812050819397
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.76,
+            "end": 12.42,
+            "text": " and she's really good with this fine art stuff so we can have a walk in the evening and we",
+            "tokens": [
+                50653,
+                293,
+                750,
+                311,
+                534,
+                665,
+                365,
+                341,
+                2489,
+                1523,
+                1507,
+                370,
+                321,
+                393,
+                362,
+                257,
+                1792,
+                294,
+                264,
+                5634,
+                293,
+                321,
+                50978
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32924099626212283,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.007543015293776989,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 5.76,
+                    "end": 6.04,
+                    "probability": 0.7052010893821716
+                },
+                {
+                    "word": " she's",
+                    "start": 6.04,
+                    "end": 6.38,
+                    "probability": 0.7623080611228943
+                },
+                {
+                    "word": " really",
+                    "start": 6.38,
+                    "end": 6.64,
+                    "probability": 0.9860891103744507
+                },
+                {
+                    "word": " good",
+                    "start": 6.64,
+                    "end": 6.92,
+                    "probability": 0.9977648258209229
+                },
+                {
+                    "word": " with",
+                    "start": 6.92,
+                    "end": 7.7,
+                    "probability": 0.9506092667579651
+                },
+                {
+                    "word": " this",
+                    "start": 7.7,
+                    "end": 8.06,
+                    "probability": 0.7722495198249817
+                },
+                {
+                    "word": " fine",
+                    "start": 8.06,
+                    "end": 8.28,
+                    "probability": 0.9787359833717346
+                },
+                {
+                    "word": " art",
+                    "start": 8.28,
+                    "end": 8.58,
+                    "probability": 0.8907443284988403
+                },
+                {
+                    "word": " stuff",
+                    "start": 8.58,
+                    "end": 8.96,
+                    "probability": 0.9521143436431885
+                },
+                {
+                    "word": " so",
+                    "start": 8.96,
+                    "end": 9.3,
+                    "probability": 0.5277923941612244
+                },
+                {
+                    "word": " we",
+                    "start": 9.3,
+                    "end": 9.56,
+                    "probability": 0.9779199361801147
+                },
+                {
+                    "word": " can",
+                    "start": 9.56,
+                    "end": 10.12,
+                    "probability": 0.9914547204971313
+                },
+                {
+                    "word": " have",
+                    "start": 10.12,
+                    "end": 10.4,
+                    "probability": 0.9806725382804871
+                },
+                {
+                    "word": " a",
+                    "start": 10.4,
+                    "end": 10.78,
+                    "probability": 0.905584454536438
+                },
+                {
+                    "word": " walk",
+                    "start": 10.78,
+                    "end": 11.08,
+                    "probability": 0.9904381632804871
+                },
+                {
+                    "word": " in",
+                    "start": 11.08,
+                    "end": 11.5,
+                    "probability": 0.9778918027877808
+                },
+                {
+                    "word": " the",
+                    "start": 11.5,
+                    "end": 11.66,
+                    "probability": 0.9967361092567444
+                },
+                {
+                    "word": " evening",
+                    "start": 11.66,
+                    "end": 11.96,
+                    "probability": 0.9922296404838562
+                },
+                {
+                    "word": " and",
+                    "start": 11.96,
+                    "end": 12.3,
+                    "probability": 0.9726982712745667
+                },
+                {
+                    "word": " we",
+                    "start": 12.3,
+                    "end": 12.42,
+                    "probability": 0.936694324016571
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.42,
+            "end": 13.74,
+            "text": " can visit her gallery.",
+            "tokens": [
+                50978,
+                393,
+                3441,
+                720,
+                18378,
+                13,
+                51048
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32924099626212283,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.007543015293776989,
+            "words": [
+                {
+                    "word": " can",
+                    "start": 12.42,
+                    "end": 12.72,
+                    "probability": 0.9969903230667114
+                },
+                {
+                    "word": " visit",
+                    "start": 12.72,
+                    "end": 13.02,
+                    "probability": 0.9972330927848816
+                },
+                {
+                    "word": " her",
+                    "start": 13.02,
+                    "end": 13.26,
+                    "probability": 0.9911066889762878
+                },
+                {
+                    "word": " gallery.",
+                    "start": 13.26,
+                    "end": 13.74,
+                    "probability": 0.976691722869873
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.12,
+            "end": 15.34,
+            "text": " That would be interesting.",
+            "tokens": [
+                51048,
+                663,
+                576,
+                312,
+                1880,
+                13,
+                51162
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32924099626212283,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.007543015293776989,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 14.12,
+                    "end": 14.42,
+                    "probability": 0.44348058104515076
+                },
+                {
+                    "word": " would",
+                    "start": 14.42,
+                    "end": 14.64,
+                    "probability": 0.9745420813560486
+                },
+                {
+                    "word": " be",
+                    "start": 14.64,
+                    "end": 14.88,
+                    "probability": 0.9980334639549255
+                },
+                {
+                    "word": " interesting.",
+                    "start": 14.88,
+                    "end": 15.34,
+                    "probability": 0.9914427399635315
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

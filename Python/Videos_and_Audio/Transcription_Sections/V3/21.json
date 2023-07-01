@@ -1,0 +1,94 @@
+{
+    "text": " Before that I want to move this table as well.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.32,
+            "end": 4.44,
+            "text": " Before that I want to move this table as well.",
+            "tokens": [
+                50364,
+                4546,
+                300,
+                286,
+                528,
+                281,
+                1286,
+                341,
+                3199,
+                382,
+                731,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.39679230962480816,
+            "compression_ratio": 0.8846153846153846,
+            "no_speech_prob": 0.2375948578119278,
+            "words": [
+                {
+                    "word": " Before",
+                    "start": 0.32,
+                    "end": 0.88,
+                    "probability": 0.4303019344806671
+                },
+                {
+                    "word": " that",
+                    "start": 0.88,
+                    "end": 1.16,
+                    "probability": 0.9877695441246033
+                },
+                {
+                    "word": " I",
+                    "start": 1.16,
+                    "end": 1.44,
+                    "probability": 0.5301406383514404
+                },
+                {
+                    "word": " want",
+                    "start": 1.44,
+                    "end": 1.68,
+                    "probability": 0.9910332560539246
+                },
+                {
+                    "word": " to",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.9957543611526489
+                },
+                {
+                    "word": " move",
+                    "start": 2.0,
+                    "end": 2.22,
+                    "probability": 0.9876246452331543
+                },
+                {
+                    "word": " this",
+                    "start": 2.22,
+                    "end": 2.56,
+                    "probability": 0.9868617653846741
+                },
+                {
+                    "word": " table",
+                    "start": 2.56,
+                    "end": 2.92,
+                    "probability": 0.9907500147819519
+                },
+                {
+                    "word": " as",
+                    "start": 2.92,
+                    "end": 4.28,
+                    "probability": 0.9183629155158997
+                },
+                {
+                    "word": " well.",
+                    "start": 4.28,
+                    "end": 4.44,
+                    "probability": 0.9930782914161682
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

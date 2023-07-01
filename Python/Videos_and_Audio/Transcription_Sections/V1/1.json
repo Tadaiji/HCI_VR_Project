@@ -1,0 +1,754 @@
+{
+    "text": " Yeah, even here the pub is nearby and even on the weekends it's too loud and seems sounds crazy sometimes, especially when the football matches. And my girlfriend on weekends we try to relax a little bit when we are not going out, so I'm also thinking of moving out. And yesterday we went out for a walk, we just met our old neighbor and she said yeah there's a new area here and the apartments are really nice, they are really cozy, comfortable and it's really cool.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 7.04,
+            "text": " Yeah, even here the pub is nearby and even on the weekends it's too loud and seems sounds",
+            "tokens": [
+                50364,
+                865,
+                11,
+                754,
+                510,
+                264,
+                1535,
+                307,
+                11184,
+                293,
+                754,
+                322,
+                264,
+                23595,
+                309,
+                311,
+                886,
+                6588,
+                293,
+                2544,
+                3263,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26114620632595487,
+            "compression_ratio": 1.5676855895196506,
+            "no_speech_prob": 0.1763012409210205,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.16,
+                    "end": 0.76,
+                    "probability": 0.5667195320129395
+                },
+                {
+                    "word": " even",
+                    "start": 0.88,
+                    "end": 1.42,
+                    "probability": 0.9752492308616638
+                },
+                {
+                    "word": " here",
+                    "start": 1.42,
+                    "end": 1.88,
+                    "probability": 0.9746342897415161
+                },
+                {
+                    "word": " the",
+                    "start": 1.88,
+                    "end": 2.38,
+                    "probability": 0.8745279908180237
+                },
+                {
+                    "word": " pub",
+                    "start": 2.38,
+                    "end": 2.64,
+                    "probability": 0.9628865718841553
+                },
+                {
+                    "word": " is",
+                    "start": 2.64,
+                    "end": 3.0,
+                    "probability": 0.9887101054191589
+                },
+                {
+                    "word": " nearby",
+                    "start": 3.0,
+                    "end": 3.44,
+                    "probability": 0.988497257232666
+                },
+                {
+                    "word": " and",
+                    "start": 3.44,
+                    "end": 3.96,
+                    "probability": 0.8733107447624207
+                },
+                {
+                    "word": " even",
+                    "start": 3.96,
+                    "end": 4.22,
+                    "probability": 0.6091170907020569
+                },
+                {
+                    "word": " on",
+                    "start": 4.22,
+                    "end": 4.46,
+                    "probability": 0.5107770562171936
+                },
+                {
+                    "word": " the",
+                    "start": 4.46,
+                    "end": 4.46,
+                    "probability": 0.8873759508132935
+                },
+                {
+                    "word": " weekends",
+                    "start": 4.46,
+                    "end": 4.84,
+                    "probability": 0.911232054233551
+                },
+                {
+                    "word": " it's",
+                    "start": 4.84,
+                    "end": 5.3,
+                    "probability": 0.7396989464759827
+                },
+                {
+                    "word": " too",
+                    "start": 5.3,
+                    "end": 5.62,
+                    "probability": 0.9961085915565491
+                },
+                {
+                    "word": " loud",
+                    "start": 5.62,
+                    "end": 5.9,
+                    "probability": 0.9966028928756714
+                },
+                {
+                    "word": " and",
+                    "start": 5.9,
+                    "end": 6.32,
+                    "probability": 0.9457600712776184
+                },
+                {
+                    "word": " seems",
+                    "start": 6.32,
+                    "end": 6.68,
+                    "probability": 0.6837590336799622
+                },
+                {
+                    "word": " sounds",
+                    "start": 6.68,
+                    "end": 7.04,
+                    "probability": 0.5583088397979736
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.04,
+            "end": 10.34,
+            "text": " crazy sometimes, especially when the football matches.",
+            "tokens": [
+                50708,
+                3219,
+                2171,
+                11,
+                2318,
+                562,
+                264,
+                7346,
+                10676,
+                13,
+                50940
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26114620632595487,
+            "compression_ratio": 1.5676855895196506,
+            "no_speech_prob": 0.1763012409210205,
+            "words": [
+                {
+                    "word": " crazy",
+                    "start": 7.04,
+                    "end": 7.44,
+                    "probability": 0.5727910995483398
+                },
+                {
+                    "word": " sometimes,",
+                    "start": 7.44,
+                    "end": 8.32,
+                    "probability": 0.6865105628967285
+                },
+                {
+                    "word": " especially",
+                    "start": 8.44,
+                    "end": 8.94,
+                    "probability": 0.9916154742240906
+                },
+                {
+                    "word": " when",
+                    "start": 8.94,
+                    "end": 9.28,
+                    "probability": 0.44459426403045654
+                },
+                {
+                    "word": " the",
+                    "start": 9.28,
+                    "end": 9.5,
+                    "probability": 0.9756684303283691
+                },
+                {
+                    "word": " football",
+                    "start": 9.5,
+                    "end": 9.82,
+                    "probability": 0.9546632766723633
+                },
+                {
+                    "word": " matches.",
+                    "start": 9.82,
+                    "end": 10.34,
+                    "probability": 0.8988682627677917
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.44,
+            "end": 16.26,
+            "text": " And my girlfriend on weekends we try to relax a little bit when we are not going out, so",
+            "tokens": [
+                50940,
+                400,
+                452,
+                10369,
+                322,
+                23595,
+                321,
+                853,
+                281,
+                5789,
+                257,
+                707,
+                857,
+                562,
+                321,
+                366,
+                406,
+                516,
+                484,
+                11,
+                370,
+                51170
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26114620632595487,
+            "compression_ratio": 1.5676855895196506,
+            "no_speech_prob": 0.1763012409210205,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 11.44,
+                    "end": 11.82,
+                    "probability": 0.64594566822052
+                },
+                {
+                    "word": " my",
+                    "start": 11.82,
+                    "end": 11.98,
+                    "probability": 0.9163155555725098
+                },
+                {
+                    "word": " girlfriend",
+                    "start": 11.98,
+                    "end": 12.42,
+                    "probability": 0.987109899520874
+                },
+                {
+                    "word": " on",
+                    "start": 12.42,
+                    "end": 12.8,
+                    "probability": 0.7703271508216858
+                },
+                {
+                    "word": " weekends",
+                    "start": 12.8,
+                    "end": 13.24,
+                    "probability": 0.9775975346565247
+                },
+                {
+                    "word": " we",
+                    "start": 13.24,
+                    "end": 13.54,
+                    "probability": 0.464973121881485
+                },
+                {
+                    "word": " try",
+                    "start": 13.54,
+                    "end": 13.76,
+                    "probability": 0.8927859663963318
+                },
+                {
+                    "word": " to",
+                    "start": 13.76,
+                    "end": 14.14,
+                    "probability": 0.998805046081543
+                },
+                {
+                    "word": " relax",
+                    "start": 14.14,
+                    "end": 14.4,
+                    "probability": 0.9963537454605103
+                },
+                {
+                    "word": " a",
+                    "start": 14.4,
+                    "end": 14.58,
+                    "probability": 0.9967880249023438
+                },
+                {
+                    "word": " little",
+                    "start": 14.58,
+                    "end": 14.84,
+                    "probability": 0.9980694651603699
+                },
+                {
+                    "word": " bit",
+                    "start": 14.84,
+                    "end": 15.02,
+                    "probability": 0.9934397339820862
+                },
+                {
+                    "word": " when",
+                    "start": 15.02,
+                    "end": 15.2,
+                    "probability": 0.9359167814254761
+                },
+                {
+                    "word": " we",
+                    "start": 15.2,
+                    "end": 15.38,
+                    "probability": 0.9859274625778198
+                },
+                {
+                    "word": " are",
+                    "start": 15.38,
+                    "end": 15.48,
+                    "probability": 0.8758981823921204
+                },
+                {
+                    "word": " not",
+                    "start": 15.48,
+                    "end": 15.66,
+                    "probability": 0.9980632662773132
+                },
+                {
+                    "word": " going",
+                    "start": 15.66,
+                    "end": 15.84,
+                    "probability": 0.9980884194374084
+                },
+                {
+                    "word": " out,",
+                    "start": 15.84,
+                    "end": 16.1,
+                    "probability": 0.8770765066146851
+                },
+                {
+                    "word": " so",
+                    "start": 16.1,
+                    "end": 16.26,
+                    "probability": 0.9728988409042358
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.26,
+            "end": 17.9,
+            "text": " I'm also thinking of moving out.",
+            "tokens": [
+                51170,
+                286,
+                478,
+                611,
+                1953,
+                295,
+                2684,
+                484,
+                13,
+                51262
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26114620632595487,
+            "compression_ratio": 1.5676855895196506,
+            "no_speech_prob": 0.1763012409210205,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 16.26,
+                    "end": 16.62,
+                    "probability": 0.9456986486911774
+                },
+                {
+                    "word": " also",
+                    "start": 16.62,
+                    "end": 16.94,
+                    "probability": 0.991042971611023
+                },
+                {
+                    "word": " thinking",
+                    "start": 16.94,
+                    "end": 17.24,
+                    "probability": 0.9962282180786133
+                },
+                {
+                    "word": " of",
+                    "start": 17.24,
+                    "end": 17.48,
+                    "probability": 0.9718762636184692
+                },
+                {
+                    "word": " moving",
+                    "start": 17.48,
+                    "end": 17.7,
+                    "probability": 0.9899058938026428
+                },
+                {
+                    "word": " out.",
+                    "start": 17.7,
+                    "end": 17.9,
+                    "probability": 0.9943391680717468
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 17.96,
+            "end": 23.78,
+            "text": " And yesterday we went out for a walk, we just met our old neighbor and she said yeah there's",
+            "tokens": [
+                51262,
+                400,
+                5186,
+                321,
+                1437,
+                484,
+                337,
+                257,
+                1792,
+                11,
+                321,
+                445,
+                1131,
+                527,
+                1331,
+                5987,
+                293,
+                750,
+                848,
+                1338,
+                456,
+                311,
+                51546
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.26114620632595487,
+            "compression_ratio": 1.5676855895196506,
+            "no_speech_prob": 0.1763012409210205,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 17.96,
+                    "end": 18.08,
+                    "probability": 0.9316821694374084
+                },
+                {
+                    "word": " yesterday",
+                    "start": 18.08,
+                    "end": 18.36,
+                    "probability": 0.9959940910339355
+                },
+                {
+                    "word": " we",
+                    "start": 18.36,
+                    "end": 18.58,
+                    "probability": 0.9526348114013672
+                },
+                {
+                    "word": " went",
+                    "start": 18.58,
+                    "end": 18.82,
+                    "probability": 0.9871625304222107
+                },
+                {
+                    "word": " out",
+                    "start": 18.82,
+                    "end": 19.16,
+                    "probability": 0.9840518236160278
+                },
+                {
+                    "word": " for",
+                    "start": 19.16,
+                    "end": 19.48,
+                    "probability": 0.9980382323265076
+                },
+                {
+                    "word": " a",
+                    "start": 19.48,
+                    "end": 19.58,
+                    "probability": 0.994761049747467
+                },
+                {
+                    "word": " walk,",
+                    "start": 19.58,
+                    "end": 19.78,
+                    "probability": 0.9993483424186707
+                },
+                {
+                    "word": " we",
+                    "start": 20.44,
+                    "end": 20.58,
+                    "probability": 0.9770607948303223
+                },
+                {
+                    "word": " just",
+                    "start": 20.58,
+                    "end": 21.0,
+                    "probability": 0.9915249943733215
+                },
+                {
+                    "word": " met",
+                    "start": 21.0,
+                    "end": 21.28,
+                    "probability": 0.9960379600524902
+                },
+                {
+                    "word": " our",
+                    "start": 21.28,
+                    "end": 21.7,
+                    "probability": 0.993514895439148
+                },
+                {
+                    "word": " old",
+                    "start": 21.7,
+                    "end": 22.04,
+                    "probability": 0.9979215264320374
+                },
+                {
+                    "word": " neighbor",
+                    "start": 22.04,
+                    "end": 22.4,
+                    "probability": 0.8383566737174988
+                },
+                {
+                    "word": " and",
+                    "start": 22.4,
+                    "end": 22.78,
+                    "probability": 0.6459552049636841
+                },
+                {
+                    "word": " she",
+                    "start": 22.78,
+                    "end": 22.98,
+                    "probability": 0.9927011728286743
+                },
+                {
+                    "word": " said",
+                    "start": 22.98,
+                    "end": 23.16,
+                    "probability": 0.9953731894493103
+                },
+                {
+                    "word": " yeah",
+                    "start": 23.16,
+                    "end": 23.46,
+                    "probability": 0.33362969756126404
+                },
+                {
+                    "word": " there's",
+                    "start": 23.46,
+                    "end": 23.78,
+                    "probability": 0.6869703531265259
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2378,
+            "start": 24.22,
+            "end": 30.9,
+            "text": " a new area here and the apartments are really nice, they are really cozy, comfortable and",
+            "tokens": [
+                50364,
+                257,
+                777,
+                1859,
+                510,
+                293,
+                264,
+                29056,
+                366,
+                534,
+                1481,
+                11,
+                436,
+                366,
+                534,
+                29414,
+                11,
+                4619,
+                293,
+                50718
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36239371980939594,
+            "compression_ratio": 1.2738095238095237,
+            "no_speech_prob": 0.8811615109443665,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 24.22,
+                    "end": 24.82,
+                    "probability": 0.06985481083393097
+                },
+                {
+                    "word": " new",
+                    "start": 24.82,
+                    "end": 24.52,
+                    "probability": 0.9802789688110352
+                },
+                {
+                    "word": " area",
+                    "start": 24.52,
+                    "end": 25.42,
+                    "probability": 0.9937856197357178
+                },
+                {
+                    "word": " here",
+                    "start": 25.42,
+                    "end": 26.1,
+                    "probability": 0.9599338173866272
+                },
+                {
+                    "word": " and",
+                    "start": 26.1,
+                    "end": 26.7,
+                    "probability": 0.6948005557060242
+                },
+                {
+                    "word": " the",
+                    "start": 26.7,
+                    "end": 26.86,
+                    "probability": 0.6956830024719238
+                },
+                {
+                    "word": " apartments",
+                    "start": 26.86,
+                    "end": 27.16,
+                    "probability": 0.9787843823432922
+                },
+                {
+                    "word": " are",
+                    "start": 27.16,
+                    "end": 27.42,
+                    "probability": 0.9960611462593079
+                },
+                {
+                    "word": " really",
+                    "start": 27.42,
+                    "end": 27.7,
+                    "probability": 0.9944959282875061
+                },
+                {
+                    "word": " nice,",
+                    "start": 27.7,
+                    "end": 28.12,
+                    "probability": 0.9979860782623291
+                },
+                {
+                    "word": " they",
+                    "start": 28.4,
+                    "end": 28.4,
+                    "probability": 0.9488146901130676
+                },
+                {
+                    "word": " are",
+                    "start": 28.4,
+                    "end": 28.58,
+                    "probability": 0.5287342071533203
+                },
+                {
+                    "word": " really",
+                    "start": 28.58,
+                    "end": 28.9,
+                    "probability": 0.955527663230896
+                },
+                {
+                    "word": " cozy,",
+                    "start": 28.9,
+                    "end": 29.26,
+                    "probability": 0.8885716795921326
+                },
+                {
+                    "word": " comfortable",
+                    "start": 29.56,
+                    "end": 30.06,
+                    "probability": 0.9913542866706848
+                },
+                {
+                    "word": " and",
+                    "start": 30.06,
+                    "end": 30.9,
+                    "probability": 0.38785845041275024
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2378,
+            "start": 30.9,
+            "end": 31.42,
+            "text": " it's really cool.",
+            "tokens": [
+                50718,
+                309,
+                311,
+                534,
+                1627,
+                13,
+                50752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36239371980939594,
+            "compression_ratio": 1.2738095238095237,
+            "no_speech_prob": 0.8811615109443665,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 30.9,
+                    "end": 31.06,
+                    "probability": 0.9737850725650787
+                },
+                {
+                    "word": " really",
+                    "start": 31.06,
+                    "end": 31.24,
+                    "probability": 0.9980916380882263
+                },
+                {
+                    "word": " cool.",
+                    "start": 31.24,
+                    "end": 31.42,
+                    "probability": 0.998807430267334
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

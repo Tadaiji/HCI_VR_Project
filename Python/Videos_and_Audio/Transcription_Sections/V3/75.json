@@ -1,0 +1,139 @@
+{
+    "text": " Yeah, I think we step by step we will make it work, shouldn't be that hard.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.22,
+            "end": 5.26,
+            "text": " Yeah, I think we step by step we will make it work, shouldn't be that hard.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                321,
+                1823,
+                538,
+                1823,
+                321,
+                486,
+                652,
+                309,
+                589,
+                11,
+                4659,
+                380,
+                312,
+                300,
+                1152,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36157172659169073,
+            "compression_ratio": 0.9868421052631579,
+            "no_speech_prob": 0.3805527687072754,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.22,
+                    "end": 0.72,
+                    "probability": 0.4298529028892517
+                },
+                {
+                    "word": " I",
+                    "start": 1.18,
+                    "end": 1.18,
+                    "probability": 0.9584208130836487
+                },
+                {
+                    "word": " think",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.9701212048530579
+                },
+                {
+                    "word": " we",
+                    "start": 1.58,
+                    "end": 1.82,
+                    "probability": 0.40798965096473694
+                },
+                {
+                    "word": " step",
+                    "start": 1.82,
+                    "end": 1.9,
+                    "probability": 0.583538293838501
+                },
+                {
+                    "word": " by",
+                    "start": 1.9,
+                    "end": 2.14,
+                    "probability": 0.7653312087059021
+                },
+                {
+                    "word": " step",
+                    "start": 2.14,
+                    "end": 2.4,
+                    "probability": 0.9991937279701233
+                },
+                {
+                    "word": " we",
+                    "start": 2.4,
+                    "end": 2.7,
+                    "probability": 0.5344734191894531
+                },
+                {
+                    "word": " will",
+                    "start": 2.7,
+                    "end": 3.46,
+                    "probability": 0.8403496742248535
+                },
+                {
+                    "word": " make",
+                    "start": 3.46,
+                    "end": 3.64,
+                    "probability": 0.9716183543205261
+                },
+                {
+                    "word": " it",
+                    "start": 3.64,
+                    "end": 3.96,
+                    "probability": 0.995846688747406
+                },
+                {
+                    "word": " work,",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.9817896485328674
+                },
+                {
+                    "word": " shouldn't",
+                    "start": 4.22,
+                    "end": 4.56,
+                    "probability": 0.7927210628986359
+                },
+                {
+                    "word": " be",
+                    "start": 4.56,
+                    "end": 4.78,
+                    "probability": 0.9678072929382324
+                },
+                {
+                    "word": " that",
+                    "start": 4.78,
+                    "end": 5.1,
+                    "probability": 0.9806370735168457
+                },
+                {
+                    "word": " hard.",
+                    "start": 5.1,
+                    "end": 5.26,
+                    "probability": 0.9744163155555725
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

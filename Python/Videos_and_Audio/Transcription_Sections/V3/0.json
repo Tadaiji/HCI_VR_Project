@@ -1,0 +1,313 @@
+{
+    "text": " Yes. Yeah. Robert and Thomas, I'm glad we're meeting today because Robert's, your birthday is approaching, the end of the month is approaching. I just wanted to ask you about your plans for your... Yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 9.76,
+            "text": " Yes. Yeah. Robert and Thomas, I'm glad we're meeting today because Robert's, your birthday",
+            "tokens": [
+                50364,
+                1079,
+                13,
+                865,
+                13,
+                7977,
+                293,
+                8500,
+                11,
+                286,
+                478,
+                5404,
+                321,
+                434,
+                3440,
+                965,
+                570,
+                7977,
+                311,
+                11,
+                428,
+                6154,
+                50840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32362077820975826,
+            "compression_ratio": 1.4397163120567376,
+            "no_speech_prob": 0.0020430907607078552,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 0.16,
+                    "end": 0.98,
+                    "probability": 0.5270147323608398
+                },
+                {
+                    "word": " Yeah.",
+                    "start": 1.8,
+                    "end": 1.8,
+                    "probability": 0.13617663085460663
+                },
+                {
+                    "word": " Robert",
+                    "start": 2.68,
+                    "end": 2.84,
+                    "probability": 0.9678916931152344
+                },
+                {
+                    "word": " and",
+                    "start": 2.84,
+                    "end": 3.02,
+                    "probability": 0.9867401719093323
+                },
+                {
+                    "word": " Thomas,",
+                    "start": 3.02,
+                    "end": 3.22,
+                    "probability": 0.9739315509796143
+                },
+                {
+                    "word": " I'm",
+                    "start": 3.7,
+                    "end": 3.92,
+                    "probability": 0.9772628545761108
+                },
+                {
+                    "word": " glad",
+                    "start": 3.92,
+                    "end": 4.28,
+                    "probability": 0.9984509944915771
+                },
+                {
+                    "word": " we're",
+                    "start": 4.28,
+                    "end": 5.26,
+                    "probability": 0.8197672069072723
+                },
+                {
+                    "word": " meeting",
+                    "start": 5.26,
+                    "end": 5.72,
+                    "probability": 0.995271623134613
+                },
+                {
+                    "word": " today",
+                    "start": 5.72,
+                    "end": 6.3,
+                    "probability": 0.9945952296257019
+                },
+                {
+                    "word": " because",
+                    "start": 6.3,
+                    "end": 7.44,
+                    "probability": 0.7779830694198608
+                },
+                {
+                    "word": " Robert's,",
+                    "start": 7.44,
+                    "end": 9.02,
+                    "probability": 0.7477407157421112
+                },
+                {
+                    "word": " your",
+                    "start": 9.02,
+                    "end": 9.22,
+                    "probability": 0.9558724164962769
+                },
+                {
+                    "word": " birthday",
+                    "start": 9.22,
+                    "end": 9.76,
+                    "probability": 0.9929248094558716
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.76,
+            "end": 21.26,
+            "text": " is approaching, the end of the month is approaching. I just wanted to ask you about your plans for your...",
+            "tokens": [
+                50916,
+                307,
+                14908,
+                11,
+                264,
+                917,
+                295,
+                264,
+                1618,
+                307,
+                14908,
+                13,
+                286,
+                445,
+                1415,
+                281,
+                1029,
+                291,
+                466,
+                428,
+                5482,
+                337,
+                428,
+                485,
+                51424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32362077820975826,
+            "compression_ratio": 1.4397163120567376,
+            "no_speech_prob": 0.0020430907607078552,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 9.76,
+                    "end": 11.3,
+                    "probability": 0.7069975733757019
+                },
+                {
+                    "word": " approaching,",
+                    "start": 11.3,
+                    "end": 11.96,
+                    "probability": 0.3550834357738495
+                },
+                {
+                    "word": " the",
+                    "start": 12.48,
+                    "end": 12.6,
+                    "probability": 0.863775372505188
+                },
+                {
+                    "word": " end",
+                    "start": 12.6,
+                    "end": 12.74,
+                    "probability": 0.9982600808143616
+                },
+                {
+                    "word": " of",
+                    "start": 12.74,
+                    "end": 12.86,
+                    "probability": 0.9992020726203918
+                },
+                {
+                    "word": " the",
+                    "start": 12.86,
+                    "end": 12.98,
+                    "probability": 0.9973726272583008
+                },
+                {
+                    "word": " month",
+                    "start": 12.98,
+                    "end": 13.28,
+                    "probability": 0.9993249177932739
+                },
+                {
+                    "word": " is",
+                    "start": 13.28,
+                    "end": 13.66,
+                    "probability": 0.9105215072631836
+                },
+                {
+                    "word": " approaching.",
+                    "start": 13.66,
+                    "end": 14.24,
+                    "probability": 0.9982022047042847
+                },
+                {
+                    "word": " I",
+                    "start": 16.34,
+                    "end": 16.4,
+                    "probability": 0.4881330728530884
+                },
+                {
+                    "word": " just",
+                    "start": 16.4,
+                    "end": 16.84,
+                    "probability": 0.9908270239830017
+                },
+                {
+                    "word": " wanted",
+                    "start": 16.84,
+                    "end": 17.22,
+                    "probability": 0.9957643747329712
+                },
+                {
+                    "word": " to",
+                    "start": 17.22,
+                    "end": 17.46,
+                    "probability": 0.9996812343597412
+                },
+                {
+                    "word": " ask",
+                    "start": 17.46,
+                    "end": 17.66,
+                    "probability": 0.9994986057281494
+                },
+                {
+                    "word": " you",
+                    "start": 17.66,
+                    "end": 17.86,
+                    "probability": 0.9993228912353516
+                },
+                {
+                    "word": " about",
+                    "start": 17.86,
+                    "end": 18.44,
+                    "probability": 0.9993467926979065
+                },
+                {
+                    "word": " your",
+                    "start": 18.44,
+                    "end": 19.64,
+                    "probability": 0.9910169839859009
+                },
+                {
+                    "word": " plans",
+                    "start": 19.64,
+                    "end": 20.16,
+                    "probability": 0.9969186782836914
+                },
+                {
+                    "word": " for",
+                    "start": 20.16,
+                    "end": 20.8,
+                    "probability": 0.910300076007843
+                },
+                {
+                    "word": " your...",
+                    "start": 20.8,
+                    "end": 21.26,
+                    "probability": 0.5938629657030106
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 21.26,
+            "end": 21.64,
+            "text": " Yeah.",
+            "tokens": [
+                51424,
+                865,
+                13,
+                51449
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32362077820975826,
+            "compression_ratio": 1.4397163120567376,
+            "no_speech_prob": 0.0020430907607078552,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 21.26,
+                    "end": 21.64,
+                    "probability": 0.8961018919944763
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

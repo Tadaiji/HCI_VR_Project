@@ -1,0 +1,109 @@
+{
+    "text": " quiet pet and that's the very thing we wanted to not have.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.88,
+            "end": 5.8,
+            "text": " quiet pet and that's the very thing we wanted to not have.",
+            "tokens": [
+                50364,
+                5677,
+                3817,
+                293,
+                300,
+                311,
+                264,
+                588,
+                551,
+                321,
+                1415,
+                281,
+                406,
+                362,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4496898931615493,
+            "compression_ratio": 0.9666666666666667,
+            "no_speech_prob": 0.1522636115550995,
+            "words": [
+                {
+                    "word": " quiet",
+                    "start": 0.88,
+                    "end": 1.48,
+                    "probability": 0.4364677965641022
+                },
+                {
+                    "word": " pet",
+                    "start": 1.48,
+                    "end": 1.86,
+                    "probability": 0.13878659904003143
+                },
+                {
+                    "word": " and",
+                    "start": 1.86,
+                    "end": 2.08,
+                    "probability": 0.5908011794090271
+                },
+                {
+                    "word": " that's",
+                    "start": 2.08,
+                    "end": 2.58,
+                    "probability": 0.9843224883079529
+                },
+                {
+                    "word": " the",
+                    "start": 2.58,
+                    "end": 2.74,
+                    "probability": 0.9957742094993591
+                },
+                {
+                    "word": " very",
+                    "start": 2.74,
+                    "end": 2.96,
+                    "probability": 0.9935798645019531
+                },
+                {
+                    "word": " thing",
+                    "start": 2.96,
+                    "end": 3.16,
+                    "probability": 0.9972883462905884
+                },
+                {
+                    "word": " we",
+                    "start": 3.16,
+                    "end": 3.36,
+                    "probability": 0.8379637002944946
+                },
+                {
+                    "word": " wanted",
+                    "start": 3.36,
+                    "end": 3.68,
+                    "probability": 0.9921674132347107
+                },
+                {
+                    "word": " to",
+                    "start": 3.68,
+                    "end": 4.98,
+                    "probability": 0.9250264763832092
+                },
+                {
+                    "word": " not",
+                    "start": 4.98,
+                    "end": 5.52,
+                    "probability": 0.5297504663467407
+                },
+                {
+                    "word": " have.",
+                    "start": 5.52,
+                    "end": 5.8,
+                    "probability": 0.9850255846977234
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

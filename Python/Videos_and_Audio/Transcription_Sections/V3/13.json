@@ -1,0 +1,106 @@
+{
+    "text": " But you are grown up now and... But... yeah!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.82,
+            "text": " But you are grown up now and...",
+            "tokens": [
+                50364,
+                583,
+                291,
+                366,
+                7709,
+                493,
+                586,
+                293,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.616904988008387,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.2634170949459076,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.39610445499420166
+                },
+                {
+                    "word": " you",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.8801409006118774
+                },
+                {
+                    "word": " are",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.6251992583274841
+                },
+                {
+                    "word": " grown",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9086856842041016
+                },
+                {
+                    "word": " up",
+                    "start": 1.18,
+                    "end": 1.46,
+                    "probability": 0.9235724210739136
+                },
+                {
+                    "word": " now",
+                    "start": 1.46,
+                    "end": 1.9,
+                    "probability": 0.991824209690094
+                },
+                {
+                    "word": " and...",
+                    "start": 1.9,
+                    "end": 2.82,
+                    "probability": 0.4887383282184601
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.82,
+            "end": 3.16,
+            "text": " But... yeah!",
+            "tokens": [
+                50464,
+                583,
+                485,
+                1338,
+                0,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.616904988008387,
+            "compression_ratio": 0.8979591836734694,
+            "no_speech_prob": 0.2634170949459076,
+            "words": [
+                {
+                    "word": " But...",
+                    "start": 2.82,
+                    "end": 3.0,
+                    "probability": 0.33652910590171814
+                },
+                {
+                    "word": " yeah!",
+                    "start": 3.0,
+                    "end": 3.16,
+                    "probability": 0.3056885600090027
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,765 @@
+{
+    "text": " He got really good vinyl so we can and his father owns a vinyl business So yeah, so today evening we can go for a walk and you can see his vinyl and we can ask his father To help us to get the cheap and the good one in the fair price So they can also as we have the good reference of my friend so they can set it up for us They will come to some time to our home. They will take the dimension and everything they can help us with that",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.82,
+            "end": 5.7,
+            "text": " He got really good vinyl so we can and his father owns a vinyl business",
+            "tokens": [
+                50364,
+                634,
+                658,
+                534,
+                665,
+                25226,
+                370,
+                321,
+                393,
+                293,
+                702,
+                3086,
+                19143,
+                257,
+                25226,
+                1606,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28291114317167787,
+            "compression_ratio": 1.8547008547008548,
+            "no_speech_prob": 0.010391558520495892,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.82,
+                    "end": 1.34,
+                    "probability": 0.629031777381897
+                },
+                {
+                    "word": " got",
+                    "start": 1.34,
+                    "end": 1.06,
+                    "probability": 0.9275982975959778
+                },
+                {
+                    "word": " really",
+                    "start": 1.06,
+                    "end": 1.86,
+                    "probability": 0.5051983594894409
+                },
+                {
+                    "word": " good",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9947815537452698
+                },
+                {
+                    "word": " vinyl",
+                    "start": 2.04,
+                    "end": 2.38,
+                    "probability": 0.2679097652435303
+                },
+                {
+                    "word": " so",
+                    "start": 2.38,
+                    "end": 2.96,
+                    "probability": 0.673139750957489
+                },
+                {
+                    "word": " we",
+                    "start": 2.96,
+                    "end": 3.24,
+                    "probability": 0.8529730439186096
+                },
+                {
+                    "word": " can",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9950472116470337
+                },
+                {
+                    "word": " and",
+                    "start": 3.52,
+                    "end": 3.8,
+                    "probability": 0.8542473912239075
+                },
+                {
+                    "word": " his",
+                    "start": 3.8,
+                    "end": 4.08,
+                    "probability": 0.9967387318611145
+                },
+                {
+                    "word": " father",
+                    "start": 4.08,
+                    "end": 4.38,
+                    "probability": 0.997481644153595
+                },
+                {
+                    "word": " owns",
+                    "start": 4.38,
+                    "end": 4.68,
+                    "probability": 0.9136089086532593
+                },
+                {
+                    "word": " a",
+                    "start": 4.68,
+                    "end": 4.88,
+                    "probability": 0.7977577447891235
+                },
+                {
+                    "word": " vinyl",
+                    "start": 4.88,
+                    "end": 5.1,
+                    "probability": 0.3543759882450104
+                },
+                {
+                    "word": " business",
+                    "start": 5.1,
+                    "end": 5.7,
+                    "probability": 0.9863974452018738
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.7,
+            "end": 12.48,
+            "text": " So yeah, so today evening we can go for a walk and you can see his vinyl and we can ask his father",
+            "tokens": [
+                50652,
+                407,
+                1338,
+                11,
+                370,
+                965,
+                5634,
+                321,
+                393,
+                352,
+                337,
+                257,
+                1792,
+                293,
+                291,
+                393,
+                536,
+                702,
+                25226,
+                293,
+                321,
+                393,
+                1029,
+                702,
+                3086,
+                50978
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28291114317167787,
+            "compression_ratio": 1.8547008547008548,
+            "no_speech_prob": 0.010391558520495892,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 5.7,
+                    "end": 6.58,
+                    "probability": 0.4343394935131073
+                },
+                {
+                    "word": " yeah,",
+                    "start": 6.58,
+                    "end": 6.92,
+                    "probability": 0.8886662721633911
+                },
+                {
+                    "word": " so",
+                    "start": 6.96,
+                    "end": 7.56,
+                    "probability": 0.9957875609397888
+                },
+                {
+                    "word": " today",
+                    "start": 7.56,
+                    "end": 7.84,
+                    "probability": 0.9889699220657349
+                },
+                {
+                    "word": " evening",
+                    "start": 7.84,
+                    "end": 8.16,
+                    "probability": 0.9803236722946167
+                },
+                {
+                    "word": " we",
+                    "start": 8.16,
+                    "end": 8.34,
+                    "probability": 0.8176572918891907
+                },
+                {
+                    "word": " can",
+                    "start": 8.34,
+                    "end": 8.48,
+                    "probability": 0.9951057434082031
+                },
+                {
+                    "word": " go",
+                    "start": 8.48,
+                    "end": 8.7,
+                    "probability": 0.9887839555740356
+                },
+                {
+                    "word": " for",
+                    "start": 8.7,
+                    "end": 8.98,
+                    "probability": 0.999262273311615
+                },
+                {
+                    "word": " a",
+                    "start": 8.98,
+                    "end": 9.12,
+                    "probability": 0.9871698617935181
+                },
+                {
+                    "word": " walk",
+                    "start": 9.12,
+                    "end": 9.38,
+                    "probability": 0.9984390139579773
+                },
+                {
+                    "word": " and",
+                    "start": 9.38,
+                    "end": 9.88,
+                    "probability": 0.8374632596969604
+                },
+                {
+                    "word": " you",
+                    "start": 9.88,
+                    "end": 10.02,
+                    "probability": 0.5745006203651428
+                },
+                {
+                    "word": " can",
+                    "start": 10.02,
+                    "end": 10.18,
+                    "probability": 0.9976525902748108
+                },
+                {
+                    "word": " see",
+                    "start": 10.18,
+                    "end": 10.4,
+                    "probability": 0.9958114624023438
+                },
+                {
+                    "word": " his",
+                    "start": 10.4,
+                    "end": 10.66,
+                    "probability": 0.8611832857131958
+                },
+                {
+                    "word": " vinyl",
+                    "start": 10.66,
+                    "end": 10.94,
+                    "probability": 0.9035521745681763
+                },
+                {
+                    "word": " and",
+                    "start": 10.94,
+                    "end": 11.42,
+                    "probability": 0.8223811984062195
+                },
+                {
+                    "word": " we",
+                    "start": 11.42,
+                    "end": 11.62,
+                    "probability": 0.6255980134010315
+                },
+                {
+                    "word": " can",
+                    "start": 11.62,
+                    "end": 11.76,
+                    "probability": 0.9950522780418396
+                },
+                {
+                    "word": " ask",
+                    "start": 11.76,
+                    "end": 12.06,
+                    "probability": 0.981633186340332
+                },
+                {
+                    "word": " his",
+                    "start": 12.06,
+                    "end": 12.3,
+                    "probability": 0.9693119525909424
+                },
+                {
+                    "word": " father",
+                    "start": 12.3,
+                    "end": 12.48,
+                    "probability": 0.9887334108352661
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.48,
+            "end": 16.9,
+            "text": " To help us to get the cheap and the good one in the fair price",
+            "tokens": [
+                50978,
+                1407,
+                854,
+                505,
+                281,
+                483,
+                264,
+                7084,
+                293,
+                264,
+                665,
+                472,
+                294,
+                264,
+                3143,
+                3218,
+                51194
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28291114317167787,
+            "compression_ratio": 1.8547008547008548,
+            "no_speech_prob": 0.010391558520495892,
+            "words": [
+                {
+                    "word": " To",
+                    "start": 12.48,
+                    "end": 12.74,
+                    "probability": 0.06836623698472977
+                },
+                {
+                    "word": " help",
+                    "start": 12.74,
+                    "end": 12.9,
+                    "probability": 0.9858602285385132
+                },
+                {
+                    "word": " us",
+                    "start": 12.9,
+                    "end": 13.26,
+                    "probability": 0.9987077713012695
+                },
+                {
+                    "word": " to",
+                    "start": 13.26,
+                    "end": 13.5,
+                    "probability": 0.9905283451080322
+                },
+                {
+                    "word": " get",
+                    "start": 13.5,
+                    "end": 13.9,
+                    "probability": 0.9989925026893616
+                },
+                {
+                    "word": " the",
+                    "start": 13.9,
+                    "end": 14.36,
+                    "probability": 0.8773221373558044
+                },
+                {
+                    "word": " cheap",
+                    "start": 14.36,
+                    "end": 14.6,
+                    "probability": 0.9965270161628723
+                },
+                {
+                    "word": " and",
+                    "start": 14.6,
+                    "end": 14.86,
+                    "probability": 0.9973479509353638
+                },
+                {
+                    "word": " the",
+                    "start": 14.86,
+                    "end": 15.02,
+                    "probability": 0.6687734723091125
+                },
+                {
+                    "word": " good",
+                    "start": 15.02,
+                    "end": 15.2,
+                    "probability": 0.9958584904670715
+                },
+                {
+                    "word": " one",
+                    "start": 15.2,
+                    "end": 15.7,
+                    "probability": 0.9875259399414062
+                },
+                {
+                    "word": " in",
+                    "start": 15.7,
+                    "end": 15.98,
+                    "probability": 0.5443817973136902
+                },
+                {
+                    "word": " the",
+                    "start": 15.98,
+                    "end": 16.24,
+                    "probability": 0.9951412677764893
+                },
+                {
+                    "word": " fair",
+                    "start": 16.24,
+                    "end": 16.44,
+                    "probability": 0.9729337096214294
+                },
+                {
+                    "word": " price",
+                    "start": 16.44,
+                    "end": 16.9,
+                    "probability": 0.994556188583374
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.9,
+            "end": 23.32,
+            "text": " So they can also as we have the good reference of my friend so they can set it up for us",
+            "tokens": [
+                51194,
+                407,
+                436,
+                393,
+                611,
+                382,
+                321,
+                362,
+                264,
+                665,
+                6408,
+                295,
+                452,
+                1277,
+                370,
+                436,
+                393,
+                992,
+                309,
+                493,
+                337,
+                505,
+                51506
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28291114317167787,
+            "compression_ratio": 1.8547008547008548,
+            "no_speech_prob": 0.010391558520495892,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 16.9,
+                    "end": 17.28,
+                    "probability": 0.20854368805885315
+                },
+                {
+                    "word": " they",
+                    "start": 17.28,
+                    "end": 17.38,
+                    "probability": 0.49441173672676086
+                },
+                {
+                    "word": " can",
+                    "start": 17.38,
+                    "end": 17.54,
+                    "probability": 0.9984679818153381
+                },
+                {
+                    "word": " also",
+                    "start": 17.54,
+                    "end": 18.22,
+                    "probability": 0.9973894953727722
+                },
+                {
+                    "word": " as",
+                    "start": 18.22,
+                    "end": 18.84,
+                    "probability": 0.9447527527809143
+                },
+                {
+                    "word": " we",
+                    "start": 18.84,
+                    "end": 19.4,
+                    "probability": 0.7752811312675476
+                },
+                {
+                    "word": " have",
+                    "start": 19.4,
+                    "end": 19.54,
+                    "probability": 0.9962531328201294
+                },
+                {
+                    "word": " the",
+                    "start": 19.54,
+                    "end": 19.72,
+                    "probability": 0.9644428491592407
+                },
+                {
+                    "word": " good",
+                    "start": 19.72,
+                    "end": 19.96,
+                    "probability": 0.9949389696121216
+                },
+                {
+                    "word": " reference",
+                    "start": 19.96,
+                    "end": 20.26,
+                    "probability": 0.997177004814148
+                },
+                {
+                    "word": " of",
+                    "start": 20.26,
+                    "end": 20.5,
+                    "probability": 0.9974038004875183
+                },
+                {
+                    "word": " my",
+                    "start": 20.5,
+                    "end": 20.78,
+                    "probability": 0.9984312653541565
+                },
+                {
+                    "word": " friend",
+                    "start": 20.78,
+                    "end": 21.0,
+                    "probability": 0.5674688220024109
+                },
+                {
+                    "word": " so",
+                    "start": 21.0,
+                    "end": 21.18,
+                    "probability": 0.7972939014434814
+                },
+                {
+                    "word": " they",
+                    "start": 21.18,
+                    "end": 21.36,
+                    "probability": 0.9991590976715088
+                },
+                {
+                    "word": " can",
+                    "start": 21.36,
+                    "end": 21.96,
+                    "probability": 0.9996591806411743
+                },
+                {
+                    "word": " set",
+                    "start": 21.96,
+                    "end": 22.26,
+                    "probability": 0.77137291431427
+                },
+                {
+                    "word": " it",
+                    "start": 22.26,
+                    "end": 22.5,
+                    "probability": 0.9972260594367981
+                },
+                {
+                    "word": " up",
+                    "start": 22.5,
+                    "end": 22.64,
+                    "probability": 0.9970568418502808
+                },
+                {
+                    "word": " for",
+                    "start": 22.64,
+                    "end": 23.0,
+                    "probability": 0.9924587607383728
+                },
+                {
+                    "word": " us",
+                    "start": 23.0,
+                    "end": 23.32,
+                    "probability": 0.9959737658500671
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 23.32,
+            "end": 28.82,
+            "text": " They will come to some time to our home. They will take the dimension and everything they can help us with that",
+            "tokens": [
+                51518,
+                814,
+                486,
+                808,
+                281,
+                512,
+                565,
+                281,
+                527,
+                1280,
+                13,
+                814,
+                486,
+                747,
+                264,
+                10139,
+                293,
+                1203,
+                436,
+                393,
+                854,
+                505,
+                365,
+                300,
+                51804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28291114317167787,
+            "compression_ratio": 1.8547008547008548,
+            "no_speech_prob": 0.010391558520495892,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 23.32,
+                    "end": 23.68,
+                    "probability": 0.6248064041137695
+                },
+                {
+                    "word": " will",
+                    "start": 23.68,
+                    "end": 23.96,
+                    "probability": 0.5003371238708496
+                },
+                {
+                    "word": " come",
+                    "start": 23.96,
+                    "end": 24.18,
+                    "probability": 0.9927775859832764
+                },
+                {
+                    "word": " to",
+                    "start": 24.18,
+                    "end": 24.82,
+                    "probability": 0.8200778365135193
+                },
+                {
+                    "word": " some",
+                    "start": 24.82,
+                    "end": 25.08,
+                    "probability": 0.2984029948711395
+                },
+                {
+                    "word": " time",
+                    "start": 25.08,
+                    "end": 25.2,
+                    "probability": 0.8573099970817566
+                },
+                {
+                    "word": " to",
+                    "start": 25.2,
+                    "end": 25.4,
+                    "probability": 0.8563375473022461
+                },
+                {
+                    "word": " our",
+                    "start": 25.4,
+                    "end": 25.56,
+                    "probability": 0.7783425450325012
+                },
+                {
+                    "word": " home.",
+                    "start": 25.56,
+                    "end": 25.7,
+                    "probability": 0.9771923422813416
+                },
+                {
+                    "word": " They",
+                    "start": 25.72,
+                    "end": 25.88,
+                    "probability": 0.9982538819313049
+                },
+                {
+                    "word": " will",
+                    "start": 25.88,
+                    "end": 26.04,
+                    "probability": 0.9428933262825012
+                },
+                {
+                    "word": " take",
+                    "start": 26.04,
+                    "end": 26.18,
+                    "probability": 0.9990181922912598
+                },
+                {
+                    "word": " the",
+                    "start": 26.18,
+                    "end": 26.42,
+                    "probability": 0.9933348894119263
+                },
+                {
+                    "word": " dimension",
+                    "start": 26.42,
+                    "end": 26.72,
+                    "probability": 0.829269528388977
+                },
+                {
+                    "word": " and",
+                    "start": 26.72,
+                    "end": 26.9,
+                    "probability": 0.5179964303970337
+                },
+                {
+                    "word": " everything",
+                    "start": 26.9,
+                    "end": 27.3,
+                    "probability": 0.9898466467857361
+                },
+                {
+                    "word": " they",
+                    "start": 27.3,
+                    "end": 27.92,
+                    "probability": 0.678494393825531
+                },
+                {
+                    "word": " can",
+                    "start": 27.92,
+                    "end": 28.12,
+                    "probability": 0.9975802898406982
+                },
+                {
+                    "word": " help",
+                    "start": 28.12,
+                    "end": 28.36,
+                    "probability": 0.6279847621917725
+                },
+                {
+                    "word": " us",
+                    "start": 28.36,
+                    "end": 28.64,
+                    "probability": 0.9805722236633301
+                },
+                {
+                    "word": " with",
+                    "start": 28.64,
+                    "end": 28.78,
+                    "probability": 0.9111104011535645
+                },
+                {
+                    "word": " that",
+                    "start": 28.78,
+                    "end": 28.82,
+                    "probability": 0.8864061832427979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

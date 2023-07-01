@@ -1,0 +1,510 @@
+{
+    "text": " I will bring the new table. I have a good idea the place where we want to move in. When I met my our last neighbor her name was Mrs. Malta and I actually she showed me the building. I have seen this building and I want to get in this Table. The table is a little bit big",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.84,
+            "text": " I will bring the new table. I have a good idea the place where we want to move in.",
+            "tokens": [
+                50364,
+                286,
+                486,
+                1565,
+                264,
+                777,
+                3199,
+                13,
+                286,
+                362,
+                257,
+                665,
+                1558,
+                264,
+                1081,
+                689,
+                321,
+                528,
+                281,
+                1286,
+                294,
+                13,
+                50640
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.336660435325221,
+            "compression_ratio": 1.588235294117647,
+            "no_speech_prob": 0.007421909365803003,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4972013533115387
+                },
+                {
+                    "word": " will",
+                    "start": 0.2,
+                    "end": 0.42,
+                    "probability": 0.7476341724395752
+                },
+                {
+                    "word": " bring",
+                    "start": 0.42,
+                    "end": 0.52,
+                    "probability": 0.9814704060554504
+                },
+                {
+                    "word": " the",
+                    "start": 0.52,
+                    "end": 0.72,
+                    "probability": 0.9205780029296875
+                },
+                {
+                    "word": " new",
+                    "start": 0.72,
+                    "end": 0.88,
+                    "probability": 0.9967998266220093
+                },
+                {
+                    "word": " table.",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9882929921150208
+                },
+                {
+                    "word": " I",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9815691709518433
+                },
+                {
+                    "word": " have",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.9267137050628662
+                },
+                {
+                    "word": " a",
+                    "start": 1.78,
+                    "end": 2.26,
+                    "probability": 0.7681490182876587
+                },
+                {
+                    "word": " good",
+                    "start": 2.26,
+                    "end": 2.58,
+                    "probability": 0.8846948742866516
+                },
+                {
+                    "word": " idea",
+                    "start": 2.58,
+                    "end": 3.16,
+                    "probability": 0.9974150657653809
+                },
+                {
+                    "word": " the",
+                    "start": 3.16,
+                    "end": 3.72,
+                    "probability": 0.42598533630371094
+                },
+                {
+                    "word": " place",
+                    "start": 3.72,
+                    "end": 4.0,
+                    "probability": 0.9936687350273132
+                },
+                {
+                    "word": " where",
+                    "start": 4.0,
+                    "end": 4.42,
+                    "probability": 0.7993172407150269
+                },
+                {
+                    "word": " we",
+                    "start": 4.42,
+                    "end": 4.72,
+                    "probability": 0.6815666556358337
+                },
+                {
+                    "word": " want",
+                    "start": 4.72,
+                    "end": 4.98,
+                    "probability": 0.9870340824127197
+                },
+                {
+                    "word": " to",
+                    "start": 4.98,
+                    "end": 5.24,
+                    "probability": 0.9987691044807434
+                },
+                {
+                    "word": " move",
+                    "start": 5.24,
+                    "end": 5.42,
+                    "probability": 0.9971279501914978
+                },
+                {
+                    "word": " in.",
+                    "start": 5.42,
+                    "end": 5.84,
+                    "probability": 0.964853048324585
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.72,
+            "end": 10.5,
+            "text": " When I met my our last neighbor her name was",
+            "tokens": [
+                50684,
+                1133,
+                286,
+                1131,
+                452,
+                527,
+                1036,
+                5987,
+                720,
+                1315,
+                390,
+                50840
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.336660435325221,
+            "compression_ratio": 1.588235294117647,
+            "no_speech_prob": 0.007421909365803003,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 6.72,
+                    "end": 7.16,
+                    "probability": 0.6123621463775635
+                },
+                {
+                    "word": " I",
+                    "start": 7.16,
+                    "end": 7.42,
+                    "probability": 0.9689910411834717
+                },
+                {
+                    "word": " met",
+                    "start": 7.42,
+                    "end": 7.72,
+                    "probability": 0.9709675312042236
+                },
+                {
+                    "word": " my",
+                    "start": 7.72,
+                    "end": 8.14,
+                    "probability": 0.4181497097015381
+                },
+                {
+                    "word": " our",
+                    "start": 8.14,
+                    "end": 8.46,
+                    "probability": 0.5878575444221497
+                },
+                {
+                    "word": " last",
+                    "start": 8.46,
+                    "end": 8.66,
+                    "probability": 0.9864928126335144
+                },
+                {
+                    "word": " neighbor",
+                    "start": 8.66,
+                    "end": 8.96,
+                    "probability": 0.8909837007522583
+                },
+                {
+                    "word": " her",
+                    "start": 8.96,
+                    "end": 9.18,
+                    "probability": 0.5336282849311829
+                },
+                {
+                    "word": " name",
+                    "start": 9.18,
+                    "end": 9.36,
+                    "probability": 0.9960891008377075
+                },
+                {
+                    "word": " was",
+                    "start": 9.36,
+                    "end": 10.5,
+                    "probability": 0.9944071769714355
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.5,
+            "end": 13.14,
+            "text": " Mrs. Malta and I",
+            "tokens": [
+                50884,
+                9814,
+                13,
+                5746,
+                1328,
+                293,
+                286,
+                50984
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.336660435325221,
+            "compression_ratio": 1.588235294117647,
+            "no_speech_prob": 0.007421909365803003,
+            "words": [
+                {
+                    "word": " Mrs.",
+                    "start": 10.5,
+                    "end": 10.9,
+                    "probability": 0.9185038208961487
+                },
+                {
+                    "word": " Malta",
+                    "start": 11.16,
+                    "end": 11.56,
+                    "probability": 0.6362001746892929
+                },
+                {
+                    "word": " and",
+                    "start": 11.56,
+                    "end": 12.14,
+                    "probability": 0.7411966323852539
+                },
+                {
+                    "word": " I",
+                    "start": 12.14,
+                    "end": 13.14,
+                    "probability": 0.47866854071617126
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.14,
+            "end": 18.98,
+            "text": " actually she showed me the building. I have seen this building and I want to get in this",
+            "tokens": [
+                51000,
+                767,
+                750,
+                4712,
+                385,
+                264,
+                2390,
+                13,
+                286,
+                362,
+                1612,
+                341,
+                2390,
+                293,
+                286,
+                528,
+                281,
+                483,
+                294,
+                341,
+                51268
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.336660435325221,
+            "compression_ratio": 1.588235294117647,
+            "no_speech_prob": 0.007421909365803003,
+            "words": [
+                {
+                    "word": " actually",
+                    "start": 13.14,
+                    "end": 13.38,
+                    "probability": 0.1457585245370865
+                },
+                {
+                    "word": " she",
+                    "start": 13.38,
+                    "end": 13.78,
+                    "probability": 0.8697474598884583
+                },
+                {
+                    "word": " showed",
+                    "start": 13.78,
+                    "end": 13.94,
+                    "probability": 0.9983559250831604
+                },
+                {
+                    "word": " me",
+                    "start": 13.94,
+                    "end": 14.14,
+                    "probability": 0.9988532066345215
+                },
+                {
+                    "word": " the",
+                    "start": 14.14,
+                    "end": 14.28,
+                    "probability": 0.995854377746582
+                },
+                {
+                    "word": " building.",
+                    "start": 14.28,
+                    "end": 14.54,
+                    "probability": 0.9978958368301392
+                },
+                {
+                    "word": " I",
+                    "start": 15.18,
+                    "end": 15.48,
+                    "probability": 0.9925792813301086
+                },
+                {
+                    "word": " have",
+                    "start": 15.48,
+                    "end": 15.62,
+                    "probability": 0.7149662971496582
+                },
+                {
+                    "word": " seen",
+                    "start": 15.62,
+                    "end": 15.74,
+                    "probability": 0.998214840888977
+                },
+                {
+                    "word": " this",
+                    "start": 15.74,
+                    "end": 16.04,
+                    "probability": 0.9985686540603638
+                },
+                {
+                    "word": " building",
+                    "start": 16.04,
+                    "end": 16.4,
+                    "probability": 0.999448835849762
+                },
+                {
+                    "word": " and",
+                    "start": 16.4,
+                    "end": 16.82,
+                    "probability": 0.9769644737243652
+                },
+                {
+                    "word": " I",
+                    "start": 16.82,
+                    "end": 17.04,
+                    "probability": 0.9945038557052612
+                },
+                {
+                    "word": " want",
+                    "start": 17.04,
+                    "end": 17.14,
+                    "probability": 0.997179388999939
+                },
+                {
+                    "word": " to",
+                    "start": 17.14,
+                    "end": 17.4,
+                    "probability": 0.999515175819397
+                },
+                {
+                    "word": " get",
+                    "start": 17.4,
+                    "end": 17.64,
+                    "probability": 0.9991841912269592
+                },
+                {
+                    "word": " in",
+                    "start": 17.64,
+                    "end": 17.98,
+                    "probability": 0.9933399558067322
+                },
+                {
+                    "word": " this",
+                    "start": 17.98,
+                    "end": 18.98,
+                    "probability": 0.9847704172134399
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.98,
+            "end": 21.46,
+            "text": " Table. The table is a little bit big",
+            "tokens": [
+                51306,
+                25535,
+                13,
+                440,
+                3199,
+                307,
+                257,
+                707,
+                857,
+                955,
+                51432
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.336660435325221,
+            "compression_ratio": 1.588235294117647,
+            "no_speech_prob": 0.007421909365803003,
+            "words": [
+                {
+                    "word": " Table.",
+                    "start": 18.98,
+                    "end": 19.36,
+                    "probability": 0.015681492164731026
+                },
+                {
+                    "word": " The",
+                    "start": 19.48,
+                    "end": 19.8,
+                    "probability": 0.9620199203491211
+                },
+                {
+                    "word": " table",
+                    "start": 19.8,
+                    "end": 20.02,
+                    "probability": 0.9810329675674438
+                },
+                {
+                    "word": " is",
+                    "start": 20.02,
+                    "end": 20.58,
+                    "probability": 0.9986565113067627
+                },
+                {
+                    "word": " a",
+                    "start": 20.58,
+                    "end": 20.8,
+                    "probability": 0.8860985636711121
+                },
+                {
+                    "word": " little",
+                    "start": 20.8,
+                    "end": 21.0,
+                    "probability": 0.9995672106742859
+                },
+                {
+                    "word": " bit",
+                    "start": 21.0,
+                    "end": 21.3,
+                    "probability": 0.993105947971344
+                },
+                {
+                    "word": " big",
+                    "start": 21.3,
+                    "end": 21.46,
+                    "probability": 0.8414052724838257
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

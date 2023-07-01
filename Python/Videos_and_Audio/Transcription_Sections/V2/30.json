@@ -1,0 +1,119 @@
+{
+    "text": " that nice to be totally honest. So yeah, probably.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.34,
+            "text": " that nice to be totally honest.",
+            "tokens": [
+                50364,
+                300,
+                1481,
+                281,
+                312,
+                3879,
+                3245,
+                13,
+                50482
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5931813830421084,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.1919037252664566,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.2105390876531601
+                },
+                {
+                    "word": " nice",
+                    "start": 0.56,
+                    "end": 1.1,
+                    "probability": 0.9682772755622864
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.5,
+                    "probability": 0.5996891856193542
+                },
+                {
+                    "word": " be",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.99620121717453
+                },
+                {
+                    "word": " totally",
+                    "start": 1.64,
+                    "end": 1.9,
+                    "probability": 0.9896144270896912
+                },
+                {
+                    "word": " honest.",
+                    "start": 1.9,
+                    "end": 2.34,
+                    "probability": 0.9987612962722778
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.78,
+            "end": 2.78,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.5931813830421084,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.1919037252664566,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.78,
+            "end": 3.86,
+            "text": " So yeah, probably.",
+            "tokens": [
+                50507,
+                407,
+                1338,
+                11,
+                1391,
+                13,
+                50562
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5931813830421084,
+            "compression_ratio": 0.9333333333333333,
+            "no_speech_prob": 0.1919037252664566,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.78,
+                    "end": 3.04,
+                    "probability": 0.9227017164230347
+                },
+                {
+                    "word": " yeah,",
+                    "start": 3.04,
+                    "end": 3.4,
+                    "probability": 0.7284098863601685
+                },
+                {
+                    "word": " probably.",
+                    "start": 3.66,
+                    "end": 3.86,
+                    "probability": 0.9871450066566467
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

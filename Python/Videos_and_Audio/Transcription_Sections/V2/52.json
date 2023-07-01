@@ -1,0 +1,119 @@
+{
+    "text": " You can go first. And I think the ball bounce is...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.92,
+            "text": " You can go first.",
+            "tokens": [
+                50364,
+                509,
+                393,
+                352,
+                700,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6209834946526421,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.7620683312416077,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.33586540818214417
+                },
+                {
+                    "word": " can",
+                    "start": 0.26,
+                    "end": 0.46,
+                    "probability": 0.9656322002410889
+                },
+                {
+                    "word": " go",
+                    "start": 0.46,
+                    "end": 0.64,
+                    "probability": 0.9391521215438843
+                },
+                {
+                    "word": " first.",
+                    "start": 0.64,
+                    "end": 0.92,
+                    "probability": 0.9823668003082275
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.62,
+            "end": 3.9,
+            "text": " And I think the ball bounce is...",
+            "tokens": [
+                50414,
+                400,
+                286,
+                519,
+                264,
+                2594,
+                15894,
+                307,
+                485,
+                50558
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6209834946526421,
+            "compression_ratio": 0.8947368421052632,
+            "no_speech_prob": 0.7620683312416077,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 1.62,
+                    "end": 1.74,
+                    "probability": 0.4578489065170288
+                },
+                {
+                    "word": " I",
+                    "start": 1.74,
+                    "end": 1.96,
+                    "probability": 0.8684842586517334
+                },
+                {
+                    "word": " think",
+                    "start": 1.96,
+                    "end": 2.3,
+                    "probability": 0.9970318078994751
+                },
+                {
+                    "word": " the",
+                    "start": 2.3,
+                    "end": 2.86,
+                    "probability": 0.9365769624710083
+                },
+                {
+                    "word": " ball",
+                    "start": 2.86,
+                    "end": 3.04,
+                    "probability": 0.7299736142158508
+                },
+                {
+                    "word": " bounce",
+                    "start": 3.04,
+                    "end": 3.4,
+                    "probability": 0.37221774458885193
+                },
+                {
+                    "word": " is...",
+                    "start": 3.4,
+                    "end": 3.9,
+                    "probability": 0.7147404551506042
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

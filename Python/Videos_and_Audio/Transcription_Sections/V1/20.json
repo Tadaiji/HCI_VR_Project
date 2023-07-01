@@ -1,0 +1,447 @@
+{
+    "text": " I think it will be okay or we can save our money instead of spending it on the moving out we can take help from the fence and we can buy some new appliances with this money instead of spending it on the move out with the company. What do you guys think?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.22,
+            "text": " I think it will be okay or we can save our money instead of spending it on the moving",
+            "tokens": [
+                50364,
+                286,
+                519,
+                309,
+                486,
+                312,
+                1392,
+                420,
+                321,
+                393,
+                3155,
+                527,
+                1460,
+                2602,
+                295,
+                6434,
+                309,
+                322,
+                264,
+                2684,
+                50719
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22519393265247345,
+            "compression_ratio": 1.6979865771812082,
+            "no_speech_prob": 0.003210198599845171,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.8833745718002319
+                },
+                {
+                    "word": " think",
+                    "start": 0.3,
+                    "end": 0.54,
+                    "probability": 0.9941962957382202
+                },
+                {
+                    "word": " it",
+                    "start": 0.54,
+                    "end": 1.12,
+                    "probability": 0.9352037906646729
+                },
+                {
+                    "word": " will",
+                    "start": 1.12,
+                    "end": 1.32,
+                    "probability": 0.9790917038917542
+                },
+                {
+                    "word": " be",
+                    "start": 1.32,
+                    "end": 1.6,
+                    "probability": 0.9977492690086365
+                },
+                {
+                    "word": " okay",
+                    "start": 1.6,
+                    "end": 1.92,
+                    "probability": 0.6351469159126282
+                },
+                {
+                    "word": " or",
+                    "start": 1.92,
+                    "end": 2.24,
+                    "probability": 0.6106114387512207
+                },
+                {
+                    "word": " we",
+                    "start": 2.24,
+                    "end": 2.44,
+                    "probability": 0.9776776432991028
+                },
+                {
+                    "word": " can",
+                    "start": 2.44,
+                    "end": 2.76,
+                    "probability": 0.9992456436157227
+                },
+                {
+                    "word": " save",
+                    "start": 2.76,
+                    "end": 3.06,
+                    "probability": 0.9903571009635925
+                },
+                {
+                    "word": " our",
+                    "start": 3.06,
+                    "end": 3.48,
+                    "probability": 0.995697021484375
+                },
+                {
+                    "word": " money",
+                    "start": 3.48,
+                    "end": 3.82,
+                    "probability": 0.9981764554977417
+                },
+                {
+                    "word": " instead",
+                    "start": 3.82,
+                    "end": 4.22,
+                    "probability": 0.929407000541687
+                },
+                {
+                    "word": " of",
+                    "start": 4.22,
+                    "end": 5.38,
+                    "probability": 0.992459237575531
+                },
+                {
+                    "word": " spending",
+                    "start": 5.38,
+                    "end": 5.86,
+                    "probability": 0.9245787858963013
+                },
+                {
+                    "word": " it",
+                    "start": 5.86,
+                    "end": 6.16,
+                    "probability": 0.9906466007232666
+                },
+                {
+                    "word": " on",
+                    "start": 6.16,
+                    "end": 6.78,
+                    "probability": 0.9968882203102112
+                },
+                {
+                    "word": " the",
+                    "start": 6.78,
+                    "end": 7.02,
+                    "probability": 0.9208680391311646
+                },
+                {
+                    "word": " moving",
+                    "start": 7.02,
+                    "end": 7.22,
+                    "probability": 0.9661189317703247
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.22,
+            "end": 13.42,
+            "text": " out we can take help from the fence and we can buy some new appliances with this money",
+            "tokens": [
+                50719,
+                484,
+                321,
+                393,
+                747,
+                854,
+                490,
+                264,
+                15422,
+                293,
+                321,
+                393,
+                2256,
+                512,
+                777,
+                35480,
+                365,
+                341,
+                1460,
+                51029
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22519393265247345,
+            "compression_ratio": 1.6979865771812082,
+            "no_speech_prob": 0.003210198599845171,
+            "words": [
+                {
+                    "word": " out",
+                    "start": 7.22,
+                    "end": 7.56,
+                    "probability": 0.9838930368423462
+                },
+                {
+                    "word": " we",
+                    "start": 7.56,
+                    "end": 7.94,
+                    "probability": 0.14636409282684326
+                },
+                {
+                    "word": " can",
+                    "start": 7.94,
+                    "end": 8.1,
+                    "probability": 0.9902887344360352
+                },
+                {
+                    "word": " take",
+                    "start": 8.1,
+                    "end": 8.28,
+                    "probability": 0.9958202838897705
+                },
+                {
+                    "word": " help",
+                    "start": 8.28,
+                    "end": 8.48,
+                    "probability": 0.4804884195327759
+                },
+                {
+                    "word": " from",
+                    "start": 8.48,
+                    "end": 9.26,
+                    "probability": 0.9970924854278564
+                },
+                {
+                    "word": " the",
+                    "start": 9.26,
+                    "end": 9.56,
+                    "probability": 0.8827155828475952
+                },
+                {
+                    "word": " fence",
+                    "start": 9.56,
+                    "end": 9.7,
+                    "probability": 0.8380682468414307
+                },
+                {
+                    "word": " and",
+                    "start": 9.7,
+                    "end": 10.02,
+                    "probability": 0.9625418186187744
+                },
+                {
+                    "word": " we",
+                    "start": 10.02,
+                    "end": 10.2,
+                    "probability": 0.8720223307609558
+                },
+                {
+                    "word": " can",
+                    "start": 10.2,
+                    "end": 10.56,
+                    "probability": 0.9949070811271667
+                },
+                {
+                    "word": " buy",
+                    "start": 10.56,
+                    "end": 10.88,
+                    "probability": 0.9658180475234985
+                },
+                {
+                    "word": " some",
+                    "start": 10.88,
+                    "end": 11.38,
+                    "probability": 0.6479653120040894
+                },
+                {
+                    "word": " new",
+                    "start": 11.38,
+                    "end": 11.7,
+                    "probability": 0.9754912257194519
+                },
+                {
+                    "word": " appliances",
+                    "start": 11.7,
+                    "end": 12.14,
+                    "probability": 0.9977784752845764
+                },
+                {
+                    "word": " with",
+                    "start": 12.14,
+                    "end": 12.88,
+                    "probability": 0.9757164716720581
+                },
+                {
+                    "word": " this",
+                    "start": 12.88,
+                    "end": 13.14,
+                    "probability": 0.8583423495292664
+                },
+                {
+                    "word": " money",
+                    "start": 13.14,
+                    "end": 13.42,
+                    "probability": 0.9690231084823608
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.42,
+            "end": 17.76,
+            "text": " instead of spending it on the move out with the company.",
+            "tokens": [
+                51029,
+                2602,
+                295,
+                6434,
+                309,
+                322,
+                264,
+                1286,
+                484,
+                365,
+                264,
+                2237,
+                13,
+                51299
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22519393265247345,
+            "compression_ratio": 1.6979865771812082,
+            "no_speech_prob": 0.003210198599845171,
+            "words": [
+                {
+                    "word": " instead",
+                    "start": 13.42,
+                    "end": 13.76,
+                    "probability": 0.9575732350349426
+                },
+                {
+                    "word": " of",
+                    "start": 13.76,
+                    "end": 14.36,
+                    "probability": 0.9950059056282043
+                },
+                {
+                    "word": " spending",
+                    "start": 14.36,
+                    "end": 14.78,
+                    "probability": 0.9951350092887878
+                },
+                {
+                    "word": " it",
+                    "start": 14.78,
+                    "end": 15.34,
+                    "probability": 0.9849243760108948
+                },
+                {
+                    "word": " on",
+                    "start": 15.34,
+                    "end": 16.18,
+                    "probability": 0.9888675808906555
+                },
+                {
+                    "word": " the",
+                    "start": 16.18,
+                    "end": 16.52,
+                    "probability": 0.9725103974342346
+                },
+                {
+                    "word": " move",
+                    "start": 16.52,
+                    "end": 16.7,
+                    "probability": 0.8363980054855347
+                },
+                {
+                    "word": " out",
+                    "start": 16.7,
+                    "end": 17.04,
+                    "probability": 0.9414989948272705
+                },
+                {
+                    "word": " with",
+                    "start": 17.04,
+                    "end": 17.24,
+                    "probability": 0.9687245488166809
+                },
+                {
+                    "word": " the",
+                    "start": 17.24,
+                    "end": 17.44,
+                    "probability": 0.9938271641731262
+                },
+                {
+                    "word": " company.",
+                    "start": 17.44,
+                    "end": 17.76,
+                    "probability": 0.9957731366157532
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.54,
+            "end": 19.42,
+            "text": " What do you guys think?",
+            "tokens": [
+                51299,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                51335
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.22519393265247345,
+            "compression_ratio": 1.6979865771812082,
+            "no_speech_prob": 0.003210198599845171,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 18.54,
+                    "end": 18.74,
+                    "probability": 0.9228241443634033
+                },
+                {
+                    "word": " do",
+                    "start": 18.74,
+                    "end": 18.88,
+                    "probability": 0.8628919124603271
+                },
+                {
+                    "word": " you",
+                    "start": 18.88,
+                    "end": 18.96,
+                    "probability": 0.9916040301322937
+                },
+                {
+                    "word": " guys",
+                    "start": 18.96,
+                    "end": 19.12,
+                    "probability": 0.9806382656097412
+                },
+                {
+                    "word": " think?",
+                    "start": 19.12,
+                    "end": 19.42,
+                    "probability": 0.9968020915985107
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

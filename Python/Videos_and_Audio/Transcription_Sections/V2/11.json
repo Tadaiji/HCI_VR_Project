@@ -1,0 +1,1082 @@
+{
+    "text": " I think we should call the garbage disposal for this. So that they can take the pots and the table and the stuff with them. But I want a new sleeping sofa. So and a new table if we get even get rid of the old table because the old table isn't big enough for us and the new sleeping cup for the old sleeping coach to stay there in a few. And with the sleeping couch we had the problem that our guests needed to sleep on the floor and this isn't how a sleeping couch should work. So I think we should buy a new one and a new table while we're at it. So that we have enough space when more people are coming over.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " I think we should call the garbage disposal for this.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                321,
+                820,
+                818,
+                264,
+                14150,
+                26400,
+                337,
+                341,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2858006676962209,
+            "compression_ratio": 1.7688172043010753,
+            "no_speech_prob": 0.10706061124801636,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.7304800152778625
+                },
+                {
+                    "word": " think",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.9825736880302429
+                },
+                {
+                    "word": " we",
+                    "start": 0.74,
+                    "end": 0.96,
+                    "probability": 0.9609103202819824
+                },
+                {
+                    "word": " should",
+                    "start": 0.96,
+                    "end": 1.68,
+                    "probability": 0.9899640679359436
+                },
+                {
+                    "word": " call",
+                    "start": 1.68,
+                    "end": 2.16,
+                    "probability": 0.9680829048156738
+                },
+                {
+                    "word": " the",
+                    "start": 2.16,
+                    "end": 3.3,
+                    "probability": 0.8676594495773315
+                },
+                {
+                    "word": " garbage",
+                    "start": 3.3,
+                    "end": 3.76,
+                    "probability": 0.919191837310791
+                },
+                {
+                    "word": " disposal",
+                    "start": 3.76,
+                    "end": 4.14,
+                    "probability": 0.8644194602966309
+                },
+                {
+                    "word": " for",
+                    "start": 4.14,
+                    "end": 4.5,
+                    "probability": 0.201105535030365
+                },
+                {
+                    "word": " this.",
+                    "start": 4.5,
+                    "end": 4.76,
+                    "probability": 0.8944441676139832
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.16,
+            "end": 10.52,
+            "text": " So that they can take the pots and the table and the stuff with them.",
+            "tokens": [
+                50604,
+                407,
+                300,
+                436,
+                393,
+                747,
+                264,
+                22022,
+                293,
+                264,
+                3199,
+                293,
+                264,
+                1507,
+                365,
+                552,
+                13,
+                50904
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2858006676962209,
+            "compression_ratio": 1.7688172043010753,
+            "no_speech_prob": 0.10706061124801636,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.16,
+                    "end": 6.16,
+                    "probability": 0.49337974190711975
+                },
+                {
+                    "word": " that",
+                    "start": 6.16,
+                    "end": 6.68,
+                    "probability": 0.44478675723075867
+                },
+                {
+                    "word": " they",
+                    "start": 6.68,
+                    "end": 6.98,
+                    "probability": 0.8545458316802979
+                },
+                {
+                    "word": " can",
+                    "start": 6.98,
+                    "end": 7.26,
+                    "probability": 0.9795785546302795
+                },
+                {
+                    "word": " take",
+                    "start": 7.26,
+                    "end": 7.5,
+                    "probability": 0.9909150004386902
+                },
+                {
+                    "word": " the",
+                    "start": 7.5,
+                    "end": 7.74,
+                    "probability": 0.9841356873512268
+                },
+                {
+                    "word": " pots",
+                    "start": 7.74,
+                    "end": 7.96,
+                    "probability": 0.9425996541976929
+                },
+                {
+                    "word": " and",
+                    "start": 7.96,
+                    "end": 8.3,
+                    "probability": 0.9350264072418213
+                },
+                {
+                    "word": " the",
+                    "start": 8.3,
+                    "end": 8.5,
+                    "probability": 0.6417786478996277
+                },
+                {
+                    "word": " table",
+                    "start": 8.5,
+                    "end": 8.84,
+                    "probability": 0.9323742985725403
+                },
+                {
+                    "word": " and",
+                    "start": 8.84,
+                    "end": 9.16,
+                    "probability": 0.9136061072349548
+                },
+                {
+                    "word": " the",
+                    "start": 9.16,
+                    "end": 9.32,
+                    "probability": 0.8041030168533325
+                },
+                {
+                    "word": " stuff",
+                    "start": 9.32,
+                    "end": 9.68,
+                    "probability": 0.9701589941978455
+                },
+                {
+                    "word": " with",
+                    "start": 9.68,
+                    "end": 10.08,
+                    "probability": 0.9879773259162903
+                },
+                {
+                    "word": " them.",
+                    "start": 10.08,
+                    "end": 10.52,
+                    "probability": 0.9938852190971375
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.84,
+            "end": 13.92,
+            "text": " But I want a new sleeping sofa.",
+            "tokens": [
+                50904,
+                583,
+                286,
+                528,
+                257,
+                777,
+                8296,
+                28668,
+                13,
+                51084
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2858006676962209,
+            "compression_ratio": 1.7688172043010753,
+            "no_speech_prob": 0.10706061124801636,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 10.84,
+                    "end": 11.32,
+                    "probability": 0.9721751809120178
+                },
+                {
+                    "word": " I",
+                    "start": 11.32,
+                    "end": 11.8,
+                    "probability": 0.9342164397239685
+                },
+                {
+                    "word": " want",
+                    "start": 11.8,
+                    "end": 12.18,
+                    "probability": 0.9968085885047913
+                },
+                {
+                    "word": " a",
+                    "start": 12.18,
+                    "end": 12.28,
+                    "probability": 0.958649754524231
+                },
+                {
+                    "word": " new",
+                    "start": 12.28,
+                    "end": 13.14,
+                    "probability": 0.9969270825386047
+                },
+                {
+                    "word": " sleeping",
+                    "start": 13.14,
+                    "end": 13.54,
+                    "probability": 0.9949811100959778
+                },
+                {
+                    "word": " sofa.",
+                    "start": 13.54,
+                    "end": 13.92,
+                    "probability": 0.9850870370864868
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.26,
+            "end": 21.84,
+            "text": " So and a new table if we get even get rid of the old table because the old table isn't",
+            "tokens": [
+                51084,
+                407,
+                293,
+                257,
+                777,
+                3199,
+                498,
+                321,
+                483,
+                754,
+                483,
+                3973,
+                295,
+                264,
+                1331,
+                3199,
+                570,
+                264,
+                1331,
+                3199,
+                1943,
+                380,
+                51454
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2858006676962209,
+            "compression_ratio": 1.7688172043010753,
+            "no_speech_prob": 0.10706061124801636,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 15.26,
+                    "end": 15.26,
+                    "probability": 0.4674637019634247
+                },
+                {
+                    "word": " and",
+                    "start": 15.26,
+                    "end": 16.0,
+                    "probability": 0.4021020829677582
+                },
+                {
+                    "word": " a",
+                    "start": 16.0,
+                    "end": 16.1,
+                    "probability": 0.9282784461975098
+                },
+                {
+                    "word": " new",
+                    "start": 16.1,
+                    "end": 16.26,
+                    "probability": 0.9965380430221558
+                },
+                {
+                    "word": " table",
+                    "start": 16.26,
+                    "end": 16.68,
+                    "probability": 0.9990779161453247
+                },
+                {
+                    "word": " if",
+                    "start": 16.68,
+                    "end": 17.14,
+                    "probability": 0.5295241475105286
+                },
+                {
+                    "word": " we",
+                    "start": 17.14,
+                    "end": 17.4,
+                    "probability": 0.9958265423774719
+                },
+                {
+                    "word": " get",
+                    "start": 17.4,
+                    "end": 17.66,
+                    "probability": 0.6504042744636536
+                },
+                {
+                    "word": " even",
+                    "start": 17.66,
+                    "end": 18.26,
+                    "probability": 0.7711389660835266
+                },
+                {
+                    "word": " get",
+                    "start": 18.26,
+                    "end": 18.5,
+                    "probability": 0.7980934381484985
+                },
+                {
+                    "word": " rid",
+                    "start": 18.5,
+                    "end": 18.64,
+                    "probability": 0.9986639022827148
+                },
+                {
+                    "word": " of",
+                    "start": 18.64,
+                    "end": 18.82,
+                    "probability": 0.995512068271637
+                },
+                {
+                    "word": " the",
+                    "start": 18.82,
+                    "end": 18.96,
+                    "probability": 0.9937998652458191
+                },
+                {
+                    "word": " old",
+                    "start": 18.96,
+                    "end": 19.12,
+                    "probability": 0.9949117302894592
+                },
+                {
+                    "word": " table",
+                    "start": 19.12,
+                    "end": 19.42,
+                    "probability": 0.9915879368782043
+                },
+                {
+                    "word": " because",
+                    "start": 19.42,
+                    "end": 20.54,
+                    "probability": 0.3739685118198395
+                },
+                {
+                    "word": " the",
+                    "start": 20.54,
+                    "end": 21.26,
+                    "probability": 0.9792934656143188
+                },
+                {
+                    "word": " old",
+                    "start": 21.26,
+                    "end": 21.42,
+                    "probability": 0.9706047773361206
+                },
+                {
+                    "word": " table",
+                    "start": 21.42,
+                    "end": 21.58,
+                    "probability": 0.995201826095581
+                },
+                {
+                    "word": " isn't",
+                    "start": 21.58,
+                    "end": 21.84,
+                    "probability": 0.9512003660202026
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.84,
+            "end": 29.4,
+            "text": " big enough for us and the new sleeping cup for the old sleeping coach to stay there in",
+            "tokens": [
+                51454,
+                955,
+                1547,
+                337,
+                505,
+                293,
+                264,
+                777,
+                8296,
+                4414,
+                337,
+                264,
+                1331,
+                8296,
+                6560,
+                281,
+                1754,
+                456,
+                294,
+                51728
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2858006676962209,
+            "compression_ratio": 1.7688172043010753,
+            "no_speech_prob": 0.10706061124801636,
+            "words": [
+                {
+                    "word": " big",
+                    "start": 21.84,
+                    "end": 22.06,
+                    "probability": 0.9976966977119446
+                },
+                {
+                    "word": " enough",
+                    "start": 22.06,
+                    "end": 22.32,
+                    "probability": 0.9985054731369019
+                },
+                {
+                    "word": " for",
+                    "start": 22.32,
+                    "end": 22.52,
+                    "probability": 0.9913813471794128
+                },
+                {
+                    "word": " us",
+                    "start": 22.52,
+                    "end": 22.76,
+                    "probability": 0.9879642724990845
+                },
+                {
+                    "word": " and",
+                    "start": 22.76,
+                    "end": 23.34,
+                    "probability": 0.7018155455589294
+                },
+                {
+                    "word": " the",
+                    "start": 23.34,
+                    "end": 23.62,
+                    "probability": 0.9767434597015381
+                },
+                {
+                    "word": " new",
+                    "start": 23.62,
+                    "end": 23.84,
+                    "probability": 0.9911811351776123
+                },
+                {
+                    "word": " sleeping",
+                    "start": 23.84,
+                    "end": 24.2,
+                    "probability": 0.9863998889923096
+                },
+                {
+                    "word": " cup",
+                    "start": 24.2,
+                    "end": 24.48,
+                    "probability": 0.7440282106399536
+                },
+                {
+                    "word": " for",
+                    "start": 24.48,
+                    "end": 24.78,
+                    "probability": 0.6594193577766418
+                },
+                {
+                    "word": " the",
+                    "start": 24.78,
+                    "end": 24.88,
+                    "probability": 0.9707349538803101
+                },
+                {
+                    "word": " old",
+                    "start": 24.88,
+                    "end": 25.08,
+                    "probability": 0.9835763573646545
+                },
+                {
+                    "word": " sleeping",
+                    "start": 25.08,
+                    "end": 25.42,
+                    "probability": 0.9854444861412048
+                },
+                {
+                    "word": " coach",
+                    "start": 25.42,
+                    "end": 25.88,
+                    "probability": 0.5643940567970276
+                },
+                {
+                    "word": " to",
+                    "start": 25.88,
+                    "end": 26.48,
+                    "probability": 0.5450640916824341
+                },
+                {
+                    "word": " stay",
+                    "start": 26.48,
+                    "end": 26.96,
+                    "probability": 0.25646063685417175
+                },
+                {
+                    "word": " there",
+                    "start": 26.96,
+                    "end": 27.3,
+                    "probability": 0.6256557703018188
+                },
+                {
+                    "word": " in",
+                    "start": 27.3,
+                    "end": 29.4,
+                    "probability": 0.8115856647491455
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2940,
+            "start": 29.4,
+            "end": 29.52,
+            "text": " a few.",
+            "tokens": [
+                50364,
+                257,
+                1326,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27940584818522135,
+            "compression_ratio": 1.6091954022988506,
+            "no_speech_prob": 0.6242092251777649,
+            "words": [
+                {
+                    "word": " a",
+                    "start": 29.4,
+                    "end": 29.48,
+                    "probability": 0.005404086317867041
+                },
+                {
+                    "word": " few.",
+                    "start": 29.48,
+                    "end": 29.52,
+                    "probability": 0.06429574638605118
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2940,
+            "start": 30.14,
+            "end": 36.2,
+            "text": " And with the sleeping couch we had the problem that our guests needed to sleep on the floor",
+            "tokens": [
+                50414,
+                400,
+                365,
+                264,
+                8296,
+                16511,
+                321,
+                632,
+                264,
+                1154,
+                300,
+                527,
+                9804,
+                2978,
+                281,
+                2817,
+                322,
+                264,
+                4123,
+                50708
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27940584818522135,
+            "compression_ratio": 1.6091954022988506,
+            "no_speech_prob": 0.6242092251777649,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 30.14,
+                    "end": 30.58,
+                    "probability": 0.600737988948822
+                },
+                {
+                    "word": " with",
+                    "start": 30.58,
+                    "end": 32.26,
+                    "probability": 0.8609378933906555
+                },
+                {
+                    "word": " the",
+                    "start": 32.26,
+                    "end": 32.42,
+                    "probability": 0.9693627953529358
+                },
+                {
+                    "word": " sleeping",
+                    "start": 32.42,
+                    "end": 32.64,
+                    "probability": 0.990562915802002
+                },
+                {
+                    "word": " couch",
+                    "start": 32.64,
+                    "end": 32.92,
+                    "probability": 0.9782028794288635
+                },
+                {
+                    "word": " we",
+                    "start": 32.92,
+                    "end": 33.08,
+                    "probability": 0.7616795301437378
+                },
+                {
+                    "word": " had",
+                    "start": 33.08,
+                    "end": 33.2,
+                    "probability": 0.9413791298866272
+                },
+                {
+                    "word": " the",
+                    "start": 33.2,
+                    "end": 33.44,
+                    "probability": 0.9041393995285034
+                },
+                {
+                    "word": " problem",
+                    "start": 33.44,
+                    "end": 33.66,
+                    "probability": 0.9901371002197266
+                },
+                {
+                    "word": " that",
+                    "start": 33.66,
+                    "end": 34.1,
+                    "probability": 0.9481918811798096
+                },
+                {
+                    "word": " our",
+                    "start": 34.1,
+                    "end": 34.26,
+                    "probability": 0.9767469763755798
+                },
+                {
+                    "word": " guests",
+                    "start": 34.26,
+                    "end": 34.74,
+                    "probability": 0.8504783511161804
+                },
+                {
+                    "word": " needed",
+                    "start": 34.74,
+                    "end": 35.18,
+                    "probability": 0.914304256439209
+                },
+                {
+                    "word": " to",
+                    "start": 35.18,
+                    "end": 35.46,
+                    "probability": 0.9935177564620972
+                },
+                {
+                    "word": " sleep",
+                    "start": 35.46,
+                    "end": 35.58,
+                    "probability": 0.9973337650299072
+                },
+                {
+                    "word": " on",
+                    "start": 35.58,
+                    "end": 35.86,
+                    "probability": 0.996265709400177
+                },
+                {
+                    "word": " the",
+                    "start": 35.86,
+                    "end": 35.96,
+                    "probability": 0.996799111366272
+                },
+                {
+                    "word": " floor",
+                    "start": 35.96,
+                    "end": 36.2,
+                    "probability": 0.9961200952529907
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2940,
+            "start": 36.2,
+            "end": 39.44,
+            "text": " and this isn't how a sleeping couch should work.",
+            "tokens": [
+                50708,
+                293,
+                341,
+                1943,
+                380,
+                577,
+                257,
+                8296,
+                16511,
+                820,
+                589,
+                13,
+                50876
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27940584818522135,
+            "compression_ratio": 1.6091954022988506,
+            "no_speech_prob": 0.6242092251777649,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 36.2,
+                    "end": 37.0,
+                    "probability": 0.6816344857215881
+                },
+                {
+                    "word": " this",
+                    "start": 37.0,
+                    "end": 37.64,
+                    "probability": 0.7285652160644531
+                },
+                {
+                    "word": " isn't",
+                    "start": 37.64,
+                    "end": 37.96,
+                    "probability": 0.9080973863601685
+                },
+                {
+                    "word": " how",
+                    "start": 37.96,
+                    "end": 38.22,
+                    "probability": 0.9934093952178955
+                },
+                {
+                    "word": " a",
+                    "start": 38.22,
+                    "end": 38.42,
+                    "probability": 0.7573862671852112
+                },
+                {
+                    "word": " sleeping",
+                    "start": 38.42,
+                    "end": 38.64,
+                    "probability": 0.991412878036499
+                },
+                {
+                    "word": " couch",
+                    "start": 38.64,
+                    "end": 38.94,
+                    "probability": 0.9931814074516296
+                },
+                {
+                    "word": " should",
+                    "start": 38.94,
+                    "end": 39.26,
+                    "probability": 0.9157909750938416
+                },
+                {
+                    "word": " work.",
+                    "start": 39.26,
+                    "end": 39.44,
+                    "probability": 0.9971032738685608
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2940,
+            "start": 39.56,
+            "end": 45.64,
+            "text": " So I think we should buy a new one and a new table while we're at it.",
+            "tokens": [
+                50876,
+                407,
+                286,
+                519,
+                321,
+                820,
+                2256,
+                257,
+                777,
+                472,
+                293,
+                257,
+                777,
+                3199,
+                1339,
+                321,
+                434,
+                412,
+                309,
+                13,
+                51186
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27940584818522135,
+            "compression_ratio": 1.6091954022988506,
+            "no_speech_prob": 0.6242092251777649,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 39.56,
+                    "end": 39.98,
+                    "probability": 0.9761725664138794
+                },
+                {
+                    "word": " I",
+                    "start": 39.98,
+                    "end": 40.08,
+                    "probability": 0.8546002507209778
+                },
+                {
+                    "word": " think",
+                    "start": 40.08,
+                    "end": 40.28,
+                    "probability": 0.9972425699234009
+                },
+                {
+                    "word": " we",
+                    "start": 40.28,
+                    "end": 40.42,
+                    "probability": 0.9881438612937927
+                },
+                {
+                    "word": " should",
+                    "start": 40.42,
+                    "end": 41.4,
+                    "probability": 0.9975257515907288
+                },
+                {
+                    "word": " buy",
+                    "start": 41.4,
+                    "end": 41.74,
+                    "probability": 0.9879406690597534
+                },
+                {
+                    "word": " a",
+                    "start": 41.74,
+                    "end": 41.88,
+                    "probability": 0.9937517046928406
+                },
+                {
+                    "word": " new",
+                    "start": 41.88,
+                    "end": 42.08,
+                    "probability": 0.9991377592086792
+                },
+                {
+                    "word": " one",
+                    "start": 42.08,
+                    "end": 42.4,
+                    "probability": 0.9974644184112549
+                },
+                {
+                    "word": " and",
+                    "start": 42.4,
+                    "end": 43.32,
+                    "probability": 0.9290542006492615
+                },
+                {
+                    "word": " a",
+                    "start": 43.32,
+                    "end": 43.48,
+                    "probability": 0.8736668229103088
+                },
+                {
+                    "word": " new",
+                    "start": 43.48,
+                    "end": 43.72,
+                    "probability": 0.9882962107658386
+                },
+                {
+                    "word": " table",
+                    "start": 43.72,
+                    "end": 44.08,
+                    "probability": 0.9810799360275269
+                },
+                {
+                    "word": " while",
+                    "start": 44.08,
+                    "end": 44.52,
+                    "probability": 0.8897861838340759
+                },
+                {
+                    "word": " we're",
+                    "start": 44.52,
+                    "end": 44.8,
+                    "probability": 0.7556345462799072
+                },
+                {
+                    "word": " at",
+                    "start": 44.8,
+                    "end": 44.88,
+                    "probability": 0.9702315926551819
+                },
+                {
+                    "word": " it.",
+                    "start": 44.88,
+                    "end": 45.64,
+                    "probability": 0.9894005656242371
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2940,
+            "start": 45.76,
+            "end": 49.32,
+            "text": " So that we have enough space when more people are coming over.",
+            "tokens": [
+                51186,
+                407,
+                300,
+                321,
+                362,
+                1547,
+                1901,
+                562,
+                544,
+                561,
+                366,
+                1348,
+                670,
+                13,
+                51424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27940584818522135,
+            "compression_ratio": 1.6091954022988506,
+            "no_speech_prob": 0.6242092251777649,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 45.76,
+                    "end": 46.02,
+                    "probability": 0.9809809923171997
+                },
+                {
+                    "word": " that",
+                    "start": 46.02,
+                    "end": 46.2,
+                    "probability": 0.9317360520362854
+                },
+                {
+                    "word": " we",
+                    "start": 46.2,
+                    "end": 46.28,
+                    "probability": 0.9952259063720703
+                },
+                {
+                    "word": " have",
+                    "start": 46.28,
+                    "end": 46.42,
+                    "probability": 0.9836012721061707
+                },
+                {
+                    "word": " enough",
+                    "start": 46.42,
+                    "end": 46.66,
+                    "probability": 0.992495059967041
+                },
+                {
+                    "word": " space",
+                    "start": 46.66,
+                    "end": 47.26,
+                    "probability": 0.9978801012039185
+                },
+                {
+                    "word": " when",
+                    "start": 47.26,
+                    "end": 48.04,
+                    "probability": 0.9137575030326843
+                },
+                {
+                    "word": " more",
+                    "start": 48.04,
+                    "end": 48.28,
+                    "probability": 0.9938685297966003
+                },
+                {
+                    "word": " people",
+                    "start": 48.28,
+                    "end": 48.54,
+                    "probability": 0.9987519979476929
+                },
+                {
+                    "word": " are",
+                    "start": 48.54,
+                    "end": 48.76,
+                    "probability": 0.9911320805549622
+                },
+                {
+                    "word": " coming",
+                    "start": 48.76,
+                    "end": 48.98,
+                    "probability": 0.99790358543396
+                },
+                {
+                    "word": " over.",
+                    "start": 48.98,
+                    "end": 49.32,
+                    "probability": 0.9916849136352539
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,99 @@
+{
+    "text": " And please don't forget the Persian Rukh. It's really expensive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.08,
+            "end": 3.3,
+            "text": " And please don't forget the Persian Rukh. It's really expensive.",
+            "tokens": [
+                50364,
+                400,
+                1767,
+                500,
+                380,
+                2870,
+                264,
+                30699,
+                497,
+                2034,
+                71,
+                13,
+                467,
+                311,
+                534,
+                5124,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5058162086888364,
+            "compression_ratio": 0.9014084507042254,
+            "no_speech_prob": 0.2181718498468399,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.08,
+                    "end": 0.6,
+                    "probability": 0.3430880606174469
+                },
+                {
+                    "word": " please",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9667855501174927
+                },
+                {
+                    "word": " don't",
+                    "start": 0.84,
+                    "end": 1.08,
+                    "probability": 0.9823251068592072
+                },
+                {
+                    "word": " forget",
+                    "start": 1.08,
+                    "end": 1.32,
+                    "probability": 0.9970353841781616
+                },
+                {
+                    "word": " the",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.427935391664505
+                },
+                {
+                    "word": " Persian",
+                    "start": 1.58,
+                    "end": 1.8,
+                    "probability": 0.7738094925880432
+                },
+                {
+                    "word": " Rukh.",
+                    "start": 1.8,
+                    "end": 2.48,
+                    "probability": 0.5906686385472616
+                },
+                {
+                    "word": " It's",
+                    "start": 2.48,
+                    "end": 2.8,
+                    "probability": 0.7791529297828674
+                },
+                {
+                    "word": " really",
+                    "start": 2.8,
+                    "end": 2.96,
+                    "probability": 0.844295859336853
+                },
+                {
+                    "word": " expensive.",
+                    "start": 2.96,
+                    "end": 3.3,
+                    "probability": 0.9588496088981628
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

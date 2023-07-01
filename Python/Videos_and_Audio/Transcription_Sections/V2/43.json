@@ -1,0 +1,31 @@
+{
+    "text": " Um.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.36,
+            "text": " Um.",
+            "tokens": [
+                50364,
+                3301,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6764325141906739,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.5798286199569702,
+            "words": [
+                {
+                    "word": " Um.",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6253097057342529
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

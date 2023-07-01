@@ -1,0 +1,480 @@
+{
+    "text": " Yeah, sounds good and I think the new curtains could also help us with lighting in the room. So we have a little bit more light when even when we want to close the curtains. Because with these blinds we don't have much light here anymore. Yeah and I want to remove the wall to wall carpet.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.42,
+            "text": " Yeah, sounds good and I think the new curtains could also help us with lighting in the room.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                3263,
+                665,
+                293,
+                286,
+                519,
+                264,
+                777,
+                36539,
+                727,
+                611,
+                854,
+                505,
+                365,
+                9577,
+                294,
+                264,
+                1808,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2418183627193921,
+            "compression_ratio": 1.5706521739130435,
+            "no_speech_prob": 0.005685658659785986,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.42243772745132446
+                },
+                {
+                    "word": " sounds",
+                    "start": 0.94,
+                    "end": 1.18,
+                    "probability": 0.6853912472724915
+                },
+                {
+                    "word": " good",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.9954842329025269
+                },
+                {
+                    "word": " and",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.45312193036079407
+                },
+                {
+                    "word": " I",
+                    "start": 1.96,
+                    "end": 2.04,
+                    "probability": 0.891342043876648
+                },
+                {
+                    "word": " think",
+                    "start": 2.04,
+                    "end": 2.32,
+                    "probability": 0.9940477609634399
+                },
+                {
+                    "word": " the",
+                    "start": 2.32,
+                    "end": 2.52,
+                    "probability": 0.9533016085624695
+                },
+                {
+                    "word": " new",
+                    "start": 2.52,
+                    "end": 2.74,
+                    "probability": 0.9688576459884644
+                },
+                {
+                    "word": " curtains",
+                    "start": 2.74,
+                    "end": 2.88,
+                    "probability": 0.957802414894104
+                },
+                {
+                    "word": " could",
+                    "start": 2.88,
+                    "end": 3.2,
+                    "probability": 0.9312341809272766
+                },
+                {
+                    "word": " also",
+                    "start": 3.2,
+                    "end": 3.48,
+                    "probability": 0.9624555110931396
+                },
+                {
+                    "word": " help",
+                    "start": 3.48,
+                    "end": 3.68,
+                    "probability": 0.9949571490287781
+                },
+                {
+                    "word": " us",
+                    "start": 3.68,
+                    "end": 4.04,
+                    "probability": 0.9749624133110046
+                },
+                {
+                    "word": " with",
+                    "start": 4.04,
+                    "end": 5.44,
+                    "probability": 0.9832337498664856
+                },
+                {
+                    "word": " lighting",
+                    "start": 5.44,
+                    "end": 5.8,
+                    "probability": 0.8510926961898804
+                },
+                {
+                    "word": " in",
+                    "start": 5.8,
+                    "end": 6.04,
+                    "probability": 0.9831452369689941
+                },
+                {
+                    "word": " the",
+                    "start": 6.04,
+                    "end": 6.16,
+                    "probability": 0.994061291217804
+                },
+                {
+                    "word": " room.",
+                    "start": 6.16,
+                    "end": 6.42,
+                    "probability": 0.9553619623184204
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.88,
+            "end": 11.66,
+            "text": " So we have a little bit more light when even when we want to close the curtains.",
+            "tokens": [
+                50684,
+                407,
+                321,
+                362,
+                257,
+                707,
+                857,
+                544,
+                1442,
+                562,
+                754,
+                562,
+                321,
+                528,
+                281,
+                1998,
+                264,
+                36539,
+                13,
+                50944
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2418183627193921,
+            "compression_ratio": 1.5706521739130435,
+            "no_speech_prob": 0.005685658659785986,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.88,
+                    "end": 6.88,
+                    "probability": 0.8687334060668945
+                },
+                {
+                    "word": " we",
+                    "start": 6.88,
+                    "end": 7.16,
+                    "probability": 0.8289517760276794
+                },
+                {
+                    "word": " have",
+                    "start": 7.16,
+                    "end": 7.3,
+                    "probability": 0.8557894229888916
+                },
+                {
+                    "word": " a",
+                    "start": 7.3,
+                    "end": 7.38,
+                    "probability": 0.9615520238876343
+                },
+                {
+                    "word": " little",
+                    "start": 7.38,
+                    "end": 7.56,
+                    "probability": 0.9823746085166931
+                },
+                {
+                    "word": " bit",
+                    "start": 7.56,
+                    "end": 7.72,
+                    "probability": 0.9486746191978455
+                },
+                {
+                    "word": " more",
+                    "start": 7.72,
+                    "end": 7.88,
+                    "probability": 0.9963929057121277
+                },
+                {
+                    "word": " light",
+                    "start": 7.88,
+                    "end": 8.3,
+                    "probability": 0.9935114979743958
+                },
+                {
+                    "word": " when",
+                    "start": 8.3,
+                    "end": 8.72,
+                    "probability": 0.39000940322875977
+                },
+                {
+                    "word": " even",
+                    "start": 8.72,
+                    "end": 9.66,
+                    "probability": 0.557898998260498
+                },
+                {
+                    "word": " when",
+                    "start": 9.66,
+                    "end": 9.9,
+                    "probability": 0.9055464863777161
+                },
+                {
+                    "word": " we",
+                    "start": 9.9,
+                    "end": 10.14,
+                    "probability": 0.9686663746833801
+                },
+                {
+                    "word": " want",
+                    "start": 10.14,
+                    "end": 10.34,
+                    "probability": 0.9940998554229736
+                },
+                {
+                    "word": " to",
+                    "start": 10.34,
+                    "end": 10.86,
+                    "probability": 0.997168242931366
+                },
+                {
+                    "word": " close",
+                    "start": 10.86,
+                    "end": 11.1,
+                    "probability": 0.9863340258598328
+                },
+                {
+                    "word": " the",
+                    "start": 11.1,
+                    "end": 11.32,
+                    "probability": 0.8696225881576538
+                },
+                {
+                    "word": " curtains.",
+                    "start": 11.32,
+                    "end": 11.66,
+                    "probability": 0.9881886839866638
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.54,
+            "end": 16.96,
+            "text": " Because with these blinds we don't have much light here anymore.",
+            "tokens": [
+                50984,
+                1436,
+                365,
+                613,
+                6865,
+                82,
+                321,
+                500,
+                380,
+                362,
+                709,
+                1442,
+                510,
+                3602,
+                13,
+                51200
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2418183627193921,
+            "compression_ratio": 1.5706521739130435,
+            "no_speech_prob": 0.005685658659785986,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 12.54,
+                    "end": 12.86,
+                    "probability": 0.9378573894500732
+                },
+                {
+                    "word": " with",
+                    "start": 12.86,
+                    "end": 13.16,
+                    "probability": 0.9709949493408203
+                },
+                {
+                    "word": " these",
+                    "start": 13.16,
+                    "end": 13.62,
+                    "probability": 0.894950270652771
+                },
+                {
+                    "word": " blinds",
+                    "start": 13.62,
+                    "end": 14.82,
+                    "probability": 0.9737041890621185
+                },
+                {
+                    "word": " we",
+                    "start": 14.82,
+                    "end": 15.04,
+                    "probability": 0.7711647748947144
+                },
+                {
+                    "word": " don't",
+                    "start": 15.04,
+                    "end": 15.28,
+                    "probability": 0.9897532165050507
+                },
+                {
+                    "word": " have",
+                    "start": 15.28,
+                    "end": 15.46,
+                    "probability": 0.9968121647834778
+                },
+                {
+                    "word": " much",
+                    "start": 15.46,
+                    "end": 15.7,
+                    "probability": 0.981684148311615
+                },
+                {
+                    "word": " light",
+                    "start": 15.7,
+                    "end": 16.06,
+                    "probability": 0.9923041462898254
+                },
+                {
+                    "word": " here",
+                    "start": 16.06,
+                    "end": 16.38,
+                    "probability": 0.7903688549995422
+                },
+                {
+                    "word": " anymore.",
+                    "start": 16.38,
+                    "end": 16.96,
+                    "probability": 0.9671092629432678
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.6,
+            "end": 22.0,
+            "text": " Yeah and I want to remove the wall to wall carpet.",
+            "tokens": [
+                51284,
+                865,
+                293,
+                286,
+                528,
+                281,
+                4159,
+                264,
+                2929,
+                281,
+                2929,
+                18119,
+                13,
+                51460
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2418183627193921,
+            "compression_ratio": 1.5706521739130435,
+            "no_speech_prob": 0.005685658659785986,
+            "words": [
+                {
+                    "word": " Yeah",
+                    "start": 18.6,
+                    "end": 18.8,
+                    "probability": 0.7280572056770325
+                },
+                {
+                    "word": " and",
+                    "start": 18.8,
+                    "end": 19.2,
+                    "probability": 0.3694458305835724
+                },
+                {
+                    "word": " I",
+                    "start": 19.2,
+                    "end": 19.84,
+                    "probability": 0.9752972722053528
+                },
+                {
+                    "word": " want",
+                    "start": 19.84,
+                    "end": 20.08,
+                    "probability": 0.9973570704460144
+                },
+                {
+                    "word": " to",
+                    "start": 20.08,
+                    "end": 20.48,
+                    "probability": 0.9994683861732483
+                },
+                {
+                    "word": " remove",
+                    "start": 20.48,
+                    "end": 20.9,
+                    "probability": 0.9978119134902954
+                },
+                {
+                    "word": " the",
+                    "start": 20.9,
+                    "end": 21.32,
+                    "probability": 0.9945289492607117
+                },
+                {
+                    "word": " wall",
+                    "start": 21.32,
+                    "end": 21.48,
+                    "probability": 0.640835165977478
+                },
+                {
+                    "word": " to",
+                    "start": 21.48,
+                    "end": 21.58,
+                    "probability": 0.6528578400611877
+                },
+                {
+                    "word": " wall",
+                    "start": 21.58,
+                    "end": 21.78,
+                    "probability": 0.9909092783927917
+                },
+                {
+                    "word": " carpet.",
+                    "start": 21.78,
+                    "end": 22.0,
+                    "probability": 0.43731677532196045
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

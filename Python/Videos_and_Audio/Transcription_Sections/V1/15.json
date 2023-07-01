@@ -1,0 +1,1001 @@
+{
+    "text": " Well, I have a good idea and the idea is when I used to live in the student dormitory one year ago with many of my friends and there I was helping them in shifting their stuff, in moving out and when they are getting new appliances or anything. So they are also up for me to help here in moving out all the stuff and also there is a good idea we can have a small together or like a party we can have the food and drinks here and like at the end of the party we can take help from our friend and they can also help us in moving out. What do you guys think? I think it sounds good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.72,
+            "text": " Well, I have a good idea and the idea is when I used to live in the student dormitory",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                362,
+                257,
+                665,
+                1558,
+                293,
+                264,
+                1558,
+                307,
+                562,
+                286,
+                1143,
+                281,
+                1621,
+                294,
+                264,
+                3107,
+                12521,
+                270,
+                827,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14972839148148245,
+            "compression_ratio": 1.7572815533980584,
+            "no_speech_prob": 0.021868858486413956,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.5767326951026917
+                },
+                {
+                    "word": " I",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9662719964981079
+                },
+                {
+                    "word": " have",
+                    "start": 0.58,
+                    "end": 0.94,
+                    "probability": 0.9945007562637329
+                },
+                {
+                    "word": " a",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.995231568813324
+                },
+                {
+                    "word": " good",
+                    "start": 1.12,
+                    "end": 1.36,
+                    "probability": 0.997265100479126
+                },
+                {
+                    "word": " idea",
+                    "start": 1.36,
+                    "end": 1.88,
+                    "probability": 0.9960302710533142
+                },
+                {
+                    "word": " and",
+                    "start": 1.88,
+                    "end": 2.6,
+                    "probability": 0.6489357352256775
+                },
+                {
+                    "word": " the",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.4863559901714325
+                },
+                {
+                    "word": " idea",
+                    "start": 2.8,
+                    "end": 3.12,
+                    "probability": 0.9965111613273621
+                },
+                {
+                    "word": " is",
+                    "start": 3.12,
+                    "end": 3.82,
+                    "probability": 0.9963206052780151
+                },
+                {
+                    "word": " when",
+                    "start": 3.82,
+                    "end": 4.28,
+                    "probability": 0.7424861192703247
+                },
+                {
+                    "word": " I",
+                    "start": 4.28,
+                    "end": 4.54,
+                    "probability": 0.9558510184288025
+                },
+                {
+                    "word": " used",
+                    "start": 4.54,
+                    "end": 4.76,
+                    "probability": 0.9933276176452637
+                },
+                {
+                    "word": " to",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.9991592168807983
+                },
+                {
+                    "word": " live",
+                    "start": 5.0,
+                    "end": 5.22,
+                    "probability": 0.9985414743423462
+                },
+                {
+                    "word": " in",
+                    "start": 5.22,
+                    "end": 5.6,
+                    "probability": 0.9926377534866333
+                },
+                {
+                    "word": " the",
+                    "start": 5.6,
+                    "end": 5.8,
+                    "probability": 0.9827950596809387
+                },
+                {
+                    "word": " student",
+                    "start": 5.8,
+                    "end": 6.02,
+                    "probability": 0.9758521914482117
+                },
+                {
+                    "word": " dormitory",
+                    "start": 6.02,
+                    "end": 6.72,
+                    "probability": 0.9948813716570536
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.72,
+            "end": 14.32,
+            "text": " one year ago with many of my friends and there I was helping them in shifting their stuff,",
+            "tokens": [
+                50716,
+                472,
+                1064,
+                2057,
+                365,
+                867,
+                295,
+                452,
+                1855,
+                293,
+                456,
+                286,
+                390,
+                4315,
+                552,
+                294,
+                17573,
+                641,
+                1507,
+                11,
+                51072
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14972839148148245,
+            "compression_ratio": 1.7572815533980584,
+            "no_speech_prob": 0.021868858486413956,
+            "words": [
+                {
+                    "word": " one",
+                    "start": 6.72,
+                    "end": 7.42,
+                    "probability": 0.6586581468582153
+                },
+                {
+                    "word": " year",
+                    "start": 7.42,
+                    "end": 7.9,
+                    "probability": 0.9924890995025635
+                },
+                {
+                    "word": " ago",
+                    "start": 7.9,
+                    "end": 8.34,
+                    "probability": 0.9950053095817566
+                },
+                {
+                    "word": " with",
+                    "start": 8.34,
+                    "end": 8.72,
+                    "probability": 0.9587709307670593
+                },
+                {
+                    "word": " many",
+                    "start": 8.72,
+                    "end": 9.68,
+                    "probability": 0.7360105514526367
+                },
+                {
+                    "word": " of",
+                    "start": 9.68,
+                    "end": 9.82,
+                    "probability": 0.9986849427223206
+                },
+                {
+                    "word": " my",
+                    "start": 9.82,
+                    "end": 9.98,
+                    "probability": 0.9989587068557739
+                },
+                {
+                    "word": " friends",
+                    "start": 9.98,
+                    "end": 10.2,
+                    "probability": 0.9969325065612793
+                },
+                {
+                    "word": " and",
+                    "start": 10.2,
+                    "end": 10.58,
+                    "probability": 0.8121983408927917
+                },
+                {
+                    "word": " there",
+                    "start": 10.58,
+                    "end": 10.96,
+                    "probability": 0.974791944026947
+                },
+                {
+                    "word": " I",
+                    "start": 10.96,
+                    "end": 11.92,
+                    "probability": 0.9560844898223877
+                },
+                {
+                    "word": " was",
+                    "start": 11.92,
+                    "end": 12.44,
+                    "probability": 0.6806972622871399
+                },
+                {
+                    "word": " helping",
+                    "start": 12.44,
+                    "end": 12.84,
+                    "probability": 0.9745080471038818
+                },
+                {
+                    "word": " them",
+                    "start": 12.84,
+                    "end": 13.26,
+                    "probability": 0.9986972212791443
+                },
+                {
+                    "word": " in",
+                    "start": 13.26,
+                    "end": 13.5,
+                    "probability": 0.9311400651931763
+                },
+                {
+                    "word": " shifting",
+                    "start": 13.5,
+                    "end": 13.74,
+                    "probability": 0.9977872371673584
+                },
+                {
+                    "word": " their",
+                    "start": 13.74,
+                    "end": 14.04,
+                    "probability": 0.991213858127594
+                },
+                {
+                    "word": " stuff,",
+                    "start": 14.04,
+                    "end": 14.32,
+                    "probability": 0.9750060439109802
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.38,
+            "end": 18.98,
+            "text": " in moving out and when they are getting new appliances or anything. So they are also up for",
+            "tokens": [
+                51072,
+                294,
+                2684,
+                484,
+                293,
+                562,
+                436,
+                366,
+                1242,
+                777,
+                35480,
+                420,
+                1340,
+                13,
+                407,
+                436,
+                366,
+                611,
+                493,
+                337,
+                51304
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14972839148148245,
+            "compression_ratio": 1.7572815533980584,
+            "no_speech_prob": 0.021868858486413956,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 14.38,
+                    "end": 14.54,
+                    "probability": 0.8884010910987854
+                },
+                {
+                    "word": " moving",
+                    "start": 14.54,
+                    "end": 14.76,
+                    "probability": 0.9985346794128418
+                },
+                {
+                    "word": " out",
+                    "start": 14.76,
+                    "end": 15.14,
+                    "probability": 0.9976656436920166
+                },
+                {
+                    "word": " and",
+                    "start": 15.14,
+                    "end": 15.34,
+                    "probability": 0.6475924253463745
+                },
+                {
+                    "word": " when",
+                    "start": 15.34,
+                    "end": 15.52,
+                    "probability": 0.5176566243171692
+                },
+                {
+                    "word": " they",
+                    "start": 15.52,
+                    "end": 15.78,
+                    "probability": 0.9968656897544861
+                },
+                {
+                    "word": " are",
+                    "start": 15.78,
+                    "end": 15.88,
+                    "probability": 0.8683894276618958
+                },
+                {
+                    "word": " getting",
+                    "start": 15.88,
+                    "end": 16.16,
+                    "probability": 0.9985895752906799
+                },
+                {
+                    "word": " new",
+                    "start": 16.16,
+                    "end": 16.38,
+                    "probability": 0.9858611822128296
+                },
+                {
+                    "word": " appliances",
+                    "start": 16.38,
+                    "end": 16.64,
+                    "probability": 0.4382215738296509
+                },
+                {
+                    "word": " or",
+                    "start": 16.64,
+                    "end": 16.86,
+                    "probability": 0.6001548767089844
+                },
+                {
+                    "word": " anything.",
+                    "start": 16.86,
+                    "end": 17.16,
+                    "probability": 0.9602054953575134
+                },
+                {
+                    "word": " So",
+                    "start": 17.48,
+                    "end": 17.66,
+                    "probability": 0.9192882180213928
+                },
+                {
+                    "word": " they",
+                    "start": 17.66,
+                    "end": 17.84,
+                    "probability": 0.8013988733291626
+                },
+                {
+                    "word": " are",
+                    "start": 17.84,
+                    "end": 17.98,
+                    "probability": 0.9497843980789185
+                },
+                {
+                    "word": " also",
+                    "start": 17.98,
+                    "end": 18.36,
+                    "probability": 0.996174693107605
+                },
+                {
+                    "word": " up",
+                    "start": 18.36,
+                    "end": 18.64,
+                    "probability": 0.9930699467658997
+                },
+                {
+                    "word": " for",
+                    "start": 18.64,
+                    "end": 18.98,
+                    "probability": 0.9920361638069153
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.98,
+            "end": 27.88,
+            "text": " me to help here in moving out all the stuff and also there is a good idea we can have a small",
+            "tokens": [
+                51304,
+                385,
+                281,
+                854,
+                510,
+                294,
+                2684,
+                484,
+                439,
+                264,
+                1507,
+                293,
+                611,
+                456,
+                307,
+                257,
+                665,
+                1558,
+                321,
+                393,
+                362,
+                257,
+                1359,
+                51752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.14972839148148245,
+            "compression_ratio": 1.7572815533980584,
+            "no_speech_prob": 0.021868858486413956,
+            "words": [
+                {
+                    "word": " me",
+                    "start": 18.98,
+                    "end": 19.3,
+                    "probability": 0.9973950386047363
+                },
+                {
+                    "word": " to",
+                    "start": 19.3,
+                    "end": 19.54,
+                    "probability": 0.9938148260116577
+                },
+                {
+                    "word": " help",
+                    "start": 19.54,
+                    "end": 19.86,
+                    "probability": 0.999629020690918
+                },
+                {
+                    "word": " here",
+                    "start": 19.86,
+                    "end": 20.38,
+                    "probability": 0.950900673866272
+                },
+                {
+                    "word": " in",
+                    "start": 20.38,
+                    "end": 22.2,
+                    "probability": 0.8639489412307739
+                },
+                {
+                    "word": " moving",
+                    "start": 22.2,
+                    "end": 22.5,
+                    "probability": 0.814387321472168
+                },
+                {
+                    "word": " out",
+                    "start": 22.5,
+                    "end": 22.84,
+                    "probability": 0.9906378984451294
+                },
+                {
+                    "word": " all",
+                    "start": 22.84,
+                    "end": 23.04,
+                    "probability": 0.8633170127868652
+                },
+                {
+                    "word": " the",
+                    "start": 23.04,
+                    "end": 23.24,
+                    "probability": 0.5069753527641296
+                },
+                {
+                    "word": " stuff",
+                    "start": 23.24,
+                    "end": 23.56,
+                    "probability": 0.9952343106269836
+                },
+                {
+                    "word": " and",
+                    "start": 23.56,
+                    "end": 24.22,
+                    "probability": 0.5466417074203491
+                },
+                {
+                    "word": " also",
+                    "start": 24.22,
+                    "end": 25.04,
+                    "probability": 0.9856678247451782
+                },
+                {
+                    "word": " there",
+                    "start": 25.04,
+                    "end": 25.36,
+                    "probability": 0.8062521815299988
+                },
+                {
+                    "word": " is",
+                    "start": 25.36,
+                    "end": 25.5,
+                    "probability": 0.9592717289924622
+                },
+                {
+                    "word": " a",
+                    "start": 25.5,
+                    "end": 25.6,
+                    "probability": 0.998441755771637
+                },
+                {
+                    "word": " good",
+                    "start": 25.6,
+                    "end": 25.78,
+                    "probability": 0.9995635151863098
+                },
+                {
+                    "word": " idea",
+                    "start": 25.78,
+                    "end": 26.2,
+                    "probability": 0.9994340538978577
+                },
+                {
+                    "word": " we",
+                    "start": 26.2,
+                    "end": 26.34,
+                    "probability": 0.5875509977340698
+                },
+                {
+                    "word": " can",
+                    "start": 26.34,
+                    "end": 26.72,
+                    "probability": 0.9990166425704956
+                },
+                {
+                    "word": " have",
+                    "start": 26.72,
+                    "end": 27.18,
+                    "probability": 0.9985387325286865
+                },
+                {
+                    "word": " a",
+                    "start": 27.18,
+                    "end": 27.44,
+                    "probability": 0.9968929290771484
+                },
+                {
+                    "word": " small",
+                    "start": 27.44,
+                    "end": 27.88,
+                    "probability": 0.9973052740097046
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2788,
+            "start": 28.72,
+            "end": 34.88,
+            "text": " together or like a party we can have the food and drinks here and like at the end of the party",
+            "tokens": [
+                50372,
+                1214,
+                420,
+                411,
+                257,
+                3595,
+                321,
+                393,
+                362,
+                264,
+                1755,
+                293,
+                12142,
+                510,
+                293,
+                411,
+                412,
+                264,
+                917,
+                295,
+                264,
+                3595,
+                50724
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.12903643490975364,
+            "compression_ratio": 1.5211267605633803,
+            "no_speech_prob": 0.03783368319272995,
+            "words": [
+                {
+                    "word": " together",
+                    "start": 28.72,
+                    "end": 29.16,
+                    "probability": 0.1915293037891388
+                },
+                {
+                    "word": " or",
+                    "start": 29.16,
+                    "end": 29.3,
+                    "probability": 0.7977051138877869
+                },
+                {
+                    "word": " like",
+                    "start": 29.3,
+                    "end": 29.6,
+                    "probability": 0.917300820350647
+                },
+                {
+                    "word": " a",
+                    "start": 29.6,
+                    "end": 29.84,
+                    "probability": 0.9389910697937012
+                },
+                {
+                    "word": " party",
+                    "start": 29.84,
+                    "end": 30.14,
+                    "probability": 0.9681462645530701
+                },
+                {
+                    "word": " we",
+                    "start": 30.14,
+                    "end": 30.9,
+                    "probability": 0.5287434458732605
+                },
+                {
+                    "word": " can",
+                    "start": 30.9,
+                    "end": 31.08,
+                    "probability": 0.9990077614784241
+                },
+                {
+                    "word": " have",
+                    "start": 31.08,
+                    "end": 31.34,
+                    "probability": 0.9984129667282104
+                },
+                {
+                    "word": " the",
+                    "start": 31.34,
+                    "end": 31.6,
+                    "probability": 0.9899646639823914
+                },
+                {
+                    "word": " food",
+                    "start": 31.6,
+                    "end": 31.72,
+                    "probability": 0.9985571503639221
+                },
+                {
+                    "word": " and",
+                    "start": 31.72,
+                    "end": 31.96,
+                    "probability": 0.9977719187736511
+                },
+                {
+                    "word": " drinks",
+                    "start": 31.96,
+                    "end": 32.12,
+                    "probability": 0.9912358522415161
+                },
+                {
+                    "word": " here",
+                    "start": 32.12,
+                    "end": 32.6,
+                    "probability": 0.9899665117263794
+                },
+                {
+                    "word": " and",
+                    "start": 32.6,
+                    "end": 33.3,
+                    "probability": 0.863483190536499
+                },
+                {
+                    "word": " like",
+                    "start": 33.3,
+                    "end": 33.86,
+                    "probability": 0.5652396082878113
+                },
+                {
+                    "word": " at",
+                    "start": 33.86,
+                    "end": 34.14,
+                    "probability": 0.3041688799858093
+                },
+                {
+                    "word": " the",
+                    "start": 34.14,
+                    "end": 34.14,
+                    "probability": 0.9786821603775024
+                },
+                {
+                    "word": " end",
+                    "start": 34.14,
+                    "end": 34.3,
+                    "probability": 0.9971573352813721
+                },
+                {
+                    "word": " of",
+                    "start": 34.3,
+                    "end": 34.52,
+                    "probability": 0.997289776802063
+                },
+                {
+                    "word": " the",
+                    "start": 34.52,
+                    "end": 34.68,
+                    "probability": 0.9969653487205505
+                },
+                {
+                    "word": " party",
+                    "start": 34.68,
+                    "end": 34.88,
+                    "probability": 0.9955435395240784
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2788,
+            "start": 34.88,
+            "end": 39.84,
+            "text": " we can take help from our friend and they can also help us in moving out. What do you guys think?",
+            "tokens": [
+                50724,
+                321,
+                393,
+                747,
+                854,
+                490,
+                527,
+                1277,
+                293,
+                436,
+                393,
+                611,
+                854,
+                505,
+                294,
+                2684,
+                484,
+                13,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                50976
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.12903643490975364,
+            "compression_ratio": 1.5211267605633803,
+            "no_speech_prob": 0.03783368319272995,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 34.88,
+                    "end": 35.38,
+                    "probability": 0.9704058170318604
+                },
+                {
+                    "word": " can",
+                    "start": 35.38,
+                    "end": 35.86,
+                    "probability": 0.9991682767868042
+                },
+                {
+                    "word": " take",
+                    "start": 35.86,
+                    "end": 36.12,
+                    "probability": 0.9942507743835449
+                },
+                {
+                    "word": " help",
+                    "start": 36.12,
+                    "end": 36.28,
+                    "probability": 0.9916330575942993
+                },
+                {
+                    "word": " from",
+                    "start": 36.28,
+                    "end": 36.56,
+                    "probability": 0.9976897239685059
+                },
+                {
+                    "word": " our",
+                    "start": 36.56,
+                    "end": 36.78,
+                    "probability": 0.9959090948104858
+                },
+                {
+                    "word": " friend",
+                    "start": 36.78,
+                    "end": 36.92,
+                    "probability": 0.8956201672554016
+                },
+                {
+                    "word": " and",
+                    "start": 36.92,
+                    "end": 37.26,
+                    "probability": 0.9770393967628479
+                },
+                {
+                    "word": " they",
+                    "start": 37.26,
+                    "end": 37.4,
+                    "probability": 0.9934080839157104
+                },
+                {
+                    "word": " can",
+                    "start": 37.4,
+                    "end": 37.62,
+                    "probability": 0.9981946349143982
+                },
+                {
+                    "word": " also",
+                    "start": 37.62,
+                    "end": 37.9,
+                    "probability": 0.9969666600227356
+                },
+                {
+                    "word": " help",
+                    "start": 37.9,
+                    "end": 38.08,
+                    "probability": 0.9987871050834656
+                },
+                {
+                    "word": " us",
+                    "start": 38.08,
+                    "end": 38.38,
+                    "probability": 0.9977855682373047
+                },
+                {
+                    "word": " in",
+                    "start": 38.38,
+                    "end": 38.56,
+                    "probability": 0.980546772480011
+                },
+                {
+                    "word": " moving",
+                    "start": 38.56,
+                    "end": 38.72,
+                    "probability": 0.9958258867263794
+                },
+                {
+                    "word": " out.",
+                    "start": 38.72,
+                    "end": 38.98,
+                    "probability": 0.9853041768074036
+                },
+                {
+                    "word": " What",
+                    "start": 38.98,
+                    "end": 39.16,
+                    "probability": 0.9704217314720154
+                },
+                {
+                    "word": " do",
+                    "start": 39.16,
+                    "end": 39.32,
+                    "probability": 0.8449048399925232
+                },
+                {
+                    "word": " you",
+                    "start": 39.32,
+                    "end": 39.48,
+                    "probability": 0.9965393543243408
+                },
+                {
+                    "word": " guys",
+                    "start": 39.48,
+                    "end": 39.62,
+                    "probability": 0.9630110263824463
+                },
+                {
+                    "word": " think?",
+                    "start": 39.62,
+                    "end": 39.84,
+                    "probability": 0.9977008700370789
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2788,
+            "start": 40.3,
+            "end": 41.24,
+            "text": " I think it sounds good.",
+            "tokens": [
+                50976,
+                286,
+                519,
+                309,
+                3263,
+                665,
+                13,
+                51032
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.12903643490975364,
+            "compression_ratio": 1.5211267605633803,
+            "no_speech_prob": 0.03783368319272995,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 40.3,
+                    "end": 40.46,
+                    "probability": 0.900667667388916
+                },
+                {
+                    "word": " think",
+                    "start": 40.46,
+                    "end": 40.62,
+                    "probability": 0.9992552399635315
+                },
+                {
+                    "word": " it",
+                    "start": 40.62,
+                    "end": 40.84,
+                    "probability": 0.9938890933990479
+                },
+                {
+                    "word": " sounds",
+                    "start": 40.84,
+                    "end": 41.0,
+                    "probability": 0.990639328956604
+                },
+                {
+                    "word": " good.",
+                    "start": 41.0,
+                    "end": 41.24,
+                    "probability": 0.9984210729598999
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

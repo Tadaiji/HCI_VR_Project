@@ -1,0 +1,51 @@
+{
+    "text": " and she said yeah",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.9,
+            "text": " and she said yeah",
+            "tokens": [
+                50364,
+                293,
+                750,
+                848,
+                1338,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5851286479404995,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.43285077810287476,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.44996845722198486
+                },
+                {
+                    "word": " she",
+                    "start": 0.3,
+                    "end": 0.44,
+                    "probability": 0.9852588176727295
+                },
+                {
+                    "word": " said",
+                    "start": 0.44,
+                    "end": 0.66,
+                    "probability": 0.9911485910415649
+                },
+                {
+                    "word": " yeah",
+                    "start": 0.66,
+                    "end": 0.9,
+                    "probability": 0.5926133394241333
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

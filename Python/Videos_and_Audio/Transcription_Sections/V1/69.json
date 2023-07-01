@@ -1,0 +1,364 @@
+{
+    "text": " Well, these all things are your things, so you guys know how you can manage it. We can start packing now in the cartons and you can start gathering your things. I think it will be easy to do it in one sweep.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.84,
+            "text": " Well, these all things are your things, so you guys know how you can manage it.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                613,
+                439,
+                721,
+                366,
+                428,
+                721,
+                11,
+                370,
+                291,
+                1074,
+                458,
+                577,
+                291,
+                393,
+                3067,
+                309,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27961582796914236,
+            "compression_ratio": 1.5220588235294117,
+            "no_speech_prob": 0.023026661947369576,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.3815109431743622
+                },
+                {
+                    "word": " these",
+                    "start": 0.7,
+                    "end": 1.32,
+                    "probability": 0.8005504012107849
+                },
+                {
+                    "word": " all",
+                    "start": 1.32,
+                    "end": 1.58,
+                    "probability": 0.3601610064506531
+                },
+                {
+                    "word": " things",
+                    "start": 1.58,
+                    "end": 1.94,
+                    "probability": 0.9321572780609131
+                },
+                {
+                    "word": " are",
+                    "start": 1.94,
+                    "end": 2.3,
+                    "probability": 0.9784443974494934
+                },
+                {
+                    "word": " your",
+                    "start": 2.3,
+                    "end": 2.6,
+                    "probability": 0.950313150882721
+                },
+                {
+                    "word": " things,",
+                    "start": 2.6,
+                    "end": 2.84,
+                    "probability": 0.6300616264343262
+                },
+                {
+                    "word": " so",
+                    "start": 3.06,
+                    "end": 3.2,
+                    "probability": 0.9014514684677124
+                },
+                {
+                    "word": " you",
+                    "start": 3.2,
+                    "end": 3.66,
+                    "probability": 0.9722790718078613
+                },
+                {
+                    "word": " guys",
+                    "start": 3.66,
+                    "end": 3.96,
+                    "probability": 0.9559014439582825
+                },
+                {
+                    "word": " know",
+                    "start": 3.96,
+                    "end": 4.66,
+                    "probability": 0.9735061526298523
+                },
+                {
+                    "word": " how",
+                    "start": 4.66,
+                    "end": 5.2,
+                    "probability": 0.5136646032333374
+                },
+                {
+                    "word": " you",
+                    "start": 5.2,
+                    "end": 5.56,
+                    "probability": 0.9112684726715088
+                },
+                {
+                    "word": " can",
+                    "start": 5.56,
+                    "end": 5.92,
+                    "probability": 0.9870326519012451
+                },
+                {
+                    "word": " manage",
+                    "start": 5.92,
+                    "end": 6.3,
+                    "probability": 0.9939961433410645
+                },
+                {
+                    "word": " it.",
+                    "start": 6.3,
+                    "end": 6.84,
+                    "probability": 0.9416917562484741
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.12,
+            "end": 13.68,
+            "text": " We can start packing now in the cartons and you can start gathering your things.",
+            "tokens": [
+                50714,
+                492,
+                393,
+                722,
+                20815,
+                586,
+                294,
+                264,
+                5467,
+                892,
+                293,
+                291,
+                393,
+                722,
+                13519,
+                428,
+                721,
+                13,
+                51050
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27961582796914236,
+            "compression_ratio": 1.5220588235294117,
+            "no_speech_prob": 0.023026661947369576,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 7.12,
+                    "end": 7.24,
+                    "probability": 0.3251916170120239
+                },
+                {
+                    "word": " can",
+                    "start": 7.24,
+                    "end": 7.7,
+                    "probability": 0.9951215386390686
+                },
+                {
+                    "word": " start",
+                    "start": 7.7,
+                    "end": 8.26,
+                    "probability": 0.9596481919288635
+                },
+                {
+                    "word": " packing",
+                    "start": 8.26,
+                    "end": 8.64,
+                    "probability": 0.7159741520881653
+                },
+                {
+                    "word": " now",
+                    "start": 8.64,
+                    "end": 9.2,
+                    "probability": 0.8948071599006653
+                },
+                {
+                    "word": " in",
+                    "start": 9.2,
+                    "end": 9.76,
+                    "probability": 0.8575761318206787
+                },
+                {
+                    "word": " the",
+                    "start": 9.76,
+                    "end": 9.94,
+                    "probability": 0.9497405290603638
+                },
+                {
+                    "word": " cartons",
+                    "start": 9.94,
+                    "end": 10.44,
+                    "probability": 0.9550120532512665
+                },
+                {
+                    "word": " and",
+                    "start": 10.44,
+                    "end": 10.72,
+                    "probability": 0.6806231737136841
+                },
+                {
+                    "word": " you",
+                    "start": 10.72,
+                    "end": 10.76,
+                    "probability": 0.9438489675521851
+                },
+                {
+                    "word": " can",
+                    "start": 10.76,
+                    "end": 11.56,
+                    "probability": 0.9936079978942871
+                },
+                {
+                    "word": " start",
+                    "start": 11.56,
+                    "end": 12.12,
+                    "probability": 0.9956054091453552
+                },
+                {
+                    "word": " gathering",
+                    "start": 12.12,
+                    "end": 12.84,
+                    "probability": 0.9664611220359802
+                },
+                {
+                    "word": " your",
+                    "start": 12.84,
+                    "end": 13.36,
+                    "probability": 0.9568287134170532
+                },
+                {
+                    "word": " things.",
+                    "start": 13.36,
+                    "end": 13.68,
+                    "probability": 0.9899800419807434
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.78,
+            "end": 17.2,
+            "text": " I think it will be easy to do it in one sweep.",
+            "tokens": [
+                51050,
+                286,
+                519,
+                309,
+                486,
+                312,
+                1858,
+                281,
+                360,
+                309,
+                294,
+                472,
+                22169,
+                13,
+                51226
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27961582796914236,
+            "compression_ratio": 1.5220588235294117,
+            "no_speech_prob": 0.023026661947369576,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 13.78,
+                    "end": 13.96,
+                    "probability": 0.9850200414657593
+                },
+                {
+                    "word": " think",
+                    "start": 13.96,
+                    "end": 14.16,
+                    "probability": 0.9966570138931274
+                },
+                {
+                    "word": " it",
+                    "start": 14.16,
+                    "end": 14.36,
+                    "probability": 0.9840455055236816
+                },
+                {
+                    "word": " will",
+                    "start": 14.36,
+                    "end": 14.6,
+                    "probability": 0.9622061252593994
+                },
+                {
+                    "word": " be",
+                    "start": 14.6,
+                    "end": 14.82,
+                    "probability": 0.9980194568634033
+                },
+                {
+                    "word": " easy",
+                    "start": 14.82,
+                    "end": 15.38,
+                    "probability": 0.9921025633811951
+                },
+                {
+                    "word": " to",
+                    "start": 15.38,
+                    "end": 15.94,
+                    "probability": 0.9771736860275269
+                },
+                {
+                    "word": " do",
+                    "start": 15.94,
+                    "end": 16.16,
+                    "probability": 0.9904484152793884
+                },
+                {
+                    "word": " it",
+                    "start": 16.16,
+                    "end": 16.42,
+                    "probability": 0.9690910577774048
+                },
+                {
+                    "word": " in",
+                    "start": 16.42,
+                    "end": 16.58,
+                    "probability": 0.7573593258857727
+                },
+                {
+                    "word": " one",
+                    "start": 16.58,
+                    "end": 16.88,
+                    "probability": 0.5153413414955139
+                },
+                {
+                    "word": " sweep.",
+                    "start": 16.88,
+                    "end": 17.2,
+                    "probability": 0.9124879837036133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

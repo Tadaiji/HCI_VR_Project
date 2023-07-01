@@ -1,0 +1,855 @@
+{
+    "text": " I really want to have this couch. I have some really good memories with this couch also my dog Which died last month it also used to sit with me in this couch in the winter So I have really good memories with this leather couch and I don't want to throw this away at any cost Also, I think this big window in the room It can also be used to take couch out if it is not possible to take it out with the Door, but I think so. Yeah, we want to keep this couch. Okay, we'll get it done",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.42,
+            "end": 6.38,
+            "text": " I really want to have this couch. I have some really good memories with this couch also my dog",
+            "tokens": [
+                50364,
+                286,
+                534,
+                528,
+                281,
+                362,
+                341,
+                16511,
+                13,
+                286,
+                362,
+                512,
+                534,
+                665,
+                8495,
+                365,
+                341,
+                16511,
+                611,
+                452,
+                3000,
+                50673
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.42,
+                    "end": 0.98,
+                    "probability": 0.4190419912338257
+                },
+                {
+                    "word": " really",
+                    "start": 0.98,
+                    "end": 1.36,
+                    "probability": 0.6813837289810181
+                },
+                {
+                    "word": " want",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9687190651893616
+                },
+                {
+                    "word": " to",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.9903855323791504
+                },
+                {
+                    "word": " have",
+                    "start": 1.7,
+                    "end": 1.8,
+                    "probability": 0.993955671787262
+                },
+                {
+                    "word": " this",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9909330606460571
+                },
+                {
+                    "word": " couch.",
+                    "start": 2.06,
+                    "end": 2.2,
+                    "probability": 0.9820350408554077
+                },
+                {
+                    "word": " I",
+                    "start": 2.22,
+                    "end": 2.34,
+                    "probability": 0.9911211729049683
+                },
+                {
+                    "word": " have",
+                    "start": 2.34,
+                    "end": 2.52,
+                    "probability": 0.994773805141449
+                },
+                {
+                    "word": " some",
+                    "start": 2.52,
+                    "end": 2.72,
+                    "probability": 0.9963699579238892
+                },
+                {
+                    "word": " really",
+                    "start": 2.72,
+                    "end": 2.96,
+                    "probability": 0.9921059608459473
+                },
+                {
+                    "word": " good",
+                    "start": 2.96,
+                    "end": 3.1,
+                    "probability": 0.9970114231109619
+                },
+                {
+                    "word": " memories",
+                    "start": 3.1,
+                    "end": 3.52,
+                    "probability": 0.996265709400177
+                },
+                {
+                    "word": " with",
+                    "start": 3.52,
+                    "end": 3.72,
+                    "probability": 0.9875481128692627
+                },
+                {
+                    "word": " this",
+                    "start": 3.72,
+                    "end": 4.0,
+                    "probability": 0.9979445338249207
+                },
+                {
+                    "word": " couch",
+                    "start": 4.0,
+                    "end": 4.3,
+                    "probability": 0.9764219522476196
+                },
+                {
+                    "word": " also",
+                    "start": 4.3,
+                    "end": 5.06,
+                    "probability": 0.495996356010437
+                },
+                {
+                    "word": " my",
+                    "start": 5.06,
+                    "end": 6.02,
+                    "probability": 0.7842149138450623
+                },
+                {
+                    "word": " dog",
+                    "start": 6.02,
+                    "end": 6.38,
+                    "probability": 0.9088088274002075
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.38,
+            "end": 11.6,
+            "text": " Which died last month it also used to sit with me in this couch in the winter",
+            "tokens": [
+                50673,
+                3013,
+                4539,
+                1036,
+                1618,
+                309,
+                611,
+                1143,
+                281,
+                1394,
+                365,
+                385,
+                294,
+                341,
+                16511,
+                294,
+                264,
+                6355,
+                50939
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " Which",
+                    "start": 6.38,
+                    "end": 6.76,
+                    "probability": 0.3185782730579376
+                },
+                {
+                    "word": " died",
+                    "start": 6.76,
+                    "end": 7.1,
+                    "probability": 0.9866659045219421
+                },
+                {
+                    "word": " last",
+                    "start": 7.1,
+                    "end": 7.66,
+                    "probability": 0.9976961016654968
+                },
+                {
+                    "word": " month",
+                    "start": 7.66,
+                    "end": 8.32,
+                    "probability": 0.9798737168312073
+                },
+                {
+                    "word": " it",
+                    "start": 8.32,
+                    "end": 8.88,
+                    "probability": 0.4578421711921692
+                },
+                {
+                    "word": " also",
+                    "start": 8.88,
+                    "end": 9.08,
+                    "probability": 0.986615777015686
+                },
+                {
+                    "word": " used",
+                    "start": 9.08,
+                    "end": 9.28,
+                    "probability": 0.9969325065612793
+                },
+                {
+                    "word": " to",
+                    "start": 9.28,
+                    "end": 9.52,
+                    "probability": 0.999602735042572
+                },
+                {
+                    "word": " sit",
+                    "start": 9.52,
+                    "end": 9.66,
+                    "probability": 0.9638370275497437
+                },
+                {
+                    "word": " with",
+                    "start": 9.66,
+                    "end": 9.84,
+                    "probability": 0.9995445609092712
+                },
+                {
+                    "word": " me",
+                    "start": 9.84,
+                    "end": 10.04,
+                    "probability": 0.9991361498832703
+                },
+                {
+                    "word": " in",
+                    "start": 10.04,
+                    "end": 10.2,
+                    "probability": 0.9886326193809509
+                },
+                {
+                    "word": " this",
+                    "start": 10.2,
+                    "end": 10.42,
+                    "probability": 0.9975453019142151
+                },
+                {
+                    "word": " couch",
+                    "start": 10.42,
+                    "end": 10.7,
+                    "probability": 0.9545458555221558
+                },
+                {
+                    "word": " in",
+                    "start": 10.7,
+                    "end": 11.2,
+                    "probability": 0.9926992058753967
+                },
+                {
+                    "word": " the",
+                    "start": 11.2,
+                    "end": 11.36,
+                    "probability": 0.9983620047569275
+                },
+                {
+                    "word": " winter",
+                    "start": 11.36,
+                    "end": 11.6,
+                    "probability": 0.9833033680915833
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.6,
+            "end": 16.96,
+            "text": " So I have really good memories with this leather couch and I don't want to throw this away at any cost",
+            "tokens": [
+                50939,
+                407,
+                286,
+                362,
+                534,
+                665,
+                8495,
+                365,
+                341,
+                12821,
+                16511,
+                293,
+                286,
+                500,
+                380,
+                528,
+                281,
+                3507,
+                341,
+                1314,
+                412,
+                604,
+                2063,
+                51201
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 11.6,
+                    "end": 11.88,
+                    "probability": 0.7632548809051514
+                },
+                {
+                    "word": " I",
+                    "start": 11.88,
+                    "end": 12.12,
+                    "probability": 0.9955587387084961
+                },
+                {
+                    "word": " have",
+                    "start": 12.12,
+                    "end": 12.32,
+                    "probability": 0.987739622592926
+                },
+                {
+                    "word": " really",
+                    "start": 12.32,
+                    "end": 12.58,
+                    "probability": 0.9888017177581787
+                },
+                {
+                    "word": " good",
+                    "start": 12.58,
+                    "end": 13.08,
+                    "probability": 0.99924635887146
+                },
+                {
+                    "word": " memories",
+                    "start": 13.08,
+                    "end": 13.5,
+                    "probability": 0.9310829639434814
+                },
+                {
+                    "word": " with",
+                    "start": 13.5,
+                    "end": 13.8,
+                    "probability": 0.872429609298706
+                },
+                {
+                    "word": " this",
+                    "start": 13.8,
+                    "end": 14.12,
+                    "probability": 0.544516384601593
+                },
+                {
+                    "word": " leather",
+                    "start": 14.12,
+                    "end": 14.4,
+                    "probability": 0.9286134243011475
+                },
+                {
+                    "word": " couch",
+                    "start": 14.4,
+                    "end": 14.58,
+                    "probability": 0.7728009819984436
+                },
+                {
+                    "word": " and",
+                    "start": 14.58,
+                    "end": 14.72,
+                    "probability": 0.4587402045726776
+                },
+                {
+                    "word": " I",
+                    "start": 14.72,
+                    "end": 14.82,
+                    "probability": 0.969944417476654
+                },
+                {
+                    "word": " don't",
+                    "start": 14.82,
+                    "end": 15.02,
+                    "probability": 0.9853988885879517
+                },
+                {
+                    "word": " want",
+                    "start": 15.02,
+                    "end": 15.16,
+                    "probability": 0.9303455948829651
+                },
+                {
+                    "word": " to",
+                    "start": 15.16,
+                    "end": 15.36,
+                    "probability": 0.9906944036483765
+                },
+                {
+                    "word": " throw",
+                    "start": 15.36,
+                    "end": 15.42,
+                    "probability": 0.9971413016319275
+                },
+                {
+                    "word": " this",
+                    "start": 15.42,
+                    "end": 15.7,
+                    "probability": 0.9943854808807373
+                },
+                {
+                    "word": " away",
+                    "start": 15.7,
+                    "end": 16.06,
+                    "probability": 0.9982245564460754
+                },
+                {
+                    "word": " at",
+                    "start": 16.06,
+                    "end": 16.44,
+                    "probability": 0.9814860224723816
+                },
+                {
+                    "word": " any",
+                    "start": 16.44,
+                    "end": 16.66,
+                    "probability": 0.998566210269928
+                },
+                {
+                    "word": " cost",
+                    "start": 16.66,
+                    "end": 16.96,
+                    "probability": 0.9971147775650024
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.96,
+            "end": 21.26,
+            "text": " Also, I think this big window in the room",
+            "tokens": [
+                51223,
+                2743,
+                11,
+                286,
+                519,
+                341,
+                955,
+                4910,
+                294,
+                264,
+                1808,
+                51409
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " Also,",
+                    "start": 16.96,
+                    "end": 17.92,
+                    "probability": 0.6062465906143188
+                },
+                {
+                    "word": " I",
+                    "start": 17.92,
+                    "end": 18.28,
+                    "probability": 0.9991303086280823
+                },
+                {
+                    "word": " think",
+                    "start": 18.28,
+                    "end": 18.6,
+                    "probability": 0.9990140199661255
+                },
+                {
+                    "word": " this",
+                    "start": 18.6,
+                    "end": 19.2,
+                    "probability": 0.9889390468597412
+                },
+                {
+                    "word": " big",
+                    "start": 19.2,
+                    "end": 19.92,
+                    "probability": 0.9983254075050354
+                },
+                {
+                    "word": " window",
+                    "start": 19.92,
+                    "end": 20.4,
+                    "probability": 0.9977409839630127
+                },
+                {
+                    "word": " in",
+                    "start": 20.4,
+                    "end": 20.66,
+                    "probability": 0.9993416666984558
+                },
+                {
+                    "word": " the",
+                    "start": 20.66,
+                    "end": 20.88,
+                    "probability": 0.9938585162162781
+                },
+                {
+                    "word": " room",
+                    "start": 20.88,
+                    "end": 21.26,
+                    "probability": 0.9994121789932251
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.26,
+            "end": 26.7,
+            "text": " It can also be used to take couch out if it is not",
+            "tokens": [
+                51409,
+                467,
+                393,
+                611,
+                312,
+                1143,
+                281,
+                747,
+                16511,
+                484,
+                498,
+                309,
+                307,
+                406,
+                51672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 21.26,
+                    "end": 21.74,
+                    "probability": 0.07026514410972595
+                },
+                {
+                    "word": " can",
+                    "start": 21.74,
+                    "end": 21.9,
+                    "probability": 0.9988540410995483
+                },
+                {
+                    "word": " also",
+                    "start": 21.9,
+                    "end": 23.04,
+                    "probability": 0.998579740524292
+                },
+                {
+                    "word": " be",
+                    "start": 23.04,
+                    "end": 23.38,
+                    "probability": 0.7804897427558899
+                },
+                {
+                    "word": " used",
+                    "start": 23.38,
+                    "end": 23.74,
+                    "probability": 0.9927327036857605
+                },
+                {
+                    "word": " to",
+                    "start": 23.74,
+                    "end": 24.48,
+                    "probability": 0.9968199729919434
+                },
+                {
+                    "word": " take",
+                    "start": 24.48,
+                    "end": 24.76,
+                    "probability": 0.9603197574615479
+                },
+                {
+                    "word": " couch",
+                    "start": 24.76,
+                    "end": 25.04,
+                    "probability": 0.5795497894287109
+                },
+                {
+                    "word": " out",
+                    "start": 25.04,
+                    "end": 25.42,
+                    "probability": 0.9920231103897095
+                },
+                {
+                    "word": " if",
+                    "start": 25.42,
+                    "end": 25.68,
+                    "probability": 0.9351531267166138
+                },
+                {
+                    "word": " it",
+                    "start": 25.68,
+                    "end": 25.9,
+                    "probability": 0.9987086057662964
+                },
+                {
+                    "word": " is",
+                    "start": 25.9,
+                    "end": 26.14,
+                    "probability": 0.9984344840049744
+                },
+                {
+                    "word": " not",
+                    "start": 26.14,
+                    "end": 26.7,
+                    "probability": 0.9993860721588135
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 26.7,
+            "end": 29.28,
+            "text": " possible to take it out with the",
+            "tokens": [
+                51715,
+                1944,
+                281,
+                747,
+                309,
+                484,
+                365,
+                264,
+                51815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18683929813718334,
+            "compression_ratio": 1.9095238095238096,
+            "no_speech_prob": 0.33024296164512634,
+            "words": [
+                {
+                    "word": " possible",
+                    "start": 26.7,
+                    "end": 27.52,
+                    "probability": 0.9048356413841248
+                },
+                {
+                    "word": " to",
+                    "start": 27.52,
+                    "end": 27.78,
+                    "probability": 0.9942271709442139
+                },
+                {
+                    "word": " take",
+                    "start": 27.78,
+                    "end": 27.88,
+                    "probability": 0.9987818598747253
+                },
+                {
+                    "word": " it",
+                    "start": 27.88,
+                    "end": 28.04,
+                    "probability": 0.9981426000595093
+                },
+                {
+                    "word": " out",
+                    "start": 28.04,
+                    "end": 28.18,
+                    "probability": 0.9946409463882446
+                },
+                {
+                    "word": " with",
+                    "start": 28.18,
+                    "end": 28.46,
+                    "probability": 0.9899599552154541
+                },
+                {
+                    "word": " the",
+                    "start": 28.46,
+                    "end": 29.28,
+                    "probability": 0.9615877866744995
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2928,
+            "start": 29.92,
+            "end": 34.06,
+            "text": " Door, but I think so. Yeah, we want to keep this couch. Okay, we'll get it done",
+            "tokens": [
+                50364,
+                29636,
+                11,
+                457,
+                286,
+                519,
+                370,
+                13,
+                865,
+                11,
+                321,
+                528,
+                281,
+                1066,
+                341,
+                16511,
+                13,
+                1033,
+                11,
+                321,
+                603,
+                483,
+                309,
+                1096,
+                50595
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24930139688345102,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.008425035513937473,
+            "words": [
+                {
+                    "word": " Door,",
+                    "start": 29.92,
+                    "end": 30.28,
+                    "probability": 0.030092669650912285
+                },
+                {
+                    "word": " but",
+                    "start": 30.24,
+                    "end": 30.64,
+                    "probability": 0.9482033252716064
+                },
+                {
+                    "word": " I",
+                    "start": 30.64,
+                    "end": 30.98,
+                    "probability": 0.6476428508758545
+                },
+                {
+                    "word": " think",
+                    "start": 30.98,
+                    "end": 31.12,
+                    "probability": 0.9727668166160583
+                },
+                {
+                    "word": " so.",
+                    "start": 31.12,
+                    "end": 31.28,
+                    "probability": 0.8796971440315247
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 31.56,
+                    "end": 31.74,
+                    "probability": 0.767301082611084
+                },
+                {
+                    "word": " we",
+                    "start": 31.82,
+                    "end": 31.84,
+                    "probability": 0.9669607877731323
+                },
+                {
+                    "word": " want",
+                    "start": 31.84,
+                    "end": 32.02,
+                    "probability": 0.9784988760948181
+                },
+                {
+                    "word": " to",
+                    "start": 32.02,
+                    "end": 32.14,
+                    "probability": 0.9990693926811218
+                },
+                {
+                    "word": " keep",
+                    "start": 32.14,
+                    "end": 32.26,
+                    "probability": 0.9410712122917175
+                },
+                {
+                    "word": " this",
+                    "start": 32.26,
+                    "end": 32.52,
+                    "probability": 0.9611663222312927
+                },
+                {
+                    "word": " couch.",
+                    "start": 32.52,
+                    "end": 32.82,
+                    "probability": 0.006809030659496784
+                },
+                {
+                    "word": " Okay,",
+                    "start": 33.12,
+                    "end": 33.32,
+                    "probability": 0.7687000632286072
+                },
+                {
+                    "word": " we'll",
+                    "start": 33.48,
+                    "end": 33.64,
+                    "probability": 0.9768635928630829
+                },
+                {
+                    "word": " get",
+                    "start": 33.64,
+                    "end": 33.72,
+                    "probability": 0.9987298846244812
+                },
+                {
+                    "word": " it",
+                    "start": 33.72,
+                    "end": 33.88,
+                    "probability": 0.9948726296424866
+                },
+                {
+                    "word": " done",
+                    "start": 33.88,
+                    "end": 34.06,
+                    "probability": 0.8030370473861694
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

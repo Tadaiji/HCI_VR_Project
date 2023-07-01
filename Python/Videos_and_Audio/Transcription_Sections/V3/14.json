@@ -1,0 +1,210 @@
+{
+    "text": " Yeah, but children have fears of the weirdest things. So I didn't have a specific fear. I wasn't even thinking that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.08,
+            "text": " Yeah, but children have fears of the weirdest things.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                457,
+                2227,
+                362,
+                15649,
+                295,
+                264,
+                44807,
+                721,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.370972941903507,
+            "compression_ratio": 1.1717171717171717,
+            "no_speech_prob": 0.015033945441246033,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.7216945290565491
+                },
+                {
+                    "word": " but",
+                    "start": 1.06,
+                    "end": 1.14,
+                    "probability": 0.9900582432746887
+                },
+                {
+                    "word": " children",
+                    "start": 1.14,
+                    "end": 2.64,
+                    "probability": 0.9088227152824402
+                },
+                {
+                    "word": " have",
+                    "start": 2.64,
+                    "end": 3.18,
+                    "probability": 0.9845139384269714
+                },
+                {
+                    "word": " fears",
+                    "start": 3.18,
+                    "end": 4.04,
+                    "probability": 0.9783701300621033
+                },
+                {
+                    "word": " of",
+                    "start": 4.04,
+                    "end": 5.12,
+                    "probability": 0.9867107272148132
+                },
+                {
+                    "word": " the",
+                    "start": 5.12,
+                    "end": 5.32,
+                    "probability": 0.9567030668258667
+                },
+                {
+                    "word": " weirdest",
+                    "start": 5.32,
+                    "end": 5.66,
+                    "probability": 0.9656552076339722
+                },
+                {
+                    "word": " things.",
+                    "start": 5.66,
+                    "end": 6.08,
+                    "probability": 0.8846040368080139
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.26,
+            "end": 11.56,
+            "text": " So I didn't have a specific fear.",
+            "tokens": [
+                50664,
+                407,
+                286,
+                994,
+                380,
+                362,
+                257,
+                2685,
+                4240,
+                13,
+                50924
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.370972941903507,
+            "compression_ratio": 1.1717171717171717,
+            "no_speech_prob": 0.015033945441246033,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 7.26,
+                    "end": 7.26,
+                    "probability": 0.6090652942657471
+                },
+                {
+                    "word": " I",
+                    "start": 7.26,
+                    "end": 8.76,
+                    "probability": 0.7367749810218811
+                },
+                {
+                    "word": " didn't",
+                    "start": 8.76,
+                    "end": 9.06,
+                    "probability": 0.9169392585754395
+                },
+                {
+                    "word": " have",
+                    "start": 9.06,
+                    "end": 9.3,
+                    "probability": 0.9900935292243958
+                },
+                {
+                    "word": " a",
+                    "start": 9.3,
+                    "end": 9.52,
+                    "probability": 0.9519459009170532
+                },
+                {
+                    "word": " specific",
+                    "start": 9.52,
+                    "end": 10.32,
+                    "probability": 0.997397780418396
+                },
+                {
+                    "word": " fear.",
+                    "start": 10.32,
+                    "end": 11.56,
+                    "probability": 0.9880363941192627
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.12,
+            "end": 14.84,
+            "text": " I wasn't even thinking that.",
+            "tokens": [
+                51032,
+                286,
+                2067,
+                380,
+                754,
+                1953,
+                300,
+                13,
+                51100
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.370972941903507,
+            "compression_ratio": 1.1717171717171717,
+            "no_speech_prob": 0.015033945441246033,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 13.12,
+                    "end": 13.64,
+                    "probability": 0.30328255891799927
+                },
+                {
+                    "word": " wasn't",
+                    "start": 13.64,
+                    "end": 14.0,
+                    "probability": 0.7886912226676941
+                },
+                {
+                    "word": " even",
+                    "start": 14.0,
+                    "end": 14.24,
+                    "probability": 0.9897576570510864
+                },
+                {
+                    "word": " thinking",
+                    "start": 14.24,
+                    "end": 14.62,
+                    "probability": 0.9947346448898315
+                },
+                {
+                    "word": " that.",
+                    "start": 14.62,
+                    "end": 14.84,
+                    "probability": 0.5598040223121643
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

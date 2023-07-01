@@ -1,0 +1,599 @@
+{
+    "text": " Yeah, but I'm still in favor of moving table into the corner So as we will be having our friends and the guests it will be easy for this professional chef To serve us the food and also the more and more people can easily roam around the room so I think moving that table in the Here or into the corner will be the more beneficial. What do you guys think?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.96,
+            "text": " Yeah, but I'm still in favor of moving table into the corner",
+            "tokens": [
+                50364,
+                865,
+                11,
+                457,
+                286,
+                478,
+                920,
+                294,
+                2294,
+                295,
+                2684,
+                3199,
+                666,
+                264,
+                4538,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20664732483611709,
+            "compression_ratio": 1.6777251184834123,
+            "no_speech_prob": 0.0020975470542907715,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.29716211557388306
+                },
+                {
+                    "word": " but",
+                    "start": 0.68,
+                    "end": 0.76,
+                    "probability": 0.4900810718536377
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.76,
+                    "end": 1.04,
+                    "probability": 0.9272109270095825
+                },
+                {
+                    "word": " still",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.9971264004707336
+                },
+                {
+                    "word": " in",
+                    "start": 1.3,
+                    "end": 1.68,
+                    "probability": 0.998077392578125
+                },
+                {
+                    "word": " favor",
+                    "start": 1.68,
+                    "end": 2.0,
+                    "probability": 0.9538055062294006
+                },
+                {
+                    "word": " of",
+                    "start": 2.0,
+                    "end": 2.46,
+                    "probability": 0.9976333379745483
+                },
+                {
+                    "word": " moving",
+                    "start": 2.46,
+                    "end": 2.7,
+                    "probability": 0.9941291809082031
+                },
+                {
+                    "word": " table",
+                    "start": 2.7,
+                    "end": 3.12,
+                    "probability": 0.9005448818206787
+                },
+                {
+                    "word": " into",
+                    "start": 3.12,
+                    "end": 3.4,
+                    "probability": 0.9805204272270203
+                },
+                {
+                    "word": " the",
+                    "start": 3.4,
+                    "end": 3.7,
+                    "probability": 0.9977503418922424
+                },
+                {
+                    "word": " corner",
+                    "start": 3.7,
+                    "end": 3.96,
+                    "probability": 0.9746183156967163
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.96,
+            "end": 10.8,
+            "text": " So as we will be having our friends and the guests it will be easy for this professional chef",
+            "tokens": [
+                50560,
+                407,
+                382,
+                321,
+                486,
+                312,
+                1419,
+                527,
+                1855,
+                293,
+                264,
+                9804,
+                309,
+                486,
+                312,
+                1858,
+                337,
+                341,
+                4843,
+                10530,
+                50890
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20664732483611709,
+            "compression_ratio": 1.6777251184834123,
+            "no_speech_prob": 0.0020975470542907715,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 3.96,
+                    "end": 4.58,
+                    "probability": 0.3357073962688446
+                },
+                {
+                    "word": " as",
+                    "start": 4.58,
+                    "end": 5.02,
+                    "probability": 0.9794512391090393
+                },
+                {
+                    "word": " we",
+                    "start": 5.02,
+                    "end": 5.18,
+                    "probability": 0.9011139869689941
+                },
+                {
+                    "word": " will",
+                    "start": 5.18,
+                    "end": 5.34,
+                    "probability": 0.9972444772720337
+                },
+                {
+                    "word": " be",
+                    "start": 5.34,
+                    "end": 5.5,
+                    "probability": 0.9981818199157715
+                },
+                {
+                    "word": " having",
+                    "start": 5.5,
+                    "end": 5.7,
+                    "probability": 0.9980716109275818
+                },
+                {
+                    "word": " our",
+                    "start": 5.7,
+                    "end": 6.12,
+                    "probability": 0.9945458173751831
+                },
+                {
+                    "word": " friends",
+                    "start": 6.12,
+                    "end": 6.46,
+                    "probability": 0.994355320930481
+                },
+                {
+                    "word": " and",
+                    "start": 6.46,
+                    "end": 7.12,
+                    "probability": 0.9892151951789856
+                },
+                {
+                    "word": " the",
+                    "start": 7.12,
+                    "end": 7.36,
+                    "probability": 0.9876211285591125
+                },
+                {
+                    "word": " guests",
+                    "start": 7.36,
+                    "end": 7.66,
+                    "probability": 0.8292645215988159
+                },
+                {
+                    "word": " it",
+                    "start": 7.66,
+                    "end": 8.34,
+                    "probability": 0.4454873502254486
+                },
+                {
+                    "word": " will",
+                    "start": 8.34,
+                    "end": 8.54,
+                    "probability": 0.9970284104347229
+                },
+                {
+                    "word": " be",
+                    "start": 8.54,
+                    "end": 8.78,
+                    "probability": 0.9997448325157166
+                },
+                {
+                    "word": " easy",
+                    "start": 8.78,
+                    "end": 9.14,
+                    "probability": 0.9981648325920105
+                },
+                {
+                    "word": " for",
+                    "start": 9.14,
+                    "end": 9.5,
+                    "probability": 0.9989327788352966
+                },
+                {
+                    "word": " this",
+                    "start": 9.5,
+                    "end": 9.78,
+                    "probability": 0.9959076642990112
+                },
+                {
+                    "word": " professional",
+                    "start": 9.78,
+                    "end": 10.32,
+                    "probability": 0.9932926893234253
+                },
+                {
+                    "word": " chef",
+                    "start": 10.32,
+                    "end": 10.8,
+                    "probability": 0.9728374481201172
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.8,
+            "end": 18.94,
+            "text": " To serve us the food and also the more and more people can easily roam around the room",
+            "tokens": [
+                50940,
+                1407,
+                4596,
+                505,
+                264,
+                1755,
+                293,
+                611,
+                264,
+                544,
+                293,
+                544,
+                561,
+                393,
+                3612,
+                40474,
+                926,
+                264,
+                1808,
+                51300
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20664732483611709,
+            "compression_ratio": 1.6777251184834123,
+            "no_speech_prob": 0.0020975470542907715,
+            "words": [
+                {
+                    "word": " To",
+                    "start": 10.8,
+                    "end": 12.14,
+                    "probability": 0.3485439121723175
+                },
+                {
+                    "word": " serve",
+                    "start": 12.14,
+                    "end": 12.54,
+                    "probability": 0.9983757734298706
+                },
+                {
+                    "word": " us",
+                    "start": 12.54,
+                    "end": 12.94,
+                    "probability": 0.9957081079483032
+                },
+                {
+                    "word": " the",
+                    "start": 12.94,
+                    "end": 13.2,
+                    "probability": 0.9985958933830261
+                },
+                {
+                    "word": " food",
+                    "start": 13.2,
+                    "end": 13.42,
+                    "probability": 0.9992333650588989
+                },
+                {
+                    "word": " and",
+                    "start": 13.42,
+                    "end": 13.98,
+                    "probability": 0.9773851037025452
+                },
+                {
+                    "word": " also",
+                    "start": 13.98,
+                    "end": 14.3,
+                    "probability": 0.9976020455360413
+                },
+                {
+                    "word": " the",
+                    "start": 14.3,
+                    "end": 14.62,
+                    "probability": 0.5813770294189453
+                },
+                {
+                    "word": " more",
+                    "start": 14.62,
+                    "end": 14.9,
+                    "probability": 0.9987001419067383
+                },
+                {
+                    "word": " and",
+                    "start": 14.9,
+                    "end": 15.16,
+                    "probability": 0.9979027509689331
+                },
+                {
+                    "word": " more",
+                    "start": 15.16,
+                    "end": 15.28,
+                    "probability": 0.9987063407897949
+                },
+                {
+                    "word": " people",
+                    "start": 15.28,
+                    "end": 15.62,
+                    "probability": 0.9989769458770752
+                },
+                {
+                    "word": " can",
+                    "start": 15.62,
+                    "end": 16.0,
+                    "probability": 0.9983590245246887
+                },
+                {
+                    "word": " easily",
+                    "start": 16.0,
+                    "end": 16.76,
+                    "probability": 0.995162844657898
+                },
+                {
+                    "word": " roam",
+                    "start": 16.76,
+                    "end": 17.18,
+                    "probability": 0.9093834161758423
+                },
+                {
+                    "word": " around",
+                    "start": 17.18,
+                    "end": 17.76,
+                    "probability": 0.9984557628631592
+                },
+                {
+                    "word": " the",
+                    "start": 17.76,
+                    "end": 18.7,
+                    "probability": 0.9762894511222839
+                },
+                {
+                    "word": " room",
+                    "start": 18.7,
+                    "end": 18.94,
+                    "probability": 0.9578363299369812
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.94,
+            "end": 22.42,
+            "text": " so I think moving that table in the",
+            "tokens": [
+                51306,
+                370,
+                286,
+                519,
+                2684,
+                300,
+                3199,
+                294,
+                264,
+                51442
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20664732483611709,
+            "compression_ratio": 1.6777251184834123,
+            "no_speech_prob": 0.0020975470542907715,
+            "words": [
+                {
+                    "word": " so",
+                    "start": 18.94,
+                    "end": 19.48,
+                    "probability": 0.6240987777709961
+                },
+                {
+                    "word": " I",
+                    "start": 19.48,
+                    "end": 19.68,
+                    "probability": 0.9593766331672668
+                },
+                {
+                    "word": " think",
+                    "start": 19.68,
+                    "end": 20.02,
+                    "probability": 0.9988712668418884
+                },
+                {
+                    "word": " moving",
+                    "start": 20.02,
+                    "end": 20.42,
+                    "probability": 0.9360702037811279
+                },
+                {
+                    "word": " that",
+                    "start": 20.42,
+                    "end": 20.78,
+                    "probability": 0.4790266454219818
+                },
+                {
+                    "word": " table",
+                    "start": 20.78,
+                    "end": 21.18,
+                    "probability": 0.9978277087211609
+                },
+                {
+                    "word": " in",
+                    "start": 21.18,
+                    "end": 21.56,
+                    "probability": 0.9249935150146484
+                },
+                {
+                    "word": " the",
+                    "start": 21.56,
+                    "end": 22.42,
+                    "probability": 0.9613194465637207
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 22.42,
+            "end": 26.34,
+            "text": " Here or into the corner will be the more beneficial. What do you guys think?",
+            "tokens": [
+                51466,
+                1692,
+                420,
+                666,
+                264,
+                4538,
+                486,
+                312,
+                264,
+                544,
+                14072,
+                13,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                51672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20664732483611709,
+            "compression_ratio": 1.6777251184834123,
+            "no_speech_prob": 0.0020975470542907715,
+            "words": [
+                {
+                    "word": " Here",
+                    "start": 22.42,
+                    "end": 22.7,
+                    "probability": 0.6403676271438599
+                },
+                {
+                    "word": " or",
+                    "start": 22.7,
+                    "end": 23.1,
+                    "probability": 0.9436653256416321
+                },
+                {
+                    "word": " into",
+                    "start": 23.1,
+                    "end": 23.34,
+                    "probability": 0.9703754782676697
+                },
+                {
+                    "word": " the",
+                    "start": 23.34,
+                    "end": 23.68,
+                    "probability": 0.9995520710945129
+                },
+                {
+                    "word": " corner",
+                    "start": 23.68,
+                    "end": 24.06,
+                    "probability": 0.9980820417404175
+                },
+                {
+                    "word": " will",
+                    "start": 24.06,
+                    "end": 24.42,
+                    "probability": 0.8807460069656372
+                },
+                {
+                    "word": " be",
+                    "start": 24.42,
+                    "end": 24.5,
+                    "probability": 0.9952033758163452
+                },
+                {
+                    "word": " the",
+                    "start": 24.5,
+                    "end": 24.68,
+                    "probability": 0.9730879664421082
+                },
+                {
+                    "word": " more",
+                    "start": 24.68,
+                    "end": 24.94,
+                    "probability": 0.9992151260375977
+                },
+                {
+                    "word": " beneficial.",
+                    "start": 24.94,
+                    "end": 25.38,
+                    "probability": 0.997018575668335
+                },
+                {
+                    "word": " What",
+                    "start": 25.44,
+                    "end": 25.68,
+                    "probability": 0.997280478477478
+                },
+                {
+                    "word": " do",
+                    "start": 25.68,
+                    "end": 25.8,
+                    "probability": 0.9944859147071838
+                },
+                {
+                    "word": " you",
+                    "start": 25.8,
+                    "end": 25.9,
+                    "probability": 0.9998458623886108
+                },
+                {
+                    "word": " guys",
+                    "start": 25.9,
+                    "end": 26.08,
+                    "probability": 0.9965678453445435
+                },
+                {
+                    "word": " think?",
+                    "start": 26.08,
+                    "end": 26.34,
+                    "probability": 0.9967028498649597
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

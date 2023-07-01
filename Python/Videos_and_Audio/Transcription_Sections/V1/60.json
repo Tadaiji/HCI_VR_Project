@@ -1,0 +1,31 @@
+{
+    "text": " Anyway.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.26,
+            "text": " Anyway.",
+            "tokens": [
+                50364,
+                5684,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7313786506652832,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.4759525954723358,
+            "words": [
+                {
+                    "word": " Anyway.",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.5085586905479431
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

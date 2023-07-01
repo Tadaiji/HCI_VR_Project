@@ -1,0 +1,54 @@
+{
+    "text": " I don't think it's...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.54,
+            "text": " I don't think it's...",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                519,
+                309,
+                311,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7825560092926025,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.6773650050163269,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.7481334209442139
+                },
+                {
+                    "word": " don't",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.9874065220355988
+                },
+                {
+                    "word": " think",
+                    "start": 0.44,
+                    "end": 0.54,
+                    "probability": 0.9949140548706055
+                },
+                {
+                    "word": " it's...",
+                    "start": 0.54,
+                    "end": 0.54,
+                    "probability": 0.28743678083022434
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

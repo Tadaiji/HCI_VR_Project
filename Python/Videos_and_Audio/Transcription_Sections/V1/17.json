@@ -1,0 +1,871 @@
+{
+    "text": " Yeah, I think the idea with a party sounds really, really good. But to be totally honest, I'm not that keen on doing everything myself, especially when we are talking about all this stuff around us, which is quite large. And I have a friend from school who works at a company who helps with moving out. I'd say this would be quite an opportunity to use some of our newfound money and make our lives a bit easier. There will be enough work even when contracting a company. And as I heard, they are not that expensive to be totally honest.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.4,
+            "text": " Yeah, I think the idea with a party sounds really, really good.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                264,
+                1558,
+                365,
+                257,
+                3595,
+                3263,
+                534,
+                11,
+                534,
+                665,
+                13,
+                50580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.227313242460552,
+            "compression_ratio": 1.4803921568627452,
+            "no_speech_prob": 0.03698078915476799,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.6222066283226013
+                },
+                {
+                    "word": " I",
+                    "start": 0.62,
+                    "end": 0.7,
+                    "probability": 0.9793941378593445
+                },
+                {
+                    "word": " think",
+                    "start": 0.7,
+                    "end": 1.02,
+                    "probability": 0.9932495355606079
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.64,
+                    "probability": 0.9209839105606079
+                },
+                {
+                    "word": " idea",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.9933473467826843
+                },
+                {
+                    "word": " with",
+                    "start": 1.76,
+                    "end": 1.96,
+                    "probability": 0.8104046583175659
+                },
+                {
+                    "word": " a",
+                    "start": 1.96,
+                    "end": 2.14,
+                    "probability": 0.8754300475120544
+                },
+                {
+                    "word": " party",
+                    "start": 2.14,
+                    "end": 2.54,
+                    "probability": 0.9876277446746826
+                },
+                {
+                    "word": " sounds",
+                    "start": 2.54,
+                    "end": 3.26,
+                    "probability": 0.9435809254646301
+                },
+                {
+                    "word": " really,",
+                    "start": 3.26,
+                    "end": 3.92,
+                    "probability": 0.9912974834442139
+                },
+                {
+                    "word": " really",
+                    "start": 3.92,
+                    "end": 4.1,
+                    "probability": 0.9967318773269653
+                },
+                {
+                    "word": " good.",
+                    "start": 4.1,
+                    "end": 4.4,
+                    "probability": 0.9885080456733704
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.56,
+            "end": 12.9,
+            "text": " But to be totally honest, I'm not that keen on doing everything myself,",
+            "tokens": [
+                50630,
+                583,
+                281,
+                312,
+                3879,
+                3245,
+                11,
+                286,
+                478,
+                406,
+                300,
+                20297,
+                322,
+                884,
+                1203,
+                2059,
+                11,
+                51010
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.227313242460552,
+            "compression_ratio": 1.4803921568627452,
+            "no_speech_prob": 0.03698078915476799,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.9258528351783752
+                },
+                {
+                    "word": " to",
+                    "start": 6.02,
+                    "end": 7.62,
+                    "probability": 0.6967079639434814
+                },
+                {
+                    "word": " be",
+                    "start": 7.62,
+                    "end": 7.84,
+                    "probability": 0.8907198309898376
+                },
+                {
+                    "word": " totally",
+                    "start": 7.84,
+                    "end": 7.84,
+                    "probability": 0.990786075592041
+                },
+                {
+                    "word": " honest,",
+                    "start": 7.84,
+                    "end": 8.24,
+                    "probability": 0.9993153810501099
+                },
+                {
+                    "word": " I'm",
+                    "start": 9.0,
+                    "end": 9.18,
+                    "probability": 0.9833409488201141
+                },
+                {
+                    "word": " not",
+                    "start": 9.18,
+                    "end": 9.4,
+                    "probability": 0.9995496869087219
+                },
+                {
+                    "word": " that",
+                    "start": 9.4,
+                    "end": 9.62,
+                    "probability": 0.9834091663360596
+                },
+                {
+                    "word": " keen",
+                    "start": 9.62,
+                    "end": 9.78,
+                    "probability": 0.9985803365707397
+                },
+                {
+                    "word": " on",
+                    "start": 9.78,
+                    "end": 10.2,
+                    "probability": 0.9979154467582703
+                },
+                {
+                    "word": " doing",
+                    "start": 10.2,
+                    "end": 10.62,
+                    "probability": 0.9890910983085632
+                },
+                {
+                    "word": " everything",
+                    "start": 10.62,
+                    "end": 11.58,
+                    "probability": 0.9982185959815979
+                },
+                {
+                    "word": " myself,",
+                    "start": 11.58,
+                    "end": 12.9,
+                    "probability": 0.9805848002433777
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.04,
+            "end": 19.52,
+            "text": " especially when we are talking about all this stuff around us, which is quite large.",
+            "tokens": [
+                51026,
+                2318,
+                562,
+                321,
+                366,
+                1417,
+                466,
+                439,
+                341,
+                1507,
+                926,
+                505,
+                11,
+                597,
+                307,
+                1596,
+                2416,
+                13,
+                51340
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.227313242460552,
+            "compression_ratio": 1.4803921568627452,
+            "no_speech_prob": 0.03698078915476799,
+            "words": [
+                {
+                    "word": " especially",
+                    "start": 13.04,
+                    "end": 13.9,
+                    "probability": 0.9951274394989014
+                },
+                {
+                    "word": " when",
+                    "start": 13.9,
+                    "end": 14.66,
+                    "probability": 0.9909419417381287
+                },
+                {
+                    "word": " we",
+                    "start": 14.66,
+                    "end": 14.86,
+                    "probability": 0.9991993308067322
+                },
+                {
+                    "word": " are",
+                    "start": 14.86,
+                    "end": 15.0,
+                    "probability": 0.9273175001144409
+                },
+                {
+                    "word": " talking",
+                    "start": 15.0,
+                    "end": 15.28,
+                    "probability": 0.9993582367897034
+                },
+                {
+                    "word": " about",
+                    "start": 15.28,
+                    "end": 15.58,
+                    "probability": 0.9975818395614624
+                },
+                {
+                    "word": " all",
+                    "start": 15.58,
+                    "end": 16.14,
+                    "probability": 0.9375227689743042
+                },
+                {
+                    "word": " this",
+                    "start": 16.14,
+                    "end": 16.34,
+                    "probability": 0.9479189515113831
+                },
+                {
+                    "word": " stuff",
+                    "start": 16.34,
+                    "end": 16.82,
+                    "probability": 0.998810887336731
+                },
+                {
+                    "word": " around",
+                    "start": 16.82,
+                    "end": 17.08,
+                    "probability": 0.9705307483673096
+                },
+                {
+                    "word": " us,",
+                    "start": 17.08,
+                    "end": 17.3,
+                    "probability": 0.9943186640739441
+                },
+                {
+                    "word": " which",
+                    "start": 17.32,
+                    "end": 17.72,
+                    "probability": 0.9941883087158203
+                },
+                {
+                    "word": " is",
+                    "start": 17.72,
+                    "end": 18.42,
+                    "probability": 0.896416187286377
+                },
+                {
+                    "word": " quite",
+                    "start": 18.42,
+                    "end": 18.9,
+                    "probability": 0.9977545142173767
+                },
+                {
+                    "word": " large.",
+                    "start": 18.9,
+                    "end": 19.52,
+                    "probability": 0.7319644689559937
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.1,
+            "end": 26.92,
+            "text": " And I have a friend from school who works at a company who helps with moving out.",
+            "tokens": [
+                51380,
+                400,
+                286,
+                362,
+                257,
+                1277,
+                490,
+                1395,
+                567,
+                1985,
+                412,
+                257,
+                2237,
+                567,
+                3665,
+                365,
+                2684,
+                484,
+                13,
+                51692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.227313242460552,
+            "compression_ratio": 1.4803921568627452,
+            "no_speech_prob": 0.03698078915476799,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 20.1,
+                    "end": 20.74,
+                    "probability": 0.9319540858268738
+                },
+                {
+                    "word": " I",
+                    "start": 20.74,
+                    "end": 20.84,
+                    "probability": 0.9935546517372131
+                },
+                {
+                    "word": " have",
+                    "start": 20.84,
+                    "end": 21.06,
+                    "probability": 0.9923281073570251
+                },
+                {
+                    "word": " a",
+                    "start": 21.06,
+                    "end": 21.3,
+                    "probability": 0.9840967655181885
+                },
+                {
+                    "word": " friend",
+                    "start": 21.3,
+                    "end": 21.62,
+                    "probability": 0.9979052543640137
+                },
+                {
+                    "word": " from",
+                    "start": 21.62,
+                    "end": 22.22,
+                    "probability": 0.9913968443870544
+                },
+                {
+                    "word": " school",
+                    "start": 22.22,
+                    "end": 22.64,
+                    "probability": 0.9992030262947083
+                },
+                {
+                    "word": " who",
+                    "start": 22.64,
+                    "end": 22.96,
+                    "probability": 0.9564303755760193
+                },
+                {
+                    "word": " works",
+                    "start": 22.96,
+                    "end": 23.16,
+                    "probability": 0.9984714388847351
+                },
+                {
+                    "word": " at",
+                    "start": 23.16,
+                    "end": 23.38,
+                    "probability": 0.9943071007728577
+                },
+                {
+                    "word": " a",
+                    "start": 23.38,
+                    "end": 23.68,
+                    "probability": 0.9513841271400452
+                },
+                {
+                    "word": " company",
+                    "start": 23.68,
+                    "end": 24.12,
+                    "probability": 0.9972637891769409
+                },
+                {
+                    "word": " who",
+                    "start": 24.12,
+                    "end": 24.68,
+                    "probability": 0.8538771867752075
+                },
+                {
+                    "word": " helps",
+                    "start": 24.68,
+                    "end": 25.16,
+                    "probability": 0.9583063125610352
+                },
+                {
+                    "word": " with",
+                    "start": 25.16,
+                    "end": 26.04,
+                    "probability": 0.9837252497673035
+                },
+                {
+                    "word": " moving",
+                    "start": 26.04,
+                    "end": 26.3,
+                    "probability": 0.9964843988418579
+                },
+                {
+                    "word": " out.",
+                    "start": 26.3,
+                    "end": 26.92,
+                    "probability": 0.9941712021827698
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2692,
+            "start": 28.52,
+            "end": 37.5,
+            "text": " I'd say this would be quite an opportunity to use some of our newfound money",
+            "tokens": [
+                50414,
+                286,
+                1116,
+                584,
+                341,
+                576,
+                312,
+                1596,
+                364,
+                2650,
+                281,
+                764,
+                512,
+                295,
+                527,
+                777,
+                17493,
+                1460,
+                50890
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3107661565144857,
+            "compression_ratio": 1.3764705882352941,
+            "no_speech_prob": 0.003802101593464613,
+            "words": [
+                {
+                    "word": " I'd",
+                    "start": 28.52,
+                    "end": 29.24,
+                    "probability": 0.8255415260791779
+                },
+                {
+                    "word": " say",
+                    "start": 29.24,
+                    "end": 29.58,
+                    "probability": 0.9990028738975525
+                },
+                {
+                    "word": " this",
+                    "start": 29.58,
+                    "end": 30.9,
+                    "probability": 0.8500107526779175
+                },
+                {
+                    "word": " would",
+                    "start": 30.9,
+                    "end": 31.36,
+                    "probability": 0.9874470829963684
+                },
+                {
+                    "word": " be",
+                    "start": 31.36,
+                    "end": 32.74,
+                    "probability": 0.9979922771453857
+                },
+                {
+                    "word": " quite",
+                    "start": 32.74,
+                    "end": 33.04,
+                    "probability": 0.9465987682342529
+                },
+                {
+                    "word": " an",
+                    "start": 33.04,
+                    "end": 33.18,
+                    "probability": 0.9776999354362488
+                },
+                {
+                    "word": " opportunity",
+                    "start": 33.18,
+                    "end": 33.82,
+                    "probability": 0.994751513004303
+                },
+                {
+                    "word": " to",
+                    "start": 33.82,
+                    "end": 35.18,
+                    "probability": 0.9703726768493652
+                },
+                {
+                    "word": " use",
+                    "start": 35.18,
+                    "end": 35.52,
+                    "probability": 0.9957572817802429
+                },
+                {
+                    "word": " some",
+                    "start": 35.52,
+                    "end": 36.1,
+                    "probability": 0.9939634203910828
+                },
+                {
+                    "word": " of",
+                    "start": 36.1,
+                    "end": 36.24,
+                    "probability": 0.9878981709480286
+                },
+                {
+                    "word": " our",
+                    "start": 36.24,
+                    "end": 36.64,
+                    "probability": 0.9953687191009521
+                },
+                {
+                    "word": " newfound",
+                    "start": 36.64,
+                    "end": 37.02,
+                    "probability": 0.6940695494413376
+                },
+                {
+                    "word": " money",
+                    "start": 37.02,
+                    "end": 37.5,
+                    "probability": 0.9978075623512268
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2692,
+            "start": 37.5,
+            "end": 40.54,
+            "text": " and make our lives a bit easier.",
+            "tokens": [
+                50890,
+                293,
+                652,
+                527,
+                2909,
+                257,
+                857,
+                3571,
+                13,
+                51040
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3107661565144857,
+            "compression_ratio": 1.3764705882352941,
+            "no_speech_prob": 0.003802101593464613,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 37.5,
+                    "end": 38.64,
+                    "probability": 0.8731746673583984
+                },
+                {
+                    "word": " make",
+                    "start": 38.64,
+                    "end": 39.14,
+                    "probability": 0.9887159466743469
+                },
+                {
+                    "word": " our",
+                    "start": 39.14,
+                    "end": 39.34,
+                    "probability": 0.9934385418891907
+                },
+                {
+                    "word": " lives",
+                    "start": 39.34,
+                    "end": 39.52,
+                    "probability": 0.9838237762451172
+                },
+                {
+                    "word": " a",
+                    "start": 39.52,
+                    "end": 39.7,
+                    "probability": 0.9910695552825928
+                },
+                {
+                    "word": " bit",
+                    "start": 39.7,
+                    "end": 39.8,
+                    "probability": 0.9968762397766113
+                },
+                {
+                    "word": " easier.",
+                    "start": 39.8,
+                    "end": 40.54,
+                    "probability": 0.9990167617797852
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2692,
+            "start": 41.8,
+            "end": 45.52,
+            "text": " There will be enough work even when contracting a company.",
+            "tokens": [
+                51040,
+                821,
+                486,
+                312,
+                1547,
+                589,
+                754,
+                562,
+                36095,
+                257,
+                2237,
+                13,
+                51290
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3107661565144857,
+            "compression_ratio": 1.3764705882352941,
+            "no_speech_prob": 0.003802101593464613,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 41.8,
+                    "end": 41.94,
+                    "probability": 0.9741931557655334
+                },
+                {
+                    "word": " will",
+                    "start": 41.94,
+                    "end": 42.24,
+                    "probability": 0.9897673726081848
+                },
+                {
+                    "word": " be",
+                    "start": 42.24,
+                    "end": 42.46,
+                    "probability": 0.9982088804244995
+                },
+                {
+                    "word": " enough",
+                    "start": 42.46,
+                    "end": 42.72,
+                    "probability": 0.9984594583511353
+                },
+                {
+                    "word": " work",
+                    "start": 42.72,
+                    "end": 43.34,
+                    "probability": 0.99787437915802
+                },
+                {
+                    "word": " even",
+                    "start": 43.34,
+                    "end": 44.0,
+                    "probability": 0.7558620572090149
+                },
+                {
+                    "word": " when",
+                    "start": 44.0,
+                    "end": 44.56,
+                    "probability": 0.986845850944519
+                },
+                {
+                    "word": " contracting",
+                    "start": 44.56,
+                    "end": 44.94,
+                    "probability": 0.9872494339942932
+                },
+                {
+                    "word": " a",
+                    "start": 44.94,
+                    "end": 45.08,
+                    "probability": 0.9810619950294495
+                },
+                {
+                    "word": " company.",
+                    "start": 45.08,
+                    "end": 45.52,
+                    "probability": 0.9974367022514343
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2692,
+            "start": 46.36,
+            "end": 50.56,
+            "text": " And as I heard, they are not that expensive to be totally honest.",
+            "tokens": [
+                51290,
+                400,
+                382,
+                286,
+                2198,
+                11,
+                436,
+                366,
+                406,
+                300,
+                5124,
+                281,
+                312,
+                3879,
+                3245,
+                13,
+                51540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3107661565144857,
+            "compression_ratio": 1.3764705882352941,
+            "no_speech_prob": 0.003802101593464613,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 46.36,
+                    "end": 46.44,
+                    "probability": 0.8027274012565613
+                },
+                {
+                    "word": " as",
+                    "start": 46.44,
+                    "end": 47.2,
+                    "probability": 0.8742625713348389
+                },
+                {
+                    "word": " I",
+                    "start": 47.2,
+                    "end": 47.36,
+                    "probability": 0.9839841723442078
+                },
+                {
+                    "word": " heard,",
+                    "start": 47.36,
+                    "end": 47.5,
+                    "probability": 0.8774375915527344
+                },
+                {
+                    "word": " they",
+                    "start": 47.7,
+                    "end": 47.7,
+                    "probability": 0.9970898032188416
+                },
+                {
+                    "word": " are",
+                    "start": 47.7,
+                    "end": 47.9,
+                    "probability": 0.9775031805038452
+                },
+                {
+                    "word": " not",
+                    "start": 47.9,
+                    "end": 48.42,
+                    "probability": 0.9992986917495728
+                },
+                {
+                    "word": " that",
+                    "start": 48.42,
+                    "end": 48.68,
+                    "probability": 0.9878730773925781
+                },
+                {
+                    "word": " expensive",
+                    "start": 48.68,
+                    "end": 49.58,
+                    "probability": 0.9972328543663025
+                },
+                {
+                    "word": " to",
+                    "start": 49.58,
+                    "end": 50.06,
+                    "probability": 0.6394935846328735
+                },
+                {
+                    "word": " be",
+                    "start": 50.06,
+                    "end": 50.32,
+                    "probability": 0.603755533695221
+                },
+                {
+                    "word": " totally",
+                    "start": 50.32,
+                    "end": 50.34,
+                    "probability": 0.11354616284370422
+                },
+                {
+                    "word": " honest.",
+                    "start": 50.34,
+                    "end": 50.56,
+                    "probability": 0.9999209642410278
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

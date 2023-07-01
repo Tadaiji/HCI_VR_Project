@@ -1,0 +1,538 @@
+{
+    "text": " Yeah, yes, Paul just said I'm not so good with clowns. I was afraid of them when I was a child. They, I don't know, they are happy and they do some pranks. I don't know, it just creeped me out. But you are grown up now. Yeah, I will try to stand against it. But the clowns are really friendly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.78,
+            "end": 8.94,
+            "text": " Yeah, yes, Paul just said I'm not so good with clowns. I was afraid of them when I was a child.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                2086,
+                11,
+                4552,
+                445,
+                848,
+                286,
+                478,
+                406,
+                370,
+                665,
+                365,
+                22209,
+                82,
+                13,
+                286,
+                390,
+                4638,
+                295,
+                552,
+                562,
+                286,
+                390,
+                257,
+                1440,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2368841378585152,
+            "compression_ratio": 1.5103092783505154,
+            "no_speech_prob": 0.015327745117247105,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.78,
+                    "end": 2.38,
+                    "probability": 0.3835217356681824
+                },
+                {
+                    "word": " yes,",
+                    "start": 2.3,
+                    "end": 2.98,
+                    "probability": 0.2835530936717987
+                },
+                {
+                    "word": " Paul",
+                    "start": 3.66,
+                    "end": 3.8,
+                    "probability": 0.8386168479919434
+                },
+                {
+                    "word": " just",
+                    "start": 3.8,
+                    "end": 4.1,
+                    "probability": 0.9488376379013062
+                },
+                {
+                    "word": " said",
+                    "start": 4.1,
+                    "end": 4.32,
+                    "probability": 0.9898232817649841
+                },
+                {
+                    "word": " I'm",
+                    "start": 4.32,
+                    "end": 4.8,
+                    "probability": 0.795964777469635
+                },
+                {
+                    "word": " not",
+                    "start": 4.8,
+                    "end": 5.12,
+                    "probability": 0.9958184361457825
+                },
+                {
+                    "word": " so",
+                    "start": 5.12,
+                    "end": 5.42,
+                    "probability": 0.9944550395011902
+                },
+                {
+                    "word": " good",
+                    "start": 5.42,
+                    "end": 5.54,
+                    "probability": 0.9981155395507812
+                },
+                {
+                    "word": " with",
+                    "start": 5.54,
+                    "end": 5.88,
+                    "probability": 0.9974914789199829
+                },
+                {
+                    "word": " clowns.",
+                    "start": 5.88,
+                    "end": 6.56,
+                    "probability": 0.9832160770893097
+                },
+                {
+                    "word": " I",
+                    "start": 6.56,
+                    "end": 6.88,
+                    "probability": 0.957578182220459
+                },
+                {
+                    "word": " was",
+                    "start": 6.88,
+                    "end": 7.14,
+                    "probability": 0.9884545803070068
+                },
+                {
+                    "word": " afraid",
+                    "start": 7.14,
+                    "end": 7.32,
+                    "probability": 0.8833463191986084
+                },
+                {
+                    "word": " of",
+                    "start": 7.32,
+                    "end": 7.48,
+                    "probability": 0.9962849617004395
+                },
+                {
+                    "word": " them",
+                    "start": 7.48,
+                    "end": 7.62,
+                    "probability": 0.9946354031562805
+                },
+                {
+                    "word": " when",
+                    "start": 7.62,
+                    "end": 7.78,
+                    "probability": 0.9760364890098572
+                },
+                {
+                    "word": " I",
+                    "start": 7.78,
+                    "end": 7.98,
+                    "probability": 0.9878115057945251
+                },
+                {
+                    "word": " was",
+                    "start": 7.98,
+                    "end": 8.24,
+                    "probability": 0.9978799819946289
+                },
+                {
+                    "word": " a",
+                    "start": 8.24,
+                    "end": 8.38,
+                    "probability": 0.9674582481384277
+                },
+                {
+                    "word": " child.",
+                    "start": 8.38,
+                    "end": 8.94,
+                    "probability": 0.9987177848815918
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.2,
+            "end": 18.32,
+            "text": " They, I don't know, they are happy and they do some pranks. I don't know, it just creeped me out.",
+            "tokens": [
+                50814,
+                814,
+                11,
+                286,
+                500,
+                380,
+                458,
+                11,
+                436,
+                366,
+                2055,
+                293,
+                436,
+                360,
+                512,
+                582,
+                14592,
+                13,
+                286,
+                500,
+                380,
+                458,
+                11,
+                309,
+                445,
+                9626,
+                292,
+                385,
+                484,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2368841378585152,
+            "compression_ratio": 1.5103092783505154,
+            "no_speech_prob": 0.015327745117247105,
+            "words": [
+                {
+                    "word": " They,",
+                    "start": 9.2,
+                    "end": 9.66,
+                    "probability": 0.579136312007904
+                },
+                {
+                    "word": " I",
+                    "start": 9.66,
+                    "end": 9.8,
+                    "probability": 0.9909042716026306
+                },
+                {
+                    "word": " don't",
+                    "start": 9.8,
+                    "end": 10.06,
+                    "probability": 0.992687463760376
+                },
+                {
+                    "word": " know,",
+                    "start": 10.06,
+                    "end": 10.44,
+                    "probability": 0.9978156089782715
+                },
+                {
+                    "word": " they",
+                    "start": 10.86,
+                    "end": 11.24,
+                    "probability": 0.4425133466720581
+                },
+                {
+                    "word": " are",
+                    "start": 11.24,
+                    "end": 12.72,
+                    "probability": 0.67359459400177
+                },
+                {
+                    "word": " happy",
+                    "start": 12.72,
+                    "end": 13.18,
+                    "probability": 0.9642400741577148
+                },
+                {
+                    "word": " and",
+                    "start": 13.18,
+                    "end": 13.66,
+                    "probability": 0.8424620032310486
+                },
+                {
+                    "word": " they",
+                    "start": 13.66,
+                    "end": 14.44,
+                    "probability": 0.9835672378540039
+                },
+                {
+                    "word": " do",
+                    "start": 14.44,
+                    "end": 14.74,
+                    "probability": 0.7616434097290039
+                },
+                {
+                    "word": " some",
+                    "start": 14.74,
+                    "end": 15.08,
+                    "probability": 0.9954668283462524
+                },
+                {
+                    "word": " pranks.",
+                    "start": 15.08,
+                    "end": 15.34,
+                    "probability": 0.9966809451580048
+                },
+                {
+                    "word": " I",
+                    "start": 15.64,
+                    "end": 15.76,
+                    "probability": 0.9397849440574646
+                },
+                {
+                    "word": " don't",
+                    "start": 15.76,
+                    "end": 15.98,
+                    "probability": 0.9920608997344971
+                },
+                {
+                    "word": " know,",
+                    "start": 15.98,
+                    "end": 16.2,
+                    "probability": 0.9977083206176758
+                },
+                {
+                    "word": " it",
+                    "start": 16.68,
+                    "end": 16.84,
+                    "probability": 0.8910850882530212
+                },
+                {
+                    "word": " just",
+                    "start": 16.84,
+                    "end": 17.34,
+                    "probability": 0.7222296595573425
+                },
+                {
+                    "word": " creeped",
+                    "start": 17.34,
+                    "end": 17.82,
+                    "probability": 0.9299866259098053
+                },
+                {
+                    "word": " me",
+                    "start": 17.82,
+                    "end": 18.06,
+                    "probability": 0.9973662495613098
+                },
+                {
+                    "word": " out.",
+                    "start": 18.06,
+                    "end": 18.32,
+                    "probability": 0.9917687177658081
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.32,
+            "end": 19.6,
+            "text": " But you are grown up now.",
+            "tokens": [
+                51264,
+                583,
+                291,
+                366,
+                7709,
+                493,
+                586,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2368841378585152,
+            "compression_ratio": 1.5103092783505154,
+            "no_speech_prob": 0.015327745117247105,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 18.32,
+                    "end": 18.4,
+                    "probability": 0.5917967557907104
+                },
+                {
+                    "word": " you",
+                    "start": 18.4,
+                    "end": 18.52,
+                    "probability": 0.9660751223564148
+                },
+                {
+                    "word": " are",
+                    "start": 18.52,
+                    "end": 18.72,
+                    "probability": 0.6899253726005554
+                },
+                {
+                    "word": " grown",
+                    "start": 18.72,
+                    "end": 18.92,
+                    "probability": 0.8674319386482239
+                },
+                {
+                    "word": " up",
+                    "start": 18.92,
+                    "end": 19.2,
+                    "probability": 0.8770647048950195
+                },
+                {
+                    "word": " now.",
+                    "start": 19.2,
+                    "end": 19.6,
+                    "probability": 0.9940932393074036
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.52,
+            "end": 26.3,
+            "text": " Yeah, I will try to stand against it.",
+            "tokens": [
+                51364,
+                865,
+                11,
+                286,
+                486,
+                853,
+                281,
+                1463,
+                1970,
+                309,
+                13,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2368841378585152,
+            "compression_ratio": 1.5103092783505154,
+            "no_speech_prob": 0.015327745117247105,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 20.52,
+                    "end": 20.9,
+                    "probability": 0.5023712515830994
+                },
+                {
+                    "word": " I",
+                    "start": 22.38,
+                    "end": 22.72,
+                    "probability": 0.9652642607688904
+                },
+                {
+                    "word": " will",
+                    "start": 22.72,
+                    "end": 23.02,
+                    "probability": 0.9313967227935791
+                },
+                {
+                    "word": " try",
+                    "start": 23.02,
+                    "end": 23.28,
+                    "probability": 0.9989603757858276
+                },
+                {
+                    "word": " to",
+                    "start": 23.28,
+                    "end": 25.04,
+                    "probability": 0.998410701751709
+                },
+                {
+                    "word": " stand",
+                    "start": 25.04,
+                    "end": 25.48,
+                    "probability": 0.9869681000709534
+                },
+                {
+                    "word": " against",
+                    "start": 25.48,
+                    "end": 26.02,
+                    "probability": 0.9923852682113647
+                },
+                {
+                    "word": " it.",
+                    "start": 26.02,
+                    "end": 26.3,
+                    "probability": 0.949417769908905
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 26.64,
+            "end": 27.98,
+            "text": " But the clowns are really friendly.",
+            "tokens": [
+                51664,
+                583,
+                264,
+                22209,
+                82,
+                366,
+                534,
+                9208,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2368841378585152,
+            "compression_ratio": 1.5103092783505154,
+            "no_speech_prob": 0.015327745117247105,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 26.64,
+                    "end": 26.66,
+                    "probability": 0.8266782164573669
+                },
+                {
+                    "word": " the",
+                    "start": 26.66,
+                    "end": 26.76,
+                    "probability": 0.8817170858383179
+                },
+                {
+                    "word": " clowns",
+                    "start": 26.76,
+                    "end": 27.08,
+                    "probability": 0.9868584275245667
+                },
+                {
+                    "word": " are",
+                    "start": 27.08,
+                    "end": 27.32,
+                    "probability": 0.9969467520713806
+                },
+                {
+                    "word": " really",
+                    "start": 27.32,
+                    "end": 27.6,
+                    "probability": 0.9896127581596375
+                },
+                {
+                    "word": " friendly.",
+                    "start": 27.6,
+                    "end": 27.98,
+                    "probability": 0.9984839558601379
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

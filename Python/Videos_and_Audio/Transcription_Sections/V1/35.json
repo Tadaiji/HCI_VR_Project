@@ -1,0 +1,396 @@
+{
+    "text": " Okay. Yeah, if we talk about moving, you know my problem with your color choices, George, I think we have to talk about your chair you often sit in and the planting pots next to it. Yeah, I don't think that, yeah I know, and that are",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.4,
+            "end": 11.7,
+            "text": " Okay. Yeah, if we talk about moving, you know my problem with your color choices, George,",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                865,
+                11,
+                498,
+                321,
+                751,
+                466,
+                2684,
+                11,
+                291,
+                458,
+                452,
+                1154,
+                365,
+                428,
+                2017,
+                7994,
+                11,
+                7136,
+                11,
+                50940
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24429844319820404,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.0007190629839897156,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 1.4,
+                    "end": 1.96,
+                    "probability": 0.6677388548851013
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 2.08,
+                    "end": 2.52,
+                    "probability": 0.8737503290176392
+                },
+                {
+                    "word": " if",
+                    "start": 4.24,
+                    "end": 4.4,
+                    "probability": 0.7792679071426392
+                },
+                {
+                    "word": " we",
+                    "start": 4.4,
+                    "end": 4.62,
+                    "probability": 0.9970853924751282
+                },
+                {
+                    "word": " talk",
+                    "start": 4.62,
+                    "end": 4.76,
+                    "probability": 0.9835389852523804
+                },
+                {
+                    "word": " about",
+                    "start": 4.76,
+                    "end": 5.56,
+                    "probability": 0.9996064305305481
+                },
+                {
+                    "word": " moving,",
+                    "start": 5.56,
+                    "end": 6.1,
+                    "probability": 0.9881595373153687
+                },
+                {
+                    "word": " you",
+                    "start": 7.54,
+                    "end": 7.6,
+                    "probability": 0.9526634216308594
+                },
+                {
+                    "word": " know",
+                    "start": 7.6,
+                    "end": 8.02,
+                    "probability": 0.9975571632385254
+                },
+                {
+                    "word": " my",
+                    "start": 8.02,
+                    "end": 8.3,
+                    "probability": 0.7079073786735535
+                },
+                {
+                    "word": " problem",
+                    "start": 8.3,
+                    "end": 8.58,
+                    "probability": 0.9975506663322449
+                },
+                {
+                    "word": " with",
+                    "start": 8.58,
+                    "end": 8.84,
+                    "probability": 0.997162401676178
+                },
+                {
+                    "word": " your",
+                    "start": 8.84,
+                    "end": 10.38,
+                    "probability": 0.9923223853111267
+                },
+                {
+                    "word": " color",
+                    "start": 10.38,
+                    "end": 10.74,
+                    "probability": 0.8279488682746887
+                },
+                {
+                    "word": " choices,",
+                    "start": 10.74,
+                    "end": 11.18,
+                    "probability": 0.9654808044433594
+                },
+                {
+                    "word": " George,",
+                    "start": 11.46,
+                    "end": 11.7,
+                    "probability": 0.9047679901123047
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 11.88,
+            "end": 22.08,
+            "text": " I think we have to talk about your chair you often sit in and the planting pots next to it.",
+            "tokens": [
+                50980,
+                286,
+                519,
+                321,
+                362,
+                281,
+                751,
+                466,
+                428,
+                6090,
+                291,
+                2049,
+                1394,
+                294,
+                293,
+                264,
+                20585,
+                22022,
+                958,
+                281,
+                309,
+                13,
+                51424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24429844319820404,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.0007190629839897156,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 11.88,
+                    "end": 12.6,
+                    "probability": 0.8782235980033875
+                },
+                {
+                    "word": " think",
+                    "start": 12.6,
+                    "end": 12.82,
+                    "probability": 0.9994068145751953
+                },
+                {
+                    "word": " we",
+                    "start": 12.82,
+                    "end": 13.0,
+                    "probability": 0.9790588021278381
+                },
+                {
+                    "word": " have",
+                    "start": 13.0,
+                    "end": 13.14,
+                    "probability": 0.9991601705551147
+                },
+                {
+                    "word": " to",
+                    "start": 13.14,
+                    "end": 13.28,
+                    "probability": 0.999631404876709
+                },
+                {
+                    "word": " talk",
+                    "start": 13.28,
+                    "end": 13.48,
+                    "probability": 0.9994577765464783
+                },
+                {
+                    "word": " about",
+                    "start": 13.48,
+                    "end": 14.16,
+                    "probability": 0.9992378950119019
+                },
+                {
+                    "word": " your",
+                    "start": 14.16,
+                    "end": 16.14,
+                    "probability": 0.34233707189559937
+                },
+                {
+                    "word": " chair",
+                    "start": 16.14,
+                    "end": 16.82,
+                    "probability": 0.8667648434638977
+                },
+                {
+                    "word": " you",
+                    "start": 16.82,
+                    "end": 17.46,
+                    "probability": 0.8581719994544983
+                },
+                {
+                    "word": " often",
+                    "start": 17.46,
+                    "end": 18.46,
+                    "probability": 0.9779931306838989
+                },
+                {
+                    "word": " sit",
+                    "start": 18.46,
+                    "end": 18.68,
+                    "probability": 0.9984039664268494
+                },
+                {
+                    "word": " in",
+                    "start": 18.68,
+                    "end": 19.04,
+                    "probability": 0.9924498796463013
+                },
+                {
+                    "word": " and",
+                    "start": 19.04,
+                    "end": 19.7,
+                    "probability": 0.8334686756134033
+                },
+                {
+                    "word": " the",
+                    "start": 19.7,
+                    "end": 20.16,
+                    "probability": 0.9945677518844604
+                },
+                {
+                    "word": " planting",
+                    "start": 20.16,
+                    "end": 20.44,
+                    "probability": 0.99714595079422
+                },
+                {
+                    "word": " pots",
+                    "start": 20.44,
+                    "end": 20.68,
+                    "probability": 0.7890625596046448
+                },
+                {
+                    "word": " next",
+                    "start": 20.68,
+                    "end": 21.0,
+                    "probability": 0.9975907802581787
+                },
+                {
+                    "word": " to",
+                    "start": 21.0,
+                    "end": 21.2,
+                    "probability": 0.9994286894798279
+                },
+                {
+                    "word": " it.",
+                    "start": 21.2,
+                    "end": 22.08,
+                    "probability": 0.9986030459403992
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 22.78,
+            "end": 25.86,
+            "text": " Yeah, I don't think that, yeah I know, and that are",
+            "tokens": [
+                51496,
+                865,
+                11,
+                286,
+                500,
+                380,
+                519,
+                300,
+                11,
+                1338,
+                286,
+                458,
+                11,
+                293,
+                300,
+                366,
+                51632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24429844319820404,
+            "compression_ratio": 1.484076433121019,
+            "no_speech_prob": 0.0007190629839897156,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 22.78,
+                    "end": 23.16,
+                    "probability": 0.7191694378852844
+                },
+                {
+                    "word": " I",
+                    "start": 23.22,
+                    "end": 23.24,
+                    "probability": 0.9781351089477539
+                },
+                {
+                    "word": " don't",
+                    "start": 23.24,
+                    "end": 23.5,
+                    "probability": 0.9612291753292084
+                },
+                {
+                    "word": " think",
+                    "start": 23.5,
+                    "end": 23.72,
+                    "probability": 0.9975786805152893
+                },
+                {
+                    "word": " that,",
+                    "start": 23.72,
+                    "end": 24.12,
+                    "probability": 0.9803873896598816
+                },
+                {
+                    "word": " yeah",
+                    "start": 24.12,
+                    "end": 24.36,
+                    "probability": 0.9195495247840881
+                },
+                {
+                    "word": " I",
+                    "start": 24.36,
+                    "end": 24.42,
+                    "probability": 0.5155342817306519
+                },
+                {
+                    "word": " know,",
+                    "start": 24.42,
+                    "end": 24.92,
+                    "probability": 0.9964247345924377
+                },
+                {
+                    "word": " and",
+                    "start": 25.2,
+                    "end": 25.26,
+                    "probability": 0.4973703920841217
+                },
+                {
+                    "word": " that",
+                    "start": 25.26,
+                    "end": 25.46,
+                    "probability": 0.7498036026954651
+                },
+                {
+                    "word": " are",
+                    "start": 25.46,
+                    "end": 25.86,
+                    "probability": 0.7290395498275757
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

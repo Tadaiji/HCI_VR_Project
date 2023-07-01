@@ -1,0 +1,46 @@
+{
+    "text": " because I'm going.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.34,
+            "end": 1.5,
+            "text": " because I'm going.",
+            "tokens": [
+                50364,
+                570,
+                286,
+                478,
+                516,
+                13,
+                50447
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6095764636993408,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.42068058252334595,
+            "words": [
+                {
+                    "word": " because",
+                    "start": 0.34,
+                    "end": 0.92,
+                    "probability": 0.5553247332572937
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.92,
+                    "end": 1.24,
+                    "probability": 0.8770077228546143
+                },
+                {
+                    "word": " going.",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.9025801420211792
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

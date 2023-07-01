@@ -1,0 +1,73 @@
+{
+    "text": " I would really look forward to it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.12,
+            "text": " I would really look forward to it.",
+            "tokens": [
+                50364,
+                286,
+                576,
+                534,
+                574,
+                2128,
+                281,
+                309,
+                13,
+                50469
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4441824392838912,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.23888683319091797,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.6,
+                    "probability": 0.812432587146759
+                },
+                {
+                    "word": " would",
+                    "start": 0.6,
+                    "end": 0.82,
+                    "probability": 0.9364105463027954
+                },
+                {
+                    "word": " really",
+                    "start": 0.82,
+                    "end": 1.04,
+                    "probability": 0.972284734249115
+                },
+                {
+                    "word": " look",
+                    "start": 1.04,
+                    "end": 1.3,
+                    "probability": 0.9888049364089966
+                },
+                {
+                    "word": " forward",
+                    "start": 1.3,
+                    "end": 1.74,
+                    "probability": 0.9125059843063354
+                },
+                {
+                    "word": " to",
+                    "start": 1.74,
+                    "end": 2.12,
+                    "probability": 0.7676576972007751
+                },
+                {
+                    "word": " it.",
+                    "start": 2.12,
+                    "end": 2.12,
+                    "probability": 0.22465260326862335
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

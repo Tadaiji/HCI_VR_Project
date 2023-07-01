@@ -1,0 +1,347 @@
+{
+    "text": " Okay, nice. I'm glad that we came to an agreement on the furniture arrangement. Yeah, even though I won't be there, I still want to come back to the clown idea. Yeah, what about a big poster on the wall?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8,
+            "end": 8.96,
+            "text": " Okay, nice. I'm glad that we came to an agreement on the furniture arrangement.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1481,
+                13,
+                286,
+                478,
+                5404,
+                300,
+                321,
+                1361,
+                281,
+                364,
+                8106,
+                322,
+                264,
+                15671,
+                17620,
+                13,
+                50836
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27366808841103,
+            "compression_ratio": 1.3716216216216217,
+            "no_speech_prob": 0.009176365099847317,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.8,
+                    "end": 1.4,
+                    "probability": 0.20879767835140228
+                },
+                {
+                    "word": " nice.",
+                    "start": 1.48,
+                    "end": 2.0,
+                    "probability": 0.3866689205169678
+                },
+                {
+                    "word": " I'm",
+                    "start": 2.96,
+                    "end": 3.24,
+                    "probability": 0.9601989686489105
+                },
+                {
+                    "word": " glad",
+                    "start": 3.24,
+                    "end": 3.38,
+                    "probability": 0.9988239407539368
+                },
+                {
+                    "word": " that",
+                    "start": 3.38,
+                    "end": 3.64,
+                    "probability": 0.9475785493850708
+                },
+                {
+                    "word": " we",
+                    "start": 3.64,
+                    "end": 3.94,
+                    "probability": 0.9970114231109619
+                },
+                {
+                    "word": " came",
+                    "start": 3.94,
+                    "end": 4.16,
+                    "probability": 0.9556331634521484
+                },
+                {
+                    "word": " to",
+                    "start": 4.16,
+                    "end": 5.46,
+                    "probability": 0.9962383508682251
+                },
+                {
+                    "word": " an",
+                    "start": 5.46,
+                    "end": 5.46,
+                    "probability": 0.9093645811080933
+                },
+                {
+                    "word": " agreement",
+                    "start": 5.46,
+                    "end": 6.28,
+                    "probability": 0.9960435628890991
+                },
+                {
+                    "word": " on",
+                    "start": 6.28,
+                    "end": 7.26,
+                    "probability": 0.9426245093345642
+                },
+                {
+                    "word": " the",
+                    "start": 7.26,
+                    "end": 7.78,
+                    "probability": 0.9971900582313538
+                },
+                {
+                    "word": " furniture",
+                    "start": 7.78,
+                    "end": 8.26,
+                    "probability": 0.9782584309577942
+                },
+                {
+                    "word": " arrangement.",
+                    "start": 8.26,
+                    "end": 8.96,
+                    "probability": 0.9509057402610779
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 10.78,
+            "end": 16.14,
+            "text": " Yeah, even though I won't be there, I still want to come back to the clown idea.",
+            "tokens": [
+                50836,
+                865,
+                11,
+                754,
+                1673,
+                286,
+                1582,
+                380,
+                312,
+                456,
+                11,
+                286,
+                920,
+                528,
+                281,
+                808,
+                646,
+                281,
+                264,
+                22209,
+                1558,
+                13,
+                51208
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27366808841103,
+            "compression_ratio": 1.3716216216216217,
+            "no_speech_prob": 0.009176365099847317,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 10.78,
+                    "end": 10.78,
+                    "probability": 0.552681028842926
+                },
+                {
+                    "word": " even",
+                    "start": 11.08,
+                    "end": 11.3,
+                    "probability": 0.9715025424957275
+                },
+                {
+                    "word": " though",
+                    "start": 11.3,
+                    "end": 11.54,
+                    "probability": 0.9950534701347351
+                },
+                {
+                    "word": " I",
+                    "start": 11.54,
+                    "end": 11.68,
+                    "probability": 0.9736188054084778
+                },
+                {
+                    "word": " won't",
+                    "start": 11.68,
+                    "end": 11.82,
+                    "probability": 0.9923782050609589
+                },
+                {
+                    "word": " be",
+                    "start": 11.82,
+                    "end": 12.02,
+                    "probability": 0.9990906715393066
+                },
+                {
+                    "word": " there,",
+                    "start": 12.02,
+                    "end": 12.48,
+                    "probability": 0.9971798658370972
+                },
+                {
+                    "word": " I",
+                    "start": 13.16,
+                    "end": 13.28,
+                    "probability": 0.9886999726295471
+                },
+                {
+                    "word": " still",
+                    "start": 13.28,
+                    "end": 13.54,
+                    "probability": 0.9956510663032532
+                },
+                {
+                    "word": " want",
+                    "start": 13.54,
+                    "end": 13.68,
+                    "probability": 0.9980543851852417
+                },
+                {
+                    "word": " to",
+                    "start": 13.68,
+                    "end": 13.8,
+                    "probability": 0.9995408058166504
+                },
+                {
+                    "word": " come",
+                    "start": 13.8,
+                    "end": 14.08,
+                    "probability": 0.994353175163269
+                },
+                {
+                    "word": " back",
+                    "start": 14.08,
+                    "end": 14.36,
+                    "probability": 0.9972954392433167
+                },
+                {
+                    "word": " to",
+                    "start": 14.36,
+                    "end": 15.18,
+                    "probability": 0.9872894883155823
+                },
+                {
+                    "word": " the",
+                    "start": 15.18,
+                    "end": 15.34,
+                    "probability": 0.9926236867904663
+                },
+                {
+                    "word": " clown",
+                    "start": 15.34,
+                    "end": 15.6,
+                    "probability": 0.9674260020256042
+                },
+                {
+                    "word": " idea.",
+                    "start": 15.6,
+                    "end": 16.14,
+                    "probability": 0.9937565326690674
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.82,
+            "end": 21.46,
+            "text": " Yeah, what about a big poster on the wall?",
+            "tokens": [
+                51208,
+                865,
+                11,
+                437,
+                466,
+                257,
+                955,
+                17171,
+                322,
+                264,
+                2929,
+                30,
+                51512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27366808841103,
+            "compression_ratio": 1.3716216216216217,
+            "no_speech_prob": 0.009176365099847317,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 17.82,
+                    "end": 18.02,
+                    "probability": 0.5950846076011658
+                },
+                {
+                    "word": " what",
+                    "start": 18.56,
+                    "end": 18.84,
+                    "probability": 0.8550541400909424
+                },
+                {
+                    "word": " about",
+                    "start": 18.84,
+                    "end": 19.4,
+                    "probability": 0.9987830519676208
+                },
+                {
+                    "word": " a",
+                    "start": 19.4,
+                    "end": 19.7,
+                    "probability": 0.9832286834716797
+                },
+                {
+                    "word": " big",
+                    "start": 19.7,
+                    "end": 20.18,
+                    "probability": 0.9948590993881226
+                },
+                {
+                    "word": " poster",
+                    "start": 20.18,
+                    "end": 20.72,
+                    "probability": 0.9968440532684326
+                },
+                {
+                    "word": " on",
+                    "start": 20.72,
+                    "end": 21.0,
+                    "probability": 0.9983471632003784
+                },
+                {
+                    "word": " the",
+                    "start": 21.0,
+                    "end": 21.22,
+                    "probability": 0.9994431138038635
+                },
+                {
+                    "word": " wall?",
+                    "start": 21.22,
+                    "end": 21.46,
+                    "probability": 0.998246431350708
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

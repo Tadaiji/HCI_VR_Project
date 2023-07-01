@@ -1,0 +1,54 @@
+{
+    "text": " time. Yeah, thank you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.24,
+            "end": 1.24,
+            "text": " time. Yeah, thank you.",
+            "tokens": [
+                50364,
+                565,
+                13,
+                865,
+                11,
+                1309,
+                291,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5697340488433837,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.2348969429731369,
+            "words": [
+                {
+                    "word": " time.",
+                    "start": 0.24,
+                    "end": 0.58,
+                    "probability": 0.4876350462436676
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 0.78,
+                    "end": 0.92,
+                    "probability": 0.7636834979057312
+                },
+                {
+                    "word": " thank",
+                    "start": 1.12,
+                    "end": 1.16,
+                    "probability": 0.5697791576385498
+                },
+                {
+                    "word": " you.",
+                    "start": 1.16,
+                    "end": 1.24,
+                    "probability": 0.996737539768219
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
