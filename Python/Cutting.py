@@ -126,9 +126,9 @@ def cutVideo(command: str):
 
 if __name__ == '__main__':
     #test_timestamps = [[0, 10], [15, 20], [25, 50]]
-    test_timestamps = getTimestamps(r"Python\\Videos_and_Audio\\CuttingTest.txt")
-    input_path = r'Python\\Videos_and_Audio\\Test.mp4'
-    output_path = 'output.mp4'
+    test_timestamps = getTimestamps(r"Videos_and_Audio/summary3.txt")
+    input_path = r'Videos_and_Audio/HCI_Videos/HCI_3.mp4'
+    output_path = 'HCI_3_Cut.mp4'
     command = generateFfmpeg(test_timestamps,input_path,output_path)
     print(command)
     cutVideo(command)
