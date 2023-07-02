@@ -1,0 +1,555 @@
+{
+    "text": " But if we move the couch, we also need to think about the pictures. Because I don't... I like the pictures there and I don't think it's... It's wise to have a couch under there with people having their heads all the time. Yeah, and computers. Potentially destroying them. I don't want to. So we should move the pictures if we move the couch.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.88,
+            "end": 5.68,
+            "text": " But if we move the couch, we also need to think about the pictures.",
+            "tokens": [
+                50364,
+                583,
+                498,
+                321,
+                1286,
+                264,
+                16511,
+                11,
+                321,
+                611,
+                643,
+                281,
+                519,
+                466,
+                264,
+                5242,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3947259253197974,
+            "compression_ratio": 1.6965174129353233,
+            "no_speech_prob": 0.02216331660747528,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.88,
+                    "end": 1.4,
+                    "probability": 0.5725859999656677
+                },
+                {
+                    "word": " if",
+                    "start": 1.4,
+                    "end": 1.66,
+                    "probability": 0.910690188407898
+                },
+                {
+                    "word": " we",
+                    "start": 1.66,
+                    "end": 1.92,
+                    "probability": 0.9879204034805298
+                },
+                {
+                    "word": " move",
+                    "start": 1.92,
+                    "end": 2.4,
+                    "probability": 0.8987259268760681
+                },
+                {
+                    "word": " the",
+                    "start": 2.4,
+                    "end": 2.68,
+                    "probability": 0.9862662553787231
+                },
+                {
+                    "word": " couch,",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.9813207983970642
+                },
+                {
+                    "word": " we",
+                    "start": 3.2,
+                    "end": 3.2,
+                    "probability": 0.9313048124313354
+                },
+                {
+                    "word": " also",
+                    "start": 3.2,
+                    "end": 4.1,
+                    "probability": 0.8969497084617615
+                },
+                {
+                    "word": " need",
+                    "start": 4.1,
+                    "end": 4.5,
+                    "probability": 0.8431715965270996
+                },
+                {
+                    "word": " to",
+                    "start": 4.5,
+                    "end": 4.64,
+                    "probability": 0.9822080731391907
+                },
+                {
+                    "word": " think",
+                    "start": 4.64,
+                    "end": 4.9,
+                    "probability": 0.9798336625099182
+                },
+                {
+                    "word": " about",
+                    "start": 4.9,
+                    "end": 5.14,
+                    "probability": 0.9887199997901917
+                },
+                {
+                    "word": " the",
+                    "start": 5.14,
+                    "end": 5.32,
+                    "probability": 0.991256833076477
+                },
+                {
+                    "word": " pictures.",
+                    "start": 5.32,
+                    "end": 5.68,
+                    "probability": 0.7938803434371948
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.52,
+            "end": 12.44,
+            "text": " Because I don't... I like the pictures there and I don't think it's...",
+            "tokens": [
+                50716,
+                1436,
+                286,
+                500,
+                380,
+                485,
+                286,
+                411,
+                264,
+                5242,
+                456,
+                293,
+                286,
+                500,
+                380,
+                519,
+                309,
+                311,
+                485,
+                50924
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3947259253197974,
+            "compression_ratio": 1.6965174129353233,
+            "no_speech_prob": 0.02216331660747528,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 6.52,
+                    "end": 7.66,
+                    "probability": 0.6109432578086853
+                },
+                {
+                    "word": " I",
+                    "start": 7.66,
+                    "end": 8.0,
+                    "probability": 0.9639298319816589
+                },
+                {
+                    "word": " don't...",
+                    "start": 8.0,
+                    "end": 8.52,
+                    "probability": 0.5152116467555364
+                },
+                {
+                    "word": " I",
+                    "start": 8.52,
+                    "end": 9.18,
+                    "probability": 0.9019957184791565
+                },
+                {
+                    "word": " like",
+                    "start": 9.18,
+                    "end": 9.38,
+                    "probability": 0.9781585931777954
+                },
+                {
+                    "word": " the",
+                    "start": 9.38,
+                    "end": 9.56,
+                    "probability": 0.9499132633209229
+                },
+                {
+                    "word": " pictures",
+                    "start": 9.56,
+                    "end": 9.74,
+                    "probability": 0.9902150630950928
+                },
+                {
+                    "word": " there",
+                    "start": 9.74,
+                    "end": 10.12,
+                    "probability": 0.9845677614212036
+                },
+                {
+                    "word": " and",
+                    "start": 10.12,
+                    "end": 10.52,
+                    "probability": 0.49071091413497925
+                },
+                {
+                    "word": " I",
+                    "start": 10.52,
+                    "end": 10.62,
+                    "probability": 0.9433342218399048
+                },
+                {
+                    "word": " don't",
+                    "start": 10.62,
+                    "end": 10.86,
+                    "probability": 0.9895985126495361
+                },
+                {
+                    "word": " think",
+                    "start": 10.86,
+                    "end": 11.12,
+                    "probability": 0.9961403012275696
+                },
+                {
+                    "word": " it's...",
+                    "start": 11.12,
+                    "end": 12.44,
+                    "probability": 0.8731260101000468
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.44,
+            "end": 16.64,
+            "text": " It's wise to have a couch under there with people having their heads all the time.",
+            "tokens": [
+                50962,
+                467,
+                311,
+                10829,
+                281,
+                362,
+                257,
+                16511,
+                833,
+                456,
+                365,
+                561,
+                1419,
+                641,
+                8050,
+                439,
+                264,
+                565,
+                13,
+                51200
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3947259253197974,
+            "compression_ratio": 1.6965174129353233,
+            "no_speech_prob": 0.02216331660747528,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 12.44,
+                    "end": 12.82,
+                    "probability": 0.8624073266983032
+                },
+                {
+                    "word": " wise",
+                    "start": 12.82,
+                    "end": 13.04,
+                    "probability": 0.9261976480484009
+                },
+                {
+                    "word": " to",
+                    "start": 13.04,
+                    "end": 13.38,
+                    "probability": 0.9900797605514526
+                },
+                {
+                    "word": " have",
+                    "start": 13.38,
+                    "end": 13.52,
+                    "probability": 0.9979822635650635
+                },
+                {
+                    "word": " a",
+                    "start": 13.52,
+                    "end": 13.68,
+                    "probability": 0.924153745174408
+                },
+                {
+                    "word": " couch",
+                    "start": 13.68,
+                    "end": 13.84,
+                    "probability": 0.9956841468811035
+                },
+                {
+                    "word": " under",
+                    "start": 13.84,
+                    "end": 14.16,
+                    "probability": 0.9300379157066345
+                },
+                {
+                    "word": " there",
+                    "start": 14.16,
+                    "end": 14.4,
+                    "probability": 0.9908565282821655
+                },
+                {
+                    "word": " with",
+                    "start": 14.4,
+                    "end": 14.66,
+                    "probability": 0.7302491068840027
+                },
+                {
+                    "word": " people",
+                    "start": 14.66,
+                    "end": 15.04,
+                    "probability": 0.254067063331604
+                },
+                {
+                    "word": " having",
+                    "start": 15.04,
+                    "end": 15.58,
+                    "probability": 0.9171604514122009
+                },
+                {
+                    "word": " their",
+                    "start": 15.58,
+                    "end": 15.86,
+                    "probability": 0.9905878305435181
+                },
+                {
+                    "word": " heads",
+                    "start": 15.86,
+                    "end": 16.04,
+                    "probability": 0.9326803088188171
+                },
+                {
+                    "word": " all",
+                    "start": 16.04,
+                    "end": 16.3,
+                    "probability": 0.909907877445221
+                },
+                {
+                    "word": " the",
+                    "start": 16.3,
+                    "end": 16.46,
+                    "probability": 0.9907168745994568
+                },
+                {
+                    "word": " time.",
+                    "start": 16.46,
+                    "end": 16.64,
+                    "probability": 0.9979881048202515
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.84,
+            "end": 17.52,
+            "text": " Yeah, and computers.",
+            "tokens": [
+                51200,
+                865,
+                11,
+                293,
+                10807,
+                13,
+                51300
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3947259253197974,
+            "compression_ratio": 1.6965174129353233,
+            "no_speech_prob": 0.02216331660747528,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 16.84,
+                    "end": 17.06,
+                    "probability": 0.390241801738739
+                },
+                {
+                    "word": " and",
+                    "start": 17.22,
+                    "end": 17.52,
+                    "probability": 0.11431282013654709
+                },
+                {
+                    "word": " computers.",
+                    "start": 17.52,
+                    "end": 17.52,
+                    "probability": 0.14629723131656647
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.32,
+            "end": 25.84,
+            "text": " Potentially destroying them. I don't want to. So we should move the pictures if we move the couch.",
+            "tokens": [
+                51334,
+                9145,
+                3137,
+                19926,
+                552,
+                13,
+                286,
+                500,
+                380,
+                528,
+                281,
+                13,
+                407,
+                321,
+                820,
+                1286,
+                264,
+                5242,
+                498,
+                321,
+                1286,
+                264,
+                16511,
+                13,
+                51646
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3947259253197974,
+            "compression_ratio": 1.6965174129353233,
+            "no_speech_prob": 0.02216331660747528,
+            "words": [
+                {
+                    "word": " Potentially",
+                    "start": 19.32,
+                    "end": 20.04,
+                    "probability": 0.5945516154170036
+                },
+                {
+                    "word": " destroying",
+                    "start": 20.04,
+                    "end": 20.96,
+                    "probability": 0.8005464673042297
+                },
+                {
+                    "word": " them.",
+                    "start": 20.96,
+                    "end": 21.26,
+                    "probability": 0.9867218732833862
+                },
+                {
+                    "word": " I",
+                    "start": 21.64,
+                    "end": 21.76,
+                    "probability": 0.9305688142776489
+                },
+                {
+                    "word": " don't",
+                    "start": 21.76,
+                    "end": 21.98,
+                    "probability": 0.9965953528881073
+                },
+                {
+                    "word": " want",
+                    "start": 21.98,
+                    "end": 22.18,
+                    "probability": 0.9792205095291138
+                },
+                {
+                    "word": " to.",
+                    "start": 22.18,
+                    "end": 22.36,
+                    "probability": 0.5541057586669922
+                },
+                {
+                    "word": " So",
+                    "start": 22.82,
+                    "end": 23.08,
+                    "probability": 0.9291295409202576
+                },
+                {
+                    "word": " we",
+                    "start": 23.08,
+                    "end": 23.22,
+                    "probability": 0.7753900289535522
+                },
+                {
+                    "word": " should",
+                    "start": 23.22,
+                    "end": 23.84,
+                    "probability": 0.9959302544593811
+                },
+                {
+                    "word": " move",
+                    "start": 23.84,
+                    "end": 24.06,
+                    "probability": 0.9853973984718323
+                },
+                {
+                    "word": " the",
+                    "start": 24.06,
+                    "end": 24.26,
+                    "probability": 0.9930036664009094
+                },
+                {
+                    "word": " pictures",
+                    "start": 24.26,
+                    "end": 24.58,
+                    "probability": 0.985636830329895
+                },
+                {
+                    "word": " if",
+                    "start": 24.58,
+                    "end": 24.96,
+                    "probability": 0.8965669870376587
+                },
+                {
+                    "word": " we",
+                    "start": 24.96,
+                    "end": 25.24,
+                    "probability": 0.9961584210395813
+                },
+                {
+                    "word": " move",
+                    "start": 25.24,
+                    "end": 25.38,
+                    "probability": 0.9726632833480835
+                },
+                {
+                    "word": " the",
+                    "start": 25.38,
+                    "end": 25.62,
+                    "probability": 0.997347354888916
+                },
+                {
+                    "word": " couch.",
+                    "start": 25.62,
+                    "end": 25.84,
+                    "probability": 0.995612621307373
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

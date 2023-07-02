@@ -1,0 +1,89 @@
+{
+    "text": " Yeah, yeah, I want to come back to that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 3.02,
+            "text": " Yeah, yeah, I want to come back to that.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1338,
+                11,
+                286,
+                528,
+                281,
+                808,
+                646,
+                281,
+                300,
+                13,
+                50520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31191193262736,
+            "compression_ratio": 0.9523809523809523,
+            "no_speech_prob": 0.06991495937108994,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.02,
+                    "end": 0.58,
+                    "probability": 0.7023943662643433
+                },
+                {
+                    "word": " yeah,",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.7426980137825012
+                },
+                {
+                    "word": " I",
+                    "start": 1.24,
+                    "end": 1.56,
+                    "probability": 0.889489471912384
+                },
+                {
+                    "word": " want",
+                    "start": 1.56,
+                    "end": 1.72,
+                    "probability": 0.9405538439750671
+                },
+                {
+                    "word": " to",
+                    "start": 1.72,
+                    "end": 1.86,
+                    "probability": 0.9346107244491577
+                },
+                {
+                    "word": " come",
+                    "start": 1.86,
+                    "end": 2.1,
+                    "probability": 0.9770990014076233
+                },
+                {
+                    "word": " back",
+                    "start": 2.1,
+                    "end": 2.5,
+                    "probability": 0.9967345595359802
+                },
+                {
+                    "word": " to",
+                    "start": 2.5,
+                    "end": 2.78,
+                    "probability": 0.9502836465835571
+                },
+                {
+                    "word": " that.",
+                    "start": 2.78,
+                    "end": 3.02,
+                    "probability": 0.961624026298523
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

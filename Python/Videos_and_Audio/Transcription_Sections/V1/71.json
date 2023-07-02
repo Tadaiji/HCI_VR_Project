@@ -1,0 +1,174 @@
+{
+    "text": " Okay, nice. So guys, I think we do it as we said in one week and it should go out smoothly.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 10.62,
+            "text": " Okay, nice. So guys, I think we do it as we said in one week and it should go out smoothly.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1481,
+                13,
+                407,
+                1074,
+                11,
+                286,
+                519,
+                321,
+                360,
+                309,
+                382,
+                321,
+                848,
+                294,
+                472,
+                1243,
+                293,
+                309,
+                820,
+                352,
+                484,
+                19565,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3663832460130964,
+            "compression_ratio": 1.0833333333333333,
+            "no_speech_prob": 0.1329798847436905,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.06,
+                    "end": 0.7,
+                    "probability": 0.4318297505378723
+                },
+                {
+                    "word": " nice.",
+                    "start": 0.9,
+                    "end": 1.16,
+                    "probability": 0.8849571347236633
+                },
+                {
+                    "word": " So",
+                    "start": 1.92,
+                    "end": 1.94,
+                    "probability": 0.8955368399620056
+                },
+                {
+                    "word": " guys,",
+                    "start": 1.94,
+                    "end": 2.44,
+                    "probability": 0.6783681511878967
+                },
+                {
+                    "word": " I",
+                    "start": 3.66,
+                    "end": 3.72,
+                    "probability": 0.9786363840103149
+                },
+                {
+                    "word": " think",
+                    "start": 3.72,
+                    "end": 4.06,
+                    "probability": 0.9983263611793518
+                },
+                {
+                    "word": " we",
+                    "start": 4.06,
+                    "end": 4.3,
+                    "probability": 0.9862745404243469
+                },
+                {
+                    "word": " do",
+                    "start": 4.3,
+                    "end": 4.52,
+                    "probability": 0.9230586290359497
+                },
+                {
+                    "word": " it",
+                    "start": 4.52,
+                    "end": 5.52,
+                    "probability": 0.9903387427330017
+                },
+                {
+                    "word": " as",
+                    "start": 5.52,
+                    "end": 5.72,
+                    "probability": 0.5451977252960205
+                },
+                {
+                    "word": " we",
+                    "start": 5.72,
+                    "end": 5.94,
+                    "probability": 0.9746476411819458
+                },
+                {
+                    "word": " said",
+                    "start": 5.94,
+                    "end": 6.16,
+                    "probability": 0.8594846725463867
+                },
+                {
+                    "word": " in",
+                    "start": 6.16,
+                    "end": 6.54,
+                    "probability": 0.8489713072776794
+                },
+                {
+                    "word": " one",
+                    "start": 6.54,
+                    "end": 6.68,
+                    "probability": 0.9590481519699097
+                },
+                {
+                    "word": " week",
+                    "start": 6.68,
+                    "end": 7.02,
+                    "probability": 0.9988849759101868
+                },
+                {
+                    "word": " and",
+                    "start": 7.02,
+                    "end": 8.02,
+                    "probability": 0.6472134590148926
+                },
+                {
+                    "word": " it",
+                    "start": 8.02,
+                    "end": 9.54,
+                    "probability": 0.943686306476593
+                },
+                {
+                    "word": " should",
+                    "start": 9.54,
+                    "end": 9.76,
+                    "probability": 0.9983813762664795
+                },
+                {
+                    "word": " go",
+                    "start": 9.76,
+                    "end": 10.08,
+                    "probability": 0.9955374002456665
+                },
+                {
+                    "word": " out",
+                    "start": 10.08,
+                    "end": 10.22,
+                    "probability": 0.42869535088539124
+                },
+                {
+                    "word": " smoothly.",
+                    "start": 10.22,
+                    "end": 10.62,
+                    "probability": 0.981124758720398
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

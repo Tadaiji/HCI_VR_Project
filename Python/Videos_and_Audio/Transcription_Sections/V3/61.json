@@ -1,0 +1,527 @@
+{
+    "text": " I think the problem is when we move it into the table, into the table, when we move it into the corner, we also lose the seating space. We lose one half of the table instantly. And if the table isn't in the attic, I really want to use the whole table. So I will probably set it up right here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.14,
+            "text": " I think the problem is when we move it into the table, into the table, when we move it",
+            "tokens": [
+                50364,
+                286,
+                519,
+                264,
+                1154,
+                307,
+                562,
+                321,
+                1286,
+                309,
+                666,
+                264,
+                3199,
+                11,
+                666,
+                264,
+                3199,
+                11,
+                562,
+                321,
+                1286,
+                309,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2483152695644049,
+            "compression_ratio": 1.748502994011976,
+            "no_speech_prob": 0.00038514743209816515,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.12,
+                    "probability": 0.7422298789024353
+                },
+                {
+                    "word": " think",
+                    "start": 0.12,
+                    "end": 0.34,
+                    "probability": 0.997420072555542
+                },
+                {
+                    "word": " the",
+                    "start": 0.34,
+                    "end": 0.48,
+                    "probability": 0.9802986979484558
+                },
+                {
+                    "word": " problem",
+                    "start": 0.48,
+                    "end": 0.86,
+                    "probability": 0.9973184466362
+                },
+                {
+                    "word": " is",
+                    "start": 0.86,
+                    "end": 1.7,
+                    "probability": 0.9886338710784912
+                },
+                {
+                    "word": " when",
+                    "start": 1.7,
+                    "end": 2.44,
+                    "probability": 0.7058424353599548
+                },
+                {
+                    "word": " we",
+                    "start": 2.44,
+                    "end": 2.68,
+                    "probability": 0.9636368155479431
+                },
+                {
+                    "word": " move",
+                    "start": 2.68,
+                    "end": 2.8,
+                    "probability": 0.9579195976257324
+                },
+                {
+                    "word": " it",
+                    "start": 2.8,
+                    "end": 2.98,
+                    "probability": 0.919174075126648
+                },
+                {
+                    "word": " into",
+                    "start": 2.98,
+                    "end": 3.2,
+                    "probability": 0.9642430543899536
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.42,
+                    "probability": 0.9881097078323364
+                },
+                {
+                    "word": " table,",
+                    "start": 3.42,
+                    "end": 3.76,
+                    "probability": 0.5428017973899841
+                },
+                {
+                    "word": " into",
+                    "start": 4.42,
+                    "end": 5.32,
+                    "probability": 0.6407331824302673
+                },
+                {
+                    "word": " the",
+                    "start": 5.32,
+                    "end": 5.64,
+                    "probability": 0.9954022169113159
+                },
+                {
+                    "word": " table,",
+                    "start": 5.64,
+                    "end": 5.94,
+                    "probability": 0.7694231271743774
+                },
+                {
+                    "word": " when",
+                    "start": 6.46,
+                    "end": 6.64,
+                    "probability": 0.9541413187980652
+                },
+                {
+                    "word": " we",
+                    "start": 6.64,
+                    "end": 6.84,
+                    "probability": 0.8459110260009766
+                },
+                {
+                    "word": " move",
+                    "start": 6.84,
+                    "end": 6.94,
+                    "probability": 0.9671617746353149
+                },
+                {
+                    "word": " it",
+                    "start": 6.94,
+                    "end": 7.14,
+                    "probability": 0.9417369961738586
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.14,
+            "end": 12.0,
+            "text": " into the corner, we also lose the seating space.",
+            "tokens": [
+                50712,
+                666,
+                264,
+                4538,
+                11,
+                321,
+                611,
+                3624,
+                264,
+                32430,
+                1901,
+                13,
+                51002
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2483152695644049,
+            "compression_ratio": 1.748502994011976,
+            "no_speech_prob": 0.00038514743209816515,
+            "words": [
+                {
+                    "word": " into",
+                    "start": 7.14,
+                    "end": 7.28,
+                    "probability": 0.9920586943626404
+                },
+                {
+                    "word": " the",
+                    "start": 7.28,
+                    "end": 7.54,
+                    "probability": 0.9975148439407349
+                },
+                {
+                    "word": " corner,",
+                    "start": 7.54,
+                    "end": 7.8,
+                    "probability": 0.9971171617507935
+                },
+                {
+                    "word": " we",
+                    "start": 8.48,
+                    "end": 8.5,
+                    "probability": 0.969820499420166
+                },
+                {
+                    "word": " also",
+                    "start": 8.5,
+                    "end": 8.9,
+                    "probability": 0.9683171510696411
+                },
+                {
+                    "word": " lose",
+                    "start": 8.9,
+                    "end": 9.24,
+                    "probability": 0.8874025344848633
+                },
+                {
+                    "word": " the",
+                    "start": 9.24,
+                    "end": 11.32,
+                    "probability": 0.9023451209068298
+                },
+                {
+                    "word": " seating",
+                    "start": 11.32,
+                    "end": 11.58,
+                    "probability": 0.8143680095672607
+                },
+                {
+                    "word": " space.",
+                    "start": 11.58,
+                    "end": 12.0,
+                    "probability": 0.9972621202468872
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.5,
+            "end": 14.74,
+            "text": " We lose one half of the table instantly.",
+            "tokens": [
+                51002,
+                492,
+                3624,
+                472,
+                1922,
+                295,
+                264,
+                3199,
+                13518,
+                13,
+                51134
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2483152695644049,
+            "compression_ratio": 1.748502994011976,
+            "no_speech_prob": 0.00038514743209816515,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 12.5,
+                    "end": 12.86,
+                    "probability": 0.5654217004776001
+                },
+                {
+                    "word": " lose",
+                    "start": 12.86,
+                    "end": 13.16,
+                    "probability": 0.9340970516204834
+                },
+                {
+                    "word": " one",
+                    "start": 13.16,
+                    "end": 13.36,
+                    "probability": 0.9225531816482544
+                },
+                {
+                    "word": " half",
+                    "start": 13.36,
+                    "end": 13.5,
+                    "probability": 0.8976408243179321
+                },
+                {
+                    "word": " of",
+                    "start": 13.5,
+                    "end": 13.74,
+                    "probability": 0.9608429074287415
+                },
+                {
+                    "word": " the",
+                    "start": 13.74,
+                    "end": 13.94,
+                    "probability": 0.991041362285614
+                },
+                {
+                    "word": " table",
+                    "start": 13.94,
+                    "end": 14.08,
+                    "probability": 0.9930309653282166
+                },
+                {
+                    "word": " instantly.",
+                    "start": 14.08,
+                    "end": 14.74,
+                    "probability": 0.9950881600379944
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.72,
+            "end": 21.36,
+            "text": " And if the table isn't in the attic, I really want to use the whole table.",
+            "tokens": [
+                51134,
+                400,
+                498,
+                264,
+                3199,
+                1943,
+                380,
+                294,
+                264,
+                40766,
+                11,
+                286,
+                534,
+                528,
+                281,
+                764,
+                264,
+                1379,
+                3199,
+                13,
+                51448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2483152695644049,
+            "compression_ratio": 1.748502994011976,
+            "no_speech_prob": 0.00038514743209816515,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 15.72,
+                    "end": 15.78,
+                    "probability": 0.8757430911064148
+                },
+                {
+                    "word": " if",
+                    "start": 15.78,
+                    "end": 16.9,
+                    "probability": 0.9874348044395447
+                },
+                {
+                    "word": " the",
+                    "start": 16.9,
+                    "end": 17.1,
+                    "probability": 0.855082631111145
+                },
+                {
+                    "word": " table",
+                    "start": 17.1,
+                    "end": 17.6,
+                    "probability": 0.9976244568824768
+                },
+                {
+                    "word": " isn't",
+                    "start": 17.6,
+                    "end": 18.34,
+                    "probability": 0.990083634853363
+                },
+                {
+                    "word": " in",
+                    "start": 18.34,
+                    "end": 18.6,
+                    "probability": 0.9879280924797058
+                },
+                {
+                    "word": " the",
+                    "start": 18.6,
+                    "end": 18.72,
+                    "probability": 0.9737672805786133
+                },
+                {
+                    "word": " attic,",
+                    "start": 18.72,
+                    "end": 18.86,
+                    "probability": 0.9825764894485474
+                },
+                {
+                    "word": " I",
+                    "start": 19.02,
+                    "end": 19.28,
+                    "probability": 0.9980347752571106
+                },
+                {
+                    "word": " really",
+                    "start": 19.28,
+                    "end": 19.66,
+                    "probability": 0.997416615486145
+                },
+                {
+                    "word": " want",
+                    "start": 19.66,
+                    "end": 19.86,
+                    "probability": 0.9965835213661194
+                },
+                {
+                    "word": " to",
+                    "start": 19.86,
+                    "end": 20.14,
+                    "probability": 0.9988343119621277
+                },
+                {
+                    "word": " use",
+                    "start": 20.14,
+                    "end": 20.44,
+                    "probability": 0.9991046786308289
+                },
+                {
+                    "word": " the",
+                    "start": 20.44,
+                    "end": 20.66,
+                    "probability": 0.9990702271461487
+                },
+                {
+                    "word": " whole",
+                    "start": 20.66,
+                    "end": 20.88,
+                    "probability": 0.9990511536598206
+                },
+                {
+                    "word": " table.",
+                    "start": 20.88,
+                    "end": 21.36,
+                    "probability": 0.9985093474388123
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.48,
+            "end": 25.72,
+            "text": " So I will probably set it up right here.",
+            "tokens": [
+                51448,
+                407,
+                286,
+                486,
+                1391,
+                992,
+                309,
+                493,
+                558,
+                510,
+                13,
+                51652
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2483152695644049,
+            "compression_ratio": 1.748502994011976,
+            "no_speech_prob": 0.00038514743209816515,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 21.48,
+                    "end": 22.32,
+                    "probability": 0.9375820159912109
+                },
+                {
+                    "word": " I",
+                    "start": 22.32,
+                    "end": 23.7,
+                    "probability": 0.8632031083106995
+                },
+                {
+                    "word": " will",
+                    "start": 23.7,
+                    "end": 24.02,
+                    "probability": 0.8258275985717773
+                },
+                {
+                    "word": " probably",
+                    "start": 24.02,
+                    "end": 24.5,
+                    "probability": 0.9991631507873535
+                },
+                {
+                    "word": " set",
+                    "start": 24.5,
+                    "end": 24.76,
+                    "probability": 0.9957483410835266
+                },
+                {
+                    "word": " it",
+                    "start": 24.76,
+                    "end": 24.98,
+                    "probability": 0.9966021776199341
+                },
+                {
+                    "word": " up",
+                    "start": 24.98,
+                    "end": 25.32,
+                    "probability": 0.9947697520256042
+                },
+                {
+                    "word": " right",
+                    "start": 25.32,
+                    "end": 25.52,
+                    "probability": 0.9950478672981262
+                },
+                {
+                    "word": " here.",
+                    "start": 25.52,
+                    "end": 25.72,
+                    "probability": 0.9991764426231384
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,132 @@
+{
+    "text": " Yeah, yeah nice because yeah, I have to we still have time. Yeah, exactly and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.88,
+            "text": " Yeah, yeah nice because yeah, I have to we still have time. Yeah, exactly and",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1338,
+                1481,
+                570,
+                1338,
+                11,
+                286,
+                362,
+                281,
+                321,
+                920,
+                362,
+                565,
+                13,
+                865,
+                11,
+                2293,
+                293,
+                50668
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.427858829498291,
+            "compression_ratio": 1.0694444444444444,
+            "no_speech_prob": 0.038512423634529114,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.5383700728416443
+                },
+                {
+                    "word": " yeah",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.4554237723350525
+                },
+                {
+                    "word": " nice",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.5958290696144104
+                },
+                {
+                    "word": " because",
+                    "start": 1.02,
+                    "end": 1.7,
+                    "probability": 0.6578562259674072
+                },
+                {
+                    "word": " yeah,",
+                    "start": 1.7,
+                    "end": 2.16,
+                    "probability": 0.6758643388748169
+                },
+                {
+                    "word": " I",
+                    "start": 2.54,
+                    "end": 2.62,
+                    "probability": 0.8799168467521667
+                },
+                {
+                    "word": " have",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.9974460601806641
+                },
+                {
+                    "word": " to",
+                    "start": 2.86,
+                    "end": 3.7,
+                    "probability": 0.9879705309867859
+                },
+                {
+                    "word": " we",
+                    "start": 3.7,
+                    "end": 3.96,
+                    "probability": 0.2679833769798279
+                },
+                {
+                    "word": " still",
+                    "start": 3.96,
+                    "end": 4.22,
+                    "probability": 0.9981381893157959
+                },
+                {
+                    "word": " have",
+                    "start": 4.22,
+                    "end": 4.38,
+                    "probability": 0.9992421865463257
+                },
+                {
+                    "word": " time.",
+                    "start": 4.38,
+                    "end": 4.8,
+                    "probability": 0.9982074499130249
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 5.04,
+                    "end": 5.28,
+                    "probability": 0.9895197153091431
+                },
+                {
+                    "word": " exactly",
+                    "start": 5.32,
+                    "end": 5.58,
+                    "probability": 0.9864572882652283
+                },
+                {
+                    "word": " and",
+                    "start": 5.58,
+                    "end": 5.88,
+                    "probability": 0.5768711566925049
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

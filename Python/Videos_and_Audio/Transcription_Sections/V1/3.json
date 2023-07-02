@@ -1,0 +1,235 @@
+{
+    "text": " Okay, yeah, with our recent pay increase, I think we should look at a bigger place together. Or if you guys want to move in together, yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.02,
+            "text": " Okay, yeah, with our recent pay increase, I think we should look at a bigger place together.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1338,
+                11,
+                365,
+                527,
+                5162,
+                1689,
+                3488,
+                11,
+                286,
+                519,
+                321,
+                820,
+                574,
+                412,
+                257,
+                3801,
+                1081,
+                1214,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3168275983710038,
+            "compression_ratio": 1.2522522522522523,
+            "no_speech_prob": 0.2877507507801056,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2760712504386902
+                },
+                {
+                    "word": " yeah,",
+                    "start": 0.5,
+                    "end": 0.58,
+                    "probability": 0.6288997530937195
+                },
+                {
+                    "word": " with",
+                    "start": 0.68,
+                    "end": 0.9,
+                    "probability": 0.9236976504325867
+                },
+                {
+                    "word": " our",
+                    "start": 0.9,
+                    "end": 1.44,
+                    "probability": 0.9726658463478088
+                },
+                {
+                    "word": " recent",
+                    "start": 1.44,
+                    "end": 2.52,
+                    "probability": 0.9771310091018677
+                },
+                {
+                    "word": " pay",
+                    "start": 2.52,
+                    "end": 2.92,
+                    "probability": 0.8721489906311035
+                },
+                {
+                    "word": " increase,",
+                    "start": 2.92,
+                    "end": 3.4,
+                    "probability": 0.9778898358345032
+                },
+                {
+                    "word": " I",
+                    "start": 4.14,
+                    "end": 4.2,
+                    "probability": 0.9614755511283875
+                },
+                {
+                    "word": " think",
+                    "start": 4.2,
+                    "end": 4.58,
+                    "probability": 0.9985276460647583
+                },
+                {
+                    "word": " we",
+                    "start": 4.58,
+                    "end": 5.06,
+                    "probability": 0.966654896736145
+                },
+                {
+                    "word": " should",
+                    "start": 5.06,
+                    "end": 5.4,
+                    "probability": 0.9971683621406555
+                },
+                {
+                    "word": " look",
+                    "start": 5.4,
+                    "end": 5.78,
+                    "probability": 0.9790024757385254
+                },
+                {
+                    "word": " at",
+                    "start": 5.78,
+                    "end": 5.9,
+                    "probability": 0.9844037294387817
+                },
+                {
+                    "word": " a",
+                    "start": 5.9,
+                    "end": 6.0,
+                    "probability": 0.9863953590393066
+                },
+                {
+                    "word": " bigger",
+                    "start": 6.0,
+                    "end": 6.16,
+                    "probability": 0.9973344802856445
+                },
+                {
+                    "word": " place",
+                    "start": 6.16,
+                    "end": 6.46,
+                    "probability": 0.9561619758605957
+                },
+                {
+                    "word": " together.",
+                    "start": 6.46,
+                    "end": 7.02,
+                    "probability": 0.977458655834198
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.16,
+            "end": 11.04,
+            "text": " Or if you guys want to move in together, yeah.",
+            "tokens": [
+                50714,
+                1610,
+                498,
+                291,
+                1074,
+                528,
+                281,
+                1286,
+                294,
+                1214,
+                11,
+                1338,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3168275983710038,
+            "compression_ratio": 1.2522522522522523,
+            "no_speech_prob": 0.2877507507801056,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 7.16,
+                    "end": 7.6,
+                    "probability": 0.6597608923912048
+                },
+                {
+                    "word": " if",
+                    "start": 7.6,
+                    "end": 8.14,
+                    "probability": 0.9275311231613159
+                },
+                {
+                    "word": " you",
+                    "start": 8.14,
+                    "end": 8.5,
+                    "probability": 0.9929097294807434
+                },
+                {
+                    "word": " guys",
+                    "start": 8.5,
+                    "end": 8.7,
+                    "probability": 0.9756016135215759
+                },
+                {
+                    "word": " want",
+                    "start": 8.7,
+                    "end": 9.68,
+                    "probability": 0.9870002865791321
+                },
+                {
+                    "word": " to",
+                    "start": 9.68,
+                    "end": 10.06,
+                    "probability": 0.9825220108032227
+                },
+                {
+                    "word": " move",
+                    "start": 10.06,
+                    "end": 10.26,
+                    "probability": 0.9835436940193176
+                },
+                {
+                    "word": " in",
+                    "start": 10.26,
+                    "end": 10.46,
+                    "probability": 0.9588412642478943
+                },
+                {
+                    "word": " together,",
+                    "start": 10.46,
+                    "end": 10.8,
+                    "probability": 0.991845428943634
+                },
+                {
+                    "word": " yeah.",
+                    "start": 10.98,
+                    "end": 11.04,
+                    "probability": 0.7479546070098877
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

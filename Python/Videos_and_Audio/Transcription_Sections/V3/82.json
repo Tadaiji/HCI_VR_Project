@@ -1,0 +1,53 @@
+{
+    "text": " Yes, I think so.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.16,
+            "end": 1.22,
+            "text": " Yes, I think so.",
+            "tokens": [
+                50364,
+                1079,
+                11,
+                286,
+                519,
+                370,
+                13,
+                50452
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7375517951117622,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.52092045545578,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 0.16,
+                    "end": 0.5,
+                    "probability": 0.3558083176612854
+                },
+                {
+                    "word": " I",
+                    "start": 0.76,
+                    "end": 0.78,
+                    "probability": 0.8536720871925354
+                },
+                {
+                    "word": " think",
+                    "start": 0.78,
+                    "end": 0.86,
+                    "probability": 0.9795412421226501
+                },
+                {
+                    "word": " so.",
+                    "start": 0.86,
+                    "end": 1.22,
+                    "probability": 0.661384642124176
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

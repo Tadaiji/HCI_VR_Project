@@ -1,0 +1,333 @@
+{
+    "text": " Yeah, so that's I think let's go with the company but we can come back to this later after we talk about the stuff in the living room and how we want to process this. So yeah, I want to take.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 14.18,
+            "text": " Yeah, so that's I think let's go with the company but we can come back to this later after we talk about the stuff in the living room and how we want to process this.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                370,
+                300,
+                311,
+                286,
+                519,
+                718,
+                311,
+                352,
+                365,
+                264,
+                2237,
+                457,
+                321,
+                393,
+                808,
+                646,
+                281,
+                341,
+                1780,
+                934,
+                321,
+                751,
+                466,
+                264,
+                1507,
+                294,
+                264,
+                2647,
+                1808,
+                293,
+                577,
+                321,
+                528,
+                281,
+                1399,
+                341,
+                13,
+                51052
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2781716493459848,
+            "compression_ratio": 1.3941605839416058,
+            "no_speech_prob": 0.010551895014941692,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.28,
+                    "end": 0.84,
+                    "probability": 0.5143914818763733
+                },
+                {
+                    "word": " so",
+                    "start": 1.4,
+                    "end": 1.4,
+                    "probability": 0.8773443698883057
+                },
+                {
+                    "word": " that's",
+                    "start": 1.4,
+                    "end": 3.1,
+                    "probability": 0.710793137550354
+                },
+                {
+                    "word": " I",
+                    "start": 3.1,
+                    "end": 3.16,
+                    "probability": 0.4086332619190216
+                },
+                {
+                    "word": " think",
+                    "start": 3.16,
+                    "end": 3.4,
+                    "probability": 0.9861041903495789
+                },
+                {
+                    "word": " let's",
+                    "start": 3.4,
+                    "end": 3.68,
+                    "probability": 0.8868451714515686
+                },
+                {
+                    "word": " go",
+                    "start": 3.68,
+                    "end": 3.88,
+                    "probability": 0.9934203028678894
+                },
+                {
+                    "word": " with",
+                    "start": 3.88,
+                    "end": 4.08,
+                    "probability": 0.9943787455558777
+                },
+                {
+                    "word": " the",
+                    "start": 4.08,
+                    "end": 4.28,
+                    "probability": 0.998015284538269
+                },
+                {
+                    "word": " company",
+                    "start": 4.28,
+                    "end": 4.64,
+                    "probability": 0.9956045150756836
+                },
+                {
+                    "word": " but",
+                    "start": 4.64,
+                    "end": 4.98,
+                    "probability": 0.5531252026557922
+                },
+                {
+                    "word": " we",
+                    "start": 4.98,
+                    "end": 5.44,
+                    "probability": 0.9342592358589172
+                },
+                {
+                    "word": " can",
+                    "start": 5.44,
+                    "end": 5.7,
+                    "probability": 0.9974347949028015
+                },
+                {
+                    "word": " come",
+                    "start": 5.7,
+                    "end": 5.96,
+                    "probability": 0.9833847284317017
+                },
+                {
+                    "word": " back",
+                    "start": 5.96,
+                    "end": 6.14,
+                    "probability": 0.9958751797676086
+                },
+                {
+                    "word": " to",
+                    "start": 6.14,
+                    "end": 6.3,
+                    "probability": 0.9974386692047119
+                },
+                {
+                    "word": " this",
+                    "start": 6.3,
+                    "end": 6.52,
+                    "probability": 0.9878965616226196
+                },
+                {
+                    "word": " later",
+                    "start": 6.52,
+                    "end": 6.82,
+                    "probability": 0.9891959428787231
+                },
+                {
+                    "word": " after",
+                    "start": 6.82,
+                    "end": 7.14,
+                    "probability": 0.8811702728271484
+                },
+                {
+                    "word": " we",
+                    "start": 7.14,
+                    "end": 7.44,
+                    "probability": 0.9902877807617188
+                },
+                {
+                    "word": " talk",
+                    "start": 7.44,
+                    "end": 7.62,
+                    "probability": 0.9637936949729919
+                },
+                {
+                    "word": " about",
+                    "start": 7.62,
+                    "end": 8.2,
+                    "probability": 0.9969497323036194
+                },
+                {
+                    "word": " the",
+                    "start": 8.2,
+                    "end": 8.48,
+                    "probability": 0.725200891494751
+                },
+                {
+                    "word": " stuff",
+                    "start": 8.48,
+                    "end": 8.58,
+                    "probability": 0.9942721128463745
+                },
+                {
+                    "word": " in",
+                    "start": 8.58,
+                    "end": 8.82,
+                    "probability": 0.995416522026062
+                },
+                {
+                    "word": " the",
+                    "start": 8.82,
+                    "end": 8.94,
+                    "probability": 0.9965705871582031
+                },
+                {
+                    "word": " living",
+                    "start": 8.94,
+                    "end": 9.14,
+                    "probability": 0.9957605004310608
+                },
+                {
+                    "word": " room",
+                    "start": 9.14,
+                    "end": 9.66,
+                    "probability": 0.9865493178367615
+                },
+                {
+                    "word": " and",
+                    "start": 9.66,
+                    "end": 10.66,
+                    "probability": 0.7819839715957642
+                },
+                {
+                    "word": " how",
+                    "start": 10.66,
+                    "end": 12.18,
+                    "probability": 0.8281888365745544
+                },
+                {
+                    "word": " we",
+                    "start": 12.18,
+                    "end": 12.62,
+                    "probability": 0.9962905645370483
+                },
+                {
+                    "word": " want",
+                    "start": 12.62,
+                    "end": 12.78,
+                    "probability": 0.9987524747848511
+                },
+                {
+                    "word": " to",
+                    "start": 12.78,
+                    "end": 13.1,
+                    "probability": 0.9995129108428955
+                },
+                {
+                    "word": " process",
+                    "start": 13.1,
+                    "end": 13.38,
+                    "probability": 0.9986777901649475
+                },
+                {
+                    "word": " this.",
+                    "start": 13.38,
+                    "end": 14.18,
+                    "probability": 0.9941704869270325
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 15.7,
+            "end": 19.06,
+            "text": " So yeah, I want to take.",
+            "tokens": [
+                51110,
+                407,
+                1338,
+                11,
+                286,
+                528,
+                281,
+                747,
+                13,
+                51318
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2781716493459848,
+            "compression_ratio": 1.3941605839416058,
+            "no_speech_prob": 0.010551895014941692,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 15.7,
+                    "end": 15.74,
+                    "probability": 0.8960647583007812
+                },
+                {
+                    "word": " yeah,",
+                    "start": 15.74,
+                    "end": 17.48,
+                    "probability": 0.6237260699272156
+                },
+                {
+                    "word": " I",
+                    "start": 18.04,
+                    "end": 18.38,
+                    "probability": 0.9960642457008362
+                },
+                {
+                    "word": " want",
+                    "start": 18.38,
+                    "end": 18.6,
+                    "probability": 0.9960320591926575
+                },
+                {
+                    "word": " to",
+                    "start": 18.6,
+                    "end": 18.9,
+                    "probability": 0.999207079410553
+                },
+                {
+                    "word": " take.",
+                    "start": 18.9,
+                    "end": 19.06,
+                    "probability": 0.9952303767204285
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

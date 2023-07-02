@@ -1,0 +1,160 @@
+{
+    "text": " Thank you, George. Sure. Would Antonia also be able to help us with moving?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "text": " Thank you, George.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                11,
+                7136,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.272138944038978,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.03312182053923607,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5252673029899597
+                },
+                {
+                    "word": " you,",
+                    "start": 0.22,
+                    "end": 0.44,
+                    "probability": 0.9765210747718811
+                },
+                {
+                    "word": " George.",
+                    "start": 0.48,
+                    "end": 0.76,
+                    "probability": 0.8535292744636536
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.02,
+            "end": 1.2,
+            "text": " Sure.",
+            "tokens": [
+                50406,
+                4894,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.272138944038978,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.03312182053923607,
+            "words": [
+                {
+                    "word": " Sure.",
+                    "start": 1.02,
+                    "end": 1.2,
+                    "probability": 0.6816793084144592
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 1.8,
+            "end": 5.3,
+            "text": " Would Antonia also be able to help us with moving?",
+            "tokens": [
+                50448,
+                6068,
+                15291,
+                654,
+                611,
+                312,
+                1075,
+                281,
+                854,
+                505,
+                365,
+                2684,
+                30,
+                50646
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.272138944038978,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.03312182053923607,
+            "words": [
+                {
+                    "word": " Would",
+                    "start": 1.8,
+                    "end": 1.96,
+                    "probability": 0.5040310025215149
+                },
+                {
+                    "word": " Antonia",
+                    "start": 1.96,
+                    "end": 2.46,
+                    "probability": 0.950641930103302
+                },
+                {
+                    "word": " also",
+                    "start": 2.46,
+                    "end": 2.7,
+                    "probability": 0.9724013805389404
+                },
+                {
+                    "word": " be",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.988716185092926
+                },
+                {
+                    "word": " able",
+                    "start": 2.92,
+                    "end": 3.2,
+                    "probability": 0.9969866871833801
+                },
+                {
+                    "word": " to",
+                    "start": 3.2,
+                    "end": 3.66,
+                    "probability": 0.9947596192359924
+                },
+                {
+                    "word": " help",
+                    "start": 3.66,
+                    "end": 3.86,
+                    "probability": 0.9905040860176086
+                },
+                {
+                    "word": " us",
+                    "start": 3.86,
+                    "end": 4.62,
+                    "probability": 0.9727885723114014
+                },
+                {
+                    "word": " with",
+                    "start": 4.62,
+                    "end": 5.04,
+                    "probability": 0.9633733630180359
+                },
+                {
+                    "word": " moving?",
+                    "start": 5.04,
+                    "end": 5.3,
+                    "probability": 0.9635178446769714
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

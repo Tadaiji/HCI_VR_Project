@@ -1,0 +1,31 @@
+{
+    "text": " Nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.38,
+            "text": " Nice.",
+            "tokens": [
+                50364,
+                5490,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4466398239135742,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.21354259550571442,
+            "words": [
+                {
+                    "word": " Nice.",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.673311173915863
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

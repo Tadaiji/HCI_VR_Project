@@ -1,0 +1,87 @@
+{
+    "text": " and what especially you guys have thought about accommodating",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.98,
+            "text": " and what especially you guys have thought about accommodating",
+            "tokens": [
+                50364,
+                293,
+                437,
+                2318,
+                291,
+                1074,
+                362,
+                1194,
+                466,
+                11713,
+                990,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2455584452702449,
+            "compression_ratio": 0.9838709677419355,
+            "no_speech_prob": 0.24151377379894257,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.29435452818870544
+                },
+                {
+                    "word": " what",
+                    "start": 0.58,
+                    "end": 0.88,
+                    "probability": 0.9229057431221008
+                },
+                {
+                    "word": " especially",
+                    "start": 0.88,
+                    "end": 1.42,
+                    "probability": 0.7983890771865845
+                },
+                {
+                    "word": " you",
+                    "start": 1.42,
+                    "end": 1.64,
+                    "probability": 0.9863109588623047
+                },
+                {
+                    "word": " guys",
+                    "start": 1.64,
+                    "end": 1.92,
+                    "probability": 0.9905357956886292
+                },
+                {
+                    "word": " have",
+                    "start": 1.92,
+                    "end": 2.58,
+                    "probability": 0.9945858716964722
+                },
+                {
+                    "word": " thought",
+                    "start": 2.58,
+                    "end": 2.86,
+                    "probability": 0.9059240818023682
+                },
+                {
+                    "word": " about",
+                    "start": 2.86,
+                    "end": 3.44,
+                    "probability": 0.9929201006889343
+                },
+                {
+                    "word": " accommodating",
+                    "start": 3.44,
+                    "end": 3.98,
+                    "probability": 0.9954579174518585
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

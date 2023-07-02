@@ -1,0 +1,818 @@
+{
+    "text": " Yeah, I just remembered. Like you showed, the Persian rug, we bought at an auction last year. Since then, as we all knew, it gets us dust in the corner. But you were so excited for it. I still think it's really beautiful, but it doesn't fit in this living room at the moment. Maybe we should try to fit it into the new one. We have to talk about rugs and the floor in general anyway. But to be really clear, I think the Persian rug should be used in the new flat.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.78,
+            "end": 3.52,
+            "text": " Yeah, I just remembered.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                445,
+                13745,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28909929492805575,
+            "compression_ratio": 1.4175257731958764,
+            "no_speech_prob": 0.6289529204368591,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.78,
+                    "end": 1.34,
+                    "probability": 0.2146395742893219
+                },
+                {
+                    "word": " I",
+                    "start": 1.34,
+                    "end": 1.88,
+                    "probability": 0.882237434387207
+                },
+                {
+                    "word": " just",
+                    "start": 1.88,
+                    "end": 2.14,
+                    "probability": 0.948457658290863
+                },
+                {
+                    "word": " remembered.",
+                    "start": 2.14,
+                    "end": 3.52,
+                    "probability": 0.346549928188324
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.16,
+            "end": 12.52,
+            "text": " Like you showed, the Persian rug, we bought at an auction last year.",
+            "tokens": [
+                50564,
+                1743,
+                291,
+                4712,
+                11,
+                264,
+                30699,
+                18329,
+                11,
+                321,
+                4243,
+                412,
+                364,
+                24139,
+                1036,
+                1064,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28909929492805575,
+            "compression_ratio": 1.4175257731958764,
+            "no_speech_prob": 0.6289529204368591,
+            "words": [
+                {
+                    "word": " Like",
+                    "start": 5.16,
+                    "end": 5.48,
+                    "probability": 0.27340397238731384
+                },
+                {
+                    "word": " you",
+                    "start": 5.48,
+                    "end": 5.74,
+                    "probability": 0.966816782951355
+                },
+                {
+                    "word": " showed,",
+                    "start": 5.74,
+                    "end": 6.0,
+                    "probability": 0.9575250744819641
+                },
+                {
+                    "word": " the",
+                    "start": 7.16,
+                    "end": 7.26,
+                    "probability": 0.8959406614303589
+                },
+                {
+                    "word": " Persian",
+                    "start": 7.26,
+                    "end": 7.68,
+                    "probability": 0.9117769598960876
+                },
+                {
+                    "word": " rug,",
+                    "start": 7.68,
+                    "end": 8.04,
+                    "probability": 0.4577171504497528
+                },
+                {
+                    "word": " we",
+                    "start": 8.34,
+                    "end": 9.24,
+                    "probability": 0.9808803200721741
+                },
+                {
+                    "word": " bought",
+                    "start": 9.24,
+                    "end": 9.82,
+                    "probability": 0.9915174245834351
+                },
+                {
+                    "word": " at",
+                    "start": 9.82,
+                    "end": 10.16,
+                    "probability": 0.565883994102478
+                },
+                {
+                    "word": " an",
+                    "start": 10.16,
+                    "end": 10.26,
+                    "probability": 0.5273221731185913
+                },
+                {
+                    "word": " auction",
+                    "start": 10.26,
+                    "end": 10.62,
+                    "probability": 0.9976721405982971
+                },
+                {
+                    "word": " last",
+                    "start": 10.62,
+                    "end": 11.6,
+                    "probability": 0.9733421206474304
+                },
+                {
+                    "word": " year.",
+                    "start": 11.6,
+                    "end": 12.52,
+                    "probability": 0.9988070726394653
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.28,
+            "end": 17.6,
+            "text": " Since then, as we all knew, it gets us dust in the corner.",
+            "tokens": [
+                50964,
+                4162,
+                550,
+                11,
+                382,
+                321,
+                439,
+                2586,
+                11,
+                309,
+                2170,
+                505,
+                8634,
+                294,
+                264,
+                4538,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28909929492805575,
+            "compression_ratio": 1.4175257731958764,
+            "no_speech_prob": 0.6289529204368591,
+            "words": [
+                {
+                    "word": " Since",
+                    "start": 13.28,
+                    "end": 14.1,
+                    "probability": 0.3877881169319153
+                },
+                {
+                    "word": " then,",
+                    "start": 14.1,
+                    "end": 14.56,
+                    "probability": 0.991858184337616
+                },
+                {
+                    "word": " as",
+                    "start": 15.44,
+                    "end": 15.72,
+                    "probability": 0.5930760502815247
+                },
+                {
+                    "word": " we",
+                    "start": 15.72,
+                    "end": 15.9,
+                    "probability": 0.987291693687439
+                },
+                {
+                    "word": " all",
+                    "start": 15.9,
+                    "end": 16.06,
+                    "probability": 0.9651034474372864
+                },
+                {
+                    "word": " knew,",
+                    "start": 16.06,
+                    "end": 16.2,
+                    "probability": 0.7447587847709656
+                },
+                {
+                    "word": " it",
+                    "start": 16.46,
+                    "end": 16.46,
+                    "probability": 0.9638281464576721
+                },
+                {
+                    "word": " gets",
+                    "start": 16.46,
+                    "end": 16.62,
+                    "probability": 0.23544856905937195
+                },
+                {
+                    "word": " us",
+                    "start": 16.62,
+                    "end": 16.82,
+                    "probability": 0.5396787524223328
+                },
+                {
+                    "word": " dust",
+                    "start": 16.82,
+                    "end": 16.98,
+                    "probability": 0.7747632265090942
+                },
+                {
+                    "word": " in",
+                    "start": 16.98,
+                    "end": 17.16,
+                    "probability": 0.9253359436988831
+                },
+                {
+                    "word": " the",
+                    "start": 17.16,
+                    "end": 17.32,
+                    "probability": 0.9919772744178772
+                },
+                {
+                    "word": " corner.",
+                    "start": 17.32,
+                    "end": 17.6,
+                    "probability": 0.9164083003997803
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.88,
+            "end": 19.8,
+            "text": " But you were so excited for it.",
+            "tokens": [
+                51264,
+                583,
+                291,
+                645,
+                370,
+                2919,
+                337,
+                309,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28909929492805575,
+            "compression_ratio": 1.4175257731958764,
+            "no_speech_prob": 0.6289529204368591,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 17.88,
+                    "end": 18.08,
+                    "probability": 0.828125
+                },
+                {
+                    "word": " you",
+                    "start": 18.08,
+                    "end": 18.26,
+                    "probability": 0.9844059944152832
+                },
+                {
+                    "word": " were",
+                    "start": 18.26,
+                    "end": 18.38,
+                    "probability": 0.9459357857704163
+                },
+                {
+                    "word": " so",
+                    "start": 18.38,
+                    "end": 18.66,
+                    "probability": 0.9914434552192688
+                },
+                {
+                    "word": " excited",
+                    "start": 18.66,
+                    "end": 19.14,
+                    "probability": 0.9917294383049011
+                },
+                {
+                    "word": " for",
+                    "start": 19.14,
+                    "end": 19.38,
+                    "probability": 0.9856335520744324
+                },
+                {
+                    "word": " it.",
+                    "start": 19.38,
+                    "end": 19.8,
+                    "probability": 0.9966976642608643
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.08,
+            "end": 26.62,
+            "text": " I still think it's really beautiful, but it doesn't fit in this living room at the moment.",
+            "tokens": [
+                51364,
+                286,
+                920,
+                519,
+                309,
+                311,
+                534,
+                2238,
+                11,
+                457,
+                309,
+                1177,
+                380,
+                3318,
+                294,
+                341,
+                2647,
+                1808,
+                412,
+                264,
+                1623,
+                13,
+                51664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28909929492805575,
+            "compression_ratio": 1.4175257731958764,
+            "no_speech_prob": 0.6289529204368591,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 20.08,
+                    "end": 20.5,
+                    "probability": 0.4618871808052063
+                },
+                {
+                    "word": " still",
+                    "start": 20.5,
+                    "end": 21.08,
+                    "probability": 0.9002572894096375
+                },
+                {
+                    "word": " think",
+                    "start": 21.08,
+                    "end": 21.22,
+                    "probability": 0.9947064518928528
+                },
+                {
+                    "word": " it's",
+                    "start": 21.22,
+                    "end": 21.4,
+                    "probability": 0.9558051228523254
+                },
+                {
+                    "word": " really",
+                    "start": 21.4,
+                    "end": 21.6,
+                    "probability": 0.9486005306243896
+                },
+                {
+                    "word": " beautiful,",
+                    "start": 21.6,
+                    "end": 21.94,
+                    "probability": 0.9961131811141968
+                },
+                {
+                    "word": " but",
+                    "start": 21.98,
+                    "end": 22.34,
+                    "probability": 0.9958463311195374
+                },
+                {
+                    "word": " it",
+                    "start": 22.34,
+                    "end": 22.62,
+                    "probability": 0.9819247722625732
+                },
+                {
+                    "word": " doesn't",
+                    "start": 22.62,
+                    "end": 22.84,
+                    "probability": 0.9945682883262634
+                },
+                {
+                    "word": " fit",
+                    "start": 22.84,
+                    "end": 23.78,
+                    "probability": 0.9976502060890198
+                },
+                {
+                    "word": " in",
+                    "start": 23.78,
+                    "end": 24.86,
+                    "probability": 0.9153873920440674
+                },
+                {
+                    "word": " this",
+                    "start": 24.86,
+                    "end": 25.16,
+                    "probability": 0.9688466787338257
+                },
+                {
+                    "word": " living",
+                    "start": 25.16,
+                    "end": 25.4,
+                    "probability": 0.9962742328643799
+                },
+                {
+                    "word": " room",
+                    "start": 25.4,
+                    "end": 25.56,
+                    "probability": 0.9907275438308716
+                },
+                {
+                    "word": " at",
+                    "start": 25.56,
+                    "end": 25.74,
+                    "probability": 0.9720796346664429
+                },
+                {
+                    "word": " the",
+                    "start": 25.74,
+                    "end": 25.84,
+                    "probability": 0.9979514479637146
+                },
+                {
+                    "word": " moment.",
+                    "start": 25.84,
+                    "end": 26.62,
+                    "probability": 0.9996476173400879
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2662,
+            "start": 27.72,
+            "end": 32.46,
+            "text": " Maybe we should try to fit it into the new one.",
+            "tokens": [
+                50414,
+                2704,
+                321,
+                820,
+                853,
+                281,
+                3318,
+                309,
+                666,
+                264,
+                777,
+                472,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0934527562214778,
+            "compression_ratio": 1.364963503649635,
+            "no_speech_prob": 0.39397144317626953,
+            "words": [
+                {
+                    "word": " Maybe",
+                    "start": 27.72,
+                    "end": 28.36,
+                    "probability": 0.2693241536617279
+                },
+                {
+                    "word": " we",
+                    "start": 28.36,
+                    "end": 28.54,
+                    "probability": 0.9724348187446594
+                },
+                {
+                    "word": " should",
+                    "start": 28.54,
+                    "end": 29.1,
+                    "probability": 0.9944515824317932
+                },
+                {
+                    "word": " try",
+                    "start": 29.1,
+                    "end": 29.38,
+                    "probability": 0.9853608012199402
+                },
+                {
+                    "word": " to",
+                    "start": 29.38,
+                    "end": 30.66,
+                    "probability": 0.9762553572654724
+                },
+                {
+                    "word": " fit",
+                    "start": 30.66,
+                    "end": 30.92,
+                    "probability": 0.9198228716850281
+                },
+                {
+                    "word": " it",
+                    "start": 30.92,
+                    "end": 31.08,
+                    "probability": 0.9529618620872498
+                },
+                {
+                    "word": " into",
+                    "start": 31.08,
+                    "end": 31.34,
+                    "probability": 0.9572038054466248
+                },
+                {
+                    "word": " the",
+                    "start": 31.34,
+                    "end": 31.5,
+                    "probability": 0.9888259172439575
+                },
+                {
+                    "word": " new",
+                    "start": 31.5,
+                    "end": 31.66,
+                    "probability": 0.9925629496574402
+                },
+                {
+                    "word": " one.",
+                    "start": 31.66,
+                    "end": 32.46,
+                    "probability": 0.9803088903427124
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2662,
+            "start": 32.72,
+            "end": 39.08,
+            "text": " We have to talk about rugs and the floor in general anyway.",
+            "tokens": [
+                50664,
+                492,
+                362,
+                281,
+                751,
+                466,
+                367,
+                14950,
+                293,
+                264,
+                4123,
+                294,
+                2674,
+                4033,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0934527562214778,
+            "compression_ratio": 1.364963503649635,
+            "no_speech_prob": 0.39397144317626953,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 32.72,
+                    "end": 33.34,
+                    "probability": 0.9050612449645996
+                },
+                {
+                    "word": " have",
+                    "start": 33.34,
+                    "end": 33.52,
+                    "probability": 0.9840606451034546
+                },
+                {
+                    "word": " to",
+                    "start": 33.52,
+                    "end": 33.68,
+                    "probability": 0.9972590208053589
+                },
+                {
+                    "word": " talk",
+                    "start": 33.68,
+                    "end": 33.84,
+                    "probability": 0.9958509206771851
+                },
+                {
+                    "word": " about",
+                    "start": 33.84,
+                    "end": 35.34,
+                    "probability": 0.9981289505958557
+                },
+                {
+                    "word": " rugs",
+                    "start": 35.34,
+                    "end": 35.88,
+                    "probability": 0.8309298753738403
+                },
+                {
+                    "word": " and",
+                    "start": 35.88,
+                    "end": 36.82,
+                    "probability": 0.9499837160110474
+                },
+                {
+                    "word": " the",
+                    "start": 36.82,
+                    "end": 37.06,
+                    "probability": 0.9263229966163635
+                },
+                {
+                    "word": " floor",
+                    "start": 37.06,
+                    "end": 37.4,
+                    "probability": 0.9891541600227356
+                },
+                {
+                    "word": " in",
+                    "start": 37.4,
+                    "end": 37.74,
+                    "probability": 0.8992158770561218
+                },
+                {
+                    "word": " general",
+                    "start": 37.74,
+                    "end": 38.14,
+                    "probability": 0.9915624260902405
+                },
+                {
+                    "word": " anyway.",
+                    "start": 38.14,
+                    "end": 39.08,
+                    "probability": 0.6988139748573303
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2662,
+            "start": 40.38,
+            "end": 47.78,
+            "text": " But to be really clear, I think the Persian rug should be used in the new flat.",
+            "tokens": [
+                51014,
+                583,
+                281,
+                312,
+                534,
+                1850,
+                11,
+                286,
+                519,
+                264,
+                30699,
+                18329,
+                820,
+                312,
+                1143,
+                294,
+                264,
+                777,
+                4962,
+                13,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.0934527562214778,
+            "compression_ratio": 1.364963503649635,
+            "no_speech_prob": 0.39397144317626953,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 40.38,
+                    "end": 40.52,
+                    "probability": 0.8961910605430603
+                },
+                {
+                    "word": " to",
+                    "start": 40.52,
+                    "end": 40.66,
+                    "probability": 0.9636613130569458
+                },
+                {
+                    "word": " be",
+                    "start": 40.66,
+                    "end": 40.82,
+                    "probability": 0.9979792237281799
+                },
+                {
+                    "word": " really",
+                    "start": 40.82,
+                    "end": 41.04,
+                    "probability": 0.8836372494697571
+                },
+                {
+                    "word": " clear,",
+                    "start": 41.04,
+                    "end": 41.24,
+                    "probability": 0.9949771761894226
+                },
+                {
+                    "word": " I",
+                    "start": 41.38,
+                    "end": 41.38,
+                    "probability": 0.9414597749710083
+                },
+                {
+                    "word": " think",
+                    "start": 41.38,
+                    "end": 41.84,
+                    "probability": 0.9982806444168091
+                },
+                {
+                    "word": " the",
+                    "start": 41.84,
+                    "end": 42.1,
+                    "probability": 0.9273200631141663
+                },
+                {
+                    "word": " Persian",
+                    "start": 42.1,
+                    "end": 42.42,
+                    "probability": 0.9330575466156006
+                },
+                {
+                    "word": " rug",
+                    "start": 42.42,
+                    "end": 42.82,
+                    "probability": 0.9912527203559875
+                },
+                {
+                    "word": " should",
+                    "start": 42.82,
+                    "end": 44.32,
+                    "probability": 0.9870133996009827
+                },
+                {
+                    "word": " be",
+                    "start": 44.32,
+                    "end": 45.26,
+                    "probability": 0.9954501986503601
+                },
+                {
+                    "word": " used",
+                    "start": 45.26,
+                    "end": 46.14,
+                    "probability": 0.9941045641899109
+                },
+                {
+                    "word": " in",
+                    "start": 46.14,
+                    "end": 47.02,
+                    "probability": 0.9697496294975281
+                },
+                {
+                    "word": " the",
+                    "start": 47.02,
+                    "end": 47.14,
+                    "probability": 0.9938724040985107
+                },
+                {
+                    "word": " new",
+                    "start": 47.14,
+                    "end": 47.52,
+                    "probability": 0.9969547986984253
+                },
+                {
+                    "word": " flat.",
+                    "start": 47.52,
+                    "end": 47.78,
+                    "probability": 0.9599618315696716
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,196 @@
+{
+    "text": " I want to give you credit for your suggestion to remove the table from the living room. There are other rooms maybe.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 11.34,
+            "text": " I want to give you credit for your suggestion to remove the table from the living room.",
+            "tokens": [
+                50364,
+                286,
+                528,
+                281,
+                976,
+                291,
+                5397,
+                337,
+                428,
+                16541,
+                281,
+                4159,
+                264,
+                3199,
+                490,
+                264,
+                2647,
+                1808,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3406619039075128,
+            "compression_ratio": 1.2340425531914894,
+            "no_speech_prob": 0.03700408712029457,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.6125546097755432
+                },
+                {
+                    "word": " want",
+                    "start": 0.5,
+                    "end": 0.8,
+                    "probability": 0.9551193714141846
+                },
+                {
+                    "word": " to",
+                    "start": 0.8,
+                    "end": 3.3,
+                    "probability": 0.9968265295028687
+                },
+                {
+                    "word": " give",
+                    "start": 3.3,
+                    "end": 3.56,
+                    "probability": 0.959520697593689
+                },
+                {
+                    "word": " you",
+                    "start": 3.56,
+                    "end": 3.82,
+                    "probability": 0.973741888999939
+                },
+                {
+                    "word": " credit",
+                    "start": 3.82,
+                    "end": 4.0,
+                    "probability": 0.8714120388031006
+                },
+                {
+                    "word": " for",
+                    "start": 4.0,
+                    "end": 4.48,
+                    "probability": 0.9956923127174377
+                },
+                {
+                    "word": " your",
+                    "start": 4.48,
+                    "end": 5.68,
+                    "probability": 0.9850062727928162
+                },
+                {
+                    "word": " suggestion",
+                    "start": 5.68,
+                    "end": 6.76,
+                    "probability": 0.9527210593223572
+                },
+                {
+                    "word": " to",
+                    "start": 6.76,
+                    "end": 7.88,
+                    "probability": 0.9673499464988708
+                },
+                {
+                    "word": " remove",
+                    "start": 7.88,
+                    "end": 9.54,
+                    "probability": 0.9842830300331116
+                },
+                {
+                    "word": " the",
+                    "start": 9.54,
+                    "end": 9.74,
+                    "probability": 0.9938919544219971
+                },
+                {
+                    "word": " table",
+                    "start": 9.74,
+                    "end": 10.08,
+                    "probability": 0.9893403649330139
+                },
+                {
+                    "word": " from",
+                    "start": 10.08,
+                    "end": 10.5,
+                    "probability": 0.8726044297218323
+                },
+                {
+                    "word": " the",
+                    "start": 10.5,
+                    "end": 10.64,
+                    "probability": 0.980079710483551
+                },
+                {
+                    "word": " living",
+                    "start": 10.64,
+                    "end": 10.84,
+                    "probability": 0.994524359703064
+                },
+                {
+                    "word": " room.",
+                    "start": 10.84,
+                    "end": 11.34,
+                    "probability": 0.9931033849716187
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 12.42,
+            "end": 13.82,
+            "text": " There are other rooms maybe.",
+            "tokens": [
+                50964,
+                821,
+                366,
+                661,
+                9396,
+                1310,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3406619039075128,
+            "compression_ratio": 1.2340425531914894,
+            "no_speech_prob": 0.03700408712029457,
+            "words": [
+                {
+                    "word": " There",
+                    "start": 12.42,
+                    "end": 12.56,
+                    "probability": 0.8888095021247864
+                },
+                {
+                    "word": " are",
+                    "start": 12.56,
+                    "end": 12.66,
+                    "probability": 0.9774602651596069
+                },
+                {
+                    "word": " other",
+                    "start": 12.66,
+                    "end": 12.82,
+                    "probability": 0.9886621832847595
+                },
+                {
+                    "word": " rooms",
+                    "start": 12.82,
+                    "end": 13.26,
+                    "probability": 0.9963484406471252
+                },
+                {
+                    "word": " maybe.",
+                    "start": 13.26,
+                    "end": 13.82,
+                    "probability": 0.3733938932418823
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

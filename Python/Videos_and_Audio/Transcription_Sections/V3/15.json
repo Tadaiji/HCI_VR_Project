@@ -1,0 +1,282 @@
+{
+    "text": " I was even thinking that you and Fran can have some good time together as well when the people are eating What do you think? It's not a bad idea. It's a good idea",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 6.4,
+            "text": " I was even thinking that you and Fran can have some good time together as well when the people are eating",
+            "tokens": [
+                50364,
+                286,
+                390,
+                754,
+                1953,
+                300,
+                291,
+                293,
+                17288,
+                393,
+                362,
+                512,
+                665,
+                565,
+                1214,
+                382,
+                731,
+                562,
+                264,
+                561,
+                366,
+                3936,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2870879949525345,
+            "compression_ratio": 1.3388429752066116,
+            "no_speech_prob": 0.49233323335647583,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.02,
+                    "end": 0.5,
+                    "probability": 0.533665120601654
+                },
+                {
+                    "word": " was",
+                    "start": 0.5,
+                    "end": 0.76,
+                    "probability": 0.6180712580680847
+                },
+                {
+                    "word": " even",
+                    "start": 0.76,
+                    "end": 1.1,
+                    "probability": 0.9827930927276611
+                },
+                {
+                    "word": " thinking",
+                    "start": 1.1,
+                    "end": 1.46,
+                    "probability": 0.9965241551399231
+                },
+                {
+                    "word": " that",
+                    "start": 1.46,
+                    "end": 2.0,
+                    "probability": 0.9412351846694946
+                },
+                {
+                    "word": " you",
+                    "start": 2.0,
+                    "end": 2.24,
+                    "probability": 0.9901447296142578
+                },
+                {
+                    "word": " and",
+                    "start": 2.24,
+                    "end": 2.5,
+                    "probability": 0.9764517545700073
+                },
+                {
+                    "word": " Fran",
+                    "start": 2.5,
+                    "end": 2.66,
+                    "probability": 0.06615320593118668
+                },
+                {
+                    "word": " can",
+                    "start": 2.66,
+                    "end": 2.84,
+                    "probability": 0.7215179204940796
+                },
+                {
+                    "word": " have",
+                    "start": 2.84,
+                    "end": 3.08,
+                    "probability": 0.9957687854766846
+                },
+                {
+                    "word": " some",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.9857147336006165
+                },
+                {
+                    "word": " good",
+                    "start": 3.34,
+                    "end": 3.62,
+                    "probability": 0.9865705370903015
+                },
+                {
+                    "word": " time",
+                    "start": 3.62,
+                    "end": 3.86,
+                    "probability": 0.9892800450325012
+                },
+                {
+                    "word": " together",
+                    "start": 3.86,
+                    "end": 4.32,
+                    "probability": 0.9961607456207275
+                },
+                {
+                    "word": " as",
+                    "start": 4.32,
+                    "end": 4.62,
+                    "probability": 0.9234713912010193
+                },
+                {
+                    "word": " well",
+                    "start": 4.62,
+                    "end": 4.9,
+                    "probability": 0.9815750122070312
+                },
+                {
+                    "word": " when",
+                    "start": 4.9,
+                    "end": 5.48,
+                    "probability": 0.686538815498352
+                },
+                {
+                    "word": " the",
+                    "start": 5.48,
+                    "end": 5.7,
+                    "probability": 0.9715321660041809
+                },
+                {
+                    "word": " people",
+                    "start": 5.7,
+                    "end": 5.9,
+                    "probability": 0.9971147775650024
+                },
+                {
+                    "word": " are",
+                    "start": 5.9,
+                    "end": 6.18,
+                    "probability": 0.9964679479598999
+                },
+                {
+                    "word": " eating",
+                    "start": 6.18,
+                    "end": 6.4,
+                    "probability": 0.9953708052635193
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.4,
+            "end": 9.4,
+            "text": " What do you think? It's not a bad idea. It's a good idea",
+            "tokens": [
+                50684,
+                708,
+                360,
+                291,
+                519,
+                30,
+                467,
+                311,
+                406,
+                257,
+                1578,
+                1558,
+                13,
+                467,
+                311,
+                257,
+                665,
+                1558,
+                50826
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2870879949525345,
+            "compression_ratio": 1.3388429752066116,
+            "no_speech_prob": 0.49233323335647583,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 6.4,
+                    "end": 6.64,
+                    "probability": 0.40376582741737366
+                },
+                {
+                    "word": " do",
+                    "start": 6.64,
+                    "end": 6.72,
+                    "probability": 0.9856329560279846
+                },
+                {
+                    "word": " you",
+                    "start": 6.72,
+                    "end": 6.86,
+                    "probability": 0.9991432428359985
+                },
+                {
+                    "word": " think?",
+                    "start": 6.86,
+                    "end": 6.96,
+                    "probability": 0.998210072517395
+                },
+                {
+                    "word": " It's",
+                    "start": 7.04,
+                    "end": 7.22,
+                    "probability": 0.9455582201480865
+                },
+                {
+                    "word": " not",
+                    "start": 7.22,
+                    "end": 7.32,
+                    "probability": 0.9883517622947693
+                },
+                {
+                    "word": " a",
+                    "start": 7.32,
+                    "end": 7.48,
+                    "probability": 0.9980035424232483
+                },
+                {
+                    "word": " bad",
+                    "start": 7.48,
+                    "end": 7.64,
+                    "probability": 0.998660683631897
+                },
+                {
+                    "word": " idea.",
+                    "start": 7.64,
+                    "end": 8.0,
+                    "probability": 0.9954506754875183
+                },
+                {
+                    "word": " It's",
+                    "start": 8.4,
+                    "end": 8.92,
+                    "probability": 0.6818987727165222
+                },
+                {
+                    "word": " a",
+                    "start": 8.92,
+                    "end": 8.92,
+                    "probability": 0.7054157853126526
+                },
+                {
+                    "word": " good",
+                    "start": 8.92,
+                    "end": 9.16,
+                    "probability": 0.9543139934539795
+                },
+                {
+                    "word": " idea",
+                    "start": 9.16,
+                    "end": 9.4,
+                    "probability": 0.9943633079528809
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

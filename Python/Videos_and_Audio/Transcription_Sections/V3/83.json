@@ -1,0 +1,130 @@
+{
+    "text": " I will find something. Maybe I can change my mind from clown to something else.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " I will find something. Maybe I can change my mind from clown to something else.",
+            "tokens": [
+                50364,
+                286,
+                486,
+                915,
+                746,
+                13,
+                2704,
+                286,
+                393,
+                1319,
+                452,
+                1575,
+                490,
+                22209,
+                281,
+                746,
+                1646,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3828480958938599,
+            "compression_ratio": 1.0675675675675675,
+            "no_speech_prob": 0.11653704196214676,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.20800261199474335
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.5821906328201294
+                },
+                {
+                    "word": " find",
+                    "start": 0.66,
+                    "end": 0.8,
+                    "probability": 0.9812647700309753
+                },
+                {
+                    "word": " something.",
+                    "start": 0.8,
+                    "end": 1.24,
+                    "probability": 0.9940985441207886
+                },
+                {
+                    "word": " Maybe",
+                    "start": 1.44,
+                    "end": 1.74,
+                    "probability": 0.8964714407920837
+                },
+                {
+                    "word": " I",
+                    "start": 1.74,
+                    "end": 1.84,
+                    "probability": 0.9548637866973877
+                },
+                {
+                    "word": " can",
+                    "start": 1.84,
+                    "end": 2.08,
+                    "probability": 0.9952785968780518
+                },
+                {
+                    "word": " change",
+                    "start": 2.08,
+                    "end": 2.3,
+                    "probability": 0.9980864524841309
+                },
+                {
+                    "word": " my",
+                    "start": 2.3,
+                    "end": 2.56,
+                    "probability": 0.9974640607833862
+                },
+                {
+                    "word": " mind",
+                    "start": 2.56,
+                    "end": 2.7,
+                    "probability": 0.9992697834968567
+                },
+                {
+                    "word": " from",
+                    "start": 2.7,
+                    "end": 3.02,
+                    "probability": 0.9902920126914978
+                },
+                {
+                    "word": " clown",
+                    "start": 3.02,
+                    "end": 3.28,
+                    "probability": 0.9313713312149048
+                },
+                {
+                    "word": " to",
+                    "start": 3.28,
+                    "end": 3.48,
+                    "probability": 0.978569507598877
+                },
+                {
+                    "word": " something",
+                    "start": 3.48,
+                    "end": 3.82,
+                    "probability": 0.9951111674308777
+                },
+                {
+                    "word": " else.",
+                    "start": 3.82,
+                    "end": 4.16,
+                    "probability": 0.9990097284317017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

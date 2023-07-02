@@ -1,0 +1,31 @@
+{
+    "text": " close.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.02,
+            "text": " close.",
+            "tokens": [
+                50364,
+                1998,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8641598701477051,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.6283026933670044,
+            "words": [
+                {
+                    "word": " close.",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.13953939080238342
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

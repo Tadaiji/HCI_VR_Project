@@ -1,0 +1,374 @@
+{
+    "text": " Yeah, yeah, I'm completely with you on this. Just hearing the street noise at the moment makes me want to move out. And I'm really glad that now we have the opportunity. That's nice. But I think we have.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 4.02,
+            "text": " Yeah, yeah, I'm completely with you on this.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1338,
+                11,
+                286,
+                478,
+                2584,
+                365,
+                291,
+                322,
+                341,
+                13,
+                50560
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42526384989420574,
+            "compression_ratio": 1.3624161073825503,
+            "no_speech_prob": 0.0020432816818356514,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.04,
+                    "end": 0.6,
+                    "probability": 0.6948485970497131
+                },
+                {
+                    "word": " yeah,",
+                    "start": 0.86,
+                    "end": 0.9,
+                    "probability": 0.4418119192123413
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.6016569137573242
+                },
+                {
+                    "word": " completely",
+                    "start": 1.18,
+                    "end": 1.5,
+                    "probability": 0.9817631840705872
+                },
+                {
+                    "word": " with",
+                    "start": 1.5,
+                    "end": 2.06,
+                    "probability": 0.21499262750148773
+                },
+                {
+                    "word": " you",
+                    "start": 2.06,
+                    "end": 2.56,
+                    "probability": 0.8672044277191162
+                },
+                {
+                    "word": " on",
+                    "start": 2.56,
+                    "end": 3.6,
+                    "probability": 0.6791185140609741
+                },
+                {
+                    "word": " this.",
+                    "start": 3.6,
+                    "end": 4.02,
+                    "probability": 0.9910635948181152
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.74,
+            "end": 12.2,
+            "text": " Just hearing the street noise at the moment makes me want to move out.",
+            "tokens": [
+                50560,
+                1449,
+                4763,
+                264,
+                4838,
+                5658,
+                412,
+                264,
+                1623,
+                1669,
+                385,
+                528,
+                281,
+                1286,
+                484,
+                13,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42526384989420574,
+            "compression_ratio": 1.3624161073825503,
+            "no_speech_prob": 0.0020432816818356514,
+            "words": [
+                {
+                    "word": " Just",
+                    "start": 4.74,
+                    "end": 5.28,
+                    "probability": 0.8349000215530396
+                },
+                {
+                    "word": " hearing",
+                    "start": 5.28,
+                    "end": 7.0,
+                    "probability": 0.9248331785202026
+                },
+                {
+                    "word": " the",
+                    "start": 7.0,
+                    "end": 8.04,
+                    "probability": 0.9110243320465088
+                },
+                {
+                    "word": " street",
+                    "start": 8.04,
+                    "end": 8.26,
+                    "probability": 0.7100542187690735
+                },
+                {
+                    "word": " noise",
+                    "start": 8.26,
+                    "end": 8.94,
+                    "probability": 0.7798627614974976
+                },
+                {
+                    "word": " at",
+                    "start": 8.94,
+                    "end": 9.26,
+                    "probability": 0.9572519063949585
+                },
+                {
+                    "word": " the",
+                    "start": 9.26,
+                    "end": 9.46,
+                    "probability": 0.9987788796424866
+                },
+                {
+                    "word": " moment",
+                    "start": 9.46,
+                    "end": 10.0,
+                    "probability": 0.9971484541893005
+                },
+                {
+                    "word": " makes",
+                    "start": 10.0,
+                    "end": 11.14,
+                    "probability": 0.8462169766426086
+                },
+                {
+                    "word": " me",
+                    "start": 11.14,
+                    "end": 11.46,
+                    "probability": 0.994178056716919
+                },
+                {
+                    "word": " want",
+                    "start": 11.46,
+                    "end": 11.7,
+                    "probability": 0.9251363277435303
+                },
+                {
+                    "word": " to",
+                    "start": 11.7,
+                    "end": 11.86,
+                    "probability": 0.9941779375076294
+                },
+                {
+                    "word": " move",
+                    "start": 11.86,
+                    "end": 12.06,
+                    "probability": 0.9134019613265991
+                },
+                {
+                    "word": " out.",
+                    "start": 12.06,
+                    "end": 12.2,
+                    "probability": 0.9843777418136597
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.28,
+            "end": 16.0,
+            "text": " And I'm really glad that now we have the opportunity.",
+            "tokens": [
+                50972,
+                400,
+                286,
+                478,
+                534,
+                5404,
+                300,
+                586,
+                321,
+                362,
+                264,
+                2650,
+                13,
+                51168
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42526384989420574,
+            "compression_ratio": 1.3624161073825503,
+            "no_speech_prob": 0.0020432816818356514,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 12.28,
+                    "end": 12.38,
+                    "probability": 0.8363726735115051
+                },
+                {
+                    "word": " I'm",
+                    "start": 12.38,
+                    "end": 12.64,
+                    "probability": 0.9902870357036591
+                },
+                {
+                    "word": " really",
+                    "start": 12.64,
+                    "end": 12.88,
+                    "probability": 0.9988571405410767
+                },
+                {
+                    "word": " glad",
+                    "start": 12.88,
+                    "end": 13.1,
+                    "probability": 0.9991093277931213
+                },
+                {
+                    "word": " that",
+                    "start": 13.1,
+                    "end": 14.06,
+                    "probability": 0.9907190203666687
+                },
+                {
+                    "word": " now",
+                    "start": 14.06,
+                    "end": 14.46,
+                    "probability": 0.9488568305969238
+                },
+                {
+                    "word": " we",
+                    "start": 14.46,
+                    "end": 14.66,
+                    "probability": 0.9767799973487854
+                },
+                {
+                    "word": " have",
+                    "start": 14.66,
+                    "end": 14.9,
+                    "probability": 0.9865455031394958
+                },
+                {
+                    "word": " the",
+                    "start": 14.9,
+                    "end": 15.36,
+                    "probability": 0.992702841758728
+                },
+                {
+                    "word": " opportunity.",
+                    "start": 15.36,
+                    "end": 16.0,
+                    "probability": 0.9925151467323303
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.4,
+            "end": 18.98,
+            "text": " That's nice.",
+            "tokens": [
+                51168,
+                663,
+                311,
+                1481,
+                13,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42526384989420574,
+            "compression_ratio": 1.3624161073825503,
+            "no_speech_prob": 0.0020432816818356514,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 17.4,
+                    "end": 18.78,
+                    "probability": 0.9731314778327942
+                },
+                {
+                    "word": " nice.",
+                    "start": 18.78,
+                    "end": 18.98,
+                    "probability": 0.8351763486862183
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.28,
+            "end": 20.28,
+            "text": " But I think we have.",
+            "tokens": [
+                51314,
+                583,
+                286,
+                519,
+                321,
+                362,
+                13,
+                51376
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42526384989420574,
+            "compression_ratio": 1.3624161073825503,
+            "no_speech_prob": 0.0020432816818356514,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 19.28,
+                    "end": 19.38,
+                    "probability": 0.9879872798919678
+                },
+                {
+                    "word": " I",
+                    "start": 19.38,
+                    "end": 19.56,
+                    "probability": 0.9867635369300842
+                },
+                {
+                    "word": " think",
+                    "start": 19.56,
+                    "end": 19.74,
+                    "probability": 0.999559223651886
+                },
+                {
+                    "word": " we",
+                    "start": 19.74,
+                    "end": 19.94,
+                    "probability": 0.9932224750518799
+                },
+                {
+                    "word": " have.",
+                    "start": 19.94,
+                    "end": 20.28,
+                    "probability": 0.9970222115516663
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

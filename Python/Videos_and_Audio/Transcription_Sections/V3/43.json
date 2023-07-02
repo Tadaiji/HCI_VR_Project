@@ -1,0 +1,30 @@
+{
+    "text": " So",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.26,
+            "text": " So",
+            "tokens": [
+                50364,
+                407,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9482921957969666,
+            "compression_ratio": 0.2,
+            "no_speech_prob": 0.836837887763977,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.05704856291413307
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

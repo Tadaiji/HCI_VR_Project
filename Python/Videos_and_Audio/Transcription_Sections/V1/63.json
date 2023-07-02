@@ -1,0 +1,363 @@
+{
+    "text": " Yeah, I agree with Harry on this one. I think we should take a full week and just get it over with. Even when contracting a company, it's so much work. We only talked about furniture up to this point, but to be totally honest,",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.04,
+            "end": 12.96,
+            "text": " Yeah, I agree with Harry on this one. I think we should take a full week and just get it over with.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                3986,
+                365,
+                9378,
+                322,
+                341,
+                472,
+                13,
+                286,
+                519,
+                321,
+                820,
+                747,
+                257,
+                1577,
+                1243,
+                293,
+                445,
+                483,
+                309,
+                670,
+                365,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21115243845972523,
+            "compression_ratio": 1.3780487804878048,
+            "no_speech_prob": 0.0008815623004920781,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.04,
+                    "end": 1.8,
+                    "probability": 0.6305598616600037
+                },
+                {
+                    "word": " I",
+                    "start": 1.98,
+                    "end": 2.56,
+                    "probability": 0.9894976615905762
+                },
+                {
+                    "word": " agree",
+                    "start": 2.56,
+                    "end": 3.06,
+                    "probability": 0.9829795360565186
+                },
+                {
+                    "word": " with",
+                    "start": 3.06,
+                    "end": 3.48,
+                    "probability": 0.9973209500312805
+                },
+                {
+                    "word": " Harry",
+                    "start": 3.48,
+                    "end": 3.84,
+                    "probability": 0.9155648946762085
+                },
+                {
+                    "word": " on",
+                    "start": 3.84,
+                    "end": 4.38,
+                    "probability": 0.9704462289810181
+                },
+                {
+                    "word": " this",
+                    "start": 4.38,
+                    "end": 4.68,
+                    "probability": 0.9991779923439026
+                },
+                {
+                    "word": " one.",
+                    "start": 4.68,
+                    "end": 5.1,
+                    "probability": 0.9973651766777039
+                },
+                {
+                    "word": " I",
+                    "start": 6.14,
+                    "end": 6.36,
+                    "probability": 0.9701045155525208
+                },
+                {
+                    "word": " think",
+                    "start": 6.36,
+                    "end": 6.52,
+                    "probability": 0.9912350177764893
+                },
+                {
+                    "word": " we",
+                    "start": 6.52,
+                    "end": 6.66,
+                    "probability": 0.9911198019981384
+                },
+                {
+                    "word": " should",
+                    "start": 6.66,
+                    "end": 6.98,
+                    "probability": 0.9981462955474854
+                },
+                {
+                    "word": " take",
+                    "start": 6.98,
+                    "end": 8.02,
+                    "probability": 0.9867588877677917
+                },
+                {
+                    "word": " a",
+                    "start": 8.02,
+                    "end": 8.54,
+                    "probability": 0.676239013671875
+                },
+                {
+                    "word": " full",
+                    "start": 8.54,
+                    "end": 9.14,
+                    "probability": 0.9465852379798889
+                },
+                {
+                    "word": " week",
+                    "start": 9.14,
+                    "end": 9.42,
+                    "probability": 0.9838582873344421
+                },
+                {
+                    "word": " and",
+                    "start": 9.42,
+                    "end": 9.6,
+                    "probability": 0.9253016710281372
+                },
+                {
+                    "word": " just",
+                    "start": 9.6,
+                    "end": 10.2,
+                    "probability": 0.968479573726654
+                },
+                {
+                    "word": " get",
+                    "start": 10.2,
+                    "end": 11.66,
+                    "probability": 0.9458339810371399
+                },
+                {
+                    "word": " it",
+                    "start": 11.66,
+                    "end": 12.1,
+                    "probability": 0.7728437781333923
+                },
+                {
+                    "word": " over",
+                    "start": 12.1,
+                    "end": 12.36,
+                    "probability": 0.9963422417640686
+                },
+                {
+                    "word": " with.",
+                    "start": 12.36,
+                    "end": 12.96,
+                    "probability": 0.9964020252227783
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 14.06,
+            "end": 22.88,
+            "text": " Even when contracting a company, it's so much work. We only talked about furniture up to this point, but to be totally honest,",
+            "tokens": [
+                51014,
+                2754,
+                562,
+                36095,
+                257,
+                2237,
+                11,
+                309,
+                311,
+                370,
+                709,
+                589,
+                13,
+                492,
+                787,
+                2825,
+                466,
+                15671,
+                493,
+                281,
+                341,
+                935,
+                11,
+                457,
+                281,
+                312,
+                3879,
+                3245,
+                11,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.21115243845972523,
+            "compression_ratio": 1.3780487804878048,
+            "no_speech_prob": 0.0008815623004920781,
+            "words": [
+                {
+                    "word": " Even",
+                    "start": 14.06,
+                    "end": 14.44,
+                    "probability": 0.9846424460411072
+                },
+                {
+                    "word": " when",
+                    "start": 14.44,
+                    "end": 14.88,
+                    "probability": 0.9949693083763123
+                },
+                {
+                    "word": " contracting",
+                    "start": 14.88,
+                    "end": 15.44,
+                    "probability": 0.9923925399780273
+                },
+                {
+                    "word": " a",
+                    "start": 15.44,
+                    "end": 15.78,
+                    "probability": 0.980837881565094
+                },
+                {
+                    "word": " company,",
+                    "start": 15.78,
+                    "end": 16.18,
+                    "probability": 0.9981866478919983
+                },
+                {
+                    "word": " it's",
+                    "start": 16.56,
+                    "end": 16.98,
+                    "probability": 0.972009539604187
+                },
+                {
+                    "word": " so",
+                    "start": 16.98,
+                    "end": 17.16,
+                    "probability": 0.9936461448669434
+                },
+                {
+                    "word": " much",
+                    "start": 17.16,
+                    "end": 17.36,
+                    "probability": 0.9996166229248047
+                },
+                {
+                    "word": " work.",
+                    "start": 17.36,
+                    "end": 17.82,
+                    "probability": 0.9986764788627625
+                },
+                {
+                    "word": " We",
+                    "start": 19.08,
+                    "end": 19.6,
+                    "probability": 0.8639987707138062
+                },
+                {
+                    "word": " only",
+                    "start": 19.6,
+                    "end": 19.86,
+                    "probability": 0.9834085702896118
+                },
+                {
+                    "word": " talked",
+                    "start": 19.86,
+                    "end": 20.04,
+                    "probability": 0.9025736451148987
+                },
+                {
+                    "word": " about",
+                    "start": 20.04,
+                    "end": 20.2,
+                    "probability": 0.9922316074371338
+                },
+                {
+                    "word": " furniture",
+                    "start": 20.2,
+                    "end": 20.64,
+                    "probability": 0.9983381032943726
+                },
+                {
+                    "word": " up",
+                    "start": 20.64,
+                    "end": 21.06,
+                    "probability": 0.9388609528541565
+                },
+                {
+                    "word": " to",
+                    "start": 21.06,
+                    "end": 21.28,
+                    "probability": 0.9911671280860901
+                },
+                {
+                    "word": " this",
+                    "start": 21.28,
+                    "end": 21.52,
+                    "probability": 0.9983503818511963
+                },
+                {
+                    "word": " point,",
+                    "start": 21.52,
+                    "end": 21.84,
+                    "probability": 0.999556839466095
+                },
+                {
+                    "word": " but",
+                    "start": 22.06,
+                    "end": 22.18,
+                    "probability": 0.7891598343849182
+                },
+                {
+                    "word": " to",
+                    "start": 22.18,
+                    "end": 22.32,
+                    "probability": 0.947170615196228
+                },
+                {
+                    "word": " be",
+                    "start": 22.32,
+                    "end": 22.46,
+                    "probability": 0.9982491731643677
+                },
+                {
+                    "word": " totally",
+                    "start": 22.46,
+                    "end": 22.6,
+                    "probability": 0.9678310751914978
+                },
+                {
+                    "word": " honest,",
+                    "start": 22.6,
+                    "end": 22.88,
+                    "probability": 0.9916014075279236
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

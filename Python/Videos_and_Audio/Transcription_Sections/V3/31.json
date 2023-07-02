@@ -1,0 +1,1220 @@
+{
+    "text": " Yeah, nice. I like the idea with the cook. Then let's get back to what Thomas just started, or wanted to start to talk about the general arrangement of the furniture in this room during the party. The last, it's quite packed at the moment, as you can see, and to be totally honest, the last parties were quite packed with other people, especially considering that the slope of the roof makes it hard to stand up in some parts of the room. So the available space is further reduced. And I think another thing we have to talk about is the arrangement of the doors. Behind this door, there's a living space. Behind this door, there's the kitchen. Behind this door, this door leads to the entrance. So all of that is not ideal as well. We have to be really careful how to arrange everything here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.42,
+            "end": 11.52,
+            "text": " Yeah, nice. I like the idea with the cook. Then let's get back to what Thomas just started,",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1481,
+                13,
+                286,
+                411,
+                264,
+                1558,
+                365,
+                264,
+                2543,
+                13,
+                1396,
+                718,
+                311,
+                483,
+                646,
+                281,
+                437,
+                8500,
+                445,
+                1409,
+                11,
+                50926
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30675767173229807,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.2267734855413437,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.42,
+                    "end": 2.02,
+                    "probability": 0.30611488223075867
+                },
+                {
+                    "word": " nice.",
+                    "start": 2.52,
+                    "end": 2.62,
+                    "probability": 0.6290217638015747
+                },
+                {
+                    "word": " I",
+                    "start": 3.52,
+                    "end": 3.92,
+                    "probability": 0.9748042821884155
+                },
+                {
+                    "word": " like",
+                    "start": 3.92,
+                    "end": 4.16,
+                    "probability": 0.9204376935958862
+                },
+                {
+                    "word": " the",
+                    "start": 4.16,
+                    "end": 4.34,
+                    "probability": 0.9800578355789185
+                },
+                {
+                    "word": " idea",
+                    "start": 4.34,
+                    "end": 4.64,
+                    "probability": 0.9935078620910645
+                },
+                {
+                    "word": " with",
+                    "start": 4.64,
+                    "end": 5.08,
+                    "probability": 0.8505769968032837
+                },
+                {
+                    "word": " the",
+                    "start": 5.08,
+                    "end": 5.3,
+                    "probability": 0.799045205116272
+                },
+                {
+                    "word": " cook.",
+                    "start": 5.3,
+                    "end": 5.48,
+                    "probability": 0.9324198961257935
+                },
+                {
+                    "word": " Then",
+                    "start": 7.02,
+                    "end": 7.54,
+                    "probability": 0.8674589991569519
+                },
+                {
+                    "word": " let's",
+                    "start": 7.54,
+                    "end": 7.96,
+                    "probability": 0.9204549491405487
+                },
+                {
+                    "word": " get",
+                    "start": 7.96,
+                    "end": 8.18,
+                    "probability": 0.9973506927490234
+                },
+                {
+                    "word": " back",
+                    "start": 8.18,
+                    "end": 8.36,
+                    "probability": 0.9986698627471924
+                },
+                {
+                    "word": " to",
+                    "start": 8.36,
+                    "end": 8.72,
+                    "probability": 0.9980167150497437
+                },
+                {
+                    "word": " what",
+                    "start": 8.72,
+                    "end": 9.04,
+                    "probability": 0.9893158674240112
+                },
+                {
+                    "word": " Thomas",
+                    "start": 9.04,
+                    "end": 9.42,
+                    "probability": 0.9604828953742981
+                },
+                {
+                    "word": " just",
+                    "start": 9.42,
+                    "end": 10.94,
+                    "probability": 0.9513277411460876
+                },
+                {
+                    "word": " started,",
+                    "start": 10.94,
+                    "end": 11.52,
+                    "probability": 0.5828790664672852
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 11.66,
+            "end": 16.5,
+            "text": " or wanted to start to talk about the general arrangement of the furniture in this room",
+            "tokens": [
+                50926,
+                420,
+                1415,
+                281,
+                722,
+                281,
+                751,
+                466,
+                264,
+                2674,
+                17620,
+                295,
+                264,
+                15671,
+                294,
+                341,
+                1808,
+                51204
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30675767173229807,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.2267734855413437,
+            "words": [
+                {
+                    "word": " or",
+                    "start": 11.66,
+                    "end": 11.76,
+                    "probability": 0.38862836360931396
+                },
+                {
+                    "word": " wanted",
+                    "start": 11.76,
+                    "end": 11.94,
+                    "probability": 0.5486857295036316
+                },
+                {
+                    "word": " to",
+                    "start": 11.94,
+                    "end": 12.2,
+                    "probability": 0.9962408542633057
+                },
+                {
+                    "word": " start",
+                    "start": 12.2,
+                    "end": 12.32,
+                    "probability": 0.9869911074638367
+                },
+                {
+                    "word": " to",
+                    "start": 12.32,
+                    "end": 12.48,
+                    "probability": 0.9150974750518799
+                },
+                {
+                    "word": " talk",
+                    "start": 12.48,
+                    "end": 12.64,
+                    "probability": 0.9988256096839905
+                },
+                {
+                    "word": " about",
+                    "start": 12.64,
+                    "end": 13.1,
+                    "probability": 0.9945281147956848
+                },
+                {
+                    "word": " the",
+                    "start": 13.1,
+                    "end": 14.24,
+                    "probability": 0.5854713916778564
+                },
+                {
+                    "word": " general",
+                    "start": 14.24,
+                    "end": 14.58,
+                    "probability": 0.9601240754127502
+                },
+                {
+                    "word": " arrangement",
+                    "start": 14.58,
+                    "end": 15.04,
+                    "probability": 0.9943432807922363
+                },
+                {
+                    "word": " of",
+                    "start": 15.04,
+                    "end": 15.26,
+                    "probability": 0.9970929622650146
+                },
+                {
+                    "word": " the",
+                    "start": 15.26,
+                    "end": 15.4,
+                    "probability": 0.9821311235427856
+                },
+                {
+                    "word": " furniture",
+                    "start": 15.4,
+                    "end": 15.74,
+                    "probability": 0.999488115310669
+                },
+                {
+                    "word": " in",
+                    "start": 15.74,
+                    "end": 16.04,
+                    "probability": 0.9836064577102661
+                },
+                {
+                    "word": " this",
+                    "start": 16.04,
+                    "end": 16.3,
+                    "probability": 0.9893754720687866
+                },
+                {
+                    "word": " room",
+                    "start": 16.3,
+                    "end": 16.5,
+                    "probability": 0.9919903874397278
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.5,
+            "end": 25.8,
+            "text": " during the party. The last, it's quite packed at the moment, as you can see, and to be totally",
+            "tokens": [
+                51204,
+                1830,
+                264,
+                3595,
+                13,
+                440,
+                1036,
+                11,
+                309,
+                311,
+                1596,
+                13265,
+                412,
+                264,
+                1623,
+                11,
+                382,
+                291,
+                393,
+                536,
+                11,
+                293,
+                281,
+                312,
+                3879,
+                51654
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30675767173229807,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.2267734855413437,
+            "words": [
+                {
+                    "word": " during",
+                    "start": 16.5,
+                    "end": 17.06,
+                    "probability": 0.8418669104576111
+                },
+                {
+                    "word": " the",
+                    "start": 17.06,
+                    "end": 17.36,
+                    "probability": 0.997960090637207
+                },
+                {
+                    "word": " party.",
+                    "start": 17.36,
+                    "end": 17.66,
+                    "probability": 0.9952705502510071
+                },
+                {
+                    "word": " The",
+                    "start": 19.58,
+                    "end": 19.68,
+                    "probability": 0.4380500316619873
+                },
+                {
+                    "word": " last,",
+                    "start": 19.68,
+                    "end": 20.04,
+                    "probability": 0.9903373718261719
+                },
+                {
+                    "word": " it's",
+                    "start": 20.48,
+                    "end": 21.14,
+                    "probability": 0.9949468374252319
+                },
+                {
+                    "word": " quite",
+                    "start": 21.14,
+                    "end": 21.48,
+                    "probability": 0.9926137924194336
+                },
+                {
+                    "word": " packed",
+                    "start": 21.48,
+                    "end": 21.74,
+                    "probability": 0.980518102645874
+                },
+                {
+                    "word": " at",
+                    "start": 21.74,
+                    "end": 21.94,
+                    "probability": 0.9938532114028931
+                },
+                {
+                    "word": " the",
+                    "start": 21.94,
+                    "end": 22.1,
+                    "probability": 0.9994708895683289
+                },
+                {
+                    "word": " moment,",
+                    "start": 22.1,
+                    "end": 22.56,
+                    "probability": 0.9994158744812012
+                },
+                {
+                    "word": " as",
+                    "start": 22.58,
+                    "end": 23.24,
+                    "probability": 0.9917721152305603
+                },
+                {
+                    "word": " you",
+                    "start": 23.24,
+                    "end": 23.42,
+                    "probability": 0.9992855191230774
+                },
+                {
+                    "word": " can",
+                    "start": 23.42,
+                    "end": 23.64,
+                    "probability": 0.9994822144508362
+                },
+                {
+                    "word": " see,",
+                    "start": 23.64,
+                    "end": 23.92,
+                    "probability": 0.999525785446167
+                },
+                {
+                    "word": " and",
+                    "start": 23.96,
+                    "end": 24.4,
+                    "probability": 0.9947124719619751
+                },
+                {
+                    "word": " to",
+                    "start": 24.4,
+                    "end": 24.78,
+                    "probability": 0.9603485465049744
+                },
+                {
+                    "word": " be",
+                    "start": 24.78,
+                    "end": 25.62,
+                    "probability": 0.9992345571517944
+                },
+                {
+                    "word": " totally",
+                    "start": 25.62,
+                    "end": 25.8,
+                    "probability": 0.9909176230430603
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 2580,
+            "start": 25.8,
+            "end": 34.76,
+            "text": " honest, the last parties were quite packed with other people, especially considering that the",
+            "tokens": [
+                50364,
+                3245,
+                11,
+                264,
+                1036,
+                8265,
+                645,
+                1596,
+                13265,
+                365,
+                661,
+                561,
+                11,
+                2318,
+                8079,
+                300,
+                264,
+                50798
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19608254730701447,
+            "compression_ratio": 1.5271739130434783,
+            "no_speech_prob": 0.26597926020622253,
+            "words": [
+                {
+                    "word": " honest,",
+                    "start": 25.8,
+                    "end": 26.08,
+                    "probability": 0.2907957434654236
+                },
+                {
+                    "word": " the",
+                    "start": 26.14,
+                    "end": 26.38,
+                    "probability": 0.9877086877822876
+                },
+                {
+                    "word": " last",
+                    "start": 26.38,
+                    "end": 26.64,
+                    "probability": 0.9983221888542175
+                },
+                {
+                    "word": " parties",
+                    "start": 26.64,
+                    "end": 26.94,
+                    "probability": 0.8889226913452148
+                },
+                {
+                    "word": " were",
+                    "start": 26.94,
+                    "end": 27.46,
+                    "probability": 0.6029582023620605
+                },
+                {
+                    "word": " quite",
+                    "start": 27.46,
+                    "end": 28.76,
+                    "probability": 0.23122063279151917
+                },
+                {
+                    "word": " packed",
+                    "start": 28.76,
+                    "end": 30.02,
+                    "probability": 0.8172253966331482
+                },
+                {
+                    "word": " with",
+                    "start": 30.02,
+                    "end": 31.48,
+                    "probability": 0.8890294432640076
+                },
+                {
+                    "word": " other",
+                    "start": 31.48,
+                    "end": 31.76,
+                    "probability": 0.8622658848762512
+                },
+                {
+                    "word": " people,",
+                    "start": 31.76,
+                    "end": 32.26,
+                    "probability": 0.9983096122741699
+                },
+                {
+                    "word": " especially",
+                    "start": 33.08,
+                    "end": 33.52,
+                    "probability": 0.9885815978050232
+                },
+                {
+                    "word": " considering",
+                    "start": 33.52,
+                    "end": 34.06,
+                    "probability": 0.9963094592094421
+                },
+                {
+                    "word": " that",
+                    "start": 34.06,
+                    "end": 34.44,
+                    "probability": 0.9811460971832275
+                },
+                {
+                    "word": " the",
+                    "start": 34.44,
+                    "end": 34.76,
+                    "probability": 0.9969303011894226
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2580,
+            "start": 34.76,
+            "end": 43.56,
+            "text": " slope of the roof makes it hard to stand up in some parts of the room. So the available space",
+            "tokens": [
+                50798,
+                13525,
+                295,
+                264,
+                8418,
+                1669,
+                309,
+                1152,
+                281,
+                1463,
+                493,
+                294,
+                512,
+                3166,
+                295,
+                264,
+                1808,
+                13,
+                407,
+                264,
+                2435,
+                1901,
+                51244
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19608254730701447,
+            "compression_ratio": 1.5271739130434783,
+            "no_speech_prob": 0.26597926020622253,
+            "words": [
+                {
+                    "word": " slope",
+                    "start": 34.76,
+                    "end": 34.96,
+                    "probability": 0.9875154495239258
+                },
+                {
+                    "word": " of",
+                    "start": 34.96,
+                    "end": 35.18,
+                    "probability": 0.9962561130523682
+                },
+                {
+                    "word": " the",
+                    "start": 35.18,
+                    "end": 35.34,
+                    "probability": 0.9980403780937195
+                },
+                {
+                    "word": " roof",
+                    "start": 35.34,
+                    "end": 35.62,
+                    "probability": 0.9932723641395569
+                },
+                {
+                    "word": " makes",
+                    "start": 35.62,
+                    "end": 36.5,
+                    "probability": 0.9890934228897095
+                },
+                {
+                    "word": " it",
+                    "start": 36.5,
+                    "end": 36.68,
+                    "probability": 0.9989452958106995
+                },
+                {
+                    "word": " hard",
+                    "start": 36.68,
+                    "end": 36.8,
+                    "probability": 0.9928920269012451
+                },
+                {
+                    "word": " to",
+                    "start": 36.8,
+                    "end": 36.92,
+                    "probability": 0.9992972612380981
+                },
+                {
+                    "word": " stand",
+                    "start": 36.92,
+                    "end": 37.1,
+                    "probability": 0.9883496761322021
+                },
+                {
+                    "word": " up",
+                    "start": 37.1,
+                    "end": 37.26,
+                    "probability": 0.9930737018585205
+                },
+                {
+                    "word": " in",
+                    "start": 37.26,
+                    "end": 37.76,
+                    "probability": 0.9628803730010986
+                },
+                {
+                    "word": " some",
+                    "start": 37.76,
+                    "end": 38.06,
+                    "probability": 0.9963420033454895
+                },
+                {
+                    "word": " parts",
+                    "start": 38.06,
+                    "end": 38.36,
+                    "probability": 0.9921046495437622
+                },
+                {
+                    "word": " of",
+                    "start": 38.36,
+                    "end": 38.54,
+                    "probability": 0.9896031022071838
+                },
+                {
+                    "word": " the",
+                    "start": 38.54,
+                    "end": 38.68,
+                    "probability": 0.9918261766433716
+                },
+                {
+                    "word": " room.",
+                    "start": 38.68,
+                    "end": 39.2,
+                    "probability": 0.8807322978973389
+                },
+                {
+                    "word": " So",
+                    "start": 40.92,
+                    "end": 40.94,
+                    "probability": 0.5736854076385498
+                },
+                {
+                    "word": " the",
+                    "start": 40.94,
+                    "end": 42.58,
+                    "probability": 0.8136416673660278
+                },
+                {
+                    "word": " available",
+                    "start": 42.58,
+                    "end": 43.02,
+                    "probability": 0.7847304344177246
+                },
+                {
+                    "word": " space",
+                    "start": 43.02,
+                    "end": 43.56,
+                    "probability": 0.9824861288070679
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2580,
+            "start": 43.56,
+            "end": 55.1,
+            "text": " is further reduced. And I think another thing we have to talk about is the arrangement of the",
+            "tokens": [
+                51244,
+                307,
+                3052,
+                9212,
+                13,
+                400,
+                286,
+                519,
+                1071,
+                551,
+                321,
+                362,
+                281,
+                751,
+                466,
+                307,
+                264,
+                17620,
+                295,
+                264,
+                51820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19608254730701447,
+            "compression_ratio": 1.5271739130434783,
+            "no_speech_prob": 0.26597926020622253,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 43.56,
+                    "end": 43.96,
+                    "probability": 0.9946388602256775
+                },
+                {
+                    "word": " further",
+                    "start": 43.96,
+                    "end": 44.22,
+                    "probability": 0.9947676658630371
+                },
+                {
+                    "word": " reduced.",
+                    "start": 44.22,
+                    "end": 45.0,
+                    "probability": 0.9968679547309875
+                },
+                {
+                    "word": " And",
+                    "start": 47.48,
+                    "end": 47.5,
+                    "probability": 0.329220175743103
+                },
+                {
+                    "word": " I",
+                    "start": 47.5,
+                    "end": 48.56,
+                    "probability": 0.9370489120483398
+                },
+                {
+                    "word": " think",
+                    "start": 48.56,
+                    "end": 49.02,
+                    "probability": 0.9994626641273499
+                },
+                {
+                    "word": " another",
+                    "start": 49.02,
+                    "end": 50.08,
+                    "probability": 0.9790557026863098
+                },
+                {
+                    "word": " thing",
+                    "start": 50.08,
+                    "end": 50.5,
+                    "probability": 0.9938198924064636
+                },
+                {
+                    "word": " we",
+                    "start": 50.5,
+                    "end": 50.62,
+                    "probability": 0.9852935671806335
+                },
+                {
+                    "word": " have",
+                    "start": 50.62,
+                    "end": 50.74,
+                    "probability": 0.9979349374771118
+                },
+                {
+                    "word": " to",
+                    "start": 50.74,
+                    "end": 50.84,
+                    "probability": 0.9996931552886963
+                },
+                {
+                    "word": " talk",
+                    "start": 50.84,
+                    "end": 51.04,
+                    "probability": 0.9992485642433167
+                },
+                {
+                    "word": " about",
+                    "start": 51.04,
+                    "end": 51.6,
+                    "probability": 0.9994538426399231
+                },
+                {
+                    "word": " is",
+                    "start": 51.6,
+                    "end": 52.56,
+                    "probability": 0.9781910181045532
+                },
+                {
+                    "word": " the",
+                    "start": 52.56,
+                    "end": 54.46,
+                    "probability": 0.6941460371017456
+                },
+                {
+                    "word": " arrangement",
+                    "start": 54.46,
+                    "end": 54.78,
+                    "probability": 0.9719968438148499
+                },
+                {
+                    "word": " of",
+                    "start": 54.78,
+                    "end": 54.94,
+                    "probability": 0.9964500665664673
+                },
+                {
+                    "word": " the",
+                    "start": 54.94,
+                    "end": 55.1,
+                    "probability": 0.9904781579971313
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 5510,
+            "start": 55.1,
+            "end": 63.16,
+            "text": " doors. Behind this door, there's a living space. Behind this door, there's the kitchen. Behind this",
+            "tokens": [
+                50364,
+                8077,
+                13,
+                20475,
+                341,
+                2853,
+                11,
+                456,
+                311,
+                257,
+                2647,
+                1901,
+                13,
+                20475,
+                341,
+                2853,
+                11,
+                456,
+                311,
+                264,
+                6525,
+                13,
+                20475,
+                341,
+                50758
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25199482089183367,
+            "compression_ratio": 1.673758865248227,
+            "no_speech_prob": 0.3253127634525299,
+            "words": [
+                {
+                    "word": " doors.",
+                    "start": 55.1,
+                    "end": 55.42,
+                    "probability": 0.014195720665156841
+                },
+                {
+                    "word": " Behind",
+                    "start": 56.04,
+                    "end": 56.48,
+                    "probability": 0.5340391993522644
+                },
+                {
+                    "word": " this",
+                    "start": 56.48,
+                    "end": 56.82,
+                    "probability": 0.9293045401573181
+                },
+                {
+                    "word": " door,",
+                    "start": 56.82,
+                    "end": 57.02,
+                    "probability": 0.9882120490074158
+                },
+                {
+                    "word": " there's",
+                    "start": 57.34,
+                    "end": 58.66,
+                    "probability": 0.9199791848659515
+                },
+                {
+                    "word": " a",
+                    "start": 58.66,
+                    "end": 58.78,
+                    "probability": 0.525697648525238
+                },
+                {
+                    "word": " living",
+                    "start": 58.78,
+                    "end": 58.94,
+                    "probability": 0.9939571619033813
+                },
+                {
+                    "word": " space.",
+                    "start": 58.94,
+                    "end": 59.44,
+                    "probability": 0.9989888072013855
+                },
+                {
+                    "word": " Behind",
+                    "start": 59.7,
+                    "end": 59.72,
+                    "probability": 0.9895235896110535
+                },
+                {
+                    "word": " this",
+                    "start": 59.72,
+                    "end": 60.08,
+                    "probability": 0.9691866636276245
+                },
+                {
+                    "word": " door,",
+                    "start": 60.08,
+                    "end": 60.32,
+                    "probability": 0.9455738067626953
+                },
+                {
+                    "word": " there's",
+                    "start": 60.56,
+                    "end": 61.38,
+                    "probability": 0.9138874709606171
+                },
+                {
+                    "word": " the",
+                    "start": 61.38,
+                    "end": 61.56,
+                    "probability": 0.855742871761322
+                },
+                {
+                    "word": " kitchen.",
+                    "start": 61.56,
+                    "end": 61.98,
+                    "probability": 0.9987523555755615
+                },
+                {
+                    "word": " Behind",
+                    "start": 62.66,
+                    "end": 62.7,
+                    "probability": 0.9713954925537109
+                },
+                {
+                    "word": " this",
+                    "start": 62.7,
+                    "end": 63.16,
+                    "probability": 0.9829361438751221
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 5510,
+            "start": 63.16,
+            "end": 76.12,
+            "text": " door, this door leads to the entrance. So all of that is not ideal as well. We have to be really",
+            "tokens": [
+                50758,
+                2853,
+                11,
+                341,
+                2853,
+                6689,
+                281,
+                264,
+                12014,
+                13,
+                407,
+                439,
+                295,
+                300,
+                307,
+                406,
+                7157,
+                382,
+                731,
+                13,
+                492,
+                362,
+                281,
+                312,
+                534,
+                51416
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25199482089183367,
+            "compression_ratio": 1.673758865248227,
+            "no_speech_prob": 0.3253127634525299,
+            "words": [
+                {
+                    "word": " door,",
+                    "start": 63.16,
+                    "end": 63.62,
+                    "probability": 0.9815436601638794
+                },
+                {
+                    "word": " this",
+                    "start": 63.84,
+                    "end": 64.14,
+                    "probability": 0.815280020236969
+                },
+                {
+                    "word": " door",
+                    "start": 64.14,
+                    "end": 64.44,
+                    "probability": 0.9621208906173706
+                },
+                {
+                    "word": " leads",
+                    "start": 64.44,
+                    "end": 64.7,
+                    "probability": 0.9699425101280212
+                },
+                {
+                    "word": " to",
+                    "start": 64.7,
+                    "end": 65.28,
+                    "probability": 0.9981377124786377
+                },
+                {
+                    "word": " the",
+                    "start": 65.28,
+                    "end": 66.42,
+                    "probability": 0.9986059069633484
+                },
+                {
+                    "word": " entrance.",
+                    "start": 66.42,
+                    "end": 66.92,
+                    "probability": 0.9929643869400024
+                },
+                {
+                    "word": " So",
+                    "start": 68.42,
+                    "end": 68.44,
+                    "probability": 0.31200170516967773
+                },
+                {
+                    "word": " all",
+                    "start": 68.44,
+                    "end": 69.32,
+                    "probability": 0.6948557496070862
+                },
+                {
+                    "word": " of",
+                    "start": 69.32,
+                    "end": 69.44,
+                    "probability": 0.9901406168937683
+                },
+                {
+                    "word": " that",
+                    "start": 69.44,
+                    "end": 69.54,
+                    "probability": 0.9960407018661499
+                },
+                {
+                    "word": " is",
+                    "start": 69.54,
+                    "end": 69.74,
+                    "probability": 0.988021194934845
+                },
+                {
+                    "word": " not",
+                    "start": 69.74,
+                    "end": 69.92,
+                    "probability": 0.995654821395874
+                },
+                {
+                    "word": " ideal",
+                    "start": 69.92,
+                    "end": 70.38,
+                    "probability": 0.9015989303588867
+                },
+                {
+                    "word": " as",
+                    "start": 70.38,
+                    "end": 70.84,
+                    "probability": 0.9170569777488708
+                },
+                {
+                    "word": " well.",
+                    "start": 70.84,
+                    "end": 71.18,
+                    "probability": 0.9993556141853333
+                },
+                {
+                    "word": " We",
+                    "start": 72.28,
+                    "end": 73.38,
+                    "probability": 0.43583568930625916
+                },
+                {
+                    "word": " have",
+                    "start": 73.38,
+                    "end": 73.68,
+                    "probability": 0.9603213667869568
+                },
+                {
+                    "word": " to",
+                    "start": 73.68,
+                    "end": 73.82,
+                    "probability": 0.9951158761978149
+                },
+                {
+                    "word": " be",
+                    "start": 73.82,
+                    "end": 74.0,
+                    "probability": 0.936087429523468
+                },
+                {
+                    "word": " really",
+                    "start": 74.0,
+                    "end": 76.12,
+                    "probability": 0.5368322730064392
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 5510,
+            "start": 76.12,
+            "end": 78.42,
+            "text": " careful how to arrange everything here.",
+            "tokens": [
+                51416,
+                5026,
+                577,
+                281,
+                9424,
+                1203,
+                510,
+                13,
+                51530
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25199482089183367,
+            "compression_ratio": 1.673758865248227,
+            "no_speech_prob": 0.3253127634525299,
+            "words": [
+                {
+                    "word": " careful",
+                    "start": 76.12,
+                    "end": 76.62,
+                    "probability": 0.9931879043579102
+                },
+                {
+                    "word": " how",
+                    "start": 76.62,
+                    "end": 77.38,
+                    "probability": 0.8796194791793823
+                },
+                {
+                    "word": " to",
+                    "start": 77.38,
+                    "end": 77.64,
+                    "probability": 0.9978583455085754
+                },
+                {
+                    "word": " arrange",
+                    "start": 77.64,
+                    "end": 77.9,
+                    "probability": 0.9970032572746277
+                },
+                {
+                    "word": " everything",
+                    "start": 77.9,
+                    "end": 78.22,
+                    "probability": 0.991532027721405
+                },
+                {
+                    "word": " here.",
+                    "start": 78.22,
+                    "end": 78.42,
+                    "probability": 0.9616010785102844
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

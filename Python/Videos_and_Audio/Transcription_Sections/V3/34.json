@@ -1,0 +1,47 @@
+{
+    "text": " Yeah, I'm sorry.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7,
+            "end": 1.48,
+            "text": " Yeah, I'm sorry.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                478,
+                2597,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7601142989264594,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.32738420367240906,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.7,
+                    "end": 1.02,
+                    "probability": 0.2622717022895813
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.08,
+                    "end": 1.34,
+                    "probability": 0.7342000305652618
+                },
+                {
+                    "word": " sorry.",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.5324711203575134
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

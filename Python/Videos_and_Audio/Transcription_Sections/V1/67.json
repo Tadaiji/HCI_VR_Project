@@ -1,0 +1,179 @@
+{
+    "text": " won't be possible and yeah after work if we do this gradually after work I think this would not do us good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 11.44,
+            "text": " won't be possible and yeah after work if we do this gradually after work I think this would not do us good.",
+            "tokens": [
+                50364,
+                1582,
+                380,
+                312,
+                1944,
+                293,
+                1338,
+                934,
+                589,
+                498,
+                321,
+                360,
+                341,
+                13145,
+                934,
+                589,
+                286,
+                519,
+                341,
+                576,
+                406,
+                360,
+                505,
+                665,
+                13,
+                50936
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24449005833378545,
+            "compression_ratio": 1.2298850574712643,
+            "no_speech_prob": 0.039184242486953735,
+            "words": [
+                {
+                    "word": " won't",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6447384357452393
+                },
+                {
+                    "word": " be",
+                    "start": 0.4,
+                    "end": 0.58,
+                    "probability": 0.9983181953430176
+                },
+                {
+                    "word": " possible",
+                    "start": 0.58,
+                    "end": 1.04,
+                    "probability": 0.9978165626525879
+                },
+                {
+                    "word": " and",
+                    "start": 1.04,
+                    "end": 2.54,
+                    "probability": 0.527061402797699
+                },
+                {
+                    "word": " yeah",
+                    "start": 2.54,
+                    "end": 3.04,
+                    "probability": 0.5570827722549438
+                },
+                {
+                    "word": " after",
+                    "start": 3.04,
+                    "end": 4.2,
+                    "probability": 0.6207506060600281
+                },
+                {
+                    "word": " work",
+                    "start": 4.2,
+                    "end": 4.74,
+                    "probability": 0.9818028807640076
+                },
+                {
+                    "word": " if",
+                    "start": 4.74,
+                    "end": 5.06,
+                    "probability": 0.7807323336601257
+                },
+                {
+                    "word": " we",
+                    "start": 5.06,
+                    "end": 5.2,
+                    "probability": 0.9941202998161316
+                },
+                {
+                    "word": " do",
+                    "start": 5.2,
+                    "end": 5.32,
+                    "probability": 0.9970422387123108
+                },
+                {
+                    "word": " this",
+                    "start": 5.32,
+                    "end": 5.56,
+                    "probability": 0.9890828132629395
+                },
+                {
+                    "word": " gradually",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.9799090027809143
+                },
+                {
+                    "word": " after",
+                    "start": 6.02,
+                    "end": 6.62,
+                    "probability": 0.948560357093811
+                },
+                {
+                    "word": " work",
+                    "start": 6.62,
+                    "end": 6.9,
+                    "probability": 0.9940401315689087
+                },
+                {
+                    "word": " I",
+                    "start": 6.9,
+                    "end": 7.14,
+                    "probability": 0.6598425507545471
+                },
+                {
+                    "word": " think",
+                    "start": 7.14,
+                    "end": 7.68,
+                    "probability": 0.9990835189819336
+                },
+                {
+                    "word": " this",
+                    "start": 7.68,
+                    "end": 9.48,
+                    "probability": 0.9722679257392883
+                },
+                {
+                    "word": " would",
+                    "start": 9.48,
+                    "end": 9.92,
+                    "probability": 0.9955109357833862
+                },
+                {
+                    "word": " not",
+                    "start": 9.92,
+                    "end": 10.42,
+                    "probability": 0.9978253841400146
+                },
+                {
+                    "word": " do",
+                    "start": 10.42,
+                    "end": 10.82,
+                    "probability": 0.9598649144172668
+                },
+                {
+                    "word": " us",
+                    "start": 10.82,
+                    "end": 11.24,
+                    "probability": 0.987981379032135
+                },
+                {
+                    "word": " good.",
+                    "start": 11.24,
+                    "end": 11.44,
+                    "probability": 0.9967977404594421
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

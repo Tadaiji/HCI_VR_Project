@@ -1,0 +1,117 @@
+{
+    "text": " else. I think you have some time you will... Yes I think so.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.16,
+            "text": " else. I think you have some time you will... Yes I think so.",
+            "tokens": [
+                50364,
+                1646,
+                13,
+                286,
+                519,
+                291,
+                362,
+                512,
+                565,
+                291,
+                486,
+                485,
+                1079,
+                286,
+                519,
+                370,
+                13,
+                50604
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5251449785734478,
+            "compression_ratio": 1.0526315789473684,
+            "no_speech_prob": 0.38372790813446045,
+            "words": [
+                {
+                    "word": " else.",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.7822108864784241
+                },
+                {
+                    "word": " I",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.5819048881530762
+                },
+                {
+                    "word": " think",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.9964136481285095
+                },
+                {
+                    "word": " you",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.8090176582336426
+                },
+                {
+                    "word": " have",
+                    "start": 1.74,
+                    "end": 1.86,
+                    "probability": 0.9166315793991089
+                },
+                {
+                    "word": " some",
+                    "start": 1.86,
+                    "end": 2.14,
+                    "probability": 0.9929138422012329
+                },
+                {
+                    "word": " time",
+                    "start": 2.14,
+                    "end": 2.42,
+                    "probability": 0.9983439445495605
+                },
+                {
+                    "word": " you",
+                    "start": 2.42,
+                    "end": 2.58,
+                    "probability": 0.4614180028438568
+                },
+                {
+                    "word": " will...",
+                    "start": 2.58,
+                    "end": 3.14,
+                    "probability": 0.6543587744235992
+                },
+                {
+                    "word": " Yes",
+                    "start": 3.14,
+                    "end": 3.6,
+                    "probability": 0.44427067041397095
+                },
+                {
+                    "word": " I",
+                    "start": 3.6,
+                    "end": 3.8,
+                    "probability": 0.3342326581478119
+                },
+                {
+                    "word": " think",
+                    "start": 3.8,
+                    "end": 3.9,
+                    "probability": 0.8384236693382263
+                },
+                {
+                    "word": " so.",
+                    "start": 3.9,
+                    "end": 4.16,
+                    "probability": 0.6292878985404968
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,328 @@
+{
+    "text": " Yeah, maybe they also can help us with the installation of the floor and ripping out. But if we are ripping out the floor, we also need to move the furniture. So what do we do with that?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 6.54,
+            "text": " Yeah, maybe they also can help us with the installation of the floor and ripping out.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1310,
+                436,
+                611,
+                393,
+                854,
+                505,
+                365,
+                264,
+                13260,
+                295,
+                264,
+                4123,
+                293,
+                38776,
+                484,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30998403549194337,
+            "compression_ratio": 1.4307692307692308,
+            "no_speech_prob": 0.03408163785934448,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.28,
+                    "end": 0.86,
+                    "probability": 0.23242183029651642
+                },
+                {
+                    "word": " maybe",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.9265742301940918
+                },
+                {
+                    "word": " they",
+                    "start": 1.3,
+                    "end": 1.9,
+                    "probability": 0.8772295713424683
+                },
+                {
+                    "word": " also",
+                    "start": 1.9,
+                    "end": 2.24,
+                    "probability": 0.710983395576477
+                },
+                {
+                    "word": " can",
+                    "start": 2.24,
+                    "end": 2.46,
+                    "probability": 0.9521934390068054
+                },
+                {
+                    "word": " help",
+                    "start": 2.46,
+                    "end": 2.64,
+                    "probability": 0.9918444752693176
+                },
+                {
+                    "word": " us",
+                    "start": 2.64,
+                    "end": 2.88,
+                    "probability": 0.9674526453018188
+                },
+                {
+                    "word": " with",
+                    "start": 2.88,
+                    "end": 3.28,
+                    "probability": 0.608847439289093
+                },
+                {
+                    "word": " the",
+                    "start": 3.28,
+                    "end": 4.12,
+                    "probability": 0.8283442258834839
+                },
+                {
+                    "word": " installation",
+                    "start": 4.12,
+                    "end": 4.62,
+                    "probability": 0.5615513324737549
+                },
+                {
+                    "word": " of",
+                    "start": 4.62,
+                    "end": 4.92,
+                    "probability": 0.9662608504295349
+                },
+                {
+                    "word": " the",
+                    "start": 4.92,
+                    "end": 5.04,
+                    "probability": 0.9886136054992676
+                },
+                {
+                    "word": " floor",
+                    "start": 5.04,
+                    "end": 5.26,
+                    "probability": 0.9476237297058105
+                },
+                {
+                    "word": " and",
+                    "start": 5.26,
+                    "end": 5.62,
+                    "probability": 0.5522825121879578
+                },
+                {
+                    "word": " ripping",
+                    "start": 5.62,
+                    "end": 6.06,
+                    "probability": 0.42952075600624084
+                },
+                {
+                    "word": " out.",
+                    "start": 6.06,
+                    "end": 6.54,
+                    "probability": 0.6757345795631409
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.44,
+            "end": 13.28,
+            "text": " But if we are ripping out the floor, we also need to move the furniture.",
+            "tokens": [
+                50714,
+                583,
+                498,
+                321,
+                366,
+                38776,
+                484,
+                264,
+                4123,
+                11,
+                321,
+                611,
+                643,
+                281,
+                1286,
+                264,
+                15671,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30998403549194337,
+            "compression_ratio": 1.4307692307692308,
+            "no_speech_prob": 0.03408163785934448,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 8.44,
+                    "end": 8.74,
+                    "probability": 0.8334676623344421
+                },
+                {
+                    "word": " if",
+                    "start": 8.74,
+                    "end": 9.34,
+                    "probability": 0.8110477924346924
+                },
+                {
+                    "word": " we",
+                    "start": 9.34,
+                    "end": 9.66,
+                    "probability": 0.9926139116287231
+                },
+                {
+                    "word": " are",
+                    "start": 9.66,
+                    "end": 10.46,
+                    "probability": 0.9363786578178406
+                },
+                {
+                    "word": " ripping",
+                    "start": 10.46,
+                    "end": 10.74,
+                    "probability": 0.9874193072319031
+                },
+                {
+                    "word": " out",
+                    "start": 10.74,
+                    "end": 10.96,
+                    "probability": 0.9735264778137207
+                },
+                {
+                    "word": " the",
+                    "start": 10.96,
+                    "end": 11.14,
+                    "probability": 0.9869816899299622
+                },
+                {
+                    "word": " floor,",
+                    "start": 11.14,
+                    "end": 11.38,
+                    "probability": 0.9874449968338013
+                },
+                {
+                    "word": " we",
+                    "start": 12.04,
+                    "end": 12.06,
+                    "probability": 0.9741076827049255
+                },
+                {
+                    "word": " also",
+                    "start": 12.06,
+                    "end": 12.32,
+                    "probability": 0.9494116306304932
+                },
+                {
+                    "word": " need",
+                    "start": 12.32,
+                    "end": 12.52,
+                    "probability": 0.9857365489006042
+                },
+                {
+                    "word": " to",
+                    "start": 12.52,
+                    "end": 12.66,
+                    "probability": 0.9967625141143799
+                },
+                {
+                    "word": " move",
+                    "start": 12.66,
+                    "end": 12.8,
+                    "probability": 0.8704936504364014
+                },
+                {
+                    "word": " the",
+                    "start": 12.8,
+                    "end": 12.96,
+                    "probability": 0.9856406450271606
+                },
+                {
+                    "word": " furniture.",
+                    "start": 12.96,
+                    "end": 13.28,
+                    "probability": 0.9937532544136047
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.96,
+            "end": 15.46,
+            "text": " So what do we do with that?",
+            "tokens": [
+                51064,
+                407,
+                437,
+                360,
+                321,
+                360,
+                365,
+                300,
+                30,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.30998403549194337,
+            "compression_ratio": 1.4307692307692308,
+            "no_speech_prob": 0.03408163785934448,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 13.96,
+                    "end": 14.42,
+                    "probability": 0.9188238382339478
+                },
+                {
+                    "word": " what",
+                    "start": 14.42,
+                    "end": 14.74,
+                    "probability": 0.7563510537147522
+                },
+                {
+                    "word": " do",
+                    "start": 14.74,
+                    "end": 14.88,
+                    "probability": 0.965047299861908
+                },
+                {
+                    "word": " we",
+                    "start": 14.88,
+                    "end": 14.98,
+                    "probability": 0.9925417900085449
+                },
+                {
+                    "word": " do",
+                    "start": 14.98,
+                    "end": 15.1,
+                    "probability": 0.9953404664993286
+                },
+                {
+                    "word": " with",
+                    "start": 15.1,
+                    "end": 15.3,
+                    "probability": 0.9852191209793091
+                },
+                {
+                    "word": " that?",
+                    "start": 15.3,
+                    "end": 15.46,
+                    "probability": 0.9775567650794983
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

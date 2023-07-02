@@ -1,0 +1,641 @@
+{
+    "text": " Well, I would suggest you sell the old furniture first. That would be more essential. So by selling you can get some money as well. So you can make your choice standard a little bit high as well. And there is also some furniture lying in the basement. And also there are yeah, you know, the basement got some stuff from me as well. But yeah, this basement stuff you need to sell. This is an old",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.68,
+            "text": " Well, I would suggest you sell the old furniture first. That would be more essential.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                286,
+                576,
+                3402,
+                291,
+                3607,
+                264,
+                1331,
+                15671,
+                700,
+                13,
+                663,
+                576,
+                312,
+                544,
+                7115,
+                13,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23281900272812955,
+            "compression_ratio": 1.705,
+            "no_speech_prob": 0.0005084584699943662,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.6314603090286255
+                },
+                {
+                    "word": " I",
+                    "start": 0.66,
+                    "end": 0.66,
+                    "probability": 0.9110499620437622
+                },
+                {
+                    "word": " would",
+                    "start": 0.66,
+                    "end": 0.94,
+                    "probability": 0.9821715950965881
+                },
+                {
+                    "word": " suggest",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.995660126209259
+                },
+                {
+                    "word": " you",
+                    "start": 1.44,
+                    "end": 2.28,
+                    "probability": 0.538467526435852
+                },
+                {
+                    "word": " sell",
+                    "start": 2.28,
+                    "end": 2.64,
+                    "probability": 0.9627588987350464
+                },
+                {
+                    "word": " the",
+                    "start": 2.64,
+                    "end": 2.94,
+                    "probability": 0.9808823466300964
+                },
+                {
+                    "word": " old",
+                    "start": 2.94,
+                    "end": 3.16,
+                    "probability": 0.9935948252677917
+                },
+                {
+                    "word": " furniture",
+                    "start": 3.16,
+                    "end": 3.58,
+                    "probability": 0.9922628402709961
+                },
+                {
+                    "word": " first.",
+                    "start": 3.58,
+                    "end": 3.98,
+                    "probability": 0.9876474142074585
+                },
+                {
+                    "word": " That",
+                    "start": 4.3,
+                    "end": 4.52,
+                    "probability": 0.9457989931106567
+                },
+                {
+                    "word": " would",
+                    "start": 4.52,
+                    "end": 4.78,
+                    "probability": 0.9822871088981628
+                },
+                {
+                    "word": " be",
+                    "start": 4.78,
+                    "end": 4.94,
+                    "probability": 0.9985672235488892
+                },
+                {
+                    "word": " more",
+                    "start": 4.94,
+                    "end": 5.22,
+                    "probability": 0.9973672032356262
+                },
+                {
+                    "word": " essential.",
+                    "start": 5.22,
+                    "end": 5.68,
+                    "probability": 0.9629860520362854
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.38,
+            "end": 11.22,
+            "text": " So by selling you can get some money as well. So you can make your choice",
+            "tokens": [
+                50672,
+                407,
+                538,
+                6511,
+                291,
+                393,
+                483,
+                512,
+                1460,
+                382,
+                731,
+                13,
+                407,
+                291,
+                393,
+                652,
+                428,
+                3922,
+                50900
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23281900272812955,
+            "compression_ratio": 1.705,
+            "no_speech_prob": 0.0005084584699943662,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.38,
+                    "end": 6.62,
+                    "probability": 0.9314709901809692
+                },
+                {
+                    "word": " by",
+                    "start": 6.62,
+                    "end": 6.86,
+                    "probability": 0.8649601936340332
+                },
+                {
+                    "word": " selling",
+                    "start": 6.86,
+                    "end": 7.1,
+                    "probability": 0.994131863117218
+                },
+                {
+                    "word": " you",
+                    "start": 7.1,
+                    "end": 7.26,
+                    "probability": 0.762529194355011
+                },
+                {
+                    "word": " can",
+                    "start": 7.26,
+                    "end": 7.46,
+                    "probability": 0.9917391538619995
+                },
+                {
+                    "word": " get",
+                    "start": 7.46,
+                    "end": 7.64,
+                    "probability": 0.9965356588363647
+                },
+                {
+                    "word": " some",
+                    "start": 7.64,
+                    "end": 7.9,
+                    "probability": 0.99638831615448
+                },
+                {
+                    "word": " money",
+                    "start": 7.9,
+                    "end": 8.24,
+                    "probability": 0.9978930354118347
+                },
+                {
+                    "word": " as",
+                    "start": 8.24,
+                    "end": 8.48,
+                    "probability": 0.9065139293670654
+                },
+                {
+                    "word": " well.",
+                    "start": 8.48,
+                    "end": 8.74,
+                    "probability": 0.996216356754303
+                },
+                {
+                    "word": " So",
+                    "start": 8.74,
+                    "end": 9.04,
+                    "probability": 0.9272136092185974
+                },
+                {
+                    "word": " you",
+                    "start": 9.04,
+                    "end": 9.2,
+                    "probability": 0.976794421672821
+                },
+                {
+                    "word": " can",
+                    "start": 9.2,
+                    "end": 9.54,
+                    "probability": 0.9985013008117676
+                },
+                {
+                    "word": " make",
+                    "start": 9.54,
+                    "end": 9.98,
+                    "probability": 0.9972255229949951
+                },
+                {
+                    "word": " your",
+                    "start": 9.98,
+                    "end": 10.52,
+                    "probability": 0.996253490447998
+                },
+                {
+                    "word": " choice",
+                    "start": 10.52,
+                    "end": 11.22,
+                    "probability": 0.9960856437683105
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.22,
+            "end": 17.48,
+            "text": " standard a little bit high as well. And there is also some furniture lying in the basement.",
+            "tokens": [
+                50932,
+                3832,
+                257,
+                707,
+                857,
+                1090,
+                382,
+                731,
+                13,
+                400,
+                456,
+                307,
+                611,
+                512,
+                15671,
+                8493,
+                294,
+                264,
+                16893,
+                13,
+                51236
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23281900272812955,
+            "compression_ratio": 1.705,
+            "no_speech_prob": 0.0005084584699943662,
+            "words": [
+                {
+                    "word": " standard",
+                    "start": 11.22,
+                    "end": 11.9,
+                    "probability": 0.5419099926948547
+                },
+                {
+                    "word": " a",
+                    "start": 11.9,
+                    "end": 12.14,
+                    "probability": 0.31793779134750366
+                },
+                {
+                    "word": " little",
+                    "start": 12.14,
+                    "end": 12.24,
+                    "probability": 0.9724519848823547
+                },
+                {
+                    "word": " bit",
+                    "start": 12.24,
+                    "end": 12.46,
+                    "probability": 0.9923089742660522
+                },
+                {
+                    "word": " high",
+                    "start": 12.46,
+                    "end": 12.64,
+                    "probability": 0.5744151473045349
+                },
+                {
+                    "word": " as",
+                    "start": 12.64,
+                    "end": 12.9,
+                    "probability": 0.9800595641136169
+                },
+                {
+                    "word": " well.",
+                    "start": 12.9,
+                    "end": 13.18,
+                    "probability": 0.9975627660751343
+                },
+                {
+                    "word": " And",
+                    "start": 13.64,
+                    "end": 14.44,
+                    "probability": 0.9308507442474365
+                },
+                {
+                    "word": " there",
+                    "start": 14.44,
+                    "end": 14.78,
+                    "probability": 0.9009676575660706
+                },
+                {
+                    "word": " is",
+                    "start": 14.78,
+                    "end": 14.96,
+                    "probability": 0.9268617630004883
+                },
+                {
+                    "word": " also",
+                    "start": 14.96,
+                    "end": 15.28,
+                    "probability": 0.9987156391143799
+                },
+                {
+                    "word": " some",
+                    "start": 15.28,
+                    "end": 15.62,
+                    "probability": 0.999083399772644
+                },
+                {
+                    "word": " furniture",
+                    "start": 15.62,
+                    "end": 16.2,
+                    "probability": 0.9715231657028198
+                },
+                {
+                    "word": " lying",
+                    "start": 16.2,
+                    "end": 16.64,
+                    "probability": 0.7712215185165405
+                },
+                {
+                    "word": " in",
+                    "start": 16.64,
+                    "end": 16.96,
+                    "probability": 0.9983441829681396
+                },
+                {
+                    "word": " the",
+                    "start": 16.96,
+                    "end": 17.14,
+                    "probability": 0.9989156723022461
+                },
+                {
+                    "word": " basement.",
+                    "start": 17.14,
+                    "end": 17.48,
+                    "probability": 0.9981740713119507
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.64,
+            "end": 25.1,
+            "text": " And also there are yeah, you know, the basement got some stuff from me as well. But yeah,",
+            "tokens": [
+                51272,
+                400,
+                611,
+                456,
+                366,
+                1338,
+                11,
+                291,
+                458,
+                11,
+                264,
+                16893,
+                658,
+                512,
+                1507,
+                490,
+                385,
+                382,
+                731,
+                13,
+                583,
+                1338,
+                11,
+                51612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23281900272812955,
+            "compression_ratio": 1.705,
+            "no_speech_prob": 0.0005084584699943662,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 18.64,
+                    "end": 18.64,
+                    "probability": 0.9425551295280457
+                },
+                {
+                    "word": " also",
+                    "start": 18.64,
+                    "end": 19.16,
+                    "probability": 0.9821929931640625
+                },
+                {
+                    "word": " there",
+                    "start": 19.16,
+                    "end": 19.46,
+                    "probability": 0.8273255825042725
+                },
+                {
+                    "word": " are",
+                    "start": 19.46,
+                    "end": 20.2,
+                    "probability": 0.9714287519454956
+                },
+                {
+                    "word": " yeah,",
+                    "start": 20.2,
+                    "end": 20.52,
+                    "probability": 0.3064109683036804
+                },
+                {
+                    "word": " you",
+                    "start": 20.68,
+                    "end": 20.7,
+                    "probability": 0.2019704133272171
+                },
+                {
+                    "word": " know,",
+                    "start": 20.7,
+                    "end": 21.06,
+                    "probability": 0.9785680174827576
+                },
+                {
+                    "word": " the",
+                    "start": 21.88,
+                    "end": 21.9,
+                    "probability": 0.5940916538238525
+                },
+                {
+                    "word": " basement",
+                    "start": 21.9,
+                    "end": 22.22,
+                    "probability": 0.9783731698989868
+                },
+                {
+                    "word": " got",
+                    "start": 22.22,
+                    "end": 22.46,
+                    "probability": 0.8111820220947266
+                },
+                {
+                    "word": " some",
+                    "start": 22.46,
+                    "end": 22.72,
+                    "probability": 0.9964274764060974
+                },
+                {
+                    "word": " stuff",
+                    "start": 22.72,
+                    "end": 22.98,
+                    "probability": 0.9970132112503052
+                },
+                {
+                    "word": " from",
+                    "start": 22.98,
+                    "end": 23.5,
+                    "probability": 0.9189642667770386
+                },
+                {
+                    "word": " me",
+                    "start": 23.5,
+                    "end": 23.82,
+                    "probability": 0.9937970638275146
+                },
+                {
+                    "word": " as",
+                    "start": 23.82,
+                    "end": 24.02,
+                    "probability": 0.9940781593322754
+                },
+                {
+                    "word": " well.",
+                    "start": 24.02,
+                    "end": 24.2,
+                    "probability": 0.996654748916626
+                },
+                {
+                    "word": " But",
+                    "start": 24.7,
+                    "end": 24.7,
+                    "probability": 0.9775395393371582
+                },
+                {
+                    "word": " yeah,",
+                    "start": 24.7,
+                    "end": 25.1,
+                    "probability": 0.9307811260223389
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2510,
+            "start": 25.18,
+            "end": 27.96,
+            "text": " this basement stuff you need to sell. This is an old",
+            "tokens": [
+                50368,
+                341,
+                16893,
+                1507,
+                291,
+                643,
+                281,
+                3607,
+                13,
+                639,
+                307,
+                364,
+                1331,
+                50516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5610909144083659,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.28900566697120667,
+            "words": [
+                {
+                    "word": " this",
+                    "start": 25.18,
+                    "end": 25.56,
+                    "probability": 0.11323600262403488
+                },
+                {
+                    "word": " basement",
+                    "start": 25.56,
+                    "end": 25.88,
+                    "probability": 0.00900309719145298
+                },
+                {
+                    "word": " stuff",
+                    "start": 25.88,
+                    "end": 26.16,
+                    "probability": 0.41598519682884216
+                },
+                {
+                    "word": " you",
+                    "start": 26.16,
+                    "end": 26.32,
+                    "probability": 0.5091559290885925
+                },
+                {
+                    "word": " need",
+                    "start": 26.32,
+                    "end": 26.42,
+                    "probability": 0.9790584444999695
+                },
+                {
+                    "word": " to",
+                    "start": 26.42,
+                    "end": 26.6,
+                    "probability": 0.9796875715255737
+                },
+                {
+                    "word": " sell.",
+                    "start": 26.6,
+                    "end": 26.92,
+                    "probability": 0.5610196590423584
+                },
+                {
+                    "word": " This",
+                    "start": 27.34,
+                    "end": 27.46,
+                    "probability": 0.6583423018455505
+                },
+                {
+                    "word": " is",
+                    "start": 27.46,
+                    "end": 27.6,
+                    "probability": 0.9864962697029114
+                },
+                {
+                    "word": " an",
+                    "start": 27.6,
+                    "end": 27.76,
+                    "probability": 0.4653468132019043
+                },
+                {
+                    "word": " old",
+                    "start": 27.76,
+                    "end": 27.96,
+                    "probability": 0.9974046349525452
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

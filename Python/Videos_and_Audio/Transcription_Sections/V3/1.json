@@ -1,0 +1,44 @@
+{
+    "text": " Robert and Thomas",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.7,
+            "text": " Robert and Thomas",
+            "tokens": [
+                50364,
+                7977,
+                293,
+                8500,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47922412554423016,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.9397181272506714,
+            "words": [
+                {
+                    "word": " Robert",
+                    "start": 0.02,
+                    "end": 0.38,
+                    "probability": 0.5293867588043213
+                },
+                {
+                    "word": " and",
+                    "start": 0.38,
+                    "end": 0.56,
+                    "probability": 0.9488484859466553
+                },
+                {
+                    "word": " Thomas",
+                    "start": 0.56,
+                    "end": 0.7,
+                    "probability": 0.9592466354370117
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

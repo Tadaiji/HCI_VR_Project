@@ -1,0 +1,166 @@
+{
+    "text": " Yeah, that sounds good. Good idea. And I think we should also have some proposal ready so that we can",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.96,
+            "text": " Yeah, that sounds good. Good idea. And I think we should also have some proposal ready so that we can",
+            "tokens": [
+                50364,
+                865,
+                11,
+                300,
+                3263,
+                665,
+                13,
+                2205,
+                1558,
+                13,
+                400,
+                286,
+                519,
+                321,
+                820,
+                611,
+                362,
+                512,
+                11494,
+                1919,
+                370,
+                300,
+                321,
+                393,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.24692882024324858,
+            "compression_ratio": 1.0978260869565217,
+            "no_speech_prob": 0.05963263660669327,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.40089595317840576
+                },
+                {
+                    "word": " that",
+                    "start": 0.92,
+                    "end": 1.0,
+                    "probability": 0.9766676425933838
+                },
+                {
+                    "word": " sounds",
+                    "start": 1.0,
+                    "end": 1.26,
+                    "probability": 0.9460240602493286
+                },
+                {
+                    "word": " good.",
+                    "start": 1.26,
+                    "end": 1.5,
+                    "probability": 0.8938621878623962
+                },
+                {
+                    "word": " Good",
+                    "start": 1.5,
+                    "end": 1.7,
+                    "probability": 0.8982657194137573
+                },
+                {
+                    "word": " idea.",
+                    "start": 1.7,
+                    "end": 2.02,
+                    "probability": 0.9933672547340393
+                },
+                {
+                    "word": " And",
+                    "start": 2.4,
+                    "end": 2.56,
+                    "probability": 0.711050808429718
+                },
+                {
+                    "word": " I",
+                    "start": 2.56,
+                    "end": 2.56,
+                    "probability": 0.944758951663971
+                },
+                {
+                    "word": " think",
+                    "start": 2.56,
+                    "end": 2.76,
+                    "probability": 0.9929218888282776
+                },
+                {
+                    "word": " we",
+                    "start": 2.76,
+                    "end": 2.96,
+                    "probability": 0.9850466251373291
+                },
+                {
+                    "word": " should",
+                    "start": 2.96,
+                    "end": 3.14,
+                    "probability": 0.9884001016616821
+                },
+                {
+                    "word": " also",
+                    "start": 3.14,
+                    "end": 3.5,
+                    "probability": 0.992130696773529
+                },
+                {
+                    "word": " have",
+                    "start": 3.5,
+                    "end": 3.76,
+                    "probability": 0.9986491799354553
+                },
+                {
+                    "word": " some",
+                    "start": 3.76,
+                    "end": 4.44,
+                    "probability": 0.9931842684745789
+                },
+                {
+                    "word": " proposal",
+                    "start": 4.44,
+                    "end": 5.02,
+                    "probability": 0.921803891658783
+                },
+                {
+                    "word": " ready",
+                    "start": 5.02,
+                    "end": 5.66,
+                    "probability": 0.9138531684875488
+                },
+                {
+                    "word": " so",
+                    "start": 5.66,
+                    "end": 6.28,
+                    "probability": 0.7481722235679626
+                },
+                {
+                    "word": " that",
+                    "start": 6.28,
+                    "end": 6.48,
+                    "probability": 0.9865807294845581
+                },
+                {
+                    "word": " we",
+                    "start": 6.48,
+                    "end": 6.62,
+                    "probability": 0.9948411583900452
+                },
+                {
+                    "word": " can",
+                    "start": 6.62,
+                    "end": 6.96,
+                    "probability": 0.9973670840263367
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

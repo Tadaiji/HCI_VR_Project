@@ -1,0 +1,52 @@
+{
+    "text": " We have to discuss.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.74,
+            "text": " We have to discuss.",
+            "tokens": [
+                50364,
+                492,
+                362,
+                281,
+                2248,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34687304496765137,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.38234463334083557,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.6584854125976562
+                },
+                {
+                    "word": " have",
+                    "start": 0.2,
+                    "end": 0.32,
+                    "probability": 0.9927850961685181
+                },
+                {
+                    "word": " to",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.9935899972915649
+                },
+                {
+                    "word": " discuss.",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.9818743467330933
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,38 @@
+{
+    "text": " Well guys.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.52,
+            "text": " Well guys.",
+            "tokens": [
+                50364,
+                1042,
+                1074,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6326349576314291,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.06043700873851776,
+            "words": [
+                {
+                    "word": " Well",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5807029008865356
+                },
+                {
+                    "word": " guys.",
+                    "start": 0.22,
+                    "end": 0.52,
+                    "probability": 0.7161613702774048
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

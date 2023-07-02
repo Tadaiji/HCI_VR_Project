@@ -1,0 +1,125 @@
+{
+    "text": " I don't know, could be really big. Just to have a bit of cloud.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.86,
+            "text": " I don't know, could be really big. Just to have a bit of cloud.",
+            "tokens": [
+                50364,
+                286,
+                500,
+                380,
+                458,
+                11,
+                727,
+                312,
+                534,
+                955,
+                13,
+                1449,
+                281,
+                362,
+                257,
+                857,
+                295,
+                4588,
+                13,
+                50752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25684586025419687,
+            "compression_ratio": 0.9130434782608695,
+            "no_speech_prob": 0.02054794318974018,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.6339626312255859
+                },
+                {
+                    "word": " don't",
+                    "start": 0.4,
+                    "end": 0.52,
+                    "probability": 0.9904249608516693
+                },
+                {
+                    "word": " know,",
+                    "start": 0.52,
+                    "end": 0.82,
+                    "probability": 0.99962317943573
+                },
+                {
+                    "word": " could",
+                    "start": 1.12,
+                    "end": 1.16,
+                    "probability": 0.8828772902488708
+                },
+                {
+                    "word": " be",
+                    "start": 1.16,
+                    "end": 1.38,
+                    "probability": 0.998557984828949
+                },
+                {
+                    "word": " really",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9965170621871948
+                },
+                {
+                    "word": " big.",
+                    "start": 1.62,
+                    "end": 2.46,
+                    "probability": 0.9944583177566528
+                },
+                {
+                    "word": " Just",
+                    "start": 4.68,
+                    "end": 5.6,
+                    "probability": 0.514279305934906
+                },
+                {
+                    "word": " to",
+                    "start": 5.6,
+                    "end": 6.46,
+                    "probability": 0.9546633958816528
+                },
+                {
+                    "word": " have",
+                    "start": 6.46,
+                    "end": 7.12,
+                    "probability": 0.9972174167633057
+                },
+                {
+                    "word": " a",
+                    "start": 7.12,
+                    "end": 7.26,
+                    "probability": 0.9951335787773132
+                },
+                {
+                    "word": " bit",
+                    "start": 7.26,
+                    "end": 7.5,
+                    "probability": 0.9967737793922424
+                },
+                {
+                    "word": " of",
+                    "start": 7.5,
+                    "end": 7.8,
+                    "probability": 0.9961322546005249
+                },
+                {
+                    "word": " cloud.",
+                    "start": 7.8,
+                    "end": 7.86,
+                    "probability": 0.5668564438819885
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,215 @@
+{
+    "text": " But apart from this, I want to ask one thing. How about the seating arrangement of our friends? We can make here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.64,
+            "end": 4.04,
+            "text": " But apart from this, I want to ask one thing.",
+            "tokens": [
+                50364,
+                583,
+                4936,
+                490,
+                341,
+                11,
+                286,
+                528,
+                281,
+                1029,
+                472,
+                551,
+                13,
+                50584
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40546411456483783,
+            "compression_ratio": 1.1414141414141414,
+            "no_speech_prob": 0.037429261952638626,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.64,
+                    "end": 1.24,
+                    "probability": 0.5521834492683411
+                },
+                {
+                    "word": " apart",
+                    "start": 1.24,
+                    "end": 1.5,
+                    "probability": 0.7745881080627441
+                },
+                {
+                    "word": " from",
+                    "start": 1.5,
+                    "end": 1.84,
+                    "probability": 0.9931638836860657
+                },
+                {
+                    "word": " this,",
+                    "start": 1.84,
+                    "end": 2.34,
+                    "probability": 0.9620320796966553
+                },
+                {
+                    "word": " I",
+                    "start": 2.82,
+                    "end": 2.94,
+                    "probability": 0.9155569076538086
+                },
+                {
+                    "word": " want",
+                    "start": 2.94,
+                    "end": 3.2,
+                    "probability": 0.9810373187065125
+                },
+                {
+                    "word": " to",
+                    "start": 3.2,
+                    "end": 3.38,
+                    "probability": 0.9967731833457947
+                },
+                {
+                    "word": " ask",
+                    "start": 3.38,
+                    "end": 3.56,
+                    "probability": 0.9968022108078003
+                },
+                {
+                    "word": " one",
+                    "start": 3.56,
+                    "end": 3.78,
+                    "probability": 0.971611738204956
+                },
+                {
+                    "word": " thing.",
+                    "start": 3.78,
+                    "end": 4.04,
+                    "probability": 0.9960514903068542
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.48,
+            "end": 8.6,
+            "text": " How about the seating arrangement of our friends?",
+            "tokens": [
+                50584,
+                1012,
+                466,
+                264,
+                32430,
+                17620,
+                295,
+                527,
+                1855,
+                30,
+                50804
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40546411456483783,
+            "compression_ratio": 1.1414141414141414,
+            "no_speech_prob": 0.037429261952638626,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 4.48,
+                    "end": 4.9,
+                    "probability": 0.9839677214622498
+                },
+                {
+                    "word": " about",
+                    "start": 4.9,
+                    "end": 5.7,
+                    "probability": 0.9923386573791504
+                },
+                {
+                    "word": " the",
+                    "start": 5.7,
+                    "end": 6.08,
+                    "probability": 0.955541729927063
+                },
+                {
+                    "word": " seating",
+                    "start": 6.08,
+                    "end": 6.36,
+                    "probability": 0.9937999844551086
+                },
+                {
+                    "word": " arrangement",
+                    "start": 6.36,
+                    "end": 6.96,
+                    "probability": 0.9665722250938416
+                },
+                {
+                    "word": " of",
+                    "start": 6.96,
+                    "end": 7.58,
+                    "probability": 0.9464853405952454
+                },
+                {
+                    "word": " our",
+                    "start": 7.58,
+                    "end": 8.28,
+                    "probability": 0.9932108521461487
+                },
+                {
+                    "word": " friends?",
+                    "start": 8.28,
+                    "end": 8.6,
+                    "probability": 0.784040093421936
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.66,
+            "end": 9.68,
+            "text": " We can make here.",
+            "tokens": [
+                50804,
+                492,
+                393,
+                652,
+                510,
+                13,
+                50856
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40546411456483783,
+            "compression_ratio": 1.1414141414141414,
+            "no_speech_prob": 0.037429261952638626,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 8.66,
+                    "end": 8.94,
+                    "probability": 0.5558130145072937
+                },
+                {
+                    "word": " can",
+                    "start": 8.94,
+                    "end": 9.2,
+                    "probability": 0.9595560431480408
+                },
+                {
+                    "word": " make",
+                    "start": 9.2,
+                    "end": 9.46,
+                    "probability": 0.9854679703712463
+                },
+                {
+                    "word": " here.",
+                    "start": 9.46,
+                    "end": 9.68,
+                    "probability": 0.8400432467460632
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,247 @@
+{
+    "text": " basically and just put these seats away. So here's a bit of space. You could put chairs down under the slope and have the big table in the middle.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.62,
+            "end": 9.5,
+            "text": " basically and just put these seats away. So here's a bit of space. You could put",
+            "tokens": [
+                50364,
+                1936,
+                293,
+                445,
+                829,
+                613,
+                11069,
+                1314,
+                13,
+                407,
+                510,
+                311,
+                257,
+                857,
+                295,
+                1901,
+                13,
+                509,
+                727,
+                829,
+                50834
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27760061464811625,
+            "compression_ratio": 1.2920353982300885,
+            "no_speech_prob": 0.010317252017557621,
+            "words": [
+                {
+                    "word": " basically",
+                    "start": 1.62,
+                    "end": 2.3,
+                    "probability": 0.208929181098938
+                },
+                {
+                    "word": " and",
+                    "start": 2.3,
+                    "end": 2.48,
+                    "probability": 0.44420015811920166
+                },
+                {
+                    "word": " just",
+                    "start": 2.48,
+                    "end": 2.98,
+                    "probability": 0.9843688011169434
+                },
+                {
+                    "word": " put",
+                    "start": 2.98,
+                    "end": 3.24,
+                    "probability": 0.9946956038475037
+                },
+                {
+                    "word": " these",
+                    "start": 3.24,
+                    "end": 4.68,
+                    "probability": 0.9928709864616394
+                },
+                {
+                    "word": " seats",
+                    "start": 4.68,
+                    "end": 5.18,
+                    "probability": 0.9348825812339783
+                },
+                {
+                    "word": " away.",
+                    "start": 5.18,
+                    "end": 5.72,
+                    "probability": 0.9982101917266846
+                },
+                {
+                    "word": " So",
+                    "start": 6.38,
+                    "end": 6.44,
+                    "probability": 0.8329947590827942
+                },
+                {
+                    "word": " here's",
+                    "start": 6.44,
+                    "end": 6.96,
+                    "probability": 0.8636568188667297
+                },
+                {
+                    "word": " a",
+                    "start": 6.96,
+                    "end": 7.02,
+                    "probability": 0.997512936592102
+                },
+                {
+                    "word": " bit",
+                    "start": 7.02,
+                    "end": 7.16,
+                    "probability": 0.9963757395744324
+                },
+                {
+                    "word": " of",
+                    "start": 7.16,
+                    "end": 7.34,
+                    "probability": 0.9989075660705566
+                },
+                {
+                    "word": " space.",
+                    "start": 7.34,
+                    "end": 7.68,
+                    "probability": 0.9974229335784912
+                },
+                {
+                    "word": " You",
+                    "start": 8.2,
+                    "end": 8.26,
+                    "probability": 0.8939653635025024
+                },
+                {
+                    "word": " could",
+                    "start": 8.26,
+                    "end": 8.68,
+                    "probability": 0.9927309155464172
+                },
+                {
+                    "word": " put",
+                    "start": 8.68,
+                    "end": 9.5,
+                    "probability": 0.9926841855049133
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.5,
+            "end": 14.52,
+            "text": " chairs down under the slope and have the big table in the middle.",
+            "tokens": [
+                50834,
+                18299,
+                760,
+                833,
+                264,
+                13525,
+                293,
+                362,
+                264,
+                955,
+                3199,
+                294,
+                264,
+                2808,
+                13,
+                51182
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27760061464811625,
+            "compression_ratio": 1.2920353982300885,
+            "no_speech_prob": 0.010317252017557621,
+            "words": [
+                {
+                    "word": " chairs",
+                    "start": 9.5,
+                    "end": 10.0,
+                    "probability": 0.9961920976638794
+                },
+                {
+                    "word": " down",
+                    "start": 10.0,
+                    "end": 11.1,
+                    "probability": 0.9417898654937744
+                },
+                {
+                    "word": " under",
+                    "start": 11.1,
+                    "end": 12.2,
+                    "probability": 0.8456339240074158
+                },
+                {
+                    "word": " the",
+                    "start": 12.2,
+                    "end": 12.36,
+                    "probability": 0.9604396820068359
+                },
+                {
+                    "word": " slope",
+                    "start": 12.36,
+                    "end": 12.62,
+                    "probability": 0.9849774837493896
+                },
+                {
+                    "word": " and",
+                    "start": 12.62,
+                    "end": 13.28,
+                    "probability": 0.9660102725028992
+                },
+                {
+                    "word": " have",
+                    "start": 13.28,
+                    "end": 13.54,
+                    "probability": 0.9951352477073669
+                },
+                {
+                    "word": " the",
+                    "start": 13.54,
+                    "end": 13.7,
+                    "probability": 0.8874536156654358
+                },
+                {
+                    "word": " big",
+                    "start": 13.7,
+                    "end": 13.9,
+                    "probability": 0.9987348914146423
+                },
+                {
+                    "word": " table",
+                    "start": 13.9,
+                    "end": 14.14,
+                    "probability": 0.9940100908279419
+                },
+                {
+                    "word": " in",
+                    "start": 14.14,
+                    "end": 14.36,
+                    "probability": 0.9953415393829346
+                },
+                {
+                    "word": " the",
+                    "start": 14.36,
+                    "end": 14.44,
+                    "probability": 0.9851114153862
+                },
+                {
+                    "word": " middle.",
+                    "start": 14.44,
+                    "end": 14.52,
+                    "probability": 0.9989891648292542
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

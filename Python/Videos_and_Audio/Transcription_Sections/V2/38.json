@@ -1,0 +1,69 @@
+{
+    "text": " Yeah, yeah, that's a good point.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.08,
+            "end": 3.3,
+            "text": " Yeah, yeah, that's a good point.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1338,
+                11,
+                300,
+                311,
+                257,
+                665,
+                935,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4765440500699557,
+            "compression_ratio": 0.8888888888888888,
+            "no_speech_prob": 0.37975606322288513,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.08,
+                    "end": 1.64,
+                    "probability": 0.31835871934890747
+                },
+                {
+                    "word": " yeah,",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.5998366475105286
+                },
+                {
+                    "word": " that's",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9922710955142975
+                },
+                {
+                    "word": " a",
+                    "start": 2.52,
+                    "end": 2.6,
+                    "probability": 0.9916765689849854
+                },
+                {
+                    "word": " good",
+                    "start": 2.6,
+                    "end": 2.8,
+                    "probability": 0.9973203539848328
+                },
+                {
+                    "word": " point.",
+                    "start": 2.8,
+                    "end": 3.3,
+                    "probability": 0.9914208650588989
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

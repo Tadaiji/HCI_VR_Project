@@ -1,0 +1,83 @@
+{
+    "text": " Okay, I'm not so sure about that, but...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.22,
+            "end": 6.46,
+            "text": " Okay, I'm not so sure about that, but...",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                286,
+                478,
+                406,
+                370,
+                988,
+                466,
+                300,
+                11,
+                457,
+                485,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4345477739969889,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.0857524499297142,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 1.22,
+                    "end": 2.04,
+                    "probability": 0.4531559348106384
+                },
+                {
+                    "word": " I'm",
+                    "start": 2.58,
+                    "end": 3.48,
+                    "probability": 0.9348370730876923
+                },
+                {
+                    "word": " not",
+                    "start": 3.48,
+                    "end": 3.74,
+                    "probability": 0.9833829998970032
+                },
+                {
+                    "word": " so",
+                    "start": 3.74,
+                    "end": 3.98,
+                    "probability": 0.9509757161140442
+                },
+                {
+                    "word": " sure",
+                    "start": 3.98,
+                    "end": 4.28,
+                    "probability": 0.999369204044342
+                },
+                {
+                    "word": " about",
+                    "start": 4.28,
+                    "end": 4.64,
+                    "probability": 0.9893429279327393
+                },
+                {
+                    "word": " that,",
+                    "start": 4.64,
+                    "end": 5.1,
+                    "probability": 0.9943549633026123
+                },
+                {
+                    "word": " but...",
+                    "start": 5.34,
+                    "end": 6.46,
+                    "probability": 0.78718101978302
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

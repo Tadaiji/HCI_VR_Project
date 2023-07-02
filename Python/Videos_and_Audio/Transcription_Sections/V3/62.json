@@ -1,0 +1,297 @@
+{
+    "text": " report said. Put it in the middle and as we said these seats can go upstairs that's no big problem one person can carry them and the TV they also talked about that so",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.84,
+            "text": " report said. Put it in the middle and as we said these seats can go upstairs that's",
+            "tokens": [
+                50364,
+                2275,
+                848,
+                13,
+                4935,
+                309,
+                294,
+                264,
+                2808,
+                293,
+                382,
+                321,
+                848,
+                613,
+                11069,
+                393,
+                352,
+                16462,
+                300,
+                311,
+                50694
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33921170789141986,
+            "compression_ratio": 1.3387096774193548,
+            "no_speech_prob": 0.053973644971847534,
+            "words": [
+                {
+                    "word": " report",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.09452841430902481
+                },
+                {
+                    "word": " said.",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.6060529351234436
+                },
+                {
+                    "word": " Put",
+                    "start": 0.92,
+                    "end": 1.04,
+                    "probability": 0.384809285402298
+                },
+                {
+                    "word": " it",
+                    "start": 1.04,
+                    "end": 1.2,
+                    "probability": 0.9557888507843018
+                },
+                {
+                    "word": " in",
+                    "start": 1.2,
+                    "end": 1.28,
+                    "probability": 0.9967148303985596
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.38,
+                    "probability": 0.9981830716133118
+                },
+                {
+                    "word": " middle",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.9975501894950867
+                },
+                {
+                    "word": " and",
+                    "start": 1.58,
+                    "end": 2.12,
+                    "probability": 0.7649219036102295
+                },
+                {
+                    "word": " as",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9533014893531799
+                },
+                {
+                    "word": " we",
+                    "start": 2.34,
+                    "end": 2.56,
+                    "probability": 0.9947056174278259
+                },
+                {
+                    "word": " said",
+                    "start": 2.56,
+                    "end": 3.16,
+                    "probability": 0.9949009418487549
+                },
+                {
+                    "word": " these",
+                    "start": 3.16,
+                    "end": 4.14,
+                    "probability": 0.7582457065582275
+                },
+                {
+                    "word": " seats",
+                    "start": 4.14,
+                    "end": 4.62,
+                    "probability": 0.9838781356811523
+                },
+                {
+                    "word": " can",
+                    "start": 4.62,
+                    "end": 5.88,
+                    "probability": 0.9748803973197937
+                },
+                {
+                    "word": " go",
+                    "start": 5.88,
+                    "end": 6.1,
+                    "probability": 0.9929487705230713
+                },
+                {
+                    "word": " upstairs",
+                    "start": 6.1,
+                    "end": 6.36,
+                    "probability": 0.9875982403755188
+                },
+                {
+                    "word": " that's",
+                    "start": 6.36,
+                    "end": 6.84,
+                    "probability": 0.7950855791568756
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.84,
+            "end": 12.42,
+            "text": " no big problem one person can carry them and the TV they also talked about that",
+            "tokens": [
+                50694,
+                572,
+                955,
+                1154,
+                472,
+                954,
+                393,
+                3985,
+                552,
+                293,
+                264,
+                3558,
+                436,
+                611,
+                2825,
+                466,
+                300,
+                50968
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33921170789141986,
+            "compression_ratio": 1.3387096774193548,
+            "no_speech_prob": 0.053973644971847534,
+            "words": [
+                {
+                    "word": " no",
+                    "start": 6.84,
+                    "end": 7.14,
+                    "probability": 0.926139771938324
+                },
+                {
+                    "word": " big",
+                    "start": 7.14,
+                    "end": 7.38,
+                    "probability": 0.9931897521018982
+                },
+                {
+                    "word": " problem",
+                    "start": 7.38,
+                    "end": 7.92,
+                    "probability": 0.998256266117096
+                },
+                {
+                    "word": " one",
+                    "start": 7.92,
+                    "end": 8.44,
+                    "probability": 0.6110813021659851
+                },
+                {
+                    "word": " person",
+                    "start": 8.44,
+                    "end": 8.66,
+                    "probability": 0.9939295053482056
+                },
+                {
+                    "word": " can",
+                    "start": 8.66,
+                    "end": 8.88,
+                    "probability": 0.9971433281898499
+                },
+                {
+                    "word": " carry",
+                    "start": 8.88,
+                    "end": 9.06,
+                    "probability": 0.9990509152412415
+                },
+                {
+                    "word": " them",
+                    "start": 9.06,
+                    "end": 9.28,
+                    "probability": 0.9978891015052795
+                },
+                {
+                    "word": " and",
+                    "start": 9.28,
+                    "end": 10.16,
+                    "probability": 0.8703665733337402
+                },
+                {
+                    "word": " the",
+                    "start": 10.16,
+                    "end": 10.48,
+                    "probability": 0.9781467318534851
+                },
+                {
+                    "word": " TV",
+                    "start": 10.48,
+                    "end": 10.88,
+                    "probability": 0.976003110408783
+                },
+                {
+                    "word": " they",
+                    "start": 10.88,
+                    "end": 11.44,
+                    "probability": 0.7176486253738403
+                },
+                {
+                    "word": " also",
+                    "start": 11.44,
+                    "end": 11.6,
+                    "probability": 0.9629713296890259
+                },
+                {
+                    "word": " talked",
+                    "start": 11.6,
+                    "end": 11.8,
+                    "probability": 0.9524349570274353
+                },
+                {
+                    "word": " about",
+                    "start": 11.8,
+                    "end": 12.02,
+                    "probability": 0.9991770386695862
+                },
+                {
+                    "word": " that",
+                    "start": 12.02,
+                    "end": 12.42,
+                    "probability": 0.9631446003913879
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.42,
+            "end": 12.72,
+            "text": " so",
+            "tokens": [
+                50968,
+                370,
+                51086
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33921170789141986,
+            "compression_ratio": 1.3387096774193548,
+            "no_speech_prob": 0.053973644971847534,
+            "words": [
+                {
+                    "word": " so",
+                    "start": 12.42,
+                    "end": 12.72,
+                    "probability": 0.509002685546875
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

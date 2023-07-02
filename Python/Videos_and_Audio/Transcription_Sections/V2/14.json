@@ -1,0 +1,360 @@
+{
+    "text": " That would be helpful, yeah? Yes, that would be really helpful. And I think I also have a sleeping couch in mind, which I want. So, which is also from IKEA. But yeah, we can do that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.48,
+            "text": " That would be helpful, yeah?",
+            "tokens": [
+                50364,
+                663,
+                576,
+                312,
+                4961,
+                11,
+                1338,
+                30,
+                50444
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4328647153130893,
+            "compression_ratio": 1.338235294117647,
+            "no_speech_prob": 0.05969620496034622,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.47117334604263306
+                },
+                {
+                    "word": " would",
+                    "start": 0.3,
+                    "end": 0.52,
+                    "probability": 0.8215686678886414
+                },
+                {
+                    "word": " be",
+                    "start": 0.52,
+                    "end": 0.7,
+                    "probability": 0.9872888326644897
+                },
+                {
+                    "word": " helpful,",
+                    "start": 0.7,
+                    "end": 1.0,
+                    "probability": 0.8933057188987732
+                },
+                {
+                    "word": " yeah?",
+                    "start": 1.18,
+                    "end": 1.48,
+                    "probability": 0.7097830772399902
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.68,
+            "end": 3.56,
+            "text": " Yes, that would be really helpful.",
+            "tokens": [
+                50444,
+                1079,
+                11,
+                300,
+                576,
+                312,
+                534,
+                4961,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4328647153130893,
+            "compression_ratio": 1.338235294117647,
+            "no_speech_prob": 0.05969620496034622,
+            "words": [
+                {
+                    "word": " Yes,",
+                    "start": 1.68,
+                    "end": 1.94,
+                    "probability": 0.4716237783432007
+                },
+                {
+                    "word": " that",
+                    "start": 1.94,
+                    "end": 1.96,
+                    "probability": 0.5785821676254272
+                },
+                {
+                    "word": " would",
+                    "start": 1.96,
+                    "end": 2.22,
+                    "probability": 0.9564554691314697
+                },
+                {
+                    "word": " be",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.9223044514656067
+                },
+                {
+                    "word": " really",
+                    "start": 2.66,
+                    "end": 3.0,
+                    "probability": 0.9498318433761597
+                },
+                {
+                    "word": " helpful.",
+                    "start": 3.0,
+                    "end": 3.56,
+                    "probability": 0.9939636588096619
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.44,
+            "end": 11.1,
+            "text": " And I think I also have a sleeping couch in mind, which I want.",
+            "tokens": [
+                50544,
+                400,
+                286,
+                519,
+                286,
+                611,
+                362,
+                257,
+                8296,
+                16511,
+                294,
+                1575,
+                11,
+                597,
+                286,
+                528,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4328647153130893,
+            "compression_ratio": 1.338235294117647,
+            "no_speech_prob": 0.05969620496034622,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.44,
+                    "end": 4.48,
+                    "probability": 0.6070955991744995
+                },
+                {
+                    "word": " I",
+                    "start": 4.48,
+                    "end": 4.62,
+                    "probability": 0.9451819658279419
+                },
+                {
+                    "word": " think",
+                    "start": 4.62,
+                    "end": 5.1,
+                    "probability": 0.5898549556732178
+                },
+                {
+                    "word": " I",
+                    "start": 5.1,
+                    "end": 5.68,
+                    "probability": 0.8322579860687256
+                },
+                {
+                    "word": " also",
+                    "start": 5.68,
+                    "end": 5.9,
+                    "probability": 0.9821906089782715
+                },
+                {
+                    "word": " have",
+                    "start": 5.9,
+                    "end": 8.74,
+                    "probability": 0.9930567741394043
+                },
+                {
+                    "word": " a",
+                    "start": 8.74,
+                    "end": 8.78,
+                    "probability": 0.9525939226150513
+                },
+                {
+                    "word": " sleeping",
+                    "start": 8.78,
+                    "end": 9.22,
+                    "probability": 0.6661617159843445
+                },
+                {
+                    "word": " couch",
+                    "start": 9.22,
+                    "end": 9.62,
+                    "probability": 0.9114742875099182
+                },
+                {
+                    "word": " in",
+                    "start": 9.62,
+                    "end": 9.8,
+                    "probability": 0.8960067629814148
+                },
+                {
+                    "word": " mind,",
+                    "start": 9.8,
+                    "end": 10.14,
+                    "probability": 0.9449265599250793
+                },
+                {
+                    "word": " which",
+                    "start": 10.56,
+                    "end": 10.64,
+                    "probability": 0.9843738079071045
+                },
+                {
+                    "word": " I",
+                    "start": 10.64,
+                    "end": 10.84,
+                    "probability": 0.8062590956687927
+                },
+                {
+                    "word": " want.",
+                    "start": 10.84,
+                    "end": 11.1,
+                    "probability": 0.9774896502494812
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.42,
+            "end": 13.86,
+            "text": " So, which is also from IKEA.",
+            "tokens": [
+                50914,
+                407,
+                11,
+                597,
+                307,
+                611,
+                490,
+                47728,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4328647153130893,
+            "compression_ratio": 1.338235294117647,
+            "no_speech_prob": 0.05969620496034622,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 12.42,
+                    "end": 12.42,
+                    "probability": 0.07932547479867935
+                },
+                {
+                    "word": " which",
+                    "start": 12.76,
+                    "end": 12.9,
+                    "probability": 0.6872590780258179
+                },
+                {
+                    "word": " is",
+                    "start": 12.9,
+                    "end": 13.1,
+                    "probability": 0.9807629585266113
+                },
+                {
+                    "word": " also",
+                    "start": 13.1,
+                    "end": 13.3,
+                    "probability": 0.978945791721344
+                },
+                {
+                    "word": " from",
+                    "start": 13.3,
+                    "end": 13.54,
+                    "probability": 0.7128061652183533
+                },
+                {
+                    "word": " IKEA.",
+                    "start": 13.54,
+                    "end": 13.86,
+                    "probability": 0.7677441239356995
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 15.46,
+            "end": 17.32,
+            "text": " But yeah, we can do that.",
+            "tokens": [
+                51064,
+                583,
+                1338,
+                11,
+                321,
+                393,
+                360,
+                300,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4328647153130893,
+            "compression_ratio": 1.338235294117647,
+            "no_speech_prob": 0.05969620496034622,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 15.46,
+                    "end": 15.46,
+                    "probability": 0.85107421875
+                },
+                {
+                    "word": " yeah,",
+                    "start": 15.46,
+                    "end": 15.96,
+                    "probability": 0.565571665763855
+                },
+                {
+                    "word": " we",
+                    "start": 16.14,
+                    "end": 16.18,
+                    "probability": 0.9949547648429871
+                },
+                {
+                    "word": " can",
+                    "start": 16.18,
+                    "end": 16.78,
+                    "probability": 0.9968811273574829
+                },
+                {
+                    "word": " do",
+                    "start": 16.78,
+                    "end": 17.04,
+                    "probability": 0.9893340468406677
+                },
+                {
+                    "word": " that.",
+                    "start": 17.04,
+                    "end": 17.32,
+                    "probability": 0.9959045052528381
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

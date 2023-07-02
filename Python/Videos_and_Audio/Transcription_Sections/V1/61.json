@@ -1,0 +1,580 @@
+{
+    "text": " Yeah, I think it's better than gathering dust in the corner, so I think we will take the Perl and Ruff burgers. Sure. But how do you guys want to do the move? Do you guys want to do it all the time or because I think we should do a week or so leave and just do it in one clean swoop in that time?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.9,
+            "text": " Yeah, I think it's better than gathering dust in the corner, so I think we will take the",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                519,
+                309,
+                311,
+                1101,
+                813,
+                13519,
+                8634,
+                294,
+                264,
+                4538,
+                11,
+                370,
+                286,
+                519,
+                321,
+                486,
+                747,
+                264,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.4701784551143646
+                },
+                {
+                    "word": " I",
+                    "start": 0.38,
+                    "end": 0.38,
+                    "probability": 0.7864140868186951
+                },
+                {
+                    "word": " think",
+                    "start": 0.38,
+                    "end": 0.7,
+                    "probability": 0.9959470629692078
+                },
+                {
+                    "word": " it's",
+                    "start": 0.7,
+                    "end": 1.94,
+                    "probability": 0.8854102790355682
+                },
+                {
+                    "word": " better",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9965189695358276
+                },
+                {
+                    "word": " than",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.9636415839195251
+                },
+                {
+                    "word": " gathering",
+                    "start": 2.42,
+                    "end": 2.76,
+                    "probability": 0.9517189860343933
+                },
+                {
+                    "word": " dust",
+                    "start": 2.76,
+                    "end": 3.02,
+                    "probability": 0.9944525361061096
+                },
+                {
+                    "word": " in",
+                    "start": 3.02,
+                    "end": 3.2,
+                    "probability": 0.9809814691543579
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.32,
+                    "probability": 0.8903471827507019
+                },
+                {
+                    "word": " corner,",
+                    "start": 3.32,
+                    "end": 3.54,
+                    "probability": 0.8511886596679688
+                },
+                {
+                    "word": " so",
+                    "start": 3.62,
+                    "end": 3.98,
+                    "probability": 0.9829956889152527
+                },
+                {
+                    "word": " I",
+                    "start": 3.98,
+                    "end": 4.06,
+                    "probability": 0.9175540208816528
+                },
+                {
+                    "word": " think",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.9948834776878357
+                },
+                {
+                    "word": " we",
+                    "start": 4.42,
+                    "end": 5.32,
+                    "probability": 0.9675748944282532
+                },
+                {
+                    "word": " will",
+                    "start": 5.32,
+                    "end": 5.52,
+                    "probability": 0.7970141172409058
+                },
+                {
+                    "word": " take",
+                    "start": 5.52,
+                    "end": 5.72,
+                    "probability": 0.9834612607955933
+                },
+                {
+                    "word": " the",
+                    "start": 5.72,
+                    "end": 5.9,
+                    "probability": 0.9656827449798584
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.9,
+            "end": 6.74,
+            "text": " Perl and Ruff burgers.",
+            "tokens": [
+                50648,
+                3026,
+                75,
+                293,
+                497,
+                1245,
+                28403,
+                13,
+                50736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " Perl",
+                    "start": 5.9,
+                    "end": 6.06,
+                    "probability": 0.2941155284643173
+                },
+                {
+                    "word": " and",
+                    "start": 6.06,
+                    "end": 6.18,
+                    "probability": 0.5681434869766235
+                },
+                {
+                    "word": " Ruff",
+                    "start": 6.18,
+                    "end": 6.38,
+                    "probability": 0.28874776512384415
+                },
+                {
+                    "word": " burgers.",
+                    "start": 6.38,
+                    "end": 6.74,
+                    "probability": 0.18362775444984436
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.26,
+            "end": 7.48,
+            "text": " Sure.",
+            "tokens": [
+                50736,
+                4894,
+                13,
+                50786
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " Sure.",
+                    "start": 7.26,
+                    "end": 7.48,
+                    "probability": 0.3150362968444824
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.34,
+            "end": 11.7,
+            "text": " But how do you guys want to do the move?",
+            "tokens": [
+                50786,
+                583,
+                577,
+                360,
+                291,
+                1074,
+                528,
+                281,
+                360,
+                264,
+                1286,
+                30,
+                50970
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 8.34,
+                    "end": 8.86,
+                    "probability": 0.907053530216217
+                },
+                {
+                    "word": " how",
+                    "start": 8.86,
+                    "end": 9.96,
+                    "probability": 0.7491666078567505
+                },
+                {
+                    "word": " do",
+                    "start": 9.96,
+                    "end": 10.18,
+                    "probability": 0.9836863875389099
+                },
+                {
+                    "word": " you",
+                    "start": 10.18,
+                    "end": 10.4,
+                    "probability": 0.9967061877250671
+                },
+                {
+                    "word": " guys",
+                    "start": 10.4,
+                    "end": 10.64,
+                    "probability": 0.9692938327789307
+                },
+                {
+                    "word": " want",
+                    "start": 10.64,
+                    "end": 10.86,
+                    "probability": 0.9878687262535095
+                },
+                {
+                    "word": " to",
+                    "start": 10.86,
+                    "end": 11.06,
+                    "probability": 0.9963212013244629
+                },
+                {
+                    "word": " do",
+                    "start": 11.06,
+                    "end": 11.2,
+                    "probability": 0.981784462928772
+                },
+                {
+                    "word": " the",
+                    "start": 11.2,
+                    "end": 11.5,
+                    "probability": 0.9703073501586914
+                },
+                {
+                    "word": " move?",
+                    "start": 11.5,
+                    "end": 11.7,
+                    "probability": 0.9849715828895569
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 12.08,
+            "end": 19.86,
+            "text": " Do you guys want to do it all the time or because I think we should do a week or so",
+            "tokens": [
+                50970,
+                1144,
+                291,
+                1074,
+                528,
+                281,
+                360,
+                309,
+                439,
+                264,
+                565,
+                420,
+                570,
+                286,
+                519,
+                321,
+                820,
+                360,
+                257,
+                1243,
+                420,
+                370,
+                51354
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 12.08,
+                    "end": 12.3,
+                    "probability": 0.9876261353492737
+                },
+                {
+                    "word": " you",
+                    "start": 12.3,
+                    "end": 12.66,
+                    "probability": 0.9984619617462158
+                },
+                {
+                    "word": " guys",
+                    "start": 12.66,
+                    "end": 12.96,
+                    "probability": 0.9709779620170593
+                },
+                {
+                    "word": " want",
+                    "start": 12.96,
+                    "end": 13.26,
+                    "probability": 0.9956173896789551
+                },
+                {
+                    "word": " to",
+                    "start": 13.26,
+                    "end": 14.28,
+                    "probability": 0.9928449988365173
+                },
+                {
+                    "word": " do",
+                    "start": 14.28,
+                    "end": 14.48,
+                    "probability": 0.9855934977531433
+                },
+                {
+                    "word": " it",
+                    "start": 14.48,
+                    "end": 14.94,
+                    "probability": 0.9882982969284058
+                },
+                {
+                    "word": " all",
+                    "start": 14.94,
+                    "end": 15.16,
+                    "probability": 0.8189364671707153
+                },
+                {
+                    "word": " the",
+                    "start": 15.16,
+                    "end": 15.32,
+                    "probability": 0.956248939037323
+                },
+                {
+                    "word": " time",
+                    "start": 15.32,
+                    "end": 15.64,
+                    "probability": 0.9990630745887756
+                },
+                {
+                    "word": " or",
+                    "start": 15.64,
+                    "end": 16.32,
+                    "probability": 0.46380800008773804
+                },
+                {
+                    "word": " because",
+                    "start": 16.32,
+                    "end": 16.74,
+                    "probability": 0.5066052079200745
+                },
+                {
+                    "word": " I",
+                    "start": 16.74,
+                    "end": 16.96,
+                    "probability": 0.9606071710586548
+                },
+                {
+                    "word": " think",
+                    "start": 16.96,
+                    "end": 17.22,
+                    "probability": 0.9985958933830261
+                },
+                {
+                    "word": " we",
+                    "start": 17.22,
+                    "end": 17.4,
+                    "probability": 0.9888062477111816
+                },
+                {
+                    "word": " should",
+                    "start": 17.4,
+                    "end": 17.82,
+                    "probability": 0.9974718689918518
+                },
+                {
+                    "word": " do",
+                    "start": 17.82,
+                    "end": 18.6,
+                    "probability": 0.9637415409088135
+                },
+                {
+                    "word": " a",
+                    "start": 18.6,
+                    "end": 18.78,
+                    "probability": 0.9718436002731323
+                },
+                {
+                    "word": " week",
+                    "start": 18.78,
+                    "end": 18.98,
+                    "probability": 0.9900555610656738
+                },
+                {
+                    "word": " or",
+                    "start": 18.98,
+                    "end": 19.14,
+                    "probability": 0.9857730269432068
+                },
+                {
+                    "word": " so",
+                    "start": 19.14,
+                    "end": 19.86,
+                    "probability": 0.9976401329040527
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 19.86,
+            "end": 23.5,
+            "text": " leave and just do it in one clean swoop in that time?",
+            "tokens": [
+                51354,
+                1856,
+                293,
+                445,
+                360,
+                309,
+                294,
+                472,
+                2541,
+                13291,
+                404,
+                294,
+                300,
+                565,
+                30,
+                51536
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.28287276793062016,
+            "compression_ratio": 1.5578947368421052,
+            "no_speech_prob": 0.010534445755183697,
+            "words": [
+                {
+                    "word": " leave",
+                    "start": 19.86,
+                    "end": 20.28,
+                    "probability": 0.6544411182403564
+                },
+                {
+                    "word": " and",
+                    "start": 20.28,
+                    "end": 20.86,
+                    "probability": 0.9130408763885498
+                },
+                {
+                    "word": " just",
+                    "start": 20.86,
+                    "end": 21.44,
+                    "probability": 0.9639724493026733
+                },
+                {
+                    "word": " do",
+                    "start": 21.44,
+                    "end": 21.64,
+                    "probability": 0.9883775115013123
+                },
+                {
+                    "word": " it",
+                    "start": 21.64,
+                    "end": 21.8,
+                    "probability": 0.9933834671974182
+                },
+                {
+                    "word": " in",
+                    "start": 21.8,
+                    "end": 21.92,
+                    "probability": 0.9775476455688477
+                },
+                {
+                    "word": " one",
+                    "start": 21.92,
+                    "end": 22.16,
+                    "probability": 0.9906736016273499
+                },
+                {
+                    "word": " clean",
+                    "start": 22.16,
+                    "end": 22.5,
+                    "probability": 0.9929227828979492
+                },
+                {
+                    "word": " swoop",
+                    "start": 22.5,
+                    "end": 22.92,
+                    "probability": 0.9729529619216919
+                },
+                {
+                    "word": " in",
+                    "start": 22.92,
+                    "end": 23.1,
+                    "probability": 0.8023823499679565
+                },
+                {
+                    "word": " that",
+                    "start": 23.1,
+                    "end": 23.2,
+                    "probability": 0.9860010743141174
+                },
+                {
+                    "word": " time?",
+                    "start": 23.2,
+                    "end": 23.5,
+                    "probability": 0.998845100402832
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,61 @@
+{
+    "text": " Yeah, we'll come to that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4,
+            "end": 1.44,
+            "text": " Yeah, we'll come to that.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                603,
+                808,
+                281,
+                300,
+                13,
+                50448
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49739451841874555,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.3071131110191345,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.4,
+                    "end": 0.68,
+                    "probability": 0.35190853476524353
+                },
+                {
+                    "word": " we'll",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.8441529273986816
+                },
+                {
+                    "word": " come",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.989000141620636
+                },
+                {
+                    "word": " to",
+                    "start": 1.14,
+                    "end": 1.3,
+                    "probability": 0.9913314580917358
+                },
+                {
+                    "word": " that.",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.988006055355072
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

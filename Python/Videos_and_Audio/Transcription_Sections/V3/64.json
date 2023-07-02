@@ -1,0 +1,121 @@
+{
+    "text": " That would be a bit more space-like. Yeah, of course.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 1.76,
+            "text": " That would be a bit more space-like.",
+            "tokens": [
+                50364,
+                663,
+                576,
+                312,
+                257,
+                857,
+                544,
+                1901,
+                12,
+                4092,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5849469184875489,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.3635318875312805,
+            "words": [
+                {
+                    "word": " That",
+                    "start": 0.14,
+                    "end": 0.6,
+                    "probability": 0.18751609325408936
+                },
+                {
+                    "word": " would",
+                    "start": 0.6,
+                    "end": 0.84,
+                    "probability": 0.9166374206542969
+                },
+                {
+                    "word": " be",
+                    "start": 0.84,
+                    "end": 1.02,
+                    "probability": 0.9845834970474243
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.02,
+                    "probability": 0.4316565990447998
+                },
+                {
+                    "word": " bit",
+                    "start": 1.02,
+                    "end": 1.14,
+                    "probability": 0.974240243434906
+                },
+                {
+                    "word": " more",
+                    "start": 1.14,
+                    "end": 1.28,
+                    "probability": 0.7792713046073914
+                },
+                {
+                    "word": " space",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.7325096726417542
+                },
+                {
+                    "word": "-like.",
+                    "start": 1.56,
+                    "end": 1.76,
+                    "probability": 0.23068902641534805
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.76,
+            "end": 2.92,
+            "text": " Yeah, of course.",
+            "tokens": [
+                50464,
+                865,
+                11,
+                295,
+                1164,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5849469184875489,
+            "compression_ratio": 0.8688524590163934,
+            "no_speech_prob": 0.3635318875312805,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.76,
+                    "end": 2.06,
+                    "probability": 0.6568866968154907
+                },
+                {
+                    "word": " of",
+                    "start": 2.42,
+                    "end": 2.64,
+                    "probability": 0.9960595369338989
+                },
+                {
+                    "word": " course.",
+                    "start": 2.64,
+                    "end": 2.92,
+                    "probability": 0.9968593120574951
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

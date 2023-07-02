@@ -1,0 +1,429 @@
+{
+    "text": " And I think what about the budget? Yeah, the budget shouldn't be a problem, but I think we should Ask our guests later if what what they think about cook and if The and what they want to eat them. So we will go from there with the cook Yeah",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.42,
+            "text": " And I think what about the budget? Yeah, the budget shouldn't be a problem, but I think we should",
+            "tokens": [
+                50364,
+                400,
+                286,
+                519,
+                437,
+                466,
+                264,
+                4706,
+                30,
+                865,
+                11,
+                264,
+                4706,
+                4659,
+                380,
+                312,
+                257,
+                1154,
+                11,
+                457,
+                286,
+                519,
+                321,
+                820,
+                50746
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208613395690918,
+            "compression_ratio": 1.5789473684210527,
+            "no_speech_prob": 0.008059665560722351,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.20317333936691284
+                },
+                {
+                    "word": " I",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.4514106214046478
+                },
+                {
+                    "word": " think",
+                    "start": 0.78,
+                    "end": 1.12,
+                    "probability": 0.9427258968353271
+                },
+                {
+                    "word": " what",
+                    "start": 1.12,
+                    "end": 1.18,
+                    "probability": 0.2383846491575241
+                },
+                {
+                    "word": " about",
+                    "start": 1.18,
+                    "end": 1.28,
+                    "probability": 0.5144343972206116
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.44,
+                    "probability": 0.8693561553955078
+                },
+                {
+                    "word": " budget?",
+                    "start": 1.44,
+                    "end": 1.7,
+                    "probability": 0.9964291453361511
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 2.7,
+                    "end": 2.8,
+                    "probability": 0.87035071849823
+                },
+                {
+                    "word": " the",
+                    "start": 2.84,
+                    "end": 3.12,
+                    "probability": 0.824555516242981
+                },
+                {
+                    "word": " budget",
+                    "start": 3.12,
+                    "end": 3.32,
+                    "probability": 0.9617189764976501
+                },
+                {
+                    "word": " shouldn't",
+                    "start": 3.32,
+                    "end": 3.92,
+                    "probability": 0.9563086926937103
+                },
+                {
+                    "word": " be",
+                    "start": 3.92,
+                    "end": 4.08,
+                    "probability": 0.9988124370574951
+                },
+                {
+                    "word": " a",
+                    "start": 4.08,
+                    "end": 4.28,
+                    "probability": 0.9979456067085266
+                },
+                {
+                    "word": " problem,",
+                    "start": 4.28,
+                    "end": 4.64,
+                    "probability": 0.9995356798171997
+                },
+                {
+                    "word": " but",
+                    "start": 5.12,
+                    "end": 5.76,
+                    "probability": 0.9959691762924194
+                },
+                {
+                    "word": " I",
+                    "start": 5.76,
+                    "end": 7.08,
+                    "probability": 0.957577645778656
+                },
+                {
+                    "word": " think",
+                    "start": 7.08,
+                    "end": 7.28,
+                    "probability": 0.9803149700164795
+                },
+                {
+                    "word": " we",
+                    "start": 7.28,
+                    "end": 7.58,
+                    "probability": 0.9970698356628418
+                },
+                {
+                    "word": " should",
+                    "start": 7.58,
+                    "end": 8.42,
+                    "probability": 0.9972208738327026
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.42,
+            "end": 16.32,
+            "text": " Ask our guests later if what what they think about cook and if",
+            "tokens": [
+                50824,
+                12320,
+                527,
+                9804,
+                1780,
+                498,
+                437,
+                437,
+                436,
+                519,
+                466,
+                2543,
+                293,
+                498,
+                51128
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208613395690918,
+            "compression_ratio": 1.5789473684210527,
+            "no_speech_prob": 0.008059665560722351,
+            "words": [
+                {
+                    "word": " Ask",
+                    "start": 8.42,
+                    "end": 9.98,
+                    "probability": 0.34885820746421814
+                },
+                {
+                    "word": " our",
+                    "start": 9.98,
+                    "end": 10.28,
+                    "probability": 0.992294430732727
+                },
+                {
+                    "word": " guests",
+                    "start": 10.28,
+                    "end": 10.78,
+                    "probability": 0.9875074028968811
+                },
+                {
+                    "word": " later",
+                    "start": 10.78,
+                    "end": 11.24,
+                    "probability": 0.9656016230583191
+                },
+                {
+                    "word": " if",
+                    "start": 11.24,
+                    "end": 12.34,
+                    "probability": 0.842822253704071
+                },
+                {
+                    "word": " what",
+                    "start": 12.34,
+                    "end": 12.8,
+                    "probability": 0.9753701090812683
+                },
+                {
+                    "word": " what",
+                    "start": 12.8,
+                    "end": 13.08,
+                    "probability": 0.944366455078125
+                },
+                {
+                    "word": " they",
+                    "start": 13.08,
+                    "end": 13.38,
+                    "probability": 0.9909021258354187
+                },
+                {
+                    "word": " think",
+                    "start": 13.38,
+                    "end": 13.64,
+                    "probability": 0.9991416931152344
+                },
+                {
+                    "word": " about",
+                    "start": 13.64,
+                    "end": 14.1,
+                    "probability": 0.9991418123245239
+                },
+                {
+                    "word": " cook",
+                    "start": 14.1,
+                    "end": 14.46,
+                    "probability": 0.9322279095649719
+                },
+                {
+                    "word": " and",
+                    "start": 14.46,
+                    "end": 15.1,
+                    "probability": 0.9781345129013062
+                },
+                {
+                    "word": " if",
+                    "start": 15.1,
+                    "end": 16.32,
+                    "probability": 0.9907616972923279
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.32,
+            "end": 21.82,
+            "text": " The and what they want to eat them. So we will go from there with the cook",
+            "tokens": [
+                51168,
+                440,
+                293,
+                437,
+                436,
+                528,
+                281,
+                1862,
+                552,
+                13,
+                407,
+                321,
+                486,
+                352,
+                490,
+                456,
+                365,
+                264,
+                2543,
+                51442
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208613395690918,
+            "compression_ratio": 1.5789473684210527,
+            "no_speech_prob": 0.008059665560722351,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 16.32,
+                    "end": 17.14,
+                    "probability": 0.2479006052017212
+                },
+                {
+                    "word": " and",
+                    "start": 17.14,
+                    "end": 17.34,
+                    "probability": 0.5901170969009399
+                },
+                {
+                    "word": " what",
+                    "start": 17.34,
+                    "end": 17.46,
+                    "probability": 0.9991450309753418
+                },
+                {
+                    "word": " they",
+                    "start": 17.46,
+                    "end": 17.66,
+                    "probability": 0.9951311349868774
+                },
+                {
+                    "word": " want",
+                    "start": 17.66,
+                    "end": 17.8,
+                    "probability": 0.9967402815818787
+                },
+                {
+                    "word": " to",
+                    "start": 17.8,
+                    "end": 18.02,
+                    "probability": 0.9967501163482666
+                },
+                {
+                    "word": " eat",
+                    "start": 18.02,
+                    "end": 18.54,
+                    "probability": 0.9941031336784363
+                },
+                {
+                    "word": " them.",
+                    "start": 18.54,
+                    "end": 18.86,
+                    "probability": 0.300090491771698
+                },
+                {
+                    "word": " So",
+                    "start": 18.86,
+                    "end": 19.3,
+                    "probability": 0.9785121083259583
+                },
+                {
+                    "word": " we",
+                    "start": 19.3,
+                    "end": 19.66,
+                    "probability": 0.9961379170417786
+                },
+                {
+                    "word": " will",
+                    "start": 19.66,
+                    "end": 20.42,
+                    "probability": 0.9940720200538635
+                },
+                {
+                    "word": " go",
+                    "start": 20.42,
+                    "end": 20.76,
+                    "probability": 0.9364441633224487
+                },
+                {
+                    "word": " from",
+                    "start": 20.76,
+                    "end": 21.0,
+                    "probability": 0.9971753358840942
+                },
+                {
+                    "word": " there",
+                    "start": 21.0,
+                    "end": 21.16,
+                    "probability": 0.9931073784828186
+                },
+                {
+                    "word": " with",
+                    "start": 21.16,
+                    "end": 21.36,
+                    "probability": 0.9928962588310242
+                },
+                {
+                    "word": " the",
+                    "start": 21.36,
+                    "end": 21.54,
+                    "probability": 0.995064914226532
+                },
+                {
+                    "word": " cook",
+                    "start": 21.54,
+                    "end": 21.82,
+                    "probability": 0.9658933281898499
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 21.82,
+            "end": 23.32,
+            "text": " Yeah",
+            "tokens": [
+                51530,
+                865,
+                51630
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3208613395690918,
+            "compression_ratio": 1.5789473684210527,
+            "no_speech_prob": 0.008059665560722351,
+            "words": [
+                {
+                    "word": " Yeah",
+                    "start": 21.82,
+                    "end": 23.32,
+                    "probability": 0.8890313506126404
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

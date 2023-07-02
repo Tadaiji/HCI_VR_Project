@@ -1,0 +1,455 @@
+{
+    "text": " This is a leather couch. The quality is really good and it's really really cozy and comfortable Especially in winters when we are watching Netflix with my girlfriend. It's really incredible thing I don't think it's a good idea to move this couch away Okay, I'm going to really nice. I liked it",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.94,
+            "text": " This is a leather couch. The quality is really good and it's really really cozy and comfortable",
+            "tokens": [
+                50364,
+                639,
+                307,
+                257,
+                12821,
+                16511,
+                13,
+                440,
+                3125,
+                307,
+                534,
+                665,
+                293,
+                309,
+                311,
+                534,
+                534,
+                29414,
+                293,
+                4619,
+                50629
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29203595055474174,
+            "compression_ratio": 1.5502645502645502,
+            "no_speech_prob": 0.006158068310469389,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.6925883293151855
+                },
+                {
+                    "word": " is",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.9894653558731079
+                },
+                {
+                    "word": " a",
+                    "start": 0.76,
+                    "end": 0.96,
+                    "probability": 0.571757972240448
+                },
+                {
+                    "word": " leather",
+                    "start": 0.96,
+                    "end": 1.18,
+                    "probability": 0.9953694939613342
+                },
+                {
+                    "word": " couch.",
+                    "start": 1.18,
+                    "end": 1.7,
+                    "probability": 0.9337937235832214
+                },
+                {
+                    "word": " The",
+                    "start": 2.2,
+                    "end": 2.42,
+                    "probability": 0.9606399536132812
+                },
+                {
+                    "word": " quality",
+                    "start": 2.42,
+                    "end": 2.7,
+                    "probability": 0.9928131699562073
+                },
+                {
+                    "word": " is",
+                    "start": 2.7,
+                    "end": 2.98,
+                    "probability": 0.9990742206573486
+                },
+                {
+                    "word": " really",
+                    "start": 2.98,
+                    "end": 3.22,
+                    "probability": 0.9981256127357483
+                },
+                {
+                    "word": " good",
+                    "start": 3.22,
+                    "end": 3.56,
+                    "probability": 0.999593198299408
+                },
+                {
+                    "word": " and",
+                    "start": 3.56,
+                    "end": 3.9,
+                    "probability": 0.5779682993888855
+                },
+                {
+                    "word": " it's",
+                    "start": 3.9,
+                    "end": 4.12,
+                    "probability": 0.9791749119758606
+                },
+                {
+                    "word": " really",
+                    "start": 4.12,
+                    "end": 4.36,
+                    "probability": 0.994722843170166
+                },
+                {
+                    "word": " really",
+                    "start": 4.36,
+                    "end": 4.82,
+                    "probability": 0.985255241394043
+                },
+                {
+                    "word": " cozy",
+                    "start": 4.82,
+                    "end": 5.02,
+                    "probability": 0.8408768177032471
+                },
+                {
+                    "word": " and",
+                    "start": 5.02,
+                    "end": 5.36,
+                    "probability": 0.9962239265441895
+                },
+                {
+                    "word": " comfortable",
+                    "start": 5.36,
+                    "end": 5.94,
+                    "probability": 0.9927576780319214
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.94,
+            "end": 12.1,
+            "text": " Especially in winters when we are watching Netflix with my girlfriend. It's really incredible thing",
+            "tokens": [
+                50670,
+                8545,
+                294,
+                1942,
+                1559,
+                562,
+                321,
+                366,
+                1976,
+                12778,
+                365,
+                452,
+                10369,
+                13,
+                467,
+                311,
+                534,
+                4651,
+                551,
+                50950
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29203595055474174,
+            "compression_ratio": 1.5502645502645502,
+            "no_speech_prob": 0.006158068310469389,
+            "words": [
+                {
+                    "word": " Especially",
+                    "start": 5.94,
+                    "end": 6.68,
+                    "probability": 0.6090349555015564
+                },
+                {
+                    "word": " in",
+                    "start": 6.68,
+                    "end": 6.92,
+                    "probability": 0.9977356195449829
+                },
+                {
+                    "word": " winters",
+                    "start": 6.92,
+                    "end": 7.32,
+                    "probability": 0.8800509870052338
+                },
+                {
+                    "word": " when",
+                    "start": 7.32,
+                    "end": 7.52,
+                    "probability": 0.8440744876861572
+                },
+                {
+                    "word": " we",
+                    "start": 7.52,
+                    "end": 7.7,
+                    "probability": 0.9411002397537231
+                },
+                {
+                    "word": " are",
+                    "start": 7.7,
+                    "end": 7.92,
+                    "probability": 0.9949315190315247
+                },
+                {
+                    "word": " watching",
+                    "start": 7.92,
+                    "end": 8.5,
+                    "probability": 0.9995427131652832
+                },
+                {
+                    "word": " Netflix",
+                    "start": 8.5,
+                    "end": 9.16,
+                    "probability": 0.9326866269111633
+                },
+                {
+                    "word": " with",
+                    "start": 9.16,
+                    "end": 9.9,
+                    "probability": 0.8576385378837585
+                },
+                {
+                    "word": " my",
+                    "start": 9.9,
+                    "end": 10.06,
+                    "probability": 0.8054105043411255
+                },
+                {
+                    "word": " girlfriend.",
+                    "start": 10.06,
+                    "end": 10.32,
+                    "probability": 0.9775727987289429
+                },
+                {
+                    "word": " It's",
+                    "start": 10.4,
+                    "end": 10.76,
+                    "probability": 0.9876039028167725
+                },
+                {
+                    "word": " really",
+                    "start": 10.76,
+                    "end": 11.04,
+                    "probability": 0.6949804425239563
+                },
+                {
+                    "word": " incredible",
+                    "start": 11.04,
+                    "end": 11.54,
+                    "probability": 0.9920571446418762
+                },
+                {
+                    "word": " thing",
+                    "start": 11.54,
+                    "end": 12.1,
+                    "probability": 0.9663385152816772
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.1,
+            "end": 16.76,
+            "text": " I don't think it's a good idea to move this couch away",
+            "tokens": [
+                50950,
+                286,
+                500,
+                380,
+                519,
+                309,
+                311,
+                257,
+                665,
+                1558,
+                281,
+                1286,
+                341,
+                16511,
+                1314,
+                51163
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29203595055474174,
+            "compression_ratio": 1.5502645502645502,
+            "no_speech_prob": 0.006158068310469389,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 12.1,
+                    "end": 12.48,
+                    "probability": 0.648833155632019
+                },
+                {
+                    "word": " don't",
+                    "start": 12.48,
+                    "end": 12.68,
+                    "probability": 0.9689844250679016
+                },
+                {
+                    "word": " think",
+                    "start": 12.68,
+                    "end": 12.82,
+                    "probability": 0.9931594133377075
+                },
+                {
+                    "word": " it's",
+                    "start": 12.82,
+                    "end": 13.38,
+                    "probability": 0.9884012937545776
+                },
+                {
+                    "word": " a",
+                    "start": 13.38,
+                    "end": 13.94,
+                    "probability": 0.9974005222320557
+                },
+                {
+                    "word": " good",
+                    "start": 13.94,
+                    "end": 14.14,
+                    "probability": 0.9981426000595093
+                },
+                {
+                    "word": " idea",
+                    "start": 14.14,
+                    "end": 14.48,
+                    "probability": 0.9994658827781677
+                },
+                {
+                    "word": " to",
+                    "start": 14.48,
+                    "end": 15.2,
+                    "probability": 0.9973813891410828
+                },
+                {
+                    "word": " move",
+                    "start": 15.2,
+                    "end": 15.4,
+                    "probability": 0.991786777973175
+                },
+                {
+                    "word": " this",
+                    "start": 15.4,
+                    "end": 15.7,
+                    "probability": 0.9843546152114868
+                },
+                {
+                    "word": " couch",
+                    "start": 15.7,
+                    "end": 15.94,
+                    "probability": 0.985220193862915
+                },
+                {
+                    "word": " away",
+                    "start": 15.94,
+                    "end": 16.76,
+                    "probability": 0.9951670169830322
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.76,
+            "end": 19.68,
+            "text": " Okay, I'm going to really nice. I liked it",
+            "tokens": [
+                51218,
+                1033,
+                11,
+                286,
+                478,
+                516,
+                281,
+                534,
+                1481,
+                13,
+                286,
+                4501,
+                309,
+                51344
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29203595055474174,
+            "compression_ratio": 1.5502645502645502,
+            "no_speech_prob": 0.006158068310469389,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 16.76,
+                    "end": 17.8,
+                    "probability": 0.4343392550945282
+                },
+                {
+                    "word": " I'm",
+                    "start": 17.9,
+                    "end": 17.94,
+                    "probability": 0.24959824234247208
+                },
+                {
+                    "word": " going",
+                    "start": 17.94,
+                    "end": 18.06,
+                    "probability": 0.2115262895822525
+                },
+                {
+                    "word": " to",
+                    "start": 18.06,
+                    "end": 18.16,
+                    "probability": 0.7076136469841003
+                },
+                {
+                    "word": " really",
+                    "start": 18.16,
+                    "end": 18.36,
+                    "probability": 0.5958864092826843
+                },
+                {
+                    "word": " nice.",
+                    "start": 18.36,
+                    "end": 18.88,
+                    "probability": 0.9928810596466064
+                },
+                {
+                    "word": " I",
+                    "start": 19.02,
+                    "end": 19.36,
+                    "probability": 0.999219536781311
+                },
+                {
+                    "word": " liked",
+                    "start": 19.36,
+                    "end": 19.52,
+                    "probability": 0.820846676826477
+                },
+                {
+                    "word": " it",
+                    "start": 19.52,
+                    "end": 19.68,
+                    "probability": 0.999757707118988
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

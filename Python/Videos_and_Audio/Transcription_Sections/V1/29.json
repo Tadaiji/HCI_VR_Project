@@ -1,0 +1,382 @@
+{
+    "text": " getting the couch in last time. So maybe we have to measure it but yeah the company could help us with that and there must be a way to get this couch out of this building. Yeah so I think we should take it with us.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 9.4,
+            "text": " getting the couch in last time. So maybe we have to measure it but yeah the",
+            "tokens": [
+                50364,
+                1242,
+                264,
+                16511,
+                294,
+                1036,
+                565,
+                13,
+                407,
+                1310,
+                321,
+                362,
+                281,
+                3481,
+                309,
+                457,
+                1338,
+                264,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3018579142434256,
+            "compression_ratio": 1.4861111111111112,
+            "no_speech_prob": 0.02320392243564129,
+            "words": [
+                {
+                    "word": " getting",
+                    "start": 0.28,
+                    "end": 0.76,
+                    "probability": 0.5096315145492554
+                },
+                {
+                    "word": " the",
+                    "start": 0.76,
+                    "end": 1.14,
+                    "probability": 0.9889011383056641
+                },
+                {
+                    "word": " couch",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.9676249623298645
+                },
+                {
+                    "word": " in",
+                    "start": 1.32,
+                    "end": 2.02,
+                    "probability": 0.9956009387969971
+                },
+                {
+                    "word": " last",
+                    "start": 2.02,
+                    "end": 2.96,
+                    "probability": 0.7602314352989197
+                },
+                {
+                    "word": " time.",
+                    "start": 2.96,
+                    "end": 3.34,
+                    "probability": 0.9974985718727112
+                },
+                {
+                    "word": " So",
+                    "start": 4.32,
+                    "end": 4.46,
+                    "probability": 0.8247212767601013
+                },
+                {
+                    "word": " maybe",
+                    "start": 4.46,
+                    "end": 5.32,
+                    "probability": 0.8345749974250793
+                },
+                {
+                    "word": " we",
+                    "start": 5.32,
+                    "end": 5.78,
+                    "probability": 0.9930031895637512
+                },
+                {
+                    "word": " have",
+                    "start": 5.78,
+                    "end": 6.0,
+                    "probability": 0.9775654077529907
+                },
+                {
+                    "word": " to",
+                    "start": 6.0,
+                    "end": 6.22,
+                    "probability": 0.999173104763031
+                },
+                {
+                    "word": " measure",
+                    "start": 6.22,
+                    "end": 6.44,
+                    "probability": 0.9995085000991821
+                },
+                {
+                    "word": " it",
+                    "start": 6.44,
+                    "end": 6.94,
+                    "probability": 0.9958642721176147
+                },
+                {
+                    "word": " but",
+                    "start": 6.94,
+                    "end": 7.7,
+                    "probability": 0.35685494542121887
+                },
+                {
+                    "word": " yeah",
+                    "start": 7.7,
+                    "end": 8.24,
+                    "probability": 0.6202690601348877
+                },
+                {
+                    "word": " the",
+                    "start": 8.24,
+                    "end": 9.4,
+                    "probability": 0.5520440936088562
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.4,
+            "end": 14.64,
+            "text": " company could help us with that and there must be a way to get this couch out of this building.",
+            "tokens": [
+                50828,
+                2237,
+                727,
+                854,
+                505,
+                365,
+                300,
+                293,
+                456,
+                1633,
+                312,
+                257,
+                636,
+                281,
+                483,
+                341,
+                16511,
+                484,
+                295,
+                341,
+                2390,
+                13,
+                51060
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3018579142434256,
+            "compression_ratio": 1.4861111111111112,
+            "no_speech_prob": 0.02320392243564129,
+            "words": [
+                {
+                    "word": " company",
+                    "start": 9.4,
+                    "end": 9.66,
+                    "probability": 0.9961122870445251
+                },
+                {
+                    "word": " could",
+                    "start": 9.66,
+                    "end": 9.88,
+                    "probability": 0.99498051404953
+                },
+                {
+                    "word": " help",
+                    "start": 9.88,
+                    "end": 10.46,
+                    "probability": 0.6505527496337891
+                },
+                {
+                    "word": " us",
+                    "start": 10.46,
+                    "end": 10.82,
+                    "probability": 0.8825787901878357
+                },
+                {
+                    "word": " with",
+                    "start": 10.82,
+                    "end": 11.1,
+                    "probability": 0.9966970682144165
+                },
+                {
+                    "word": " that",
+                    "start": 11.1,
+                    "end": 11.46,
+                    "probability": 0.9982448816299438
+                },
+                {
+                    "word": " and",
+                    "start": 11.46,
+                    "end": 12.4,
+                    "probability": 0.9170477390289307
+                },
+                {
+                    "word": " there",
+                    "start": 12.4,
+                    "end": 12.58,
+                    "probability": 0.9896111488342285
+                },
+                {
+                    "word": " must",
+                    "start": 12.58,
+                    "end": 12.78,
+                    "probability": 0.9981087446212769
+                },
+                {
+                    "word": " be",
+                    "start": 12.78,
+                    "end": 12.96,
+                    "probability": 0.9983221888542175
+                },
+                {
+                    "word": " a",
+                    "start": 12.96,
+                    "end": 13.06,
+                    "probability": 0.9911092519760132
+                },
+                {
+                    "word": " way",
+                    "start": 13.06,
+                    "end": 13.2,
+                    "probability": 0.9992345571517944
+                },
+                {
+                    "word": " to",
+                    "start": 13.2,
+                    "end": 13.42,
+                    "probability": 0.9336690902709961
+                },
+                {
+                    "word": " get",
+                    "start": 13.42,
+                    "end": 13.5,
+                    "probability": 0.990832507610321
+                },
+                {
+                    "word": " this",
+                    "start": 13.5,
+                    "end": 13.8,
+                    "probability": 0.9752966165542603
+                },
+                {
+                    "word": " couch",
+                    "start": 13.8,
+                    "end": 13.98,
+                    "probability": 0.9577611088752747
+                },
+                {
+                    "word": " out",
+                    "start": 13.98,
+                    "end": 14.18,
+                    "probability": 0.984683096408844
+                },
+                {
+                    "word": " of",
+                    "start": 14.18,
+                    "end": 14.28,
+                    "probability": 0.9572569131851196
+                },
+                {
+                    "word": " this",
+                    "start": 14.28,
+                    "end": 14.42,
+                    "probability": 0.9787108302116394
+                },
+                {
+                    "word": " building.",
+                    "start": 14.42,
+                    "end": 14.64,
+                    "probability": 0.9983332753181458
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.36,
+            "end": 19.48,
+            "text": " Yeah so I think we should take it with us.",
+            "tokens": [
+                51060,
+                865,
+                370,
+                286,
+                519,
+                321,
+                820,
+                747,
+                309,
+                365,
+                505,
+                13,
+                51426
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3018579142434256,
+            "compression_ratio": 1.4861111111111112,
+            "no_speech_prob": 0.02320392243564129,
+            "words": [
+                {
+                    "word": " Yeah",
+                    "start": 16.36,
+                    "end": 16.36,
+                    "probability": 0.49910828471183777
+                },
+                {
+                    "word": " so",
+                    "start": 16.36,
+                    "end": 17.36,
+                    "probability": 0.6331773400306702
+                },
+                {
+                    "word": " I",
+                    "start": 17.36,
+                    "end": 18.12,
+                    "probability": 0.9363329410552979
+                },
+                {
+                    "word": " think",
+                    "start": 18.12,
+                    "end": 18.38,
+                    "probability": 0.9997109770774841
+                },
+                {
+                    "word": " we",
+                    "start": 18.38,
+                    "end": 18.58,
+                    "probability": 0.997925877571106
+                },
+                {
+                    "word": " should",
+                    "start": 18.58,
+                    "end": 18.7,
+                    "probability": 0.9988464117050171
+                },
+                {
+                    "word": " take",
+                    "start": 18.7,
+                    "end": 18.86,
+                    "probability": 0.9993201494216919
+                },
+                {
+                    "word": " it",
+                    "start": 18.86,
+                    "end": 19.0,
+                    "probability": 0.9989823698997498
+                },
+                {
+                    "word": " with",
+                    "start": 19.0,
+                    "end": 19.18,
+                    "probability": 0.9993681311607361
+                },
+                {
+                    "word": " us.",
+                    "start": 19.18,
+                    "end": 19.48,
+                    "probability": 0.9994674324989319
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

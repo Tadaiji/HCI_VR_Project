@@ -1,0 +1,95 @@
+{
+    "text": " So we have a couch, what about a new table?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 2.08,
+            "end": 5.5,
+            "text": " So we have a couch, what about a new table?",
+            "tokens": [
+                50364,
+                407,
+                321,
+                362,
+                257,
+                16511,
+                11,
+                437,
+                466,
+                257,
+                777,
+                3199,
+                30,
+                50732
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37097145716349283,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.018710998818278313,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.08,
+                    "end": 2.6,
+                    "probability": 0.5379853844642639
+                },
+                {
+                    "word": " we",
+                    "start": 2.6,
+                    "end": 2.88,
+                    "probability": 0.6268991231918335
+                },
+                {
+                    "word": " have",
+                    "start": 2.88,
+                    "end": 3.12,
+                    "probability": 0.9909130334854126
+                },
+                {
+                    "word": " a",
+                    "start": 3.12,
+                    "end": 3.4,
+                    "probability": 0.9437551498413086
+                },
+                {
+                    "word": " couch,",
+                    "start": 3.4,
+                    "end": 3.72,
+                    "probability": 0.7497965097427368
+                },
+                {
+                    "word": " what",
+                    "start": 4.48,
+                    "end": 4.7,
+                    "probability": 0.973373532295227
+                },
+                {
+                    "word": " about",
+                    "start": 4.7,
+                    "end": 4.94,
+                    "probability": 0.9977309107780457
+                },
+                {
+                    "word": " a",
+                    "start": 4.94,
+                    "end": 5.1,
+                    "probability": 0.8878725171089172
+                },
+                {
+                    "word": " new",
+                    "start": 5.1,
+                    "end": 5.24,
+                    "probability": 0.9870670437812805
+                },
+                {
+                    "word": " table?",
+                    "start": 5.24,
+                    "end": 5.5,
+                    "probability": 0.8100104331970215
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,45 @@
+{
+    "text": " birthday parties though.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.58,
+            "text": " birthday parties though.",
+            "tokens": [
+                50364,
+                6154,
+                8265,
+                1673,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8303335053580148,
+            "compression_ratio": 0.75,
+            "no_speech_prob": 0.5964556932449341,
+            "words": [
+                {
+                    "word": " birthday",
+                    "start": 0.0,
+                    "end": 0.54,
+                    "probability": 0.30913400650024414
+                },
+                {
+                    "word": " parties",
+                    "start": 0.54,
+                    "end": 1.18,
+                    "probability": 0.7906976938247681
+                },
+                {
+                    "word": " though.",
+                    "start": 1.18,
+                    "end": 1.58,
+                    "probability": 0.4057088792324066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

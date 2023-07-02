@@ -1,0 +1,199 @@
+{
+    "text": " Well guys, I want to propose a rearrangement of our furniture. Because as you can see, this room seems a bit packed.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.22,
+            "text": " Well guys, I want to propose a rearrangement of our furniture.",
+            "tokens": [
+                50364,
+                1042,
+                1074,
+                11,
+                286,
+                528,
+                281,
+                17421,
+                257,
+                39568,
+                518,
+                295,
+                527,
+                15671,
+                13,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4822235107421875,
+            "compression_ratio": 1.1485148514851484,
+            "no_speech_prob": 0.003581465221941471,
+            "words": [
+                {
+                    "word": " Well",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7397648096084595
+                },
+                {
+                    "word": " guys,",
+                    "start": 0.28,
+                    "end": 0.9,
+                    "probability": 0.7941222786903381
+                },
+                {
+                    "word": " I",
+                    "start": 1.86,
+                    "end": 2.86,
+                    "probability": 0.5369728207588196
+                },
+                {
+                    "word": " want",
+                    "start": 2.86,
+                    "end": 3.14,
+                    "probability": 0.9343588352203369
+                },
+                {
+                    "word": " to",
+                    "start": 3.14,
+                    "end": 3.32,
+                    "probability": 0.9970558881759644
+                },
+                {
+                    "word": " propose",
+                    "start": 3.32,
+                    "end": 4.42,
+                    "probability": 0.9907254576683044
+                },
+                {
+                    "word": " a",
+                    "start": 4.42,
+                    "end": 4.68,
+                    "probability": 0.9384702444076538
+                },
+                {
+                    "word": " rearrangement",
+                    "start": 4.68,
+                    "end": 5.24,
+                    "probability": 0.9612861573696136
+                },
+                {
+                    "word": " of",
+                    "start": 5.24,
+                    "end": 5.42,
+                    "probability": 0.9882596731185913
+                },
+                {
+                    "word": " our",
+                    "start": 5.42,
+                    "end": 5.66,
+                    "probability": 0.9774977564811707
+                },
+                {
+                    "word": " furniture.",
+                    "start": 5.66,
+                    "end": 6.22,
+                    "probability": 0.9979550838470459
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.48,
+            "end": 14.44,
+            "text": " Because as you can see, this room seems a bit packed.",
+            "tokens": [
+                50684,
+                1436,
+                382,
+                291,
+                393,
+                536,
+                11,
+                341,
+                1808,
+                2544,
+                257,
+                857,
+                13265,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4822235107421875,
+            "compression_ratio": 1.1485148514851484,
+            "no_speech_prob": 0.003581465221941471,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 9.48,
+                    "end": 9.5,
+                    "probability": 0.5280532240867615
+                },
+                {
+                    "word": " as",
+                    "start": 9.5,
+                    "end": 9.9,
+                    "probability": 0.6794671416282654
+                },
+                {
+                    "word": " you",
+                    "start": 9.9,
+                    "end": 10.08,
+                    "probability": 0.9979552030563354
+                },
+                {
+                    "word": " can",
+                    "start": 10.08,
+                    "end": 10.38,
+                    "probability": 0.9949983358383179
+                },
+                {
+                    "word": " see,",
+                    "start": 10.38,
+                    "end": 11.18,
+                    "probability": 0.9979088306427002
+                },
+                {
+                    "word": " this",
+                    "start": 11.6,
+                    "end": 11.8,
+                    "probability": 0.9586361646652222
+                },
+                {
+                    "word": " room",
+                    "start": 11.8,
+                    "end": 12.28,
+                    "probability": 0.9954013824462891
+                },
+                {
+                    "word": " seems",
+                    "start": 12.28,
+                    "end": 13.1,
+                    "probability": 0.9572714567184448
+                },
+                {
+                    "word": " a",
+                    "start": 13.1,
+                    "end": 13.3,
+                    "probability": 0.9723379015922546
+                },
+                {
+                    "word": " bit",
+                    "start": 13.3,
+                    "end": 13.76,
+                    "probability": 0.995009183883667
+                },
+                {
+                    "word": " packed.",
+                    "start": 13.76,
+                    "end": 14.44,
+                    "probability": 0.9898720383644104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

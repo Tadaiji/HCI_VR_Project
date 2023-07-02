@@ -1,0 +1,31 @@
+{
+    "text": " Good.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.02,
+            "text": " Good.",
+            "tokens": [
+                50364,
+                2205,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7320295333862304,
+            "compression_ratio": 0.38461538461538464,
+            "no_speech_prob": 0.740919291973114,
+            "words": [
+                {
+                    "word": " Good.",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.22180038690567017
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

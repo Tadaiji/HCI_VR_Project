@@ -1,0 +1,872 @@
+{
+    "text": " Well, the smart way to do this movement stuff, I think we should start placing things in the corner. As long as we have things in the middle or unorganized, they occupy lots of our space and we usually didn't get some place to arrange our stuff. So I would suggest we can have our sofa in the corner. And this corner? This corner, this other corner may be good because here you can have the good light from the window so this leather sofa will shine more and you can have a good feeling when you're watching Netflix here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.2,
+            "text": " Well, the smart way to do this movement stuff, I think we should start placing things in",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                264,
+                4069,
+                636,
+                281,
+                360,
+                341,
+                3963,
+                1507,
+                11,
+                286,
+                519,
+                321,
+                820,
+                722,
+                17221,
+                721,
+                294,
+                50766
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.07734733074903488
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.58,
+                    "probability": 0.4730716645717621
+                },
+                {
+                    "word": " smart",
+                    "start": 0.58,
+                    "end": 1.0,
+                    "probability": 0.9642742276191711
+                },
+                {
+                    "word": " way",
+                    "start": 1.0,
+                    "end": 1.44,
+                    "probability": 0.9908814430236816
+                },
+                {
+                    "word": " to",
+                    "start": 1.44,
+                    "end": 1.8,
+                    "probability": 0.9548171162605286
+                },
+                {
+                    "word": " do",
+                    "start": 1.8,
+                    "end": 2.68,
+                    "probability": 0.9839748740196228
+                },
+                {
+                    "word": " this",
+                    "start": 2.68,
+                    "end": 3.92,
+                    "probability": 0.8477945327758789
+                },
+                {
+                    "word": " movement",
+                    "start": 3.92,
+                    "end": 4.46,
+                    "probability": 0.8688181638717651
+                },
+                {
+                    "word": " stuff,",
+                    "start": 4.46,
+                    "end": 4.82,
+                    "probability": 0.9832403063774109
+                },
+                {
+                    "word": " I",
+                    "start": 5.18,
+                    "end": 5.18,
+                    "probability": 0.9574238657951355
+                },
+                {
+                    "word": " think",
+                    "start": 5.18,
+                    "end": 5.92,
+                    "probability": 0.9976275563240051
+                },
+                {
+                    "word": " we",
+                    "start": 5.92,
+                    "end": 6.58,
+                    "probability": 0.42701947689056396
+                },
+                {
+                    "word": " should",
+                    "start": 6.58,
+                    "end": 6.9,
+                    "probability": 0.9883147478103638
+                },
+                {
+                    "word": " start",
+                    "start": 6.9,
+                    "end": 7.32,
+                    "probability": 0.9025034308433533
+                },
+                {
+                    "word": " placing",
+                    "start": 7.32,
+                    "end": 7.66,
+                    "probability": 0.9671958684921265
+                },
+                {
+                    "word": " things",
+                    "start": 7.66,
+                    "end": 7.98,
+                    "probability": 0.9925537705421448
+                },
+                {
+                    "word": " in",
+                    "start": 7.98,
+                    "end": 8.2,
+                    "probability": 0.9918583035469055
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.2,
+            "end": 8.68,
+            "text": " the corner.",
+            "tokens": [
+                50766,
+                264,
+                4538,
+                13,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 8.2,
+                    "end": 8.38,
+                    "probability": 0.9855389595031738
+                },
+                {
+                    "word": " corner.",
+                    "start": 8.38,
+                    "end": 8.68,
+                    "probability": 0.9690611362457275
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.82,
+            "end": 14.26,
+            "text": " As long as we have things in the middle or unorganized, they occupy lots of our space",
+            "tokens": [
+                50816,
+                1018,
+                938,
+                382,
+                321,
+                362,
+                721,
+                294,
+                264,
+                2808,
+                420,
+                517,
+                12372,
+                1602,
+                11,
+                436,
+                30645,
+                3195,
+                295,
+                527,
+                1901,
+                51094
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " As",
+                    "start": 8.82,
+                    "end": 9.2,
+                    "probability": 0.958094596862793
+                },
+                {
+                    "word": " long",
+                    "start": 9.2,
+                    "end": 9.4,
+                    "probability": 0.9855683445930481
+                },
+                {
+                    "word": " as",
+                    "start": 9.4,
+                    "end": 9.58,
+                    "probability": 0.9867460131645203
+                },
+                {
+                    "word": " we",
+                    "start": 9.58,
+                    "end": 9.72,
+                    "probability": 0.9722723960876465
+                },
+                {
+                    "word": " have",
+                    "start": 9.72,
+                    "end": 9.88,
+                    "probability": 0.9957257509231567
+                },
+                {
+                    "word": " things",
+                    "start": 9.88,
+                    "end": 10.12,
+                    "probability": 0.9887767434120178
+                },
+                {
+                    "word": " in",
+                    "start": 10.12,
+                    "end": 10.34,
+                    "probability": 0.996300458908081
+                },
+                {
+                    "word": " the",
+                    "start": 10.34,
+                    "end": 10.48,
+                    "probability": 0.9979714751243591
+                },
+                {
+                    "word": " middle",
+                    "start": 10.48,
+                    "end": 10.9,
+                    "probability": 0.998683512210846
+                },
+                {
+                    "word": " or",
+                    "start": 10.9,
+                    "end": 11.5,
+                    "probability": 0.7386612296104431
+                },
+                {
+                    "word": " unorganized,",
+                    "start": 11.5,
+                    "end": 12.3,
+                    "probability": 0.9590836962064108
+                },
+                {
+                    "word": " they",
+                    "start": 12.32,
+                    "end": 12.56,
+                    "probability": 0.9736608266830444
+                },
+                {
+                    "word": " occupy",
+                    "start": 12.56,
+                    "end": 12.98,
+                    "probability": 0.9724659323692322
+                },
+                {
+                    "word": " lots",
+                    "start": 12.98,
+                    "end": 13.3,
+                    "probability": 0.9611098170280457
+                },
+                {
+                    "word": " of",
+                    "start": 13.3,
+                    "end": 13.62,
+                    "probability": 0.9983206391334534
+                },
+                {
+                    "word": " our",
+                    "start": 13.62,
+                    "end": 13.76,
+                    "probability": 0.9680593609809875
+                },
+                {
+                    "word": " space",
+                    "start": 13.76,
+                    "end": 14.26,
+                    "probability": 0.9933496117591858
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.26,
+            "end": 18.38,
+            "text": " and we usually didn't get some place to arrange our stuff.",
+            "tokens": [
+                51094,
+                293,
+                321,
+                2673,
+                994,
+                380,
+                483,
+                512,
+                1081,
+                281,
+                9424,
+                527,
+                1507,
+                13,
+                51286
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 14.26,
+                    "end": 15.04,
+                    "probability": 0.6225682497024536
+                },
+                {
+                    "word": " we",
+                    "start": 15.04,
+                    "end": 15.4,
+                    "probability": 0.7313348054885864
+                },
+                {
+                    "word": " usually",
+                    "start": 15.4,
+                    "end": 15.64,
+                    "probability": 0.9689978957176208
+                },
+                {
+                    "word": " didn't",
+                    "start": 15.64,
+                    "end": 15.96,
+                    "probability": 0.7073304355144501
+                },
+                {
+                    "word": " get",
+                    "start": 15.96,
+                    "end": 16.26,
+                    "probability": 0.993525505065918
+                },
+                {
+                    "word": " some",
+                    "start": 16.26,
+                    "end": 16.98,
+                    "probability": 0.970503032207489
+                },
+                {
+                    "word": " place",
+                    "start": 16.98,
+                    "end": 17.44,
+                    "probability": 0.9650099873542786
+                },
+                {
+                    "word": " to",
+                    "start": 17.44,
+                    "end": 17.74,
+                    "probability": 0.9965003728866577
+                },
+                {
+                    "word": " arrange",
+                    "start": 17.74,
+                    "end": 17.94,
+                    "probability": 0.9824367761611938
+                },
+                {
+                    "word": " our",
+                    "start": 17.94,
+                    "end": 18.2,
+                    "probability": 0.9386183619499207
+                },
+                {
+                    "word": " stuff.",
+                    "start": 18.2,
+                    "end": 18.38,
+                    "probability": 0.9768990874290466
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.4,
+            "end": 22.04,
+            "text": " So I would suggest we can have our sofa in the corner.",
+            "tokens": [
+                51286,
+                407,
+                286,
+                576,
+                3402,
+                321,
+                393,
+                362,
+                527,
+                28668,
+                294,
+                264,
+                4538,
+                13,
+                51466
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 18.4,
+                    "end": 18.56,
+                    "probability": 0.9568092823028564
+                },
+                {
+                    "word": " I",
+                    "start": 18.56,
+                    "end": 18.68,
+                    "probability": 0.8579123616218567
+                },
+                {
+                    "word": " would",
+                    "start": 18.68,
+                    "end": 18.84,
+                    "probability": 0.9467253088951111
+                },
+                {
+                    "word": " suggest",
+                    "start": 18.84,
+                    "end": 19.32,
+                    "probability": 0.9991292357444763
+                },
+                {
+                    "word": " we",
+                    "start": 19.32,
+                    "end": 19.86,
+                    "probability": 0.962806761264801
+                },
+                {
+                    "word": " can",
+                    "start": 19.86,
+                    "end": 20.02,
+                    "probability": 0.9921703934669495
+                },
+                {
+                    "word": " have",
+                    "start": 20.02,
+                    "end": 20.3,
+                    "probability": 0.9978165626525879
+                },
+                {
+                    "word": " our",
+                    "start": 20.3,
+                    "end": 20.84,
+                    "probability": 0.9881845712661743
+                },
+                {
+                    "word": " sofa",
+                    "start": 20.84,
+                    "end": 21.22,
+                    "probability": 0.996762752532959
+                },
+                {
+                    "word": " in",
+                    "start": 21.22,
+                    "end": 21.52,
+                    "probability": 0.8900102972984314
+                },
+                {
+                    "word": " the",
+                    "start": 21.52,
+                    "end": 21.7,
+                    "probability": 0.9937484264373779
+                },
+                {
+                    "word": " corner.",
+                    "start": 21.7,
+                    "end": 22.04,
+                    "probability": 0.9990447163581848
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 22.36,
+            "end": 23.08,
+            "text": " And this corner?",
+            "tokens": [
+                51466,
+                400,
+                341,
+                4538,
+                30,
+                51516
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 22.36,
+                    "end": 22.44,
+                    "probability": 0.34720370173454285
+                },
+                {
+                    "word": " this",
+                    "start": 22.44,
+                    "end": 22.68,
+                    "probability": 0.5573974251747131
+                },
+                {
+                    "word": " corner?",
+                    "start": 22.68,
+                    "end": 23.08,
+                    "probability": 0.9732223153114319
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 24.12,
+            "end": 29.24,
+            "text": " This corner, this other corner may be good because here you can have the good light from",
+            "tokens": [
+                51516,
+                639,
+                4538,
+                11,
+                341,
+                661,
+                4538,
+                815,
+                312,
+                665,
+                570,
+                510,
+                291,
+                393,
+                362,
+                264,
+                665,
+                1442,
+                490,
+                51820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2593463141963167,
+            "compression_ratio": 1.7276595744680852,
+            "no_speech_prob": 0.48761406540870667,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 24.12,
+                    "end": 24.22,
+                    "probability": 0.7852239608764648
+                },
+                {
+                    "word": " corner,",
+                    "start": 24.22,
+                    "end": 24.48,
+                    "probability": 0.27902182936668396
+                },
+                {
+                    "word": " this",
+                    "start": 24.48,
+                    "end": 24.74,
+                    "probability": 0.8613367676734924
+                },
+                {
+                    "word": " other",
+                    "start": 24.74,
+                    "end": 24.94,
+                    "probability": 0.980772852897644
+                },
+                {
+                    "word": " corner",
+                    "start": 24.94,
+                    "end": 25.16,
+                    "probability": 0.9958295226097107
+                },
+                {
+                    "word": " may",
+                    "start": 25.16,
+                    "end": 25.4,
+                    "probability": 0.7755329608917236
+                },
+                {
+                    "word": " be",
+                    "start": 25.4,
+                    "end": 25.56,
+                    "probability": 0.9992412328720093
+                },
+                {
+                    "word": " good",
+                    "start": 25.56,
+                    "end": 25.8,
+                    "probability": 0.9990008473396301
+                },
+                {
+                    "word": " because",
+                    "start": 25.8,
+                    "end": 26.38,
+                    "probability": 0.8576210141181946
+                },
+                {
+                    "word": " here",
+                    "start": 26.38,
+                    "end": 27.3,
+                    "probability": 0.9697684049606323
+                },
+                {
+                    "word": " you",
+                    "start": 27.3,
+                    "end": 27.78,
+                    "probability": 0.9671000242233276
+                },
+                {
+                    "word": " can",
+                    "start": 27.78,
+                    "end": 28.04,
+                    "probability": 0.9981978535652161
+                },
+                {
+                    "word": " have",
+                    "start": 28.04,
+                    "end": 28.22,
+                    "probability": 0.9988232254981995
+                },
+                {
+                    "word": " the",
+                    "start": 28.22,
+                    "end": 28.48,
+                    "probability": 0.9276311993598938
+                },
+                {
+                    "word": " good",
+                    "start": 28.48,
+                    "end": 28.72,
+                    "probability": 0.995261549949646
+                },
+                {
+                    "word": " light",
+                    "start": 28.72,
+                    "end": 28.96,
+                    "probability": 0.9851168394088745
+                },
+                {
+                    "word": " from",
+                    "start": 28.96,
+                    "end": 29.24,
+                    "probability": 0.9833364486694336
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2924,
+            "start": 29.24,
+            "end": 34.74,
+            "text": " the window so this leather sofa will shine more and you can have a good feeling when",
+            "tokens": [
+                50364,
+                264,
+                4910,
+                370,
+                341,
+                12821,
+                28668,
+                486,
+                12207,
+                544,
+                293,
+                291,
+                393,
+                362,
+                257,
+                665,
+                2633,
+                562,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32067676952907015,
+            "compression_ratio": 1.1875,
+            "no_speech_prob": 0.9136402606964111,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 29.24,
+                    "end": 29.66,
+                    "probability": 0.056393541395664215
+                },
+                {
+                    "word": " window",
+                    "start": 29.66,
+                    "end": 29.66,
+                    "probability": 0.45894744992256165
+                },
+                {
+                    "word": " so",
+                    "start": 29.66,
+                    "end": 29.94,
+                    "probability": 0.737409234046936
+                },
+                {
+                    "word": " this",
+                    "start": 29.94,
+                    "end": 30.28,
+                    "probability": 0.9075897336006165
+                },
+                {
+                    "word": " leather",
+                    "start": 30.28,
+                    "end": 30.56,
+                    "probability": 0.9514374732971191
+                },
+                {
+                    "word": " sofa",
+                    "start": 30.56,
+                    "end": 31.4,
+                    "probability": 0.9622308015823364
+                },
+                {
+                    "word": " will",
+                    "start": 31.4,
+                    "end": 31.96,
+                    "probability": 0.9833595752716064
+                },
+                {
+                    "word": " shine",
+                    "start": 31.96,
+                    "end": 32.3,
+                    "probability": 0.9982714653015137
+                },
+                {
+                    "word": " more",
+                    "start": 32.3,
+                    "end": 32.72,
+                    "probability": 0.9933943152427673
+                },
+                {
+                    "word": " and",
+                    "start": 32.72,
+                    "end": 32.92,
+                    "probability": 0.9189245104789734
+                },
+                {
+                    "word": " you",
+                    "start": 32.92,
+                    "end": 33.14,
+                    "probability": 0.9917540550231934
+                },
+                {
+                    "word": " can",
+                    "start": 33.14,
+                    "end": 33.58,
+                    "probability": 0.9186928272247314
+                },
+                {
+                    "word": " have",
+                    "start": 33.58,
+                    "end": 33.74,
+                    "probability": 0.4913235604763031
+                },
+                {
+                    "word": " a",
+                    "start": 33.74,
+                    "end": 34.0,
+                    "probability": 0.913360595703125
+                },
+                {
+                    "word": " good",
+                    "start": 34.0,
+                    "end": 34.14,
+                    "probability": 0.9926409125328064
+                },
+                {
+                    "word": " feeling",
+                    "start": 34.14,
+                    "end": 34.5,
+                    "probability": 0.977403998374939
+                },
+                {
+                    "word": " when",
+                    "start": 34.5,
+                    "end": 34.74,
+                    "probability": 0.40851011872291565
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2924,
+            "start": 34.74,
+            "end": 36.58,
+            "text": " you're watching Netflix here.",
+            "tokens": [
+                50632,
+                291,
+                434,
+                1976,
+                12778,
+                510,
+                13,
+                50730
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32067676952907015,
+            "compression_ratio": 1.1875,
+            "no_speech_prob": 0.9136402606964111,
+            "words": [
+                {
+                    "word": " you're",
+                    "start": 34.74,
+                    "end": 35.32,
+                    "probability": 0.8188963532447815
+                },
+                {
+                    "word": " watching",
+                    "start": 35.32,
+                    "end": 35.76,
+                    "probability": 0.9305757284164429
+                },
+                {
+                    "word": " Netflix",
+                    "start": 35.76,
+                    "end": 36.24,
+                    "probability": 0.9777334928512573
+                },
+                {
+                    "word": " here.",
+                    "start": 36.24,
+                    "end": 36.58,
+                    "probability": 0.9782921671867371
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

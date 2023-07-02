@@ -1,0 +1,52 @@
+{
+    "text": " Maybe a small drawing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.4,
+            "end": 3.0,
+            "text": " Maybe a small drawing.",
+            "tokens": [
+                50364,
+                2704,
+                257,
+                1359,
+                6316,
+                13,
+                50628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7357184290885925,
+            "compression_ratio": 0.7333333333333333,
+            "no_speech_prob": 0.02166863903403282,
+            "words": [
+                {
+                    "word": " Maybe",
+                    "start": 0.4,
+                    "end": 1.44,
+                    "probability": 0.3034370541572571
+                },
+                {
+                    "word": " a",
+                    "start": 1.44,
+                    "end": 2.24,
+                    "probability": 0.945973813533783
+                },
+                {
+                    "word": " small",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.9869883060455322
+                },
+                {
+                    "word": " drawing.",
+                    "start": 2.48,
+                    "end": 3.0,
+                    "probability": 0.8627714514732361
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

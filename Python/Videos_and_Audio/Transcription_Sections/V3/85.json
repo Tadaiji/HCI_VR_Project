@@ -1,0 +1,117 @@
+{
+    "text": " Okay, let's wait for some time and then I can make my map.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.78,
+            "text": " Okay, let's wait for some time and then I can make my map.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                718,
+                311,
+                1699,
+                337,
+                512,
+                565,
+                293,
+                550,
+                286,
+                393,
+                652,
+                452,
+                4471,
+                13,
+                50552
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3342005077161287,
+            "compression_ratio": 0.9206349206349206,
+            "no_speech_prob": 0.020631607621908188,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.6284831762313843
+                },
+                {
+                    "word": " let's",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.9882798790931702
+                },
+                {
+                    "word": " wait",
+                    "start": 0.86,
+                    "end": 1.62,
+                    "probability": 0.6387486457824707
+                },
+                {
+                    "word": " for",
+                    "start": 1.62,
+                    "end": 2.04,
+                    "probability": 0.9888445734977722
+                },
+                {
+                    "word": " some",
+                    "start": 2.04,
+                    "end": 2.28,
+                    "probability": 0.9616105556488037
+                },
+                {
+                    "word": " time",
+                    "start": 2.28,
+                    "end": 2.5,
+                    "probability": 0.9987338185310364
+                },
+                {
+                    "word": " and",
+                    "start": 2.5,
+                    "end": 2.78,
+                    "probability": 0.8021963834762573
+                },
+                {
+                    "word": " then",
+                    "start": 2.78,
+                    "end": 2.96,
+                    "probability": 0.9917948842048645
+                },
+                {
+                    "word": " I",
+                    "start": 2.96,
+                    "end": 3.08,
+                    "probability": 0.96185302734375
+                },
+                {
+                    "word": " can",
+                    "start": 3.08,
+                    "end": 3.3,
+                    "probability": 0.9966212511062622
+                },
+                {
+                    "word": " make",
+                    "start": 3.3,
+                    "end": 3.54,
+                    "probability": 0.9727448225021362
+                },
+                {
+                    "word": " my",
+                    "start": 3.54,
+                    "end": 3.68,
+                    "probability": 0.3635765612125397
+                },
+                {
+                    "word": " map.",
+                    "start": 3.68,
+                    "end": 3.78,
+                    "probability": 0.31384000182151794
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

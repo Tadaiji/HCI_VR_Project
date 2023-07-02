@@ -1,0 +1,211 @@
+{
+    "text": " fantastic table. So let's go with that. So we throw out this table. We don't need it anymore. Okay. Easier to move. Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.12,
+            "text": " fantastic table. So let's go with that. So we throw out this table.",
+            "tokens": [
+                50364,
+                5456,
+                3199,
+                13,
+                407,
+                718,
+                311,
+                352,
+                365,
+                300,
+                13,
+                407,
+                321,
+                3507,
+                484,
+                341,
+                3199,
+                13,
+                50616
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3671387371264006,
+            "compression_ratio": 1.1764705882352942,
+            "no_speech_prob": 0.10344073176383972,
+            "words": [
+                {
+                    "word": " fantastic",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.12976610660552979
+                },
+                {
+                    "word": " table.",
+                    "start": 0.64,
+                    "end": 1.08,
+                    "probability": 0.9652723670005798
+                },
+                {
+                    "word": " So",
+                    "start": 1.48,
+                    "end": 1.76,
+                    "probability": 0.7519559860229492
+                },
+                {
+                    "word": " let's",
+                    "start": 1.76,
+                    "end": 2.54,
+                    "probability": 0.93441441655159
+                },
+                {
+                    "word": " go",
+                    "start": 2.54,
+                    "end": 2.76,
+                    "probability": 0.7790083885192871
+                },
+                {
+                    "word": " with",
+                    "start": 2.76,
+                    "end": 2.98,
+                    "probability": 0.9948155283927917
+                },
+                {
+                    "word": " that.",
+                    "start": 2.98,
+                    "end": 3.3,
+                    "probability": 0.9712347388267517
+                },
+                {
+                    "word": " So",
+                    "start": 3.74,
+                    "end": 3.74,
+                    "probability": 0.745953381061554
+                },
+                {
+                    "word": " we",
+                    "start": 3.74,
+                    "end": 4.2,
+                    "probability": 0.7123166918754578
+                },
+                {
+                    "word": " throw",
+                    "start": 4.2,
+                    "end": 4.5,
+                    "probability": 0.5891077518463135
+                },
+                {
+                    "word": " out",
+                    "start": 4.5,
+                    "end": 4.74,
+                    "probability": 0.7827928066253662
+                },
+                {
+                    "word": " this",
+                    "start": 4.74,
+                    "end": 4.92,
+                    "probability": 0.9588134288787842
+                },
+                {
+                    "word": " table.",
+                    "start": 4.92,
+                    "end": 5.12,
+                    "probability": 0.9883251190185547
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 9.9,
+            "text": " We don't need it anymore. Okay. Easier to move. Yes.",
+            "tokens": [
+                50616,
+                492,
+                500,
+                380,
+                643,
+                309,
+                3602,
+                13,
+                1033,
+                13,
+                46879,
+                811,
+                281,
+                1286,
+                13,
+                1079,
+                13,
+                50996
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3671387371264006,
+            "compression_ratio": 1.1764705882352942,
+            "no_speech_prob": 0.10344073176383972,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.38,
+                    "end": 5.38,
+                    "probability": 0.9117798209190369
+                },
+                {
+                    "word": " don't",
+                    "start": 5.38,
+                    "end": 5.54,
+                    "probability": 0.9876613914966583
+                },
+                {
+                    "word": " need",
+                    "start": 5.54,
+                    "end": 5.74,
+                    "probability": 0.9976359605789185
+                },
+                {
+                    "word": " it",
+                    "start": 5.74,
+                    "end": 5.92,
+                    "probability": 0.9792976379394531
+                },
+                {
+                    "word": " anymore.",
+                    "start": 5.92,
+                    "end": 6.3,
+                    "probability": 0.9608303308486938
+                },
+                {
+                    "word": " Okay.",
+                    "start": 7.4,
+                    "end": 7.4,
+                    "probability": 0.5733174085617065
+                },
+                {
+                    "word": " Easier",
+                    "start": 8.02,
+                    "end": 8.38,
+                    "probability": 0.8261813223361969
+                },
+                {
+                    "word": " to",
+                    "start": 8.38,
+                    "end": 8.6,
+                    "probability": 0.9952782392501831
+                },
+                {
+                    "word": " move.",
+                    "start": 8.6,
+                    "end": 8.94,
+                    "probability": 0.9953511953353882
+                },
+                {
+                    "word": " Yes.",
+                    "start": 9.5,
+                    "end": 9.9,
+                    "probability": 0.7753932476043701
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

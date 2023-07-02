@@ -1,0 +1,535 @@
+{
+    "text": " Okay, I don't know. We can try to rotate it if we want, but I think we should have it in another room. But I wanted to come back to the clown because I have a better idea than a clown. How about a professional chef on our balcony? Nice food, good people, food makes people happy. I think it would be",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.22,
+            "end": 11.28,
+            "text": " Okay, I don't know. We can try to rotate it if we want, but I think we should have it",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                286,
+                500,
+                380,
+                458,
+                13,
+                492,
+                393,
+                853,
+                281,
+                13121,
+                309,
+                498,
+                321,
+                528,
+                11,
+                457,
+                286,
+                519,
+                321,
+                820,
+                362,
+                309,
+                50920
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2920380629502334,
+            "compression_ratio": 1.4607329842931938,
+            "no_speech_prob": 0.022692471742630005,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 1.22,
+                    "end": 1.74,
+                    "probability": 0.3360118567943573
+                },
+                {
+                    "word": " I",
+                    "start": 1.76,
+                    "end": 4.32,
+                    "probability": 0.641601026058197
+                },
+                {
+                    "word": " don't",
+                    "start": 4.32,
+                    "end": 5.38,
+                    "probability": 0.8557842075824738
+                },
+                {
+                    "word": " know.",
+                    "start": 5.38,
+                    "end": 5.7,
+                    "probability": 0.9982234835624695
+                },
+                {
+                    "word": " We",
+                    "start": 5.96,
+                    "end": 6.2,
+                    "probability": 0.9705480337142944
+                },
+                {
+                    "word": " can",
+                    "start": 6.2,
+                    "end": 6.64,
+                    "probability": 0.9976892471313477
+                },
+                {
+                    "word": " try",
+                    "start": 6.64,
+                    "end": 6.92,
+                    "probability": 0.9951818585395813
+                },
+                {
+                    "word": " to",
+                    "start": 6.92,
+                    "end": 7.18,
+                    "probability": 0.9951663017272949
+                },
+                {
+                    "word": " rotate",
+                    "start": 7.18,
+                    "end": 7.52,
+                    "probability": 0.9908707737922668
+                },
+                {
+                    "word": " it",
+                    "start": 7.52,
+                    "end": 7.76,
+                    "probability": 0.9157082438468933
+                },
+                {
+                    "word": " if",
+                    "start": 7.76,
+                    "end": 7.88,
+                    "probability": 0.8672208189964294
+                },
+                {
+                    "word": " we",
+                    "start": 7.88,
+                    "end": 8.12,
+                    "probability": 0.7626778483390808
+                },
+                {
+                    "word": " want,",
+                    "start": 8.12,
+                    "end": 8.38,
+                    "probability": 0.9972280859947205
+                },
+                {
+                    "word": " but",
+                    "start": 8.56,
+                    "end": 9.36,
+                    "probability": 0.9824796915054321
+                },
+                {
+                    "word": " I",
+                    "start": 9.36,
+                    "end": 10.34,
+                    "probability": 0.9169833064079285
+                },
+                {
+                    "word": " think",
+                    "start": 10.34,
+                    "end": 10.5,
+                    "probability": 0.9933248162269592
+                },
+                {
+                    "word": " we",
+                    "start": 10.5,
+                    "end": 10.64,
+                    "probability": 0.9920572638511658
+                },
+                {
+                    "word": " should",
+                    "start": 10.64,
+                    "end": 10.86,
+                    "probability": 0.9963710308074951
+                },
+                {
+                    "word": " have",
+                    "start": 10.86,
+                    "end": 11.06,
+                    "probability": 0.9931354522705078
+                },
+                {
+                    "word": " it",
+                    "start": 11.06,
+                    "end": 11.28,
+                    "probability": 0.9550933837890625
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 11.28,
+            "end": 16.6,
+            "text": " in another room. But I wanted to come back to the clown because I have a better idea",
+            "tokens": [
+                50920,
+                294,
+                1071,
+                1808,
+                13,
+                583,
+                286,
+                1415,
+                281,
+                808,
+                646,
+                281,
+                264,
+                22209,
+                570,
+                286,
+                362,
+                257,
+                1101,
+                1558,
+                51190
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2920380629502334,
+            "compression_ratio": 1.4607329842931938,
+            "no_speech_prob": 0.022692471742630005,
+            "words": [
+                {
+                    "word": " in",
+                    "start": 11.28,
+                    "end": 11.46,
+                    "probability": 0.9314009547233582
+                },
+                {
+                    "word": " another",
+                    "start": 11.46,
+                    "end": 11.68,
+                    "probability": 0.9546118974685669
+                },
+                {
+                    "word": " room.",
+                    "start": 11.68,
+                    "end": 12.02,
+                    "probability": 0.9909408688545227
+                },
+                {
+                    "word": " But",
+                    "start": 12.26,
+                    "end": 12.46,
+                    "probability": 0.9154977798461914
+                },
+                {
+                    "word": " I",
+                    "start": 12.46,
+                    "end": 12.58,
+                    "probability": 0.9708982110023499
+                },
+                {
+                    "word": " wanted",
+                    "start": 12.58,
+                    "end": 12.88,
+                    "probability": 0.9259340763092041
+                },
+                {
+                    "word": " to",
+                    "start": 12.88,
+                    "end": 13.12,
+                    "probability": 0.9984910488128662
+                },
+                {
+                    "word": " come",
+                    "start": 13.12,
+                    "end": 13.38,
+                    "probability": 0.994037389755249
+                },
+                {
+                    "word": " back",
+                    "start": 13.38,
+                    "end": 13.64,
+                    "probability": 0.9973233342170715
+                },
+                {
+                    "word": " to",
+                    "start": 13.64,
+                    "end": 14.78,
+                    "probability": 0.9932405948638916
+                },
+                {
+                    "word": " the",
+                    "start": 14.78,
+                    "end": 15.04,
+                    "probability": 0.7153747081756592
+                },
+                {
+                    "word": " clown",
+                    "start": 15.04,
+                    "end": 15.24,
+                    "probability": 0.9073605537414551
+                },
+                {
+                    "word": " because",
+                    "start": 15.24,
+                    "end": 15.58,
+                    "probability": 0.5001717805862427
+                },
+                {
+                    "word": " I",
+                    "start": 15.58,
+                    "end": 15.78,
+                    "probability": 0.9884814023971558
+                },
+                {
+                    "word": " have",
+                    "start": 15.78,
+                    "end": 15.94,
+                    "probability": 0.9858478307723999
+                },
+                {
+                    "word": " a",
+                    "start": 15.94,
+                    "end": 16.12,
+                    "probability": 0.9938392043113708
+                },
+                {
+                    "word": " better",
+                    "start": 16.12,
+                    "end": 16.28,
+                    "probability": 0.9956369996070862
+                },
+                {
+                    "word": " idea",
+                    "start": 16.28,
+                    "end": 16.6,
+                    "probability": 0.9982774257659912
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.6,
+            "end": 23.6,
+            "text": " than a clown. How about a professional chef on our balcony? Nice food, good people, food",
+            "tokens": [
+                51190,
+                813,
+                257,
+                22209,
+                13,
+                1012,
+                466,
+                257,
+                4843,
+                10530,
+                322,
+                527,
+                29468,
+                30,
+                5490,
+                1755,
+                11,
+                665,
+                561,
+                11,
+                1755,
+                51540
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2920380629502334,
+            "compression_ratio": 1.4607329842931938,
+            "no_speech_prob": 0.022692471742630005,
+            "words": [
+                {
+                    "word": " than",
+                    "start": 16.6,
+                    "end": 16.82,
+                    "probability": 0.979577362537384
+                },
+                {
+                    "word": " a",
+                    "start": 16.82,
+                    "end": 17.0,
+                    "probability": 0.5265548229217529
+                },
+                {
+                    "word": " clown.",
+                    "start": 17.0,
+                    "end": 17.18,
+                    "probability": 0.9960407018661499
+                },
+                {
+                    "word": " How",
+                    "start": 17.64,
+                    "end": 17.98,
+                    "probability": 0.984662652015686
+                },
+                {
+                    "word": " about",
+                    "start": 17.98,
+                    "end": 18.24,
+                    "probability": 0.9987441301345825
+                },
+                {
+                    "word": " a",
+                    "start": 18.24,
+                    "end": 18.64,
+                    "probability": 0.8766615986824036
+                },
+                {
+                    "word": " professional",
+                    "start": 18.64,
+                    "end": 19.08,
+                    "probability": 0.9924814701080322
+                },
+                {
+                    "word": " chef",
+                    "start": 19.08,
+                    "end": 19.38,
+                    "probability": 0.9920580983161926
+                },
+                {
+                    "word": " on",
+                    "start": 19.38,
+                    "end": 19.6,
+                    "probability": 0.8916397094726562
+                },
+                {
+                    "word": " our",
+                    "start": 19.6,
+                    "end": 19.82,
+                    "probability": 0.9022110104560852
+                },
+                {
+                    "word": " balcony?",
+                    "start": 19.82,
+                    "end": 20.16,
+                    "probability": 0.32686352729797363
+                },
+                {
+                    "word": " Nice",
+                    "start": 21.52,
+                    "end": 21.76,
+                    "probability": 0.7858487963676453
+                },
+                {
+                    "word": " food,",
+                    "start": 21.76,
+                    "end": 22.28,
+                    "probability": 0.9818042516708374
+                },
+                {
+                    "word": " good",
+                    "start": 22.48,
+                    "end": 22.6,
+                    "probability": 0.9906630516052246
+                },
+                {
+                    "word": " people,",
+                    "start": 22.6,
+                    "end": 23.14,
+                    "probability": 0.9983186721801758
+                },
+                {
+                    "word": " food",
+                    "start": 23.4,
+                    "end": 23.6,
+                    "probability": 0.9919307827949524
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 23.6,
+            "end": 24.74,
+            "text": " makes people happy.",
+            "tokens": [
+                51540,
+                1669,
+                561,
+                2055,
+                13,
+                51590
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2920380629502334,
+            "compression_ratio": 1.4607329842931938,
+            "no_speech_prob": 0.022692471742630005,
+            "words": [
+                {
+                    "word": " makes",
+                    "start": 23.6,
+                    "end": 23.88,
+                    "probability": 0.9759562015533447
+                },
+                {
+                    "word": " people",
+                    "start": 23.88,
+                    "end": 24.2,
+                    "probability": 0.9955393671989441
+                },
+                {
+                    "word": " happy.",
+                    "start": 24.2,
+                    "end": 24.74,
+                    "probability": 0.9991752505302429
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2474,
+            "start": 25.6,
+            "end": 26.42,
+            "text": " I think it would be",
+            "tokens": [
+                50364,
+                286,
+                519,
+                309,
+                576,
+                312,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7303147912025452,
+            "compression_ratio": 0.7037037037037037,
+            "no_speech_prob": 0.993423342704773,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 25.6,
+                    "end": 26.04,
+                    "probability": 0.5074558854103088
+                },
+                {
+                    "word": " think",
+                    "start": 26.04,
+                    "end": 26.2,
+                    "probability": 0.8904940485954285
+                },
+                {
+                    "word": " it",
+                    "start": 26.2,
+                    "end": 26.42,
+                    "probability": 0.8670859336853027
+                },
+                {
+                    "word": " would",
+                    "start": 26.42,
+                    "end": 26.42,
+                    "probability": 0.7703291773796082
+                },
+                {
+                    "word": " be",
+                    "start": 26.42,
+                    "end": 26.42,
+                    "probability": 0.46026062965393066
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

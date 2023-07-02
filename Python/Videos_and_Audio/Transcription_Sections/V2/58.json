@@ -1,0 +1,67 @@
+{
+    "text": " Yeah, we have to do it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.44,
+            "end": 1.5,
+            "text": " Yeah, we have to do it.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                362,
+                281,
+                360,
+                309,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42637751319191675,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.32446911931037903,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.44,
+                    "end": 0.76,
+                    "probability": 0.4607999622821808
+                },
+                {
+                    "word": " we",
+                    "start": 0.8,
+                    "end": 0.96,
+                    "probability": 0.7639546394348145
+                },
+                {
+                    "word": " have",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.938052773475647
+                },
+                {
+                    "word": " to",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.914093554019928
+                },
+                {
+                    "word": " do",
+                    "start": 1.28,
+                    "end": 1.38,
+                    "probability": 0.46308255195617676
+                },
+                {
+                    "word": " it.",
+                    "start": 1.38,
+                    "end": 1.5,
+                    "probability": 0.9165611863136292
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

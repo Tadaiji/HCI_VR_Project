@@ -1,0 +1,310 @@
+{
+    "text": " Or we can take a picture of clown and you can put it in your wallet. That's a bit more convenient. My new precious clown. I want that fear go out from you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.66,
+            "text": " Or we can take a picture of clown and you can put it in your wallet.",
+            "tokens": [
+                50364,
+                1610,
+                321,
+                393,
+                747,
+                257,
+                3036,
+                295,
+                22209,
+                293,
+                291,
+                393,
+                829,
+                309,
+                294,
+                428,
+                16599,
+                13,
+                50595
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42523128428357715,
+            "compression_ratio": 1.28099173553719,
+            "no_speech_prob": 0.19618846476078033,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.6057642102241516
+                },
+                {
+                    "word": " we",
+                    "start": 0.36,
+                    "end": 0.66,
+                    "probability": 0.5364363193511963
+                },
+                {
+                    "word": " can",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 0.9550583362579346
+                },
+                {
+                    "word": " take",
+                    "start": 0.88,
+                    "end": 1.22,
+                    "probability": 0.9783249497413635
+                },
+                {
+                    "word": " a",
+                    "start": 1.22,
+                    "end": 1.7,
+                    "probability": 0.9781914353370667
+                },
+                {
+                    "word": " picture",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.9863845705986023
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.34,
+                    "probability": 0.9928927421569824
+                },
+                {
+                    "word": " clown",
+                    "start": 2.34,
+                    "end": 2.7,
+                    "probability": 0.5522876977920532
+                },
+                {
+                    "word": " and",
+                    "start": 2.7,
+                    "end": 3.06,
+                    "probability": 0.8645715117454529
+                },
+                {
+                    "word": " you",
+                    "start": 3.06,
+                    "end": 3.14,
+                    "probability": 0.8486061692237854
+                },
+                {
+                    "word": " can",
+                    "start": 3.14,
+                    "end": 3.42,
+                    "probability": 0.969613254070282
+                },
+                {
+                    "word": " put",
+                    "start": 3.42,
+                    "end": 3.5,
+                    "probability": 0.996124804019928
+                },
+                {
+                    "word": " it",
+                    "start": 3.5,
+                    "end": 3.62,
+                    "probability": 0.9617418050765991
+                },
+                {
+                    "word": " in",
+                    "start": 3.62,
+                    "end": 3.86,
+                    "probability": 0.8859241008758545
+                },
+                {
+                    "word": " your",
+                    "start": 3.86,
+                    "end": 4.32,
+                    "probability": 0.9926685094833374
+                },
+                {
+                    "word": " wallet.",
+                    "start": 4.32,
+                    "end": 4.66,
+                    "probability": 0.9740917086601257
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.42,
+            "end": 6.28,
+            "text": " That's a bit more convenient.",
+            "tokens": [
+                50595,
+                663,
+                311,
+                257,
+                857,
+                544,
+                10851,
+                13,
+                50695
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42523128428357715,
+            "compression_ratio": 1.28099173553719,
+            "no_speech_prob": 0.19618846476078033,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 5.42,
+                    "end": 5.46,
+                    "probability": 0.3921145461499691
+                },
+                {
+                    "word": " a",
+                    "start": 5.46,
+                    "end": 5.48,
+                    "probability": 0.28026869893074036
+                },
+                {
+                    "word": " bit",
+                    "start": 5.48,
+                    "end": 5.48,
+                    "probability": 0.45238420367240906
+                },
+                {
+                    "word": " more",
+                    "start": 5.48,
+                    "end": 6.16,
+                    "probability": 0.9772917032241821
+                },
+                {
+                    "word": " convenient.",
+                    "start": 6.16,
+                    "end": 6.28,
+                    "probability": 0.9650799632072449
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.6,
+            "end": 8.28,
+            "text": " My new precious clown.",
+            "tokens": [
+                50695,
+                1222,
+                777,
+                12406,
+                22209,
+                13,
+                50795
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42523128428357715,
+            "compression_ratio": 1.28099173553719,
+            "no_speech_prob": 0.19618846476078033,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 6.6,
+                    "end": 6.66,
+                    "probability": 0.4061821699142456
+                },
+                {
+                    "word": " new",
+                    "start": 6.66,
+                    "end": 6.98,
+                    "probability": 0.9383427500724792
+                },
+                {
+                    "word": " precious",
+                    "start": 6.98,
+                    "end": 7.54,
+                    "probability": 0.963413417339325
+                },
+                {
+                    "word": " clown.",
+                    "start": 7.54,
+                    "end": 8.28,
+                    "probability": 0.9938638210296631
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.78,
+            "end": 11.86,
+            "text": " I want that fear go out from you.",
+            "tokens": [
+                50795,
+                286,
+                528,
+                300,
+                4240,
+                352,
+                484,
+                490,
+                291,
+                13,
+                50968
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.42523128428357715,
+            "compression_ratio": 1.28099173553719,
+            "no_speech_prob": 0.19618846476078033,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 8.78,
+                    "end": 9.82,
+                    "probability": 0.6914857625961304
+                },
+                {
+                    "word": " want",
+                    "start": 9.82,
+                    "end": 10.22,
+                    "probability": 0.9763296842575073
+                },
+                {
+                    "word": " that",
+                    "start": 10.22,
+                    "end": 10.64,
+                    "probability": 0.9563711881637573
+                },
+                {
+                    "word": " fear",
+                    "start": 10.64,
+                    "end": 10.92,
+                    "probability": 0.9899677038192749
+                },
+                {
+                    "word": " go",
+                    "start": 10.92,
+                    "end": 11.22,
+                    "probability": 0.7365716099739075
+                },
+                {
+                    "word": " out",
+                    "start": 11.22,
+                    "end": 11.42,
+                    "probability": 0.9785363078117371
+                },
+                {
+                    "word": " from",
+                    "start": 11.42,
+                    "end": 11.68,
+                    "probability": 0.973648726940155
+                },
+                {
+                    "word": " you.",
+                    "start": 11.68,
+                    "end": 11.86,
+                    "probability": 0.9963494539260864
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

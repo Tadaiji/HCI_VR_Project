@@ -1,0 +1,322 @@
+{
+    "text": " Of course, while she was setting up her gallery, I went there to help her setting up stuff and putting all the things together. So yeah, she's a really good person and she will definitely help us.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.72,
+            "text": " Of course, while she was setting up her gallery, I went there to help her setting up stuff",
+            "tokens": [
+                50364,
+                2720,
+                1164,
+                11,
+                1339,
+                750,
+                390,
+                3287,
+                493,
+                720,
+                18378,
+                11,
+                286,
+                1437,
+                456,
+                281,
+                854,
+                720,
+                3287,
+                493,
+                1507,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20799493789672852,
+            "compression_ratio": 1.4306569343065694,
+            "no_speech_prob": 0.004734458867460489,
+            "words": [
+                {
+                    "word": " Of",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.6994521617889404
+                },
+                {
+                    "word": " course,",
+                    "start": 0.3,
+                    "end": 0.6,
+                    "probability": 0.9931835532188416
+                },
+                {
+                    "word": " while",
+                    "start": 0.9,
+                    "end": 1.12,
+                    "probability": 0.6024807095527649
+                },
+                {
+                    "word": " she",
+                    "start": 1.12,
+                    "end": 1.34,
+                    "probability": 0.9951901435852051
+                },
+                {
+                    "word": " was",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9949187636375427
+                },
+                {
+                    "word": " setting",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.996062695980072
+                },
+                {
+                    "word": " up",
+                    "start": 1.78,
+                    "end": 2.12,
+                    "probability": 0.9969745874404907
+                },
+                {
+                    "word": " her",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.9903563857078552
+                },
+                {
+                    "word": " gallery,",
+                    "start": 2.38,
+                    "end": 2.86,
+                    "probability": 0.9839686155319214
+                },
+                {
+                    "word": " I",
+                    "start": 3.24,
+                    "end": 3.46,
+                    "probability": 0.97271728515625
+                },
+                {
+                    "word": " went",
+                    "start": 3.46,
+                    "end": 3.68,
+                    "probability": 0.9980959296226501
+                },
+                {
+                    "word": " there",
+                    "start": 3.68,
+                    "end": 4.08,
+                    "probability": 0.9954181909561157
+                },
+                {
+                    "word": " to",
+                    "start": 4.08,
+                    "end": 4.32,
+                    "probability": 0.9971987009048462
+                },
+                {
+                    "word": " help",
+                    "start": 4.32,
+                    "end": 4.48,
+                    "probability": 0.998819887638092
+                },
+                {
+                    "word": " her",
+                    "start": 4.48,
+                    "end": 4.8,
+                    "probability": 0.9948946237564087
+                },
+                {
+                    "word": " setting",
+                    "start": 4.8,
+                    "end": 5.04,
+                    "probability": 0.8439185619354248
+                },
+                {
+                    "word": " up",
+                    "start": 5.04,
+                    "end": 5.36,
+                    "probability": 0.9933009147644043
+                },
+                {
+                    "word": " stuff",
+                    "start": 5.36,
+                    "end": 5.72,
+                    "probability": 0.9832030534744263
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.72,
+            "end": 8.14,
+            "text": " and putting all the things together.",
+            "tokens": [
+                50648,
+                293,
+                3372,
+                439,
+                264,
+                721,
+                1214,
+                13,
+                50782
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20799493789672852,
+            "compression_ratio": 1.4306569343065694,
+            "no_speech_prob": 0.004734458867460489,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 5.72,
+                    "end": 6.6,
+                    "probability": 0.8909652233123779
+                },
+                {
+                    "word": " putting",
+                    "start": 6.6,
+                    "end": 6.94,
+                    "probability": 0.9917801022529602
+                },
+                {
+                    "word": " all",
+                    "start": 6.94,
+                    "end": 7.32,
+                    "probability": 0.9972858428955078
+                },
+                {
+                    "word": " the",
+                    "start": 7.32,
+                    "end": 7.48,
+                    "probability": 0.980658769607544
+                },
+                {
+                    "word": " things",
+                    "start": 7.48,
+                    "end": 7.68,
+                    "probability": 0.9986066222190857
+                },
+                {
+                    "word": " together.",
+                    "start": 7.68,
+                    "end": 8.14,
+                    "probability": 0.9990335702896118
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.7,
+            "end": 11.9,
+            "text": " So yeah, she's a really good person and she will definitely help us.",
+            "tokens": [
+                50782,
+                407,
+                1338,
+                11,
+                750,
+                311,
+                257,
+                534,
+                665,
+                954,
+                293,
+                750,
+                486,
+                2138,
+                854,
+                505,
+                13,
+                50962
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20799493789672852,
+            "compression_ratio": 1.4306569343065694,
+            "no_speech_prob": 0.004734458867460489,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 8.7,
+                    "end": 8.76,
+                    "probability": 0.8536704182624817
+                },
+                {
+                    "word": " yeah,",
+                    "start": 8.76,
+                    "end": 9.16,
+                    "probability": 0.6355780363082886
+                },
+                {
+                    "word": " she's",
+                    "start": 9.36,
+                    "end": 9.56,
+                    "probability": 0.9834652543067932
+                },
+                {
+                    "word": " a",
+                    "start": 9.56,
+                    "end": 9.66,
+                    "probability": 0.9954902529716492
+                },
+                {
+                    "word": " really",
+                    "start": 9.66,
+                    "end": 9.8,
+                    "probability": 0.8248910903930664
+                },
+                {
+                    "word": " good",
+                    "start": 9.8,
+                    "end": 10.0,
+                    "probability": 0.9984503984451294
+                },
+                {
+                    "word": " person",
+                    "start": 10.0,
+                    "end": 10.42,
+                    "probability": 0.999042809009552
+                },
+                {
+                    "word": " and",
+                    "start": 10.42,
+                    "end": 10.86,
+                    "probability": 0.6991907358169556
+                },
+                {
+                    "word": " she",
+                    "start": 10.86,
+                    "end": 11.0,
+                    "probability": 0.9986962676048279
+                },
+                {
+                    "word": " will",
+                    "start": 11.0,
+                    "end": 11.12,
+                    "probability": 0.8860817551612854
+                },
+                {
+                    "word": " definitely",
+                    "start": 11.12,
+                    "end": 11.46,
+                    "probability": 0.9988504648208618
+                },
+                {
+                    "word": " help",
+                    "start": 11.46,
+                    "end": 11.66,
+                    "probability": 0.9986950755119324
+                },
+                {
+                    "word": " us.",
+                    "start": 11.66,
+                    "end": 11.9,
+                    "probability": 0.998293936252594
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

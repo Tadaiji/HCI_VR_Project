@@ -1,0 +1,45 @@
+{
+    "text": " Yeah, we have",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.94,
+            "text": " Yeah, we have",
+            "tokens": [
+                50364,
+                865,
+                11,
+                321,
+                362,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6948560306004116,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.6637866497039795,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.12901511788368225
+                },
+                {
+                    "word": " we",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.9418758153915405
+                },
+                {
+                    "word": " have",
+                    "start": 0.82,
+                    "end": 0.94,
+                    "probability": 0.898034930229187
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

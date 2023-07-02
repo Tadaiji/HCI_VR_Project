@@ -1,0 +1,46 @@
+{
+    "text": " Really glad that's...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " Really glad that's...",
+            "tokens": [
+                50364,
+                4083,
+                5404,
+                300,
+                311,
+                485,
+                50412
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7401682138442993,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.3446252644062042,
+            "words": [
+                {
+                    "word": " Really",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.21977008879184723
+                },
+                {
+                    "word": " glad",
+                    "start": 0.34,
+                    "end": 0.56,
+                    "probability": 0.9925611615180969
+                },
+                {
+                    "word": " that's...",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.511940081914266
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+    "text": " Yeah, okay. I get what you're trying to say and...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.5,
+            "text": " Yeah, okay. I get what you're trying to say and...",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1392,
+                13,
+                286,
+                483,
+                437,
+                291,
+                434,
+                1382,
+                281,
+                584,
+                293,
+                485,
+                50639
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3667436207042021,
+            "compression_ratio": 0.8620689655172413,
+            "no_speech_prob": 0.05381074920296669,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.5906997323036194
+                },
+                {
+                    "word": " okay.",
+                    "start": 0.68,
+                    "end": 1.0,
+                    "probability": 0.7630365490913391
+                },
+                {
+                    "word": " I",
+                    "start": 1.3,
+                    "end": 2.28,
+                    "probability": 0.9061242341995239
+                },
+                {
+                    "word": " get",
+                    "start": 2.28,
+                    "end": 2.52,
+                    "probability": 0.8542559146881104
+                },
+                {
+                    "word": " what",
+                    "start": 2.52,
+                    "end": 2.78,
+                    "probability": 0.9926832318305969
+                },
+                {
+                    "word": " you're",
+                    "start": 2.78,
+                    "end": 4.16,
+                    "probability": 0.8124752938747406
+                },
+                {
+                    "word": " trying",
+                    "start": 4.16,
+                    "end": 4.5,
+                    "probability": 0.9759913682937622
+                },
+                {
+                    "word": " to",
+                    "start": 4.5,
+                    "end": 4.84,
+                    "probability": 0.9991534948348999
+                },
+                {
+                    "word": " say",
+                    "start": 4.84,
+                    "end": 5.1,
+                    "probability": 0.9988275170326233
+                },
+                {
+                    "word": " and...",
+                    "start": 5.1,
+                    "end": 5.5,
+                    "probability": 0.6301537454128265
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

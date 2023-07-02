@@ -1,0 +1,187 @@
+{
+    "text": " Yeah, or you could pitch in with the cook if you want. Or we will find something. Okay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.62,
+            "text": " Yeah, or you could pitch in with the cook if you want.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                420,
+                291,
+                727,
+                7293,
+                294,
+                365,
+                264,
+                2543,
+                498,
+                291,
+                528,
+                13,
+                50544
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5711815932701374,
+            "compression_ratio": 1.0609756097560976,
+            "no_speech_prob": 0.14617598056793213,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.27432486414909363
+                },
+                {
+                    "word": " or",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9450210928916931
+                },
+                {
+                    "word": " you",
+                    "start": 0.78,
+                    "end": 1.26,
+                    "probability": 0.8838857412338257
+                },
+                {
+                    "word": " could",
+                    "start": 1.26,
+                    "end": 1.6,
+                    "probability": 0.23954518139362335
+                },
+                {
+                    "word": " pitch",
+                    "start": 1.6,
+                    "end": 1.82,
+                    "probability": 0.9350485801696777
+                },
+                {
+                    "word": " in",
+                    "start": 1.82,
+                    "end": 1.96,
+                    "probability": 0.9192758202552795
+                },
+                {
+                    "word": " with",
+                    "start": 1.96,
+                    "end": 2.16,
+                    "probability": 0.980805516242981
+                },
+                {
+                    "word": " the",
+                    "start": 2.16,
+                    "end": 2.32,
+                    "probability": 0.9775652885437012
+                },
+                {
+                    "word": " cook",
+                    "start": 2.32,
+                    "end": 2.44,
+                    "probability": 0.9510106444358826
+                },
+                {
+                    "word": " if",
+                    "start": 2.44,
+                    "end": 2.72,
+                    "probability": 0.8763238191604614
+                },
+                {
+                    "word": " you",
+                    "start": 2.72,
+                    "end": 3.0,
+                    "probability": 0.9979898929595947
+                },
+                {
+                    "word": " want.",
+                    "start": 3.0,
+                    "end": 3.62,
+                    "probability": 0.9952837824821472
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.38,
+            "end": 6.06,
+            "text": " Or we will find something.",
+            "tokens": [
+                50544,
+                1610,
+                321,
+                486,
+                915,
+                746,
+                13,
+                50694
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5711815932701374,
+            "compression_ratio": 1.0609756097560976,
+            "no_speech_prob": 0.14617598056793213,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 4.38,
+                    "end": 4.38,
+                    "probability": 0.12034675478935242
+                },
+                {
+                    "word": " we",
+                    "start": 4.38,
+                    "end": 5.12,
+                    "probability": 0.28178784251213074
+                },
+                {
+                    "word": " will",
+                    "start": 5.12,
+                    "end": 5.38,
+                    "probability": 0.853995144367218
+                },
+                {
+                    "word": " find",
+                    "start": 5.38,
+                    "end": 5.64,
+                    "probability": 0.9851861596107483
+                },
+                {
+                    "word": " something.",
+                    "start": 5.64,
+                    "end": 6.06,
+                    "probability": 0.9934338331222534
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.58,
+            "end": 6.74,
+            "text": " Okay.",
+            "tokens": [
+                50694,
+                1033,
+                13,
+                50704
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5711815932701374,
+            "compression_ratio": 1.0609756097560976,
+            "no_speech_prob": 0.14617598056793213,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 6.58,
+                    "end": 6.74,
+                    "probability": 0.6359754204750061
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

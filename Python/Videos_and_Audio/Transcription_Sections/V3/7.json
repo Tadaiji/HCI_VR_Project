@@ -1,0 +1,641 @@
+{
+    "text": " Yeah, I would really like to see the clown, but unfortunately, yeah, I won't be available at that time because I'm going and planned for a long time and visit my mother in Austria. So it's quite hard to get from Austria to Darmstadt for just one evening. But as I know, you were afraid of clowns as a kid. Yeah, I don't like that. I would really look forward to seeing you with the clown.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 15.88,
+            "text": " Yeah, I would really like to see the clown, but unfortunately, yeah, I won't be available at that time because I'm going and planned for a long time and visit my mother in Austria.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                576,
+                534,
+                411,
+                281,
+                536,
+                264,
+                22209,
+                11,
+                457,
+                7015,
+                11,
+                1338,
+                11,
+                286,
+                1582,
+                380,
+                312,
+                2435,
+                412,
+                300,
+                565,
+                570,
+                286,
+                478,
+                516,
+                293,
+                8589,
+                337,
+                257,
+                938,
+                565,
+                293,
+                3441,
+                452,
+                2895,
+                294,
+                26501,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2765089825886052,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.13231559097766876,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.6256687641143799
+                },
+                {
+                    "word": " I",
+                    "start": 0.4,
+                    "end": 0.42,
+                    "probability": 0.9568920731544495
+                },
+                {
+                    "word": " would",
+                    "start": 0.42,
+                    "end": 0.66,
+                    "probability": 0.967990517616272
+                },
+                {
+                    "word": " really",
+                    "start": 0.66,
+                    "end": 1.9,
+                    "probability": 0.5843757390975952
+                },
+                {
+                    "word": " like",
+                    "start": 1.9,
+                    "end": 2.36,
+                    "probability": 0.9370317459106445
+                },
+                {
+                    "word": " to",
+                    "start": 2.36,
+                    "end": 2.5,
+                    "probability": 0.9984738230705261
+                },
+                {
+                    "word": " see",
+                    "start": 2.5,
+                    "end": 2.62,
+                    "probability": 0.9979749321937561
+                },
+                {
+                    "word": " the",
+                    "start": 2.62,
+                    "end": 2.86,
+                    "probability": 0.9122733473777771
+                },
+                {
+                    "word": " clown,",
+                    "start": 2.86,
+                    "end": 3.14,
+                    "probability": 0.9848932027816772
+                },
+                {
+                    "word": " but",
+                    "start": 3.56,
+                    "end": 3.88,
+                    "probability": 0.9735687375068665
+                },
+                {
+                    "word": " unfortunately,",
+                    "start": 3.88,
+                    "end": 4.7,
+                    "probability": 0.9766340851783752
+                },
+                {
+                    "word": " yeah,",
+                    "start": 4.7,
+                    "end": 5.76,
+                    "probability": 0.5506560802459717
+                },
+                {
+                    "word": " I",
+                    "start": 5.76,
+                    "end": 6.0,
+                    "probability": 0.9968761205673218
+                },
+                {
+                    "word": " won't",
+                    "start": 6.0,
+                    "end": 6.18,
+                    "probability": 0.9936846196651459
+                },
+                {
+                    "word": " be",
+                    "start": 6.18,
+                    "end": 6.4,
+                    "probability": 0.9990190267562866
+                },
+                {
+                    "word": " available",
+                    "start": 6.4,
+                    "end": 6.86,
+                    "probability": 0.992451012134552
+                },
+                {
+                    "word": " at",
+                    "start": 6.86,
+                    "end": 7.34,
+                    "probability": 0.986871600151062
+                },
+                {
+                    "word": " that",
+                    "start": 7.34,
+                    "end": 7.48,
+                    "probability": 0.5990501046180725
+                },
+                {
+                    "word": " time",
+                    "start": 7.48,
+                    "end": 8.06,
+                    "probability": 0.9986967444419861
+                },
+                {
+                    "word": " because",
+                    "start": 8.06,
+                    "end": 8.62,
+                    "probability": 0.6555328369140625
+                },
+                {
+                    "word": " I'm",
+                    "start": 8.62,
+                    "end": 9.54,
+                    "probability": 0.6732119619846344
+                },
+                {
+                    "word": " going",
+                    "start": 9.54,
+                    "end": 9.86,
+                    "probability": 0.8793037533760071
+                },
+                {
+                    "word": " and",
+                    "start": 9.86,
+                    "end": 10.7,
+                    "probability": 0.3266581892967224
+                },
+                {
+                    "word": " planned",
+                    "start": 10.7,
+                    "end": 11.46,
+                    "probability": 0.5939303636550903
+                },
+                {
+                    "word": " for",
+                    "start": 11.46,
+                    "end": 11.76,
+                    "probability": 0.5892037749290466
+                },
+                {
+                    "word": " a",
+                    "start": 11.76,
+                    "end": 11.86,
+                    "probability": 0.9832099676132202
+                },
+                {
+                    "word": " long",
+                    "start": 11.86,
+                    "end": 12.06,
+                    "probability": 0.9992403984069824
+                },
+                {
+                    "word": " time",
+                    "start": 12.06,
+                    "end": 12.38,
+                    "probability": 0.9984620809555054
+                },
+                {
+                    "word": " and",
+                    "start": 12.38,
+                    "end": 12.86,
+                    "probability": 0.6963919997215271
+                },
+                {
+                    "word": " visit",
+                    "start": 12.86,
+                    "end": 13.3,
+                    "probability": 0.5166183710098267
+                },
+                {
+                    "word": " my",
+                    "start": 13.3,
+                    "end": 14.04,
+                    "probability": 0.9879940748214722
+                },
+                {
+                    "word": " mother",
+                    "start": 14.04,
+                    "end": 14.5,
+                    "probability": 0.9954002499580383
+                },
+                {
+                    "word": " in",
+                    "start": 14.5,
+                    "end": 15.36,
+                    "probability": 0.9723935723304749
+                },
+                {
+                    "word": " Austria.",
+                    "start": 15.36,
+                    "end": 15.88,
+                    "probability": 0.9986227750778198
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 16.72,
+            "end": 21.96,
+            "text": " So it's quite hard to get from Austria to Darmstadt for just one evening.",
+            "tokens": [
+                51164,
+                407,
+                309,
+                311,
+                1596,
+                1152,
+                281,
+                483,
+                490,
+                26501,
+                281,
+                413,
+                4452,
+                34511,
+                337,
+                445,
+                472,
+                5634,
+                13,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2765089825886052,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.13231559097766876,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 16.72,
+                    "end": 17.12,
+                    "probability": 0.8830336928367615
+                },
+                {
+                    "word": " it's",
+                    "start": 17.12,
+                    "end": 17.48,
+                    "probability": 0.6822125315666199
+                },
+                {
+                    "word": " quite",
+                    "start": 17.48,
+                    "end": 17.76,
+                    "probability": 0.9855648875236511
+                },
+                {
+                    "word": " hard",
+                    "start": 17.76,
+                    "end": 17.96,
+                    "probability": 0.9971553087234497
+                },
+                {
+                    "word": " to",
+                    "start": 17.96,
+                    "end": 18.36,
+                    "probability": 0.9987727999687195
+                },
+                {
+                    "word": " get",
+                    "start": 18.36,
+                    "end": 18.5,
+                    "probability": 0.9988340735435486
+                },
+                {
+                    "word": " from",
+                    "start": 18.5,
+                    "end": 18.66,
+                    "probability": 0.9829862713813782
+                },
+                {
+                    "word": " Austria",
+                    "start": 18.66,
+                    "end": 19.48,
+                    "probability": 0.9796238541603088
+                },
+                {
+                    "word": " to",
+                    "start": 19.48,
+                    "end": 19.76,
+                    "probability": 0.8014240860939026
+                },
+                {
+                    "word": " Darmstadt",
+                    "start": 19.76,
+                    "end": 20.12,
+                    "probability": 0.9700648784637451
+                },
+                {
+                    "word": " for",
+                    "start": 20.12,
+                    "end": 20.34,
+                    "probability": 0.9673004150390625
+                },
+                {
+                    "word": " just",
+                    "start": 20.34,
+                    "end": 21.06,
+                    "probability": 0.927155613899231
+                },
+                {
+                    "word": " one",
+                    "start": 21.06,
+                    "end": 21.46,
+                    "probability": 0.9893699884414673
+                },
+                {
+                    "word": " evening.",
+                    "start": 21.46,
+                    "end": 21.96,
+                    "probability": 0.9984466433525085
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 22.1,
+            "end": 28.2,
+            "text": " But as I know, you were afraid of clowns as a kid.",
+            "tokens": [
+                51464,
+                583,
+                382,
+                286,
+                458,
+                11,
+                291,
+                645,
+                4638,
+                295,
+                22209,
+                82,
+                382,
+                257,
+                1636,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2765089825886052,
+            "compression_ratio": 1.4805825242718447,
+            "no_speech_prob": 0.13231559097766876,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 22.1,
+                    "end": 23.22,
+                    "probability": 0.976807713508606
+                },
+                {
+                    "word": " as",
+                    "start": 23.22,
+                    "end": 23.62,
+                    "probability": 0.9697218537330627
+                },
+                {
+                    "word": " I",
+                    "start": 23.62,
+                    "end": 23.76,
+                    "probability": 0.9915174245834351
+                },
+                {
+                    "word": " know,",
+                    "start": 23.76,
+                    "end": 23.94,
+                    "probability": 0.999126136302948
+                },
+                {
+                    "word": " you",
+                    "start": 25.64,
+                    "end": 25.64,
+                    "probability": 0.9825589656829834
+                },
+                {
+                    "word": " were",
+                    "start": 25.64,
+                    "end": 26.14,
+                    "probability": 0.5560624599456787
+                },
+                {
+                    "word": " afraid",
+                    "start": 26.14,
+                    "end": 26.54,
+                    "probability": 0.9654072523117065
+                },
+                {
+                    "word": " of",
+                    "start": 26.54,
+                    "end": 27.36,
+                    "probability": 0.9990932941436768
+                },
+                {
+                    "word": " clowns",
+                    "start": 27.36,
+                    "end": 27.7,
+                    "probability": 0.9916844367980957
+                },
+                {
+                    "word": " as",
+                    "start": 27.7,
+                    "end": 27.86,
+                    "probability": 0.9927170276641846
+                },
+                {
+                    "word": " a",
+                    "start": 27.86,
+                    "end": 27.96,
+                    "probability": 0.99896240234375
+                },
+                {
+                    "word": " kid.",
+                    "start": 27.96,
+                    "end": 28.2,
+                    "probability": 0.9972773194313049
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 2820,
+            "start": 28.4,
+            "end": 30.34,
+            "text": " Yeah, I don't like that.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                500,
+                380,
+                411,
+                300,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19932062149047852,
+            "compression_ratio": 1.025,
+            "no_speech_prob": 0.2525269687175751,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 28.4,
+                    "end": 29.1,
+                    "probability": 0.3752254843711853
+                },
+                {
+                    "word": " I",
+                    "start": 29.1,
+                    "end": 29.5,
+                    "probability": 0.924730658531189
+                },
+                {
+                    "word": " don't",
+                    "start": 29.5,
+                    "end": 29.82,
+                    "probability": 0.8153839409351349
+                },
+                {
+                    "word": " like",
+                    "start": 29.82,
+                    "end": 29.9,
+                    "probability": 0.669362485408783
+                },
+                {
+                    "word": " that.",
+                    "start": 29.9,
+                    "end": 30.34,
+                    "probability": 0.8057036995887756
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2820,
+            "start": 30.86,
+            "end": 35.58,
+            "text": " I would really look forward to seeing you with the clown.",
+            "tokens": [
+                50464,
+                286,
+                576,
+                534,
+                574,
+                2128,
+                281,
+                2577,
+                291,
+                365,
+                264,
+                22209,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.19932062149047852,
+            "compression_ratio": 1.025,
+            "no_speech_prob": 0.2525269687175751,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 30.86,
+                    "end": 31.24,
+                    "probability": 0.9023123979568481
+                },
+                {
+                    "word": " would",
+                    "start": 31.24,
+                    "end": 31.48,
+                    "probability": 0.9038050770759583
+                },
+                {
+                    "word": " really",
+                    "start": 31.48,
+                    "end": 31.74,
+                    "probability": 0.9679531455039978
+                },
+                {
+                    "word": " look",
+                    "start": 31.74,
+                    "end": 32.02,
+                    "probability": 0.9829743504524231
+                },
+                {
+                    "word": " forward",
+                    "start": 32.02,
+                    "end": 32.46,
+                    "probability": 0.9810251593589783
+                },
+                {
+                    "word": " to",
+                    "start": 32.46,
+                    "end": 33.76,
+                    "probability": 0.9583514332771301
+                },
+                {
+                    "word": " seeing",
+                    "start": 33.76,
+                    "end": 34.04,
+                    "probability": 0.95851731300354
+                },
+                {
+                    "word": " you",
+                    "start": 34.04,
+                    "end": 34.3,
+                    "probability": 0.9960774779319763
+                },
+                {
+                    "word": " with",
+                    "start": 34.3,
+                    "end": 35.18,
+                    "probability": 0.9764103889465332
+                },
+                {
+                    "word": " the",
+                    "start": 35.18,
+                    "end": 35.32,
+                    "probability": 0.638362467288971
+                },
+                {
+                    "word": " clown.",
+                    "start": 35.32,
+                    "end": 35.58,
+                    "probability": 0.9637361168861389
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

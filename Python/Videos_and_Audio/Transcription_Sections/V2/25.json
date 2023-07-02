@@ -1,0 +1,670 @@
+{
+    "text": " Yeah, as much as I like the idea of putting vinyl on the floor, we have to remember that this would be way more expensive, obviously, to redo the floor. And it would be way more work than before, because we have to put everything out of the room and back in. I just want to say that. In the end, I think the pros outperform the cons. It has to be done in some way. Looking at the floor, it's a bit...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 20.18,
+            "text": " Yeah, as much as I like the idea of putting vinyl on the floor, we have to remember that this would be way more expensive, obviously, to redo the floor.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                382,
+                709,
+                382,
+                286,
+                411,
+                264,
+                1558,
+                295,
+                3372,
+                25226,
+                322,
+                264,
+                4123,
+                11,
+                321,
+                362,
+                281,
+                1604,
+                300,
+                341,
+                576,
+                312,
+                636,
+                544,
+                5124,
+                11,
+                2745,
+                11,
+                281,
+                29956,
+                264,
+                4123,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23826841207650992,
+            "compression_ratio": 1.5542168674698795,
+            "no_speech_prob": 0.041233889758586884,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.3716292083263397
+                },
+                {
+                    "word": " as",
+                    "start": 1.04,
+                    "end": 1.52,
+                    "probability": 0.6350916624069214
+                },
+                {
+                    "word": " much",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.9858609437942505
+                },
+                {
+                    "word": " as",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.9829638004302979
+                },
+                {
+                    "word": " I",
+                    "start": 1.9,
+                    "end": 2.0,
+                    "probability": 0.9630265235900879
+                },
+                {
+                    "word": " like",
+                    "start": 2.0,
+                    "end": 2.18,
+                    "probability": 0.9754266738891602
+                },
+                {
+                    "word": " the",
+                    "start": 2.18,
+                    "end": 2.3,
+                    "probability": 0.9894715547561646
+                },
+                {
+                    "word": " idea",
+                    "start": 2.3,
+                    "end": 3.0,
+                    "probability": 0.9984733462333679
+                },
+                {
+                    "word": " of",
+                    "start": 3.0,
+                    "end": 3.86,
+                    "probability": 0.9619174599647522
+                },
+                {
+                    "word": " putting",
+                    "start": 3.86,
+                    "end": 5.42,
+                    "probability": 0.9791892766952515
+                },
+                {
+                    "word": " vinyl",
+                    "start": 5.42,
+                    "end": 6.3,
+                    "probability": 0.5354560017585754
+                },
+                {
+                    "word": " on",
+                    "start": 6.3,
+                    "end": 7.84,
+                    "probability": 0.7153518795967102
+                },
+                {
+                    "word": " the",
+                    "start": 7.84,
+                    "end": 8.28,
+                    "probability": 0.8947378993034363
+                },
+                {
+                    "word": " floor,",
+                    "start": 8.28,
+                    "end": 8.28,
+                    "probability": 0.8752424120903015
+                },
+                {
+                    "word": " we",
+                    "start": 9.38,
+                    "end": 10.5,
+                    "probability": 0.7395842671394348
+                },
+                {
+                    "word": " have",
+                    "start": 10.5,
+                    "end": 10.8,
+                    "probability": 0.9832599759101868
+                },
+                {
+                    "word": " to",
+                    "start": 10.8,
+                    "end": 11.64,
+                    "probability": 0.9988682270050049
+                },
+                {
+                    "word": " remember",
+                    "start": 11.64,
+                    "end": 12.12,
+                    "probability": 0.9949199557304382
+                },
+                {
+                    "word": " that",
+                    "start": 12.12,
+                    "end": 12.54,
+                    "probability": 0.9467427134513855
+                },
+                {
+                    "word": " this",
+                    "start": 12.54,
+                    "end": 12.86,
+                    "probability": 0.9756706953048706
+                },
+                {
+                    "word": " would",
+                    "start": 12.86,
+                    "end": 13.08,
+                    "probability": 0.9813392758369446
+                },
+                {
+                    "word": " be",
+                    "start": 13.08,
+                    "end": 14.02,
+                    "probability": 0.9941008687019348
+                },
+                {
+                    "word": " way",
+                    "start": 14.02,
+                    "end": 14.22,
+                    "probability": 0.9804509878158569
+                },
+                {
+                    "word": " more",
+                    "start": 14.22,
+                    "end": 15.62,
+                    "probability": 0.9992772936820984
+                },
+                {
+                    "word": " expensive,",
+                    "start": 15.62,
+                    "end": 16.42,
+                    "probability": 0.9853878617286682
+                },
+                {
+                    "word": " obviously,",
+                    "start": 17.36,
+                    "end": 17.36,
+                    "probability": 0.9797175526618958
+                },
+                {
+                    "word": " to",
+                    "start": 17.62,
+                    "end": 19.16,
+                    "probability": 0.9885224103927612
+                },
+                {
+                    "word": " redo",
+                    "start": 19.16,
+                    "end": 19.48,
+                    "probability": 0.901362955570221
+                },
+                {
+                    "word": " the",
+                    "start": 19.48,
+                    "end": 19.7,
+                    "probability": 0.9951117634773254
+                },
+                {
+                    "word": " floor.",
+                    "start": 19.7,
+                    "end": 20.18,
+                    "probability": 0.9964474439620972
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 20.26,
+            "end": 28.62,
+            "text": " And it would be way more work than before, because we have to put everything out of the room and back in.",
+            "tokens": [
+                51364,
+                400,
+                309,
+                576,
+                312,
+                636,
+                544,
+                589,
+                813,
+                949,
+                11,
+                570,
+                321,
+                362,
+                281,
+                829,
+                1203,
+                484,
+                295,
+                264,
+                1808,
+                293,
+                646,
+                294,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.23826841207650992,
+            "compression_ratio": 1.5542168674698795,
+            "no_speech_prob": 0.041233889758586884,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 20.26,
+                    "end": 21.54,
+                    "probability": 0.7974829077720642
+                },
+                {
+                    "word": " it",
+                    "start": 21.54,
+                    "end": 21.94,
+                    "probability": 0.9187166690826416
+                },
+                {
+                    "word": " would",
+                    "start": 21.94,
+                    "end": 22.18,
+                    "probability": 0.9755304455757141
+                },
+                {
+                    "word": " be",
+                    "start": 22.18,
+                    "end": 22.3,
+                    "probability": 0.9934350252151489
+                },
+                {
+                    "word": " way",
+                    "start": 22.3,
+                    "end": 22.42,
+                    "probability": 0.9814572334289551
+                },
+                {
+                    "word": " more",
+                    "start": 22.42,
+                    "end": 22.64,
+                    "probability": 0.9989308714866638
+                },
+                {
+                    "word": " work",
+                    "start": 22.64,
+                    "end": 23.18,
+                    "probability": 0.9984915256500244
+                },
+                {
+                    "word": " than",
+                    "start": 23.18,
+                    "end": 23.66,
+                    "probability": 0.9496729373931885
+                },
+                {
+                    "word": " before,",
+                    "start": 23.66,
+                    "end": 24.24,
+                    "probability": 0.9901594519615173
+                },
+                {
+                    "word": " because",
+                    "start": 24.42,
+                    "end": 24.78,
+                    "probability": 0.9915369749069214
+                },
+                {
+                    "word": " we",
+                    "start": 24.78,
+                    "end": 24.9,
+                    "probability": 0.9705284237861633
+                },
+                {
+                    "word": " have",
+                    "start": 24.9,
+                    "end": 25.04,
+                    "probability": 0.9551045894622803
+                },
+                {
+                    "word": " to",
+                    "start": 25.04,
+                    "end": 25.3,
+                    "probability": 0.9982420206069946
+                },
+                {
+                    "word": " put",
+                    "start": 25.3,
+                    "end": 25.44,
+                    "probability": 0.9932582378387451
+                },
+                {
+                    "word": " everything",
+                    "start": 25.44,
+                    "end": 25.86,
+                    "probability": 0.9964780211448669
+                },
+                {
+                    "word": " out",
+                    "start": 25.86,
+                    "end": 26.16,
+                    "probability": 0.988006055355072
+                },
+                {
+                    "word": " of",
+                    "start": 26.16,
+                    "end": 26.36,
+                    "probability": 0.9947578310966492
+                },
+                {
+                    "word": " the",
+                    "start": 26.36,
+                    "end": 26.54,
+                    "probability": 0.9647042751312256
+                },
+                {
+                    "word": " room",
+                    "start": 26.54,
+                    "end": 26.9,
+                    "probability": 0.99652099609375
+                },
+                {
+                    "word": " and",
+                    "start": 26.9,
+                    "end": 27.2,
+                    "probability": 0.9189707040786743
+                },
+                {
+                    "word": " back",
+                    "start": 27.2,
+                    "end": 27.64,
+                    "probability": 0.9529783129692078
+                },
+                {
+                    "word": " in.",
+                    "start": 27.64,
+                    "end": 28.62,
+                    "probability": 0.9898220300674438
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 2862,
+            "start": 29.36,
+            "end": 43.72,
+            "text": " I just want to say that. In the end, I think the pros outperform the cons. It has to be done in some way.",
+            "tokens": [
+                50364,
+                286,
+                445,
+                528,
+                281,
+                584,
+                300,
+                13,
+                682,
+                264,
+                917,
+                11,
+                286,
+                519,
+                264,
+                6267,
+                484,
+                26765,
+                264,
+                1014,
+                13,
+                467,
+                575,
+                281,
+                312,
+                1096,
+                294,
+                512,
+                636,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29021553559736774,
+            "compression_ratio": 1.2702702702702702,
+            "no_speech_prob": 0.4687729775905609,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 29.36,
+                    "end": 30.0,
+                    "probability": 0.2896307110786438
+                },
+                {
+                    "word": " just",
+                    "start": 30.0,
+                    "end": 30.44,
+                    "probability": 0.9530911445617676
+                },
+                {
+                    "word": " want",
+                    "start": 30.44,
+                    "end": 30.66,
+                    "probability": 0.6991991400718689
+                },
+                {
+                    "word": " to",
+                    "start": 30.66,
+                    "end": 31.42,
+                    "probability": 0.9968582391738892
+                },
+                {
+                    "word": " say",
+                    "start": 31.42,
+                    "end": 31.68,
+                    "probability": 0.8332477807998657
+                },
+                {
+                    "word": " that.",
+                    "start": 31.68,
+                    "end": 32.2,
+                    "probability": 0.9862905144691467
+                },
+                {
+                    "word": " In",
+                    "start": 32.7,
+                    "end": 32.7,
+                    "probability": 0.8777801394462585
+                },
+                {
+                    "word": " the",
+                    "start": 32.7,
+                    "end": 32.84,
+                    "probability": 0.9990628361701965
+                },
+                {
+                    "word": " end,",
+                    "start": 32.84,
+                    "end": 32.96,
+                    "probability": 0.9996981620788574
+                },
+                {
+                    "word": " I",
+                    "start": 33.12,
+                    "end": 33.12,
+                    "probability": 0.9176337122917175
+                },
+                {
+                    "word": " think",
+                    "start": 33.12,
+                    "end": 34.72,
+                    "probability": 0.9977468848228455
+                },
+                {
+                    "word": " the",
+                    "start": 34.72,
+                    "end": 35.22,
+                    "probability": 0.6892465949058533
+                },
+                {
+                    "word": " pros",
+                    "start": 35.22,
+                    "end": 35.86,
+                    "probability": 0.9739892482757568
+                },
+                {
+                    "word": " outperform",
+                    "start": 35.86,
+                    "end": 38.62,
+                    "probability": 0.9612159132957458
+                },
+                {
+                    "word": " the",
+                    "start": 38.62,
+                    "end": 38.9,
+                    "probability": 0.9846232533454895
+                },
+                {
+                    "word": " cons.",
+                    "start": 38.9,
+                    "end": 39.32,
+                    "probability": 0.9948157668113708
+                },
+                {
+                    "word": " It",
+                    "start": 41.06,
+                    "end": 41.26,
+                    "probability": 0.6630101203918457
+                },
+                {
+                    "word": " has",
+                    "start": 41.26,
+                    "end": 41.46,
+                    "probability": 0.9576409459114075
+                },
+                {
+                    "word": " to",
+                    "start": 41.46,
+                    "end": 41.58,
+                    "probability": 0.9978225231170654
+                },
+                {
+                    "word": " be",
+                    "start": 41.58,
+                    "end": 41.68,
+                    "probability": 0.9926514029502869
+                },
+                {
+                    "word": " done",
+                    "start": 41.68,
+                    "end": 41.86,
+                    "probability": 0.9877119660377502
+                },
+                {
+                    "word": " in",
+                    "start": 41.86,
+                    "end": 42.64,
+                    "probability": 0.5461190938949585
+                },
+                {
+                    "word": " some",
+                    "start": 42.64,
+                    "end": 42.84,
+                    "probability": 0.49586057662963867
+                },
+                {
+                    "word": " way.",
+                    "start": 42.84,
+                    "end": 43.72,
+                    "probability": 0.6871122121810913
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 2862,
+            "start": 44.08,
+            "end": 47.04,
+            "text": " Looking at the floor, it's a bit...",
+            "tokens": [
+                51114,
+                11053,
+                412,
+                264,
+                4123,
+                11,
+                309,
+                311,
+                257,
+                857,
+                485,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29021553559736774,
+            "compression_ratio": 1.2702702702702702,
+            "no_speech_prob": 0.4687729775905609,
+            "words": [
+                {
+                    "word": " Looking",
+                    "start": 44.08,
+                    "end": 44.36,
+                    "probability": 0.7411494255065918
+                },
+                {
+                    "word": " at",
+                    "start": 44.36,
+                    "end": 44.58,
+                    "probability": 0.9880225658416748
+                },
+                {
+                    "word": " the",
+                    "start": 44.58,
+                    "end": 44.78,
+                    "probability": 0.9914054870605469
+                },
+                {
+                    "word": " floor,",
+                    "start": 44.78,
+                    "end": 45.16,
+                    "probability": 0.9942994117736816
+                },
+                {
+                    "word": " it's",
+                    "start": 46.1,
+                    "end": 46.74,
+                    "probability": 0.8853169083595276
+                },
+                {
+                    "word": " a",
+                    "start": 46.74,
+                    "end": 46.82,
+                    "probability": 0.8296555876731873
+                },
+                {
+                    "word": " bit...",
+                    "start": 46.82,
+                    "end": 47.04,
+                    "probability": 0.6165617406368256
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

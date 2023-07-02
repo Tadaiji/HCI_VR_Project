@@ -1,0 +1,46 @@
+{
+    "text": " That's my drawing.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.64,
+            "text": " That's my drawing.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                452,
+                6316,
+                13,
+                50406
+            ],
+            "temperature": 0.6,
+            "avg_logprob": -0.8525617718696594,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.23719008266925812,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.4664896344766021
+                },
+                {
+                    "word": " my",
+                    "start": 0.18,
+                    "end": 0.32,
+                    "probability": 0.3440093994140625
+                },
+                {
+                    "word": " drawing.",
+                    "start": 0.32,
+                    "end": 0.64,
+                    "probability": 0.968346118927002
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

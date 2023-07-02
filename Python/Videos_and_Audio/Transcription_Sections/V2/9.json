@@ -1,0 +1,357 @@
+{
+    "text": " last few months. It's also lying there and also some Chinese pots there, old Chinese pots and of course this small table. Yeah. I think we need to get rid of all that stuff and then we can get the new furniture.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.6,
+            "text": " last few months. It's also lying there and also some Chinese pots there, old",
+            "tokens": [
+                50364,
+                1036,
+                1326,
+                2493,
+                13,
+                467,
+                311,
+                611,
+                8493,
+                456,
+                293,
+                611,
+                512,
+                4649,
+                22022,
+                456,
+                11,
+                1331,
+                50682
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31055492054332384,
+            "compression_ratio": 1.4859154929577465,
+            "no_speech_prob": 0.08783111721277237,
+            "words": [
+                {
+                    "word": " last",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.5815720558166504
+                },
+                {
+                    "word": " few",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.9973649382591248
+                },
+                {
+                    "word": " months.",
+                    "start": 0.74,
+                    "end": 1.46,
+                    "probability": 0.9937697052955627
+                },
+                {
+                    "word": " It's",
+                    "start": 1.64,
+                    "end": 2.1,
+                    "probability": 0.5548928529024124
+                },
+                {
+                    "word": " also",
+                    "start": 2.1,
+                    "end": 2.32,
+                    "probability": 0.9739330410957336
+                },
+                {
+                    "word": " lying",
+                    "start": 2.32,
+                    "end": 2.56,
+                    "probability": 0.8639220595359802
+                },
+                {
+                    "word": " there",
+                    "start": 2.56,
+                    "end": 3.04,
+                    "probability": 0.9857925772666931
+                },
+                {
+                    "word": " and",
+                    "start": 3.04,
+                    "end": 3.8,
+                    "probability": 0.7438452839851379
+                },
+                {
+                    "word": " also",
+                    "start": 3.8,
+                    "end": 4.26,
+                    "probability": 0.9799492955207825
+                },
+                {
+                    "word": " some",
+                    "start": 4.26,
+                    "end": 4.76,
+                    "probability": 0.9923422932624817
+                },
+                {
+                    "word": " Chinese",
+                    "start": 4.76,
+                    "end": 5.26,
+                    "probability": 0.7577238082885742
+                },
+                {
+                    "word": " pots",
+                    "start": 5.26,
+                    "end": 5.7,
+                    "probability": 0.9429365992546082
+                },
+                {
+                    "word": " there,",
+                    "start": 5.7,
+                    "end": 6.24,
+                    "probability": 0.698391854763031
+                },
+                {
+                    "word": " old",
+                    "start": 6.5,
+                    "end": 6.6,
+                    "probability": 0.9069963693618774
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.6,
+            "end": 13.76,
+            "text": " Chinese pots and of course this small table. Yeah. I think we need to get rid of",
+            "tokens": [
+                50682,
+                4649,
+                22022,
+                293,
+                295,
+                1164,
+                341,
+                1359,
+                3199,
+                13,
+                865,
+                13,
+                286,
+                519,
+                321,
+                643,
+                281,
+                483,
+                3973,
+                295,
+                51040
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31055492054332384,
+            "compression_ratio": 1.4859154929577465,
+            "no_speech_prob": 0.08783111721277237,
+            "words": [
+                {
+                    "word": " Chinese",
+                    "start": 6.6,
+                    "end": 7.02,
+                    "probability": 0.9365048408508301
+                },
+                {
+                    "word": " pots",
+                    "start": 7.02,
+                    "end": 7.46,
+                    "probability": 0.8979495763778687
+                },
+                {
+                    "word": " and",
+                    "start": 7.46,
+                    "end": 8.76,
+                    "probability": 0.5609829425811768
+                },
+                {
+                    "word": " of",
+                    "start": 8.76,
+                    "end": 9.34,
+                    "probability": 0.9473812580108643
+                },
+                {
+                    "word": " course",
+                    "start": 9.34,
+                    "end": 9.6,
+                    "probability": 0.9989590644836426
+                },
+                {
+                    "word": " this",
+                    "start": 9.6,
+                    "end": 9.94,
+                    "probability": 0.6552035212516785
+                },
+                {
+                    "word": " small",
+                    "start": 9.94,
+                    "end": 10.36,
+                    "probability": 0.9865214824676514
+                },
+                {
+                    "word": " table.",
+                    "start": 10.36,
+                    "end": 10.96,
+                    "probability": 0.9960709810256958
+                },
+                {
+                    "word": " Yeah.",
+                    "start": 11.36,
+                    "end": 11.68,
+                    "probability": 0.5483239889144897
+                },
+                {
+                    "word": " I",
+                    "start": 12.26,
+                    "end": 12.52,
+                    "probability": 0.3977879583835602
+                },
+                {
+                    "word": " think",
+                    "start": 12.52,
+                    "end": 12.72,
+                    "probability": 0.9848938584327698
+                },
+                {
+                    "word": " we",
+                    "start": 12.72,
+                    "end": 12.9,
+                    "probability": 0.9446417689323425
+                },
+                {
+                    "word": " need",
+                    "start": 12.9,
+                    "end": 13.12,
+                    "probability": 0.9840764403343201
+                },
+                {
+                    "word": " to",
+                    "start": 13.12,
+                    "end": 13.26,
+                    "probability": 0.9981106519699097
+                },
+                {
+                    "word": " get",
+                    "start": 13.26,
+                    "end": 13.44,
+                    "probability": 0.9981001019477844
+                },
+                {
+                    "word": " rid",
+                    "start": 13.44,
+                    "end": 13.58,
+                    "probability": 0.9981164932250977
+                },
+                {
+                    "word": " of",
+                    "start": 13.58,
+                    "end": 13.76,
+                    "probability": 0.9849746823310852
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.76,
+            "end": 18.6,
+            "text": " all that stuff and then we can get the new furniture.",
+            "tokens": [
+                51040,
+                439,
+                300,
+                1507,
+                293,
+                550,
+                321,
+                393,
+                483,
+                264,
+                777,
+                15671,
+                13,
+                51392
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31055492054332384,
+            "compression_ratio": 1.4859154929577465,
+            "no_speech_prob": 0.08783111721277237,
+            "words": [
+                {
+                    "word": " all",
+                    "start": 13.76,
+                    "end": 14.0,
+                    "probability": 0.9647282361984253
+                },
+                {
+                    "word": " that",
+                    "start": 14.0,
+                    "end": 14.26,
+                    "probability": 0.9545601606369019
+                },
+                {
+                    "word": " stuff",
+                    "start": 14.26,
+                    "end": 14.58,
+                    "probability": 0.9964202642440796
+                },
+                {
+                    "word": " and",
+                    "start": 14.58,
+                    "end": 14.98,
+                    "probability": 0.9672145247459412
+                },
+                {
+                    "word": " then",
+                    "start": 14.98,
+                    "end": 15.5,
+                    "probability": 0.9981697797775269
+                },
+                {
+                    "word": " we",
+                    "start": 15.5,
+                    "end": 15.88,
+                    "probability": 0.9167747497558594
+                },
+                {
+                    "word": " can",
+                    "start": 15.88,
+                    "end": 16.66,
+                    "probability": 0.9992233514785767
+                },
+                {
+                    "word": " get",
+                    "start": 16.66,
+                    "end": 17.8,
+                    "probability": 0.9971670508384705
+                },
+                {
+                    "word": " the",
+                    "start": 17.8,
+                    "end": 18.06,
+                    "probability": 0.859285831451416
+                },
+                {
+                    "word": " new",
+                    "start": 18.06,
+                    "end": 18.16,
+                    "probability": 0.9937891364097595
+                },
+                {
+                    "word": " furniture.",
+                    "start": 18.16,
+                    "end": 18.6,
+                    "probability": 0.9971018433570862
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

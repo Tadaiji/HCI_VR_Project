@@ -1,0 +1,437 @@
+{
+    "text": " Since we are moving the couch, we should not forget about this TV stand. We need to rotate a TV stand as well, so there will be the perfect view while watching the TV, and the couch should be placed accordingly. And we need to rotate a table a little bit.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.12,
+            "end": 5.24,
+            "text": " Since we are moving the couch, we should not forget about this TV stand.",
+            "tokens": [
+                50364,
+                4162,
+                321,
+                366,
+                2684,
+                264,
+                16511,
+                11,
+                321,
+                820,
+                406,
+                2870,
+                466,
+                341,
+                3558,
+                1463,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3227390809492631,
+            "compression_ratio": 1.5838509316770186,
+            "no_speech_prob": 0.025042584165930748,
+            "words": [
+                {
+                    "word": " Since",
+                    "start": 0.12,
+                    "end": 0.76,
+                    "probability": 0.2931821644306183
+                },
+                {
+                    "word": " we",
+                    "start": 0.76,
+                    "end": 1.08,
+                    "probability": 0.9404346942901611
+                },
+                {
+                    "word": " are",
+                    "start": 1.08,
+                    "end": 1.2,
+                    "probability": 0.8953201174736023
+                },
+                {
+                    "word": " moving",
+                    "start": 1.2,
+                    "end": 1.54,
+                    "probability": 0.9919363260269165
+                },
+                {
+                    "word": " the",
+                    "start": 1.54,
+                    "end": 1.82,
+                    "probability": 0.9880344271659851
+                },
+                {
+                    "word": " couch,",
+                    "start": 1.82,
+                    "end": 2.04,
+                    "probability": 0.9846768975257874
+                },
+                {
+                    "word": " we",
+                    "start": 2.24,
+                    "end": 2.24,
+                    "probability": 0.6000582575798035
+                },
+                {
+                    "word": " should",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9667435884475708
+                },
+                {
+                    "word": " not",
+                    "start": 2.52,
+                    "end": 2.74,
+                    "probability": 0.9925245642662048
+                },
+                {
+                    "word": " forget",
+                    "start": 2.74,
+                    "end": 3.16,
+                    "probability": 0.9938919544219971
+                },
+                {
+                    "word": " about",
+                    "start": 3.16,
+                    "end": 3.62,
+                    "probability": 0.9805490374565125
+                },
+                {
+                    "word": " this",
+                    "start": 3.62,
+                    "end": 3.96,
+                    "probability": 0.8703505396842957
+                },
+                {
+                    "word": " TV",
+                    "start": 3.96,
+                    "end": 4.84,
+                    "probability": 0.9589667916297913
+                },
+                {
+                    "word": " stand.",
+                    "start": 4.84,
+                    "end": 5.24,
+                    "probability": 0.9438651204109192
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.46,
+            "end": 11.96,
+            "text": " We need to rotate a TV stand as well, so there will be the perfect view while watching the TV,",
+            "tokens": [
+                50632,
+                492,
+                643,
+                281,
+                13121,
+                257,
+                3558,
+                1463,
+                382,
+                731,
+                11,
+                370,
+                456,
+                486,
+                312,
+                264,
+                2176,
+                1910,
+                1339,
+                1976,
+                264,
+                3558,
+                11,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3227390809492631,
+            "compression_ratio": 1.5838509316770186,
+            "no_speech_prob": 0.025042584165930748,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.46,
+                    "end": 5.56,
+                    "probability": 0.9772593975067139
+                },
+                {
+                    "word": " need",
+                    "start": 5.56,
+                    "end": 5.84,
+                    "probability": 0.9921817779541016
+                },
+                {
+                    "word": " to",
+                    "start": 5.84,
+                    "end": 6.02,
+                    "probability": 0.9949369430541992
+                },
+                {
+                    "word": " rotate",
+                    "start": 6.02,
+                    "end": 6.28,
+                    "probability": 0.9530072212219238
+                },
+                {
+                    "word": " a",
+                    "start": 6.28,
+                    "end": 6.84,
+                    "probability": 0.8868682384490967
+                },
+                {
+                    "word": " TV",
+                    "start": 6.84,
+                    "end": 7.22,
+                    "probability": 0.9840572476387024
+                },
+                {
+                    "word": " stand",
+                    "start": 7.22,
+                    "end": 7.56,
+                    "probability": 0.9938905239105225
+                },
+                {
+                    "word": " as",
+                    "start": 7.56,
+                    "end": 7.9,
+                    "probability": 0.9671875238418579
+                },
+                {
+                    "word": " well,",
+                    "start": 7.9,
+                    "end": 8.14,
+                    "probability": 0.9961128234863281
+                },
+                {
+                    "word": " so",
+                    "start": 8.46,
+                    "end": 8.74,
+                    "probability": 0.9801239967346191
+                },
+                {
+                    "word": " there",
+                    "start": 8.74,
+                    "end": 8.88,
+                    "probability": 0.9540647864341736
+                },
+                {
+                    "word": " will",
+                    "start": 8.88,
+                    "end": 9.16,
+                    "probability": 0.9758843183517456
+                },
+                {
+                    "word": " be",
+                    "start": 9.16,
+                    "end": 9.38,
+                    "probability": 0.9971165657043457
+                },
+                {
+                    "word": " the",
+                    "start": 9.38,
+                    "end": 9.54,
+                    "probability": 0.9373720288276672
+                },
+                {
+                    "word": " perfect",
+                    "start": 9.54,
+                    "end": 10.0,
+                    "probability": 0.9975537657737732
+                },
+                {
+                    "word": " view",
+                    "start": 10.0,
+                    "end": 10.42,
+                    "probability": 0.9970542192459106
+                },
+                {
+                    "word": " while",
+                    "start": 10.42,
+                    "end": 10.82,
+                    "probability": 0.8457714319229126
+                },
+                {
+                    "word": " watching",
+                    "start": 10.82,
+                    "end": 11.26,
+                    "probability": 0.9976847171783447
+                },
+                {
+                    "word": " the",
+                    "start": 11.26,
+                    "end": 11.64,
+                    "probability": 0.958535373210907
+                },
+                {
+                    "word": " TV,",
+                    "start": 11.64,
+                    "end": 11.96,
+                    "probability": 0.9819853901863098
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.4,
+            "end": 15.28,
+            "text": " and the couch should be placed accordingly.",
+            "tokens": [
+                50972,
+                293,
+                264,
+                16511,
+                820,
+                312,
+                7074,
+                19717,
+                13,
+                51132
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3227390809492631,
+            "compression_ratio": 1.5838509316770186,
+            "no_speech_prob": 0.025042584165930748,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 12.4,
+                    "end": 12.64,
+                    "probability": 0.9730970859527588
+                },
+                {
+                    "word": " the",
+                    "start": 12.64,
+                    "end": 12.94,
+                    "probability": 0.9459586143493652
+                },
+                {
+                    "word": " couch",
+                    "start": 12.94,
+                    "end": 13.44,
+                    "probability": 0.9955495595932007
+                },
+                {
+                    "word": " should",
+                    "start": 13.44,
+                    "end": 13.9,
+                    "probability": 0.9930185675621033
+                },
+                {
+                    "word": " be",
+                    "start": 13.9,
+                    "end": 14.28,
+                    "probability": 0.9957732558250427
+                },
+                {
+                    "word": " placed",
+                    "start": 14.28,
+                    "end": 14.64,
+                    "probability": 0.9965279698371887
+                },
+                {
+                    "word": " accordingly.",
+                    "start": 14.64,
+                    "end": 15.28,
+                    "probability": 0.9861903190612793
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.82,
+            "end": 18.2,
+            "text": " And we need to rotate a table a little bit.",
+            "tokens": [
+                51132,
+                400,
+                321,
+                643,
+                281,
+                13121,
+                257,
+                3199,
+                257,
+                707,
+                857,
+                13,
+                51272
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3227390809492631,
+            "compression_ratio": 1.5838509316770186,
+            "no_speech_prob": 0.025042584165930748,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 15.82,
+                    "end": 16.06,
+                    "probability": 0.7482460737228394
+                },
+                {
+                    "word": " we",
+                    "start": 16.06,
+                    "end": 16.24,
+                    "probability": 0.960794985294342
+                },
+                {
+                    "word": " need",
+                    "start": 16.24,
+                    "end": 16.44,
+                    "probability": 0.9906966686248779
+                },
+                {
+                    "word": " to",
+                    "start": 16.44,
+                    "end": 16.62,
+                    "probability": 0.9975601434707642
+                },
+                {
+                    "word": " rotate",
+                    "start": 16.62,
+                    "end": 16.86,
+                    "probability": 0.9951438903808594
+                },
+                {
+                    "word": " a",
+                    "start": 16.86,
+                    "end": 17.1,
+                    "probability": 0.876542866230011
+                },
+                {
+                    "word": " table",
+                    "start": 17.1,
+                    "end": 17.42,
+                    "probability": 0.9905750751495361
+                },
+                {
+                    "word": " a",
+                    "start": 17.42,
+                    "end": 17.84,
+                    "probability": 0.5129580497741699
+                },
+                {
+                    "word": " little",
+                    "start": 17.84,
+                    "end": 17.92,
+                    "probability": 0.9727419018745422
+                },
+                {
+                    "word": " bit.",
+                    "start": 17.92,
+                    "end": 18.2,
+                    "probability": 0.9936845898628235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

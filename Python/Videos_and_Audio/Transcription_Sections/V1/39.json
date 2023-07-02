@@ -1,0 +1,231 @@
+{
+    "text": " Does she do big pictures? Because I think we should have some big pictures on the walls and just try to make it a bit more lively.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 3.06,
+            "end": 9.38,
+            "text": " Does she do big pictures? Because I think we should have some big pictures on the walls",
+            "tokens": [
+                50364,
+                4402,
+                750,
+                360,
+                955,
+                5242,
+                30,
+                1436,
+                286,
+                519,
+                321,
+                820,
+                362,
+                512,
+                955,
+                5242,
+                322,
+                264,
+                7920,
+                50832
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29940187229829673,
+            "compression_ratio": 1.2380952380952381,
+            "no_speech_prob": 0.22211837768554688,
+            "words": [
+                {
+                    "word": " Does",
+                    "start": 3.06,
+                    "end": 3.6,
+                    "probability": 0.6792955994606018
+                },
+                {
+                    "word": " she",
+                    "start": 3.6,
+                    "end": 3.78,
+                    "probability": 0.9890058040618896
+                },
+                {
+                    "word": " do",
+                    "start": 3.78,
+                    "end": 4.0,
+                    "probability": 0.8817774653434753
+                },
+                {
+                    "word": " big",
+                    "start": 4.0,
+                    "end": 4.22,
+                    "probability": 0.9791052937507629
+                },
+                {
+                    "word": " pictures?",
+                    "start": 4.22,
+                    "end": 4.68,
+                    "probability": 0.9772486090660095
+                },
+                {
+                    "word": " Because",
+                    "start": 5.14,
+                    "end": 5.62,
+                    "probability": 0.6395928263664246
+                },
+                {
+                    "word": " I",
+                    "start": 5.62,
+                    "end": 5.82,
+                    "probability": 0.7842463254928589
+                },
+                {
+                    "word": " think",
+                    "start": 5.82,
+                    "end": 6.1,
+                    "probability": 0.9866148829460144
+                },
+                {
+                    "word": " we",
+                    "start": 6.1,
+                    "end": 6.26,
+                    "probability": 0.9588955640792847
+                },
+                {
+                    "word": " should",
+                    "start": 6.26,
+                    "end": 6.62,
+                    "probability": 0.9865798354148865
+                },
+                {
+                    "word": " have",
+                    "start": 6.62,
+                    "end": 6.84,
+                    "probability": 0.9573378562927246
+                },
+                {
+                    "word": " some",
+                    "start": 6.84,
+                    "end": 7.56,
+                    "probability": 0.893226683139801
+                },
+                {
+                    "word": " big",
+                    "start": 7.56,
+                    "end": 7.76,
+                    "probability": 0.9678453803062439
+                },
+                {
+                    "word": " pictures",
+                    "start": 7.76,
+                    "end": 8.18,
+                    "probability": 0.9842921495437622
+                },
+                {
+                    "word": " on",
+                    "start": 8.18,
+                    "end": 8.8,
+                    "probability": 0.9397890567779541
+                },
+                {
+                    "word": " the",
+                    "start": 8.8,
+                    "end": 9.02,
+                    "probability": 0.9883968234062195
+                },
+                {
+                    "word": " walls",
+                    "start": 9.02,
+                    "end": 9.38,
+                    "probability": 0.8661774396896362
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.38,
+            "end": 12.5,
+            "text": " and just try to make it a bit more lively.",
+            "tokens": [
+                50832,
+                293,
+                445,
+                853,
+                281,
+                652,
+                309,
+                257,
+                857,
+                544,
+                30866,
+                13,
+                50984
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.29940187229829673,
+            "compression_ratio": 1.2380952380952381,
+            "no_speech_prob": 0.22211837768554688,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 9.38,
+                    "end": 10.76,
+                    "probability": 0.7208044528961182
+                },
+                {
+                    "word": " just",
+                    "start": 10.76,
+                    "end": 11.12,
+                    "probability": 0.8125808835029602
+                },
+                {
+                    "word": " try",
+                    "start": 11.12,
+                    "end": 11.3,
+                    "probability": 0.9639045596122742
+                },
+                {
+                    "word": " to",
+                    "start": 11.3,
+                    "end": 11.5,
+                    "probability": 0.9938985109329224
+                },
+                {
+                    "word": " make",
+                    "start": 11.5,
+                    "end": 11.62,
+                    "probability": 0.9970006346702576
+                },
+                {
+                    "word": " it",
+                    "start": 11.62,
+                    "end": 11.76,
+                    "probability": 0.9835704565048218
+                },
+                {
+                    "word": " a",
+                    "start": 11.76,
+                    "end": 11.76,
+                    "probability": 0.9715705513954163
+                },
+                {
+                    "word": " bit",
+                    "start": 11.76,
+                    "end": 11.96,
+                    "probability": 0.9890092015266418
+                },
+                {
+                    "word": " more",
+                    "start": 11.96,
+                    "end": 12.24,
+                    "probability": 0.9964587092399597
+                },
+                {
+                    "word": " lively.",
+                    "start": 12.24,
+                    "end": 12.5,
+                    "probability": 0.7349502444267273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

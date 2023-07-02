@@ -1,0 +1,76 @@
+{
+    "text": " Yeah, that's right. We have to rearrange.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " Yeah, that's right. We have to rearrange.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                300,
+                311,
+                558,
+                13,
+                492,
+                362,
+                281,
+                39568,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4350673130580357,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.1664651781320572,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.74,
+                    "probability": 0.45367899537086487
+                },
+                {
+                    "word": " that's",
+                    "start": 1.12,
+                    "end": 1.44,
+                    "probability": 0.8153740465641022
+                },
+                {
+                    "word": " right.",
+                    "start": 1.44,
+                    "end": 1.66,
+                    "probability": 0.8981677889823914
+                },
+                {
+                    "word": " We",
+                    "start": 1.82,
+                    "end": 1.82,
+                    "probability": 0.9602426886558533
+                },
+                {
+                    "word": " have",
+                    "start": 1.82,
+                    "end": 2.08,
+                    "probability": 0.9752305150032043
+                },
+                {
+                    "word": " to",
+                    "start": 2.08,
+                    "end": 2.58,
+                    "probability": 0.9968510270118713
+                },
+                {
+                    "word": " rearrange.",
+                    "start": 2.58,
+                    "end": 3.06,
+                    "probability": 0.9691048860549927
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

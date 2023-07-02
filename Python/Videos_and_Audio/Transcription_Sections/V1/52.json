@@ -1,0 +1,237 @@
+{
+    "text": " Okay, yeah, the watch table sounds nice, but... I forgot what I wanted to say. Yeah, no problem. Yeah, I also think...",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.16,
+            "text": " Okay, yeah, the watch table sounds nice, but...",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1338,
+                11,
+                264,
+                1159,
+                3199,
+                3263,
+                1481,
+                11,
+                457,
+                485,
+                50534
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6047395706176758,
+            "compression_ratio": 1.1683168316831682,
+            "no_speech_prob": 0.04457365721464157,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.31320130825042725
+                },
+                {
+                    "word": " yeah,",
+                    "start": 0.62,
+                    "end": 0.64,
+                    "probability": 0.35077908635139465
+                },
+                {
+                    "word": " the",
+                    "start": 0.7,
+                    "end": 0.86,
+                    "probability": 0.2844230830669403
+                },
+                {
+                    "word": " watch",
+                    "start": 0.86,
+                    "end": 1.0,
+                    "probability": 0.14927683770656586
+                },
+                {
+                    "word": " table",
+                    "start": 1.0,
+                    "end": 1.54,
+                    "probability": 0.1801723837852478
+                },
+                {
+                    "word": " sounds",
+                    "start": 1.54,
+                    "end": 1.98,
+                    "probability": 0.9138716459274292
+                },
+                {
+                    "word": " nice,",
+                    "start": 1.98,
+                    "end": 2.36,
+                    "probability": 0.9983510971069336
+                },
+                {
+                    "word": " but...",
+                    "start": 3.78,
+                    "end": 7.16,
+                    "probability": 0.621171623468399
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.16,
+            "end": 8.7,
+            "text": " I forgot what I wanted to say.",
+            "tokens": [
+                50720,
+                286,
+                5298,
+                437,
+                286,
+                1415,
+                281,
+                584,
+                13,
+                50816
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6047395706176758,
+            "compression_ratio": 1.1683168316831682,
+            "no_speech_prob": 0.04457365721464157,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 7.16,
+                    "end": 7.3,
+                    "probability": 0.7900556921958923
+                },
+                {
+                    "word": " forgot",
+                    "start": 7.3,
+                    "end": 7.58,
+                    "probability": 0.9266740083694458
+                },
+                {
+                    "word": " what",
+                    "start": 7.58,
+                    "end": 7.78,
+                    "probability": 0.9910112619400024
+                },
+                {
+                    "word": " I",
+                    "start": 7.78,
+                    "end": 7.92,
+                    "probability": 0.9893054962158203
+                },
+                {
+                    "word": " wanted",
+                    "start": 7.92,
+                    "end": 8.12,
+                    "probability": 0.8827221393585205
+                },
+                {
+                    "word": " to",
+                    "start": 8.12,
+                    "end": 8.4,
+                    "probability": 0.9983150959014893
+                },
+                {
+                    "word": " say.",
+                    "start": 8.4,
+                    "end": 8.7,
+                    "probability": 0.9983839988708496
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.14,
+            "end": 9.8,
+            "text": " Yeah, no problem.",
+            "tokens": [
+                50816,
+                865,
+                11,
+                572,
+                1154,
+                13,
+                50884
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6047395706176758,
+            "compression_ratio": 1.1683168316831682,
+            "no_speech_prob": 0.04457365721464157,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 9.14,
+                    "end": 9.36,
+                    "probability": 0.8731832504272461
+                },
+                {
+                    "word": " no",
+                    "start": 9.44,
+                    "end": 9.54,
+                    "probability": 0.9733914732933044
+                },
+                {
+                    "word": " problem.",
+                    "start": 9.54,
+                    "end": 9.8,
+                    "probability": 0.9951820969581604
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.2,
+            "end": 11.2,
+            "text": " Yeah, I also think...",
+            "tokens": [
+                50884,
+                865,
+                11,
+                286,
+                611,
+                519,
+                485,
+                50934
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6047395706176758,
+            "compression_ratio": 1.1683168316831682,
+            "no_speech_prob": 0.04457365721464157,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 10.2,
+                    "end": 10.6,
+                    "probability": 0.4290289878845215
+                },
+                {
+                    "word": " I",
+                    "start": 10.8,
+                    "end": 10.86,
+                    "probability": 0.987700343132019
+                },
+                {
+                    "word": " also",
+                    "start": 10.86,
+                    "end": 11.12,
+                    "probability": 0.9890930652618408
+                },
+                {
+                    "word": " think...",
+                    "start": 11.12,
+                    "end": 11.2,
+                    "probability": 0.7266010940074921
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

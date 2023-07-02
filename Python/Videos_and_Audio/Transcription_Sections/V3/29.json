@@ -1,0 +1,255 @@
+{
+    "text": " Or he can make some really good steak On the charcoal or can he flip burgers for us? What do you think? I think it was a budget",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 3.12,
+            "text": " Or he can make some really good steak",
+            "tokens": [
+                50364,
+                1610,
+                415,
+                393,
+                652,
+                512,
+                534,
+                665,
+                17009,
+                50501
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3715170782965583,
+            "compression_ratio": 1.233009708737864,
+            "no_speech_prob": 0.31609365344047546,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 0.14,
+                    "end": 0.7,
+                    "probability": 0.49840277433395386
+                },
+                {
+                    "word": " he",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9129683375358582
+                },
+                {
+                    "word": " can",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.9937129616737366
+                },
+                {
+                    "word": " make",
+                    "start": 1.18,
+                    "end": 1.36,
+                    "probability": 0.9099670052528381
+                },
+                {
+                    "word": " some",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.9800325036048889
+                },
+                {
+                    "word": " really",
+                    "start": 1.68,
+                    "end": 2.14,
+                    "probability": 0.9910968542098999
+                },
+                {
+                    "word": " good",
+                    "start": 2.14,
+                    "end": 2.52,
+                    "probability": 0.9986108541488647
+                },
+                {
+                    "word": " steak",
+                    "start": 2.52,
+                    "end": 3.12,
+                    "probability": 0.8339620232582092
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.12,
+            "end": 8.68,
+            "text": " On the charcoal or can he flip burgers for us? What do you think?",
+            "tokens": [
+                50535,
+                1282,
+                264,
+                30625,
+                420,
+                393,
+                415,
+                7929,
+                28403,
+                337,
+                505,
+                30,
+                708,
+                360,
+                291,
+                519,
+                30,
+                50788
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3715170782965583,
+            "compression_ratio": 1.233009708737864,
+            "no_speech_prob": 0.31609365344047546,
+            "words": [
+                {
+                    "word": " On",
+                    "start": 3.12,
+                    "end": 4.06,
+                    "probability": 0.197653129696846
+                },
+                {
+                    "word": " the",
+                    "start": 4.06,
+                    "end": 4.3,
+                    "probability": 0.9938422441482544
+                },
+                {
+                    "word": " charcoal",
+                    "start": 4.3,
+                    "end": 4.8,
+                    "probability": 0.991259753704071
+                },
+                {
+                    "word": " or",
+                    "start": 4.8,
+                    "end": 5.78,
+                    "probability": 0.8907638192176819
+                },
+                {
+                    "word": " can",
+                    "start": 5.78,
+                    "end": 5.92,
+                    "probability": 0.947930634021759
+                },
+                {
+                    "word": " he",
+                    "start": 5.92,
+                    "end": 6.22,
+                    "probability": 0.6241442561149597
+                },
+                {
+                    "word": " flip",
+                    "start": 6.22,
+                    "end": 6.5,
+                    "probability": 0.9862034320831299
+                },
+                {
+                    "word": " burgers",
+                    "start": 6.5,
+                    "end": 6.96,
+                    "probability": 0.986850380897522
+                },
+                {
+                    "word": " for",
+                    "start": 6.96,
+                    "end": 7.34,
+                    "probability": 0.9977465271949768
+                },
+                {
+                    "word": " us?",
+                    "start": 7.34,
+                    "end": 7.68,
+                    "probability": 0.999128520488739
+                },
+                {
+                    "word": " What",
+                    "start": 7.88,
+                    "end": 8.1,
+                    "probability": 0.9234111905097961
+                },
+                {
+                    "word": " do",
+                    "start": 8.1,
+                    "end": 8.28,
+                    "probability": 0.7427365779876709
+                },
+                {
+                    "word": " you",
+                    "start": 8.28,
+                    "end": 8.44,
+                    "probability": 0.9991496801376343
+                },
+                {
+                    "word": " think?",
+                    "start": 8.44,
+                    "end": 8.68,
+                    "probability": 0.9955554604530334
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.3,
+            "end": 10.34,
+            "text": " I think it was a budget",
+            "tokens": [
+                50788,
+                286,
+                519,
+                309,
+                390,
+                257,
+                4706,
+                50888
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3715170782965583,
+            "compression_ratio": 1.233009708737864,
+            "no_speech_prob": 0.31609365344047546,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 9.3,
+                    "end": 9.3,
+                    "probability": 0.19218222796916962
+                },
+                {
+                    "word": " think",
+                    "start": 9.3,
+                    "end": 9.7,
+                    "probability": 0.7862780094146729
+                },
+                {
+                    "word": " it",
+                    "start": 9.7,
+                    "end": 9.78,
+                    "probability": 0.15957790613174438
+                },
+                {
+                    "word": " was",
+                    "start": 9.78,
+                    "end": 10.0,
+                    "probability": 0.6648941040039062
+                },
+                {
+                    "word": " a",
+                    "start": 10.0,
+                    "end": 10.16,
+                    "probability": 0.7528274059295654
+                },
+                {
+                    "word": " budget",
+                    "start": 10.16,
+                    "end": 10.34,
+                    "probability": 0.9952704310417175
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

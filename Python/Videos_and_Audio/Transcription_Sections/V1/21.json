@@ -1,0 +1,59 @@
+{
+    "text": " What do you guys think?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 1.0,
+            "text": " What do you guys think?",
+            "tokens": [
+                50364,
+                708,
+                360,
+                291,
+                1074,
+                519,
+                30,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2628054353925917,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.027535604313015938,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.06,
+                    "end": 0.38,
+                    "probability": 0.7724795937538147
+                },
+                {
+                    "word": " do",
+                    "start": 0.38,
+                    "end": 0.54,
+                    "probability": 0.8163542151451111
+                },
+                {
+                    "word": " you",
+                    "start": 0.54,
+                    "end": 0.64,
+                    "probability": 0.9904072880744934
+                },
+                {
+                    "word": " guys",
+                    "start": 0.64,
+                    "end": 0.78,
+                    "probability": 0.9674863815307617
+                },
+                {
+                    "word": " think?",
+                    "start": 0.78,
+                    "end": 1.0,
+                    "probability": 0.9949948787689209
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

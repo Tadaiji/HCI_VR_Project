@@ -1,0 +1,463 @@
+{
+    "text": " I'll be making some more stuff with clowns or afraid of clowns. Okay, then having a professional chef on board will be a really good idea and I will be looking forward to it. And I've heard the chef makes some more good oriental food as well. Yeah, what do you think about it?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " I'll be making some more stuff with clowns or afraid of clowns.",
+            "tokens": [
+                50364,
+                286,
+                603,
+                312,
+                1455,
+                512,
+                544,
+                1507,
+                365,
+                22209,
+                82,
+                420,
+                4638,
+                295,
+                22209,
+                82,
+                13,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766167872660869,
+            "compression_ratio": 1.5164835164835164,
+            "no_speech_prob": 0.12728089094161987,
+            "words": [
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.2737342193722725
+                },
+                {
+                    "word": " be",
+                    "start": 0.24,
+                    "end": 0.4,
+                    "probability": 0.872583270072937
+                },
+                {
+                    "word": " making",
+                    "start": 0.4,
+                    "end": 0.76,
+                    "probability": 0.9906071424484253
+                },
+                {
+                    "word": " some",
+                    "start": 0.76,
+                    "end": 1.26,
+                    "probability": 0.9683069586753845
+                },
+                {
+                    "word": " more",
+                    "start": 1.26,
+                    "end": 1.72,
+                    "probability": 0.9793182611465454
+                },
+                {
+                    "word": " stuff",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9620054960250854
+                },
+                {
+                    "word": " with",
+                    "start": 1.94,
+                    "end": 2.24,
+                    "probability": 0.6419510245323181
+                },
+                {
+                    "word": " clowns",
+                    "start": 2.24,
+                    "end": 3.04,
+                    "probability": 0.9130935966968536
+                },
+                {
+                    "word": " or",
+                    "start": 3.04,
+                    "end": 3.18,
+                    "probability": 0.6174616813659668
+                },
+                {
+                    "word": " afraid",
+                    "start": 3.18,
+                    "end": 3.86,
+                    "probability": 0.46196332573890686
+                },
+                {
+                    "word": " of",
+                    "start": 3.86,
+                    "end": 4.14,
+                    "probability": 0.9834513664245605
+                },
+                {
+                    "word": " clowns.",
+                    "start": 4.14,
+                    "end": 5.04,
+                    "probability": 0.7588687241077423
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.04,
+            "end": 12.16,
+            "text": " Okay, then having a professional chef on board will be a really good idea and I will be looking forward to it.",
+            "tokens": [
+                50592,
+                1033,
+                11,
+                550,
+                1419,
+                257,
+                4843,
+                10530,
+                322,
+                3150,
+                486,
+                312,
+                257,
+                534,
+                665,
+                1558,
+                293,
+                286,
+                486,
+                312,
+                1237,
+                2128,
+                281,
+                309,
+                13,
+                50968
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766167872660869,
+            "compression_ratio": 1.5164835164835164,
+            "no_speech_prob": 0.12728089094161987,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 5.04,
+                    "end": 5.06,
+                    "probability": 0.6515617966651917
+                },
+                {
+                    "word": " then",
+                    "start": 5.2,
+                    "end": 5.64,
+                    "probability": 0.4760291874408722
+                },
+                {
+                    "word": " having",
+                    "start": 5.64,
+                    "end": 5.92,
+                    "probability": 0.9554866552352905
+                },
+                {
+                    "word": " a",
+                    "start": 5.92,
+                    "end": 6.22,
+                    "probability": 0.9919242262840271
+                },
+                {
+                    "word": " professional",
+                    "start": 6.22,
+                    "end": 6.66,
+                    "probability": 0.9966734647750854
+                },
+                {
+                    "word": " chef",
+                    "start": 6.66,
+                    "end": 6.94,
+                    "probability": 0.9834650754928589
+                },
+                {
+                    "word": " on",
+                    "start": 6.94,
+                    "end": 7.26,
+                    "probability": 0.7970240712165833
+                },
+                {
+                    "word": " board",
+                    "start": 7.26,
+                    "end": 7.4,
+                    "probability": 0.9810175895690918
+                },
+                {
+                    "word": " will",
+                    "start": 7.4,
+                    "end": 7.62,
+                    "probability": 0.9774905443191528
+                },
+                {
+                    "word": " be",
+                    "start": 7.62,
+                    "end": 8.0,
+                    "probability": 0.9990624785423279
+                },
+                {
+                    "word": " a",
+                    "start": 8.0,
+                    "end": 8.18,
+                    "probability": 0.8480481505393982
+                },
+                {
+                    "word": " really",
+                    "start": 8.18,
+                    "end": 8.38,
+                    "probability": 0.9936187267303467
+                },
+                {
+                    "word": " good",
+                    "start": 8.38,
+                    "end": 8.56,
+                    "probability": 0.9987780451774597
+                },
+                {
+                    "word": " idea",
+                    "start": 8.56,
+                    "end": 9.08,
+                    "probability": 0.9971490502357483
+                },
+                {
+                    "word": " and",
+                    "start": 9.08,
+                    "end": 9.96,
+                    "probability": 0.7326474785804749
+                },
+                {
+                    "word": " I",
+                    "start": 9.96,
+                    "end": 10.64,
+                    "probability": 0.97170490026474
+                },
+                {
+                    "word": " will",
+                    "start": 10.64,
+                    "end": 10.8,
+                    "probability": 0.7125746607780457
+                },
+                {
+                    "word": " be",
+                    "start": 10.8,
+                    "end": 10.94,
+                    "probability": 0.9936322569847107
+                },
+                {
+                    "word": " looking",
+                    "start": 10.94,
+                    "end": 11.14,
+                    "probability": 0.9979227185249329
+                },
+                {
+                    "word": " forward",
+                    "start": 11.14,
+                    "end": 11.44,
+                    "probability": 0.9941743016242981
+                },
+                {
+                    "word": " to",
+                    "start": 11.44,
+                    "end": 11.94,
+                    "probability": 0.9919443130493164
+                },
+                {
+                    "word": " it.",
+                    "start": 11.94,
+                    "end": 12.16,
+                    "probability": 0.9949392080307007
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.2,
+            "end": 17.0,
+            "text": " And I've heard the chef makes some more good oriental food as well.",
+            "tokens": [
+                50968,
+                400,
+                286,
+                600,
+                2198,
+                264,
+                10530,
+                1669,
+                512,
+                544,
+                665,
+                8579,
+                304,
+                1755,
+                382,
+                731,
+                13,
+                51216
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766167872660869,
+            "compression_ratio": 1.5164835164835164,
+            "no_speech_prob": 0.12728089094161987,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 12.2,
+                    "end": 12.48,
+                    "probability": 0.8886950016021729
+                },
+                {
+                    "word": " I've",
+                    "start": 12.48,
+                    "end": 12.98,
+                    "probability": 0.9324251413345337
+                },
+                {
+                    "word": " heard",
+                    "start": 12.98,
+                    "end": 13.16,
+                    "probability": 0.997951328754425
+                },
+                {
+                    "word": " the",
+                    "start": 13.16,
+                    "end": 13.52,
+                    "probability": 0.9338822960853577
+                },
+                {
+                    "word": " chef",
+                    "start": 13.52,
+                    "end": 13.78,
+                    "probability": 0.9830324649810791
+                },
+                {
+                    "word": " makes",
+                    "start": 13.78,
+                    "end": 14.4,
+                    "probability": 0.7518490552902222
+                },
+                {
+                    "word": " some",
+                    "start": 14.4,
+                    "end": 14.74,
+                    "probability": 0.6525506973266602
+                },
+                {
+                    "word": " more",
+                    "start": 14.74,
+                    "end": 15.48,
+                    "probability": 0.6013273596763611
+                },
+                {
+                    "word": " good",
+                    "start": 15.48,
+                    "end": 15.82,
+                    "probability": 0.9802119731903076
+                },
+                {
+                    "word": " oriental",
+                    "start": 15.82,
+                    "end": 16.28,
+                    "probability": 0.6667732745409012
+                },
+                {
+                    "word": " food",
+                    "start": 16.28,
+                    "end": 16.48,
+                    "probability": 0.9970211386680603
+                },
+                {
+                    "word": " as",
+                    "start": 16.48,
+                    "end": 16.82,
+                    "probability": 0.9678770899772644
+                },
+                {
+                    "word": " well.",
+                    "start": 16.82,
+                    "end": 17.0,
+                    "probability": 0.9972298741340637
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.7,
+            "end": 19.02,
+            "text": " Yeah, what do you think about it?",
+            "tokens": [
+                51216,
+                865,
+                11,
+                437,
+                360,
+                291,
+                519,
+                466,
+                309,
+                30,
+                51316
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3766167872660869,
+            "compression_ratio": 1.5164835164835164,
+            "no_speech_prob": 0.12728089094161987,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 17.7,
+                    "end": 17.9,
+                    "probability": 0.7841508388519287
+                },
+                {
+                    "word": " what",
+                    "start": 18.26,
+                    "end": 18.38,
+                    "probability": 0.9309746026992798
+                },
+                {
+                    "word": " do",
+                    "start": 18.38,
+                    "end": 18.48,
+                    "probability": 0.9922311902046204
+                },
+                {
+                    "word": " you",
+                    "start": 18.48,
+                    "end": 18.56,
+                    "probability": 0.9991815686225891
+                },
+                {
+                    "word": " think",
+                    "start": 18.56,
+                    "end": 18.66,
+                    "probability": 0.9972078204154968
+                },
+                {
+                    "word": " about",
+                    "start": 18.66,
+                    "end": 18.82,
+                    "probability": 0.9876850843429565
+                },
+                {
+                    "word": " it?",
+                    "start": 18.82,
+                    "end": 19.02,
+                    "probability": 0.9882869124412537
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,82 @@
+{
+    "text": " think about it? Yeah, this would be nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.8,
+            "text": " think about it? Yeah, this would be nice.",
+            "tokens": [
+                50364,
+                519,
+                466,
+                309,
+                30,
+                865,
+                11,
+                341,
+                576,
+                312,
+                1481,
+                13,
+                50632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5354910578046527,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.8273350596427917,
+            "words": [
+                {
+                    "word": " think",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.09361586719751358
+                },
+                {
+                    "word": " about",
+                    "start": 0.2,
+                    "end": 0.4,
+                    "probability": 0.989075779914856
+                },
+                {
+                    "word": " it?",
+                    "start": 0.4,
+                    "end": 0.8,
+                    "probability": 0.9873401522636414
+                },
+                {
+                    "word": " Yeah,",
+                    "start": 1.06,
+                    "end": 1.46,
+                    "probability": 0.6731082201004028
+                },
+                {
+                    "word": " this",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.7043027877807617
+                },
+                {
+                    "word": " would",
+                    "start": 2.1,
+                    "end": 2.24,
+                    "probability": 0.9889278411865234
+                },
+                {
+                    "word": " be",
+                    "start": 2.24,
+                    "end": 2.46,
+                    "probability": 0.9991286396980286
+                },
+                {
+                    "word": " nice.",
+                    "start": 2.46,
+                    "end": 2.8,
+                    "probability": 0.9971709847450256
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

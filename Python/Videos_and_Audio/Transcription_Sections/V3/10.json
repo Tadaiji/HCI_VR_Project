@@ -1,0 +1,80 @@
+{
+    "text": " and I'll see you next time.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.06,
+            "text": " and I'll see you next time.",
+            "tokens": [
+                50364,
+                293,
+                286,
+                603,
+                536,
+                291,
+                958,
+                565,
+                13,
+                50414
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9065364837646485,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.9221500158309937,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.05916103348135948
+                },
+                {
+                    "word": " I'll",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.19832856953144073
+                },
+                {
+                    "word": " see",
+                    "start": 0.02,
+                    "end": 0.04,
+                    "probability": 0.7195192575454712
+                },
+                {
+                    "word": " you",
+                    "start": 0.04,
+                    "end": 0.04,
+                    "probability": 0.9492684006690979
+                },
+                {
+                    "word": " next",
+                    "start": 0.04,
+                    "end": 0.06,
+                    "probability": 0.22085653245449066
+                },
+                {
+                    "word": " time.",
+                    "start": 0.06,
+                    "end": 0.06,
+                    "probability": 0.9543955326080322
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.06,
+            "end": 0.06,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.9065364837646485,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.9221500158309937,
+            "words": []
+        }
+    ],
+    "language": "en"
+}

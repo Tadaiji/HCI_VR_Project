@@ -1,0 +1,62 @@
+{
+    "text": " Yeah, I'm sure it's computer.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " Yeah, I'm sure it's computer.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                286,
+                478,
+                988,
+                309,
+                311,
+                3820,
+                13,
+                50428
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8785126209259033,
+            "compression_ratio": 0.7837837837837838,
+            "no_speech_prob": 0.41362202167510986,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.38,
+                    "probability": 0.4732561409473419
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.58,
+                    "end": 0.62,
+                    "probability": 0.25541267544031143
+                },
+                {
+                    "word": " sure",
+                    "start": 0.62,
+                    "end": 0.74,
+                    "probability": 0.3583536446094513
+                },
+                {
+                    "word": " it's",
+                    "start": 0.74,
+                    "end": 1.06,
+                    "probability": 0.6252891421318054
+                },
+                {
+                    "word": " computer.",
+                    "start": 1.06,
+                    "end": 1.26,
+                    "probability": 0.6590188145637512
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

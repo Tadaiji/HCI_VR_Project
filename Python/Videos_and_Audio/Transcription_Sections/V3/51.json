@@ -1,0 +1,579 @@
+{
+    "text": " It will be too much work. It's like we need to dismantle the table We need to have the two halves and then we need to lift them up in the attic and after the party we need to get it out from the attic and need to Assemble it again. It will be a too much work. I think and also lots lots of effort. What do you think? Yeah",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.82,
+            "end": 5.78,
+            "text": " It will be too much work. It's like we need to dismantle the table",
+            "tokens": [
+                50364,
+                467,
+                486,
+                312,
+                886,
+                709,
+                589,
+                13,
+                467,
+                311,
+                411,
+                321,
+                643,
+                281,
+                30506,
+                306,
+                264,
+                3199,
+                50648
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.213112397627397,
+            "compression_ratio": 1.7637362637362637,
+            "no_speech_prob": 0.010617271065711975,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.82,
+                    "end": 1.3,
+                    "probability": 0.21433205902576447
+                },
+                {
+                    "word": " will",
+                    "start": 1.3,
+                    "end": 1.44,
+                    "probability": 0.8766797184944153
+                },
+                {
+                    "word": " be",
+                    "start": 1.44,
+                    "end": 1.78,
+                    "probability": 0.992311418056488
+                },
+                {
+                    "word": " too",
+                    "start": 1.78,
+                    "end": 2.06,
+                    "probability": 0.955284595489502
+                },
+                {
+                    "word": " much",
+                    "start": 2.06,
+                    "end": 2.36,
+                    "probability": 0.998412013053894
+                },
+                {
+                    "word": " work.",
+                    "start": 2.36,
+                    "end": 2.8,
+                    "probability": 0.9912357330322266
+                },
+                {
+                    "word": " It's",
+                    "start": 3.1,
+                    "end": 3.64,
+                    "probability": 0.86433345079422
+                },
+                {
+                    "word": " like",
+                    "start": 3.64,
+                    "end": 4.04,
+                    "probability": 0.9270448088645935
+                },
+                {
+                    "word": " we",
+                    "start": 4.04,
+                    "end": 4.42,
+                    "probability": 0.8909044861793518
+                },
+                {
+                    "word": " need",
+                    "start": 4.42,
+                    "end": 4.58,
+                    "probability": 0.9966642260551453
+                },
+                {
+                    "word": " to",
+                    "start": 4.58,
+                    "end": 4.78,
+                    "probability": 0.9979469180107117
+                },
+                {
+                    "word": " dismantle",
+                    "start": 4.78,
+                    "end": 5.28,
+                    "probability": 0.9898960292339325
+                },
+                {
+                    "word": " the",
+                    "start": 5.28,
+                    "end": 5.48,
+                    "probability": 0.9943807721138
+                },
+                {
+                    "word": " table",
+                    "start": 5.48,
+                    "end": 5.78,
+                    "probability": 0.9972872734069824
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.78,
+            "end": 11.1,
+            "text": " We need to have the two halves and then we need to lift them up in the attic and after the party",
+            "tokens": [
+                50648,
+                492,
+                643,
+                281,
+                362,
+                264,
+                732,
+                38490,
+                293,
+                550,
+                321,
+                643,
+                281,
+                5533,
+                552,
+                493,
+                294,
+                264,
+                40766,
+                293,
+                934,
+                264,
+                3595,
+                50917
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.213112397627397,
+            "compression_ratio": 1.7637362637362637,
+            "no_speech_prob": 0.010617271065711975,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 5.78,
+                    "end": 6.02,
+                    "probability": 0.5374239087104797
+                },
+                {
+                    "word": " need",
+                    "start": 6.02,
+                    "end": 6.2,
+                    "probability": 0.9974331259727478
+                },
+                {
+                    "word": " to",
+                    "start": 6.2,
+                    "end": 6.38,
+                    "probability": 0.9916073083877563
+                },
+                {
+                    "word": " have",
+                    "start": 6.38,
+                    "end": 6.5,
+                    "probability": 0.8749780654907227
+                },
+                {
+                    "word": " the",
+                    "start": 6.5,
+                    "end": 6.72,
+                    "probability": 0.31549912691116333
+                },
+                {
+                    "word": " two",
+                    "start": 6.72,
+                    "end": 6.94,
+                    "probability": 0.8913269639015198
+                },
+                {
+                    "word": " halves",
+                    "start": 6.94,
+                    "end": 7.28,
+                    "probability": 0.7626777291297913
+                },
+                {
+                    "word": " and",
+                    "start": 7.28,
+                    "end": 7.62,
+                    "probability": 0.8969559073448181
+                },
+                {
+                    "word": " then",
+                    "start": 7.62,
+                    "end": 7.88,
+                    "probability": 0.9986507296562195
+                },
+                {
+                    "word": " we",
+                    "start": 7.88,
+                    "end": 8.02,
+                    "probability": 0.9714068174362183
+                },
+                {
+                    "word": " need",
+                    "start": 8.02,
+                    "end": 8.12,
+                    "probability": 0.9958372116088867
+                },
+                {
+                    "word": " to",
+                    "start": 8.12,
+                    "end": 8.88,
+                    "probability": 0.9983842372894287
+                },
+                {
+                    "word": " lift",
+                    "start": 8.88,
+                    "end": 9.12,
+                    "probability": 0.8543563485145569
+                },
+                {
+                    "word": " them",
+                    "start": 9.12,
+                    "end": 9.36,
+                    "probability": 0.9962475895881653
+                },
+                {
+                    "word": " up",
+                    "start": 9.36,
+                    "end": 9.52,
+                    "probability": 0.9969537258148193
+                },
+                {
+                    "word": " in",
+                    "start": 9.52,
+                    "end": 9.68,
+                    "probability": 0.5980335474014282
+                },
+                {
+                    "word": " the",
+                    "start": 9.68,
+                    "end": 9.9,
+                    "probability": 0.9134085178375244
+                },
+                {
+                    "word": " attic",
+                    "start": 9.9,
+                    "end": 10.24,
+                    "probability": 0.5759783387184143
+                },
+                {
+                    "word": " and",
+                    "start": 10.24,
+                    "end": 10.56,
+                    "probability": 0.9428616166114807
+                },
+                {
+                    "word": " after",
+                    "start": 10.56,
+                    "end": 10.72,
+                    "probability": 0.7969081997871399
+                },
+                {
+                    "word": " the",
+                    "start": 10.72,
+                    "end": 10.94,
+                    "probability": 0.9937103986740112
+                },
+                {
+                    "word": " party",
+                    "start": 10.94,
+                    "end": 11.1,
+                    "probability": 0.9713662266731262
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.1,
+            "end": 14.38,
+            "text": " we need to get it out from the attic and need to",
+            "tokens": [
+                50917,
+                321,
+                643,
+                281,
+                483,
+                309,
+                484,
+                490,
+                264,
+                40766,
+                293,
+                643,
+                281,
+                51030
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.213112397627397,
+            "compression_ratio": 1.7637362637362637,
+            "no_speech_prob": 0.010617271065711975,
+            "words": [
+                {
+                    "word": " we",
+                    "start": 11.1,
+                    "end": 11.26,
+                    "probability": 0.7339633703231812
+                },
+                {
+                    "word": " need",
+                    "start": 11.26,
+                    "end": 11.38,
+                    "probability": 0.9846299290657043
+                },
+                {
+                    "word": " to",
+                    "start": 11.38,
+                    "end": 11.52,
+                    "probability": 0.9730360507965088
+                },
+                {
+                    "word": " get",
+                    "start": 11.52,
+                    "end": 11.62,
+                    "probability": 0.9541746377944946
+                },
+                {
+                    "word": " it",
+                    "start": 11.62,
+                    "end": 11.82,
+                    "probability": 0.9710509181022644
+                },
+                {
+                    "word": " out",
+                    "start": 11.82,
+                    "end": 11.96,
+                    "probability": 0.9837195873260498
+                },
+                {
+                    "word": " from",
+                    "start": 11.96,
+                    "end": 12.2,
+                    "probability": 0.9883053302764893
+                },
+                {
+                    "word": " the",
+                    "start": 12.2,
+                    "end": 12.46,
+                    "probability": 0.9756021499633789
+                },
+                {
+                    "word": " attic",
+                    "start": 12.46,
+                    "end": 12.62,
+                    "probability": 0.9607727527618408
+                },
+                {
+                    "word": " and",
+                    "start": 12.62,
+                    "end": 13.08,
+                    "probability": 0.9957675933837891
+                },
+                {
+                    "word": " need",
+                    "start": 13.08,
+                    "end": 13.24,
+                    "probability": 0.9774806499481201
+                },
+                {
+                    "word": " to",
+                    "start": 13.24,
+                    "end": 14.38,
+                    "probability": 0.9971058964729309
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.38,
+            "end": 21.22,
+            "text": " Assemble it again. It will be a too much work. I think and also lots lots of effort. What do you think? Yeah",
+            "tokens": [
+                51074,
+                1018,
+                37227,
+                309,
+                797,
+                13,
+                467,
+                486,
+                312,
+                257,
+                886,
+                709,
+                589,
+                13,
+                286,
+                519,
+                293,
+                611,
+                3195,
+                3195,
+                295,
+                4630,
+                13,
+                708,
+                360,
+                291,
+                519,
+                30,
+                865,
+                51410
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.213112397627397,
+            "compression_ratio": 1.7637362637362637,
+            "no_speech_prob": 0.010617271065711975,
+            "words": [
+                {
+                    "word": " Assemble",
+                    "start": 14.38,
+                    "end": 14.78,
+                    "probability": 0.8924089670181274
+                },
+                {
+                    "word": " it",
+                    "start": 14.78,
+                    "end": 15.16,
+                    "probability": 0.9973004460334778
+                },
+                {
+                    "word": " again.",
+                    "start": 15.16,
+                    "end": 15.4,
+                    "probability": 0.9832481145858765
+                },
+                {
+                    "word": " It",
+                    "start": 15.44,
+                    "end": 15.7,
+                    "probability": 0.9994726777076721
+                },
+                {
+                    "word": " will",
+                    "start": 15.7,
+                    "end": 15.88,
+                    "probability": 0.9989591836929321
+                },
+                {
+                    "word": " be",
+                    "start": 15.88,
+                    "end": 16.02,
+                    "probability": 0.9994484782218933
+                },
+                {
+                    "word": " a",
+                    "start": 16.02,
+                    "end": 16.22,
+                    "probability": 0.8354373574256897
+                },
+                {
+                    "word": " too",
+                    "start": 16.22,
+                    "end": 16.4,
+                    "probability": 0.9941020607948303
+                },
+                {
+                    "word": " much",
+                    "start": 16.4,
+                    "end": 16.64,
+                    "probability": 0.9981738328933716
+                },
+                {
+                    "word": " work.",
+                    "start": 16.64,
+                    "end": 16.86,
+                    "probability": 0.9960079193115234
+                },
+                {
+                    "word": " I",
+                    "start": 16.86,
+                    "end": 17.1,
+                    "probability": 0.9989293217658997
+                },
+                {
+                    "word": " think",
+                    "start": 17.1,
+                    "end": 17.72,
+                    "probability": 0.9993093013763428
+                },
+                {
+                    "word": " and",
+                    "start": 17.72,
+                    "end": 18.12,
+                    "probability": 0.6311123967170715
+                },
+                {
+                    "word": " also",
+                    "start": 18.12,
+                    "end": 18.5,
+                    "probability": 0.7529586553573608
+                },
+                {
+                    "word": " lots",
+                    "start": 18.5,
+                    "end": 18.72,
+                    "probability": 0.5195419788360596
+                },
+                {
+                    "word": " lots",
+                    "start": 18.72,
+                    "end": 18.98,
+                    "probability": 0.5823944211006165
+                },
+                {
+                    "word": " of",
+                    "start": 18.98,
+                    "end": 19.28,
+                    "probability": 0.9990339279174805
+                },
+                {
+                    "word": " effort.",
+                    "start": 19.28,
+                    "end": 19.66,
+                    "probability": 0.9852504134178162
+                },
+                {
+                    "word": " What",
+                    "start": 19.74,
+                    "end": 20.0,
+                    "probability": 0.9984196424484253
+                },
+                {
+                    "word": " do",
+                    "start": 20.0,
+                    "end": 20.16,
+                    "probability": 0.9953914880752563
+                },
+                {
+                    "word": " you",
+                    "start": 20.16,
+                    "end": 20.26,
+                    "probability": 0.9992412328720093
+                },
+                {
+                    "word": " think?",
+                    "start": 20.26,
+                    "end": 20.48,
+                    "probability": 0.9951360821723938
+                },
+                {
+                    "word": " Yeah",
+                    "start": 20.86,
+                    "end": 21.22,
+                    "probability": 0.9349330067634583
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,170 @@
+{
+    "text": " Yeah, of course. And if we can just make the corner empty. We can do it that way.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.14,
+            "end": 4.32,
+            "text": " Yeah, of course. And if we can just make the corner empty.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                295,
+                1164,
+                13,
+                400,
+                498,
+                321,
+                393,
+                445,
+                652,
+                264,
+                4538,
+                6707,
+                13,
+                50572
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4331222816749855,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.15139831602573395,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.14,
+                    "end": 0.58,
+                    "probability": 0.6177679896354675
+                },
+                {
+                    "word": " of",
+                    "start": 0.8,
+                    "end": 1.0,
+                    "probability": 0.9634603261947632
+                },
+                {
+                    "word": " course.",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.9956887364387512
+                },
+                {
+                    "word": " And",
+                    "start": 1.8,
+                    "end": 1.8,
+                    "probability": 0.6888110041618347
+                },
+                {
+                    "word": " if",
+                    "start": 1.8,
+                    "end": 2.06,
+                    "probability": 0.9113152027130127
+                },
+                {
+                    "word": " we",
+                    "start": 2.06,
+                    "end": 2.18,
+                    "probability": 0.9578847885131836
+                },
+                {
+                    "word": " can",
+                    "start": 2.18,
+                    "end": 2.4,
+                    "probability": 0.9919480681419373
+                },
+                {
+                    "word": " just",
+                    "start": 2.4,
+                    "end": 3.06,
+                    "probability": 0.9228677153587341
+                },
+                {
+                    "word": " make",
+                    "start": 3.06,
+                    "end": 3.24,
+                    "probability": 0.9924885034561157
+                },
+                {
+                    "word": " the",
+                    "start": 3.24,
+                    "end": 3.44,
+                    "probability": 0.9945704340934753
+                },
+                {
+                    "word": " corner",
+                    "start": 3.44,
+                    "end": 3.62,
+                    "probability": 0.9771347641944885
+                },
+                {
+                    "word": " empty.",
+                    "start": 3.62,
+                    "end": 4.32,
+                    "probability": 0.991931140422821
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.84,
+            "end": 5.94,
+            "text": " We can do it that way.",
+            "tokens": [
+                50572,
+                492,
+                393,
+                360,
+                309,
+                300,
+                636,
+                13,
+                50672
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4331222816749855,
+            "compression_ratio": 1.0253164556962024,
+            "no_speech_prob": 0.15139831602573395,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 4.84,
+                    "end": 5.0,
+                    "probability": 0.5906060934066772
+                },
+                {
+                    "word": " can",
+                    "start": 5.0,
+                    "end": 5.2,
+                    "probability": 0.9834542274475098
+                },
+                {
+                    "word": " do",
+                    "start": 5.2,
+                    "end": 5.36,
+                    "probability": 0.9916850328445435
+                },
+                {
+                    "word": " it",
+                    "start": 5.36,
+                    "end": 5.52,
+                    "probability": 0.9281290769577026
+                },
+                {
+                    "word": " that",
+                    "start": 5.52,
+                    "end": 5.7,
+                    "probability": 0.9761534929275513
+                },
+                {
+                    "word": " way.",
+                    "start": 5.7,
+                    "end": 5.94,
+                    "probability": 0.9878530502319336
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

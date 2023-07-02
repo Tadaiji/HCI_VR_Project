@@ -1,0 +1,114 @@
+{
+    "text": " nice so we will come back to this in a week i guess",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5,
+            "end": 2.54,
+            "text": " nice so we will come back to this in a week i guess",
+            "tokens": [
+                50364,
+                1481,
+                370,
+                321,
+                486,
+                808,
+                646,
+                281,
+                341,
+                294,
+                257,
+                1243,
+                741,
+                2041,
+                50488
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41601115465164185,
+            "compression_ratio": 0.9272727272727272,
+            "no_speech_prob": 0.3521670401096344,
+            "words": [
+                {
+                    "word": " nice",
+                    "start": 0.5,
+                    "end": 0.82,
+                    "probability": 0.3435201346874237
+                },
+                {
+                    "word": " so",
+                    "start": 0.82,
+                    "end": 0.92,
+                    "probability": 0.5776004791259766
+                },
+                {
+                    "word": " we",
+                    "start": 0.92,
+                    "end": 1.14,
+                    "probability": 0.9844076633453369
+                },
+                {
+                    "word": " will",
+                    "start": 1.14,
+                    "end": 1.28,
+                    "probability": 0.7474446296691895
+                },
+                {
+                    "word": " come",
+                    "start": 1.28,
+                    "end": 1.48,
+                    "probability": 0.9979536533355713
+                },
+                {
+                    "word": " back",
+                    "start": 1.48,
+                    "end": 1.64,
+                    "probability": 0.9993578791618347
+                },
+                {
+                    "word": " to",
+                    "start": 1.64,
+                    "end": 1.76,
+                    "probability": 0.9935539960861206
+                },
+                {
+                    "word": " this",
+                    "start": 1.76,
+                    "end": 1.9,
+                    "probability": 0.9102257490158081
+                },
+                {
+                    "word": " in",
+                    "start": 1.9,
+                    "end": 2.08,
+                    "probability": 0.7057673335075378
+                },
+                {
+                    "word": " a",
+                    "start": 2.08,
+                    "end": 2.16,
+                    "probability": 0.8105200529098511
+                },
+                {
+                    "word": " week",
+                    "start": 2.16,
+                    "end": 2.26,
+                    "probability": 0.9916332960128784
+                },
+                {
+                    "word": " i",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.5238854885101318
+                },
+                {
+                    "word": " guess",
+                    "start": 2.44,
+                    "end": 2.54,
+                    "probability": 0.9986957907676697
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

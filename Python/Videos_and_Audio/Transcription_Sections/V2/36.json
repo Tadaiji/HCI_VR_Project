@@ -1,0 +1,295 @@
+{
+    "text": " I'm going to go ahead and I'm going to go ahead and",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.02,
+            "text": " I'm going to go ahead and",
+            "tokens": [
+                50364,
+                286,
+                478,
+                516,
+                281,
+                352,
+                2286,
+                293,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.2468605414032936
+                },
+                {
+                    "word": " going",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.09411969780921936
+                },
+                {
+                    "word": " to",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.9351216554641724
+                },
+                {
+                    "word": " go",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.0675567165017128
+                },
+                {
+                    "word": " ahead",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.2912249267101288
+                },
+                {
+                    "word": " and",
+                    "start": 0.02,
+                    "end": 0.02,
+                    "probability": 0.8814107179641724
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 13,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.02,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.2,
+            "avg_logprob": -0.5724945068359375,
+            "compression_ratio": 2.0,
+            "no_speech_prob": 0.864162802696228,
+            "words": []
+        },
+        {
+            "id": 14,
+            "seek": 2,
+            "start": 0.02,
+            "end": 0.12,
+            "text": " I'm going to go ahead and",
+            "tokens": [
+                50364,
+                286,
+                478,
+                516,
+                281,
+                352,
+                2286,
+                293,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7377001762390136,
+            "compression_ratio": 0.8064516129032258,
+            "no_speech_prob": 0.9444724917411804,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.02,
+                    "end": 0.12,
+                    "probability": 0.2040559258311987
+                },
+                {
+                    "word": " going",
+                    "start": 0.12,
+                    "end": 0.12,
+                    "probability": 0.09380365908145905
+                },
+                {
+                    "word": " to",
+                    "start": 0.12,
+                    "end": 0.12,
+                    "probability": 0.9384546875953674
+                },
+                {
+                    "word": " go",
+                    "start": 0.12,
+                    "end": 0.12,
+                    "probability": 0.07569919526576996
+                },
+                {
+                    "word": " ahead",
+                    "start": 0.12,
+                    "end": 0.12,
+                    "probability": 0.29634326696395874
+                },
+                {
+                    "word": " and",
+                    "start": 0.12,
+                    "end": 0.12,
+                    "probability": 0.8871957659721375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

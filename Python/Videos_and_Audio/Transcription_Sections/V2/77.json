@@ -1,0 +1,196 @@
+{
+    "text": " I think this was video number two? Or do we need something still? No. Okay.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.18,
+            "end": 2.4,
+            "text": " I think this was video number two?",
+            "tokens": [
+                50364,
+                286,
+                519,
+                341,
+                390,
+                960,
+                1230,
+                732,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48841986060142517,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.37796053290367126,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.18,
+                    "end": 0.66,
+                    "probability": 0.5113602876663208
+                },
+                {
+                    "word": " think",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.9811221361160278
+                },
+                {
+                    "word": " this",
+                    "start": 0.86,
+                    "end": 1.1,
+                    "probability": 0.939298152923584
+                },
+                {
+                    "word": " was",
+                    "start": 1.1,
+                    "end": 1.34,
+                    "probability": 0.874981701374054
+                },
+                {
+                    "word": " video",
+                    "start": 1.34,
+                    "end": 1.54,
+                    "probability": 0.9283403754234314
+                },
+                {
+                    "word": " number",
+                    "start": 1.54,
+                    "end": 1.8,
+                    "probability": 0.8534838557243347
+                },
+                {
+                    "word": " two?",
+                    "start": 1.8,
+                    "end": 2.4,
+                    "probability": 0.5032507181167603
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.82,
+            "end": 2.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.48841986060142517,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.37796053290367126,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.0,
+            "end": 4.1,
+            "text": " Or do we need something still?",
+            "tokens": [
+                50504,
+                1610,
+                360,
+                321,
+                643,
+                746,
+                920,
+                30,
+                50577
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48841986060142517,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.37796053290367126,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 3.0,
+                    "end": 3.12,
+                    "probability": 0.9246596097946167
+                },
+                {
+                    "word": " do",
+                    "start": 3.12,
+                    "end": 3.26,
+                    "probability": 0.9151405096054077
+                },
+                {
+                    "word": " we",
+                    "start": 3.26,
+                    "end": 3.36,
+                    "probability": 0.996550440788269
+                },
+                {
+                    "word": " need",
+                    "start": 3.36,
+                    "end": 3.48,
+                    "probability": 0.9916606545448303
+                },
+                {
+                    "word": " something",
+                    "start": 3.48,
+                    "end": 3.84,
+                    "probability": 0.9228758215904236
+                },
+                {
+                    "word": " still?",
+                    "start": 3.84,
+                    "end": 4.1,
+                    "probability": 0.21473141014575958
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.34,
+            "end": 4.62,
+            "text": " No.",
+            "tokens": [
+                50577,
+                883,
+                13,
+                50602
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48841986060142517,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.37796053290367126,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 4.34,
+                    "end": 4.62,
+                    "probability": 0.9518859386444092
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 5.0,
+            "end": 5.22,
+            "text": " Okay.",
+            "tokens": [
+                50602,
+                1033,
+                13,
+                50627
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.48841986060142517,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.37796053290367126,
+            "words": [
+                {
+                    "word": " Okay.",
+                    "start": 5.0,
+                    "end": 5.22,
+                    "probability": 0.6969490647315979
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

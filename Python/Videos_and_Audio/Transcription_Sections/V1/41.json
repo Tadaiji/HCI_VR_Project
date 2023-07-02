@@ -1,0 +1,74 @@
+{
+    "text": " the prices aren't too high with her.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.24,
+            "end": 2.6,
+            "text": " the prices aren't too high with her.",
+            "tokens": [
+                50364,
+                264,
+                7901,
+                3212,
+                380,
+                886,
+                1090,
+                365,
+                720,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4720859130223592,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.3665301203727722,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 0.24,
+                    "end": 0.78,
+                    "probability": 0.4300388693809509
+                },
+                {
+                    "word": " prices",
+                    "start": 0.78,
+                    "end": 1.06,
+                    "probability": 0.9704259037971497
+                },
+                {
+                    "word": " aren't",
+                    "start": 1.06,
+                    "end": 1.5,
+                    "probability": 0.908791720867157
+                },
+                {
+                    "word": " too",
+                    "start": 1.5,
+                    "end": 1.64,
+                    "probability": 0.9031658172607422
+                },
+                {
+                    "word": " high",
+                    "start": 1.64,
+                    "end": 2.12,
+                    "probability": 0.9946824908256531
+                },
+                {
+                    "word": " with",
+                    "start": 2.12,
+                    "end": 2.38,
+                    "probability": 0.6731206774711609
+                },
+                {
+                    "word": " her.",
+                    "start": 2.38,
+                    "end": 2.6,
+                    "probability": 0.5077735185623169
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

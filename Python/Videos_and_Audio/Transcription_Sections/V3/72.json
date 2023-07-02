@@ -1,0 +1,346 @@
+{
+    "text": " Or we can have this clown online. That would be more convenient. So if you still have some room or some fear of clown, you can simply go offline. But still a clown can give services online. Yeah.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.74,
+            "end": 8.04,
+            "text": " Or we can have this clown online. That would be more convenient. So if you still have some",
+            "tokens": [
+                50364,
+                1610,
+                321,
+                393,
+                362,
+                341,
+                22209,
+                2950,
+                13,
+                663,
+                576,
+                312,
+                544,
+                10851,
+                13,
+                407,
+                498,
+                291,
+                920,
+                362,
+                512,
+                50746
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3412976534861439,
+            "compression_ratio": 1.4444444444444444,
+            "no_speech_prob": 0.36271393299102783,
+            "words": [
+                {
+                    "word": " Or",
+                    "start": 0.74,
+                    "end": 1.34,
+                    "probability": 0.4831881523132324
+                },
+                {
+                    "word": " we",
+                    "start": 1.34,
+                    "end": 1.52,
+                    "probability": 0.8065117597579956
+                },
+                {
+                    "word": " can",
+                    "start": 1.52,
+                    "end": 1.74,
+                    "probability": 0.9798709750175476
+                },
+                {
+                    "word": " have",
+                    "start": 1.74,
+                    "end": 2.0,
+                    "probability": 0.9728434085845947
+                },
+                {
+                    "word": " this",
+                    "start": 2.0,
+                    "end": 2.3,
+                    "probability": 0.9569477438926697
+                },
+                {
+                    "word": " clown",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.7445323467254639
+                },
+                {
+                    "word": " online.",
+                    "start": 2.46,
+                    "end": 3.24,
+                    "probability": 0.9753931164741516
+                },
+                {
+                    "word": " That",
+                    "start": 3.24,
+                    "end": 4.44,
+                    "probability": 0.6900436878204346
+                },
+                {
+                    "word": " would",
+                    "start": 4.44,
+                    "end": 4.64,
+                    "probability": 0.958284854888916
+                },
+                {
+                    "word": " be",
+                    "start": 4.64,
+                    "end": 4.84,
+                    "probability": 0.9937259554862976
+                },
+                {
+                    "word": " more",
+                    "start": 4.84,
+                    "end": 5.14,
+                    "probability": 0.9906032681465149
+                },
+                {
+                    "word": " convenient.",
+                    "start": 5.14,
+                    "end": 5.76,
+                    "probability": 0.9683568477630615
+                },
+                {
+                    "word": " So",
+                    "start": 6.24,
+                    "end": 6.24,
+                    "probability": 0.8620001673698425
+                },
+                {
+                    "word": " if",
+                    "start": 6.24,
+                    "end": 6.42,
+                    "probability": 0.763392448425293
+                },
+                {
+                    "word": " you",
+                    "start": 6.42,
+                    "end": 6.68,
+                    "probability": 0.983185887336731
+                },
+                {
+                    "word": " still",
+                    "start": 6.68,
+                    "end": 7.26,
+                    "probability": 0.8888049721717834
+                },
+                {
+                    "word": " have",
+                    "start": 7.26,
+                    "end": 7.56,
+                    "probability": 0.9899002909660339
+                },
+                {
+                    "word": " some",
+                    "start": 7.56,
+                    "end": 8.04,
+                    "probability": 0.9912747144699097
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.04,
+            "end": 14.58,
+            "text": " room or some fear of clown, you can simply go offline. But still a clown can give services",
+            "tokens": [
+                50746,
+                1808,
+                420,
+                512,
+                4240,
+                295,
+                22209,
+                11,
+                291,
+                393,
+                2935,
+                352,
+                21857,
+                13,
+                583,
+                920,
+                257,
+                22209,
+                393,
+                976,
+                3328,
+                51088
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3412976534861439,
+            "compression_ratio": 1.4444444444444444,
+            "no_speech_prob": 0.36271393299102783,
+            "words": [
+                {
+                    "word": " room",
+                    "start": 8.04,
+                    "end": 8.3,
+                    "probability": 0.957797646522522
+                },
+                {
+                    "word": " or",
+                    "start": 8.3,
+                    "end": 8.72,
+                    "probability": 0.9245743751525879
+                },
+                {
+                    "word": " some",
+                    "start": 8.72,
+                    "end": 9.58,
+                    "probability": 0.9668233394622803
+                },
+                {
+                    "word": " fear",
+                    "start": 9.58,
+                    "end": 9.92,
+                    "probability": 0.9795176982879639
+                },
+                {
+                    "word": " of",
+                    "start": 9.92,
+                    "end": 10.2,
+                    "probability": 0.9944643378257751
+                },
+                {
+                    "word": " clown,",
+                    "start": 10.2,
+                    "end": 10.4,
+                    "probability": 0.9842106103897095
+                },
+                {
+                    "word": " you",
+                    "start": 10.84,
+                    "end": 10.92,
+                    "probability": 0.9555595517158508
+                },
+                {
+                    "word": " can",
+                    "start": 10.92,
+                    "end": 11.14,
+                    "probability": 0.9968967437744141
+                },
+                {
+                    "word": " simply",
+                    "start": 11.14,
+                    "end": 11.42,
+                    "probability": 0.9894869327545166
+                },
+                {
+                    "word": " go",
+                    "start": 11.42,
+                    "end": 11.72,
+                    "probability": 0.9963610768318176
+                },
+                {
+                    "word": " offline.",
+                    "start": 11.72,
+                    "end": 12.1,
+                    "probability": 0.9621164798736572
+                },
+                {
+                    "word": " But",
+                    "start": 12.78,
+                    "end": 12.84,
+                    "probability": 0.9537147879600525
+                },
+                {
+                    "word": " still",
+                    "start": 12.84,
+                    "end": 13.26,
+                    "probability": 0.9306228160858154
+                },
+                {
+                    "word": " a",
+                    "start": 13.26,
+                    "end": 13.4,
+                    "probability": 0.6058645844459534
+                },
+                {
+                    "word": " clown",
+                    "start": 13.4,
+                    "end": 13.54,
+                    "probability": 0.9691540598869324
+                },
+                {
+                    "word": " can",
+                    "start": 13.54,
+                    "end": 13.92,
+                    "probability": 0.9938758015632629
+                },
+                {
+                    "word": " give",
+                    "start": 13.92,
+                    "end": 14.16,
+                    "probability": 0.9707981944084167
+                },
+                {
+                    "word": " services",
+                    "start": 14.16,
+                    "end": 14.58,
+                    "probability": 0.9827178120613098
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.58,
+            "end": 15.34,
+            "text": " online.",
+            "tokens": [
+                51088,
+                2950,
+                13,
+                51138
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3412976534861439,
+            "compression_ratio": 1.4444444444444444,
+            "no_speech_prob": 0.36271393299102783,
+            "words": [
+                {
+                    "word": " online.",
+                    "start": 14.58,
+                    "end": 15.34,
+                    "probability": 0.8891995549201965
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.7,
+            "end": 15.86,
+            "text": " Yeah.",
+            "tokens": [
+                51138,
+                865,
+                13,
+                51138
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3412976534861439,
+            "compression_ratio": 1.4444444444444444,
+            "no_speech_prob": 0.36271393299102783,
+            "words": [
+                {
+                    "word": " Yeah.",
+                    "start": 15.7,
+                    "end": 15.86,
+                    "probability": 0.30845093727111816
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

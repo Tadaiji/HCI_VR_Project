@@ -1,0 +1,232 @@
+{
+    "text": " Yeah, nice. Yeah, we have to think about what we do with all these posters. But yeah, there will be a solution, I think.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 1.1,
+            "text": " Yeah, nice.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1481,
+                13,
+                50424
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3946939267610249,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.006174140609800816,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.1,
+                    "end": 0.56,
+                    "probability": 0.6494938731193542
+                },
+                {
+                    "word": " nice.",
+                    "start": 0.7,
+                    "end": 1.1,
+                    "probability": 0.7818946242332458
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.7,
+            "end": 5.08,
+            "text": " Yeah, we have to think about what we do with all these posters.",
+            "tokens": [
+                50424,
+                865,
+                11,
+                321,
+                362,
+                281,
+                519,
+                466,
+                437,
+                321,
+                360,
+                365,
+                439,
+                613,
+                28172,
+                13,
+                50620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3946939267610249,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.006174140609800816,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.7,
+                    "end": 1.84,
+                    "probability": 0.5593484044075012
+                },
+                {
+                    "word": " we",
+                    "start": 1.9,
+                    "end": 1.92,
+                    "probability": 0.9978727102279663
+                },
+                {
+                    "word": " have",
+                    "start": 1.92,
+                    "end": 2.1,
+                    "probability": 0.9953393936157227
+                },
+                {
+                    "word": " to",
+                    "start": 2.1,
+                    "end": 2.26,
+                    "probability": 0.9989763498306274
+                },
+                {
+                    "word": " think",
+                    "start": 2.26,
+                    "end": 2.5,
+                    "probability": 0.9849706292152405
+                },
+                {
+                    "word": " about",
+                    "start": 2.5,
+                    "end": 2.92,
+                    "probability": 0.9977872371673584
+                },
+                {
+                    "word": " what",
+                    "start": 2.92,
+                    "end": 3.12,
+                    "probability": 0.9918027520179749
+                },
+                {
+                    "word": " we",
+                    "start": 3.12,
+                    "end": 3.26,
+                    "probability": 0.985318660736084
+                },
+                {
+                    "word": " do",
+                    "start": 3.26,
+                    "end": 3.36,
+                    "probability": 0.9856593608856201
+                },
+                {
+                    "word": " with",
+                    "start": 3.36,
+                    "end": 3.58,
+                    "probability": 0.9956423044204712
+                },
+                {
+                    "word": " all",
+                    "start": 3.58,
+                    "end": 3.78,
+                    "probability": 0.9881189465522766
+                },
+                {
+                    "word": " these",
+                    "start": 3.78,
+                    "end": 4.58,
+                    "probability": 0.9806484580039978
+                },
+                {
+                    "word": " posters.",
+                    "start": 4.58,
+                    "end": 5.08,
+                    "probability": 0.7105845808982849
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.62,
+            "end": 10.84,
+            "text": " But yeah, there will be a solution, I think.",
+            "tokens": [
+                50620,
+                583,
+                1338,
+                11,
+                456,
+                486,
+                312,
+                257,
+                3827,
+                11,
+                286,
+                519,
+                13,
+                50916
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3946939267610249,
+            "compression_ratio": 1.2,
+            "no_speech_prob": 0.006174140609800816,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 6.62,
+                    "end": 7.12,
+                    "probability": 0.8000732660293579
+                },
+                {
+                    "word": " yeah,",
+                    "start": 7.12,
+                    "end": 8.18,
+                    "probability": 0.7214128971099854
+                },
+                {
+                    "word": " there",
+                    "start": 8.88,
+                    "end": 8.98,
+                    "probability": 0.9337838292121887
+                },
+                {
+                    "word": " will",
+                    "start": 8.98,
+                    "end": 9.22,
+                    "probability": 0.9986579418182373
+                },
+                {
+                    "word": " be",
+                    "start": 9.22,
+                    "end": 9.76,
+                    "probability": 0.9996528625488281
+                },
+                {
+                    "word": " a",
+                    "start": 9.76,
+                    "end": 9.92,
+                    "probability": 0.9981824159622192
+                },
+                {
+                    "word": " solution,",
+                    "start": 9.92,
+                    "end": 10.38,
+                    "probability": 0.9989771842956543
+                },
+                {
+                    "word": " I",
+                    "start": 10.4,
+                    "end": 10.6,
+                    "probability": 0.9984714388847351
+                },
+                {
+                    "word": " think.",
+                    "start": 10.6,
+                    "end": 10.84,
+                    "probability": 0.9996176958084106
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

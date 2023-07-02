@@ -1,0 +1,44 @@
+{
+    "text": " redo the floor",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.02,
+            "end": 0.92,
+            "text": " redo the floor",
+            "tokens": [
+                50364,
+                29956,
+                264,
+                4123,
+                50412
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5755228598912557,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.08373156189918518,
+            "words": [
+                {
+                    "word": " redo",
+                    "start": 0.02,
+                    "end": 0.5,
+                    "probability": 0.5032046437263489
+                },
+                {
+                    "word": " the",
+                    "start": 0.5,
+                    "end": 0.74,
+                    "probability": 0.9660198092460632
+                },
+                {
+                    "word": " floor",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9818809032440186
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

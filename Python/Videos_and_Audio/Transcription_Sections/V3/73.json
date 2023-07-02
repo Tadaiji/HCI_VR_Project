@@ -1,0 +1,146 @@
+{
+    "text": " Yeah, why not. I think we should hang the poster and contact the clown anyways. Why not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 1.18,
+            "end": 8.86,
+            "text": " Yeah, why not. I think we should hang the poster and contact the clown anyways. Why not.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                983,
+                406,
+                13,
+                286,
+                519,
+                321,
+                820,
+                3967,
+                264,
+                17171,
+                293,
+                3385,
+                264,
+                22209,
+                13448,
+                13,
+                1545,
+                406,
+                13,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.36216938495635986,
+            "compression_ratio": 1.0864197530864197,
+            "no_speech_prob": 0.13320675492286682,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.18,
+                    "end": 1.78,
+                    "probability": 0.6149244904518127
+                },
+                {
+                    "word": " why",
+                    "start": 1.7,
+                    "end": 2.38,
+                    "probability": 0.5626689791679382
+                },
+                {
+                    "word": " not.",
+                    "start": 2.38,
+                    "end": 2.84,
+                    "probability": 0.996407687664032
+                },
+                {
+                    "word": " I",
+                    "start": 3.16,
+                    "end": 3.32,
+                    "probability": 0.9303614497184753
+                },
+                {
+                    "word": " think",
+                    "start": 3.32,
+                    "end": 3.58,
+                    "probability": 0.9935279488563538
+                },
+                {
+                    "word": " we",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.9802966117858887
+                },
+                {
+                    "word": " should",
+                    "start": 3.72,
+                    "end": 5.0,
+                    "probability": 0.9956556558609009
+                },
+                {
+                    "word": " hang",
+                    "start": 5.0,
+                    "end": 5.3,
+                    "probability": 0.9626031517982483
+                },
+                {
+                    "word": " the",
+                    "start": 5.3,
+                    "end": 5.48,
+                    "probability": 0.9510743618011475
+                },
+                {
+                    "word": " poster",
+                    "start": 5.48,
+                    "end": 5.96,
+                    "probability": 0.9603148698806763
+                },
+                {
+                    "word": " and",
+                    "start": 5.96,
+                    "end": 7.06,
+                    "probability": 0.9474141001701355
+                },
+                {
+                    "word": " contact",
+                    "start": 7.06,
+                    "end": 7.5,
+                    "probability": 0.9736349582672119
+                },
+                {
+                    "word": " the",
+                    "start": 7.5,
+                    "end": 7.68,
+                    "probability": 0.9570449590682983
+                },
+                {
+                    "word": " clown",
+                    "start": 7.68,
+                    "end": 7.86,
+                    "probability": 0.9711489677429199
+                },
+                {
+                    "word": " anyways.",
+                    "start": 7.86,
+                    "end": 8.32,
+                    "probability": 0.49636322259902954
+                },
+                {
+                    "word": " Why",
+                    "start": 8.46,
+                    "end": 8.62,
+                    "probability": 0.9432770609855652
+                },
+                {
+                    "word": " not.",
+                    "start": 8.62,
+                    "end": 8.86,
+                    "probability": 0.9974180459976196
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

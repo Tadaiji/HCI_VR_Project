@@ -1,0 +1,211 @@
+{
+    "text": " Sure, I know one of my friends and she owes me something and she is a really good painter. She has a good gallery.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.6,
+            "text": " Sure, I know one of my friends and she owes me something and she is a really good painter.",
+            "tokens": [
+                50364,
+                4894,
+                11,
+                286,
+                458,
+                472,
+                295,
+                452,
+                1855,
+                293,
+                750,
+                50028,
+                385,
+                746,
+                293,
+                750,
+                307,
+                257,
+                534,
+                665,
+                26619,
+                13,
+                50815
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27655377984046936,
+            "compression_ratio": 1.2258064516129032,
+            "no_speech_prob": 0.10898012667894363,
+            "words": [
+                {
+                    "word": " Sure,",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.5859291553497314
+                },
+                {
+                    "word": " I",
+                    "start": 1.04,
+                    "end": 1.18,
+                    "probability": 0.9744360446929932
+                },
+                {
+                    "word": " know",
+                    "start": 1.18,
+                    "end": 1.52,
+                    "probability": 0.9886704683303833
+                },
+                {
+                    "word": " one",
+                    "start": 1.52,
+                    "end": 1.72,
+                    "probability": 0.9447314739227295
+                },
+                {
+                    "word": " of",
+                    "start": 1.72,
+                    "end": 1.94,
+                    "probability": 0.9938492178916931
+                },
+                {
+                    "word": " my",
+                    "start": 1.94,
+                    "end": 2.1,
+                    "probability": 0.9978986978530884
+                },
+                {
+                    "word": " friends",
+                    "start": 2.1,
+                    "end": 2.54,
+                    "probability": 0.7223997712135315
+                },
+                {
+                    "word": " and",
+                    "start": 2.54,
+                    "end": 4.86,
+                    "probability": 0.37685486674308777
+                },
+                {
+                    "word": " she",
+                    "start": 4.86,
+                    "end": 5.76,
+                    "probability": 0.9752771258354187
+                },
+                {
+                    "word": " owes",
+                    "start": 5.76,
+                    "end": 6.04,
+                    "probability": 0.9341763854026794
+                },
+                {
+                    "word": " me",
+                    "start": 6.04,
+                    "end": 6.32,
+                    "probability": 0.9961302280426025
+                },
+                {
+                    "word": " something",
+                    "start": 6.32,
+                    "end": 6.64,
+                    "probability": 0.9931178092956543
+                },
+                {
+                    "word": " and",
+                    "start": 6.64,
+                    "end": 7.1,
+                    "probability": 0.7128499150276184
+                },
+                {
+                    "word": " she",
+                    "start": 7.1,
+                    "end": 7.28,
+                    "probability": 0.9819528460502625
+                },
+                {
+                    "word": " is",
+                    "start": 7.28,
+                    "end": 7.46,
+                    "probability": 0.8764329552650452
+                },
+                {
+                    "word": " a",
+                    "start": 7.46,
+                    "end": 7.62,
+                    "probability": 0.9708069562911987
+                },
+                {
+                    "word": " really",
+                    "start": 7.62,
+                    "end": 7.88,
+                    "probability": 0.9808191657066345
+                },
+                {
+                    "word": " good",
+                    "start": 7.88,
+                    "end": 8.12,
+                    "probability": 0.9966576099395752
+                },
+                {
+                    "word": " painter.",
+                    "start": 8.12,
+                    "end": 8.6,
+                    "probability": 0.9969030022621155
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.98,
+            "end": 12.36,
+            "text": " She has a good gallery.",
+            "tokens": [
+                50815,
+                1240,
+                575,
+                257,
+                665,
+                18378,
+                13,
+                50990
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27655377984046936,
+            "compression_ratio": 1.2258064516129032,
+            "no_speech_prob": 0.10898012667894363,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 8.98,
+                    "end": 9.48,
+                    "probability": 0.9811073541641235
+                },
+                {
+                    "word": " has",
+                    "start": 9.48,
+                    "end": 9.82,
+                    "probability": 0.9326547980308533
+                },
+                {
+                    "word": " a",
+                    "start": 9.82,
+                    "end": 10.12,
+                    "probability": 0.9882783889770508
+                },
+                {
+                    "word": " good",
+                    "start": 10.12,
+                    "end": 11.48,
+                    "probability": 0.9571264982223511
+                },
+                {
+                    "word": " gallery.",
+                    "start": 11.48,
+                    "end": 12.36,
+                    "probability": 0.9535055160522461
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

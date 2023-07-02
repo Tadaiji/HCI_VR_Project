@@ -1,0 +1,38 @@
+{
+    "text": " for me.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.04,
+            "end": 0.46,
+            "text": " for me.",
+            "tokens": [
+                50364,
+                337,
+                385,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6844497521718343,
+            "compression_ratio": 0.4666666666666667,
+            "no_speech_prob": 0.3877469003200531,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 0.04,
+                    "end": 0.32,
+                    "probability": 0.16275498270988464
+                },
+                {
+                    "word": " me.",
+                    "start": 0.32,
+                    "end": 0.46,
+                    "probability": 0.9661412239074707
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

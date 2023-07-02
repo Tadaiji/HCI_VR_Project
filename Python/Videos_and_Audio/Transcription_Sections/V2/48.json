@@ -1,0 +1,584 @@
+{
+    "text": " If we have the couch there and the TV there, we should move the table out of the way. More even for the way if you guys want, because I don't like the table. It's a bit small and stuff. And if we rearrange the couch here and the TV there, I don't know where we should have the table that is not in the way of our experience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.06,
+            "text": " If we have the couch there and the TV there, we should move the table out of the way.",
+            "tokens": [
+                50364,
+                759,
+                321,
+                362,
+                264,
+                16511,
+                456,
+                293,
+                264,
+                3558,
+                456,
+                11,
+                321,
+                820,
+                1286,
+                264,
+                3199,
+                484,
+                295,
+                264,
+                636,
+                13,
+                50716
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27489115397135416,
+            "compression_ratio": 1.7608695652173914,
+            "no_speech_prob": 0.0029040048830211163,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.5813677906990051
+                },
+                {
+                    "word": " we",
+                    "start": 0.48,
+                    "end": 0.66,
+                    "probability": 0.9571924805641174
+                },
+                {
+                    "word": " have",
+                    "start": 0.66,
+                    "end": 1.42,
+                    "probability": 0.967082142829895
+                },
+                {
+                    "word": " the",
+                    "start": 1.42,
+                    "end": 1.62,
+                    "probability": 0.943902313709259
+                },
+                {
+                    "word": " couch",
+                    "start": 1.62,
+                    "end": 1.92,
+                    "probability": 0.9777402877807617
+                },
+                {
+                    "word": " there",
+                    "start": 1.92,
+                    "end": 2.5,
+                    "probability": 0.9114367961883545
+                },
+                {
+                    "word": " and",
+                    "start": 2.5,
+                    "end": 2.8,
+                    "probability": 0.8762626647949219
+                },
+                {
+                    "word": " the",
+                    "start": 2.8,
+                    "end": 3.02,
+                    "probability": 0.9163082838058472
+                },
+                {
+                    "word": " TV",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.7200065851211548
+                },
+                {
+                    "word": " there,",
+                    "start": 3.24,
+                    "end": 3.98,
+                    "probability": 0.9797059893608093
+                },
+                {
+                    "word": " we",
+                    "start": 4.48,
+                    "end": 4.52,
+                    "probability": 0.964252233505249
+                },
+                {
+                    "word": " should",
+                    "start": 4.52,
+                    "end": 5.14,
+                    "probability": 0.9888961315155029
+                },
+                {
+                    "word": " move",
+                    "start": 5.14,
+                    "end": 5.64,
+                    "probability": 0.9642881751060486
+                },
+                {
+                    "word": " the",
+                    "start": 5.64,
+                    "end": 5.84,
+                    "probability": 0.9905684590339661
+                },
+                {
+                    "word": " table",
+                    "start": 5.84,
+                    "end": 6.16,
+                    "probability": 0.9889262914657593
+                },
+                {
+                    "word": " out",
+                    "start": 6.16,
+                    "end": 6.44,
+                    "probability": 0.9011192917823792
+                },
+                {
+                    "word": " of",
+                    "start": 6.44,
+                    "end": 6.58,
+                    "probability": 0.9846684336662292
+                },
+                {
+                    "word": " the",
+                    "start": 6.58,
+                    "end": 6.72,
+                    "probability": 0.993439257144928
+                },
+                {
+                    "word": " way.",
+                    "start": 6.72,
+                    "end": 7.06,
+                    "probability": 0.9996534585952759
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.9,
+            "end": 12.04,
+            "text": " More even for the way if you guys want, because I don't like the table.",
+            "tokens": [
+                50716,
+                5048,
+                754,
+                337,
+                264,
+                636,
+                498,
+                291,
+                1074,
+                528,
+                11,
+                570,
+                286,
+                500,
+                380,
+                411,
+                264,
+                3199,
+                13,
+                50972
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27489115397135416,
+            "compression_ratio": 1.7608695652173914,
+            "no_speech_prob": 0.0029040048830211163,
+            "words": [
+                {
+                    "word": " More",
+                    "start": 7.9,
+                    "end": 8.38,
+                    "probability": 0.46700066328048706
+                },
+                {
+                    "word": " even",
+                    "start": 8.38,
+                    "end": 8.96,
+                    "probability": 0.7787736654281616
+                },
+                {
+                    "word": " for",
+                    "start": 8.96,
+                    "end": 9.16,
+                    "probability": 0.5284826755523682
+                },
+                {
+                    "word": " the",
+                    "start": 9.16,
+                    "end": 9.32,
+                    "probability": 0.9624165892601013
+                },
+                {
+                    "word": " way",
+                    "start": 9.32,
+                    "end": 9.44,
+                    "probability": 0.9270338416099548
+                },
+                {
+                    "word": " if",
+                    "start": 9.44,
+                    "end": 9.62,
+                    "probability": 0.5566701292991638
+                },
+                {
+                    "word": " you",
+                    "start": 9.62,
+                    "end": 9.74,
+                    "probability": 0.9963833093643188
+                },
+                {
+                    "word": " guys",
+                    "start": 9.74,
+                    "end": 9.92,
+                    "probability": 0.9446247816085815
+                },
+                {
+                    "word": " want,",
+                    "start": 9.92,
+                    "end": 10.1,
+                    "probability": 0.9870972633361816
+                },
+                {
+                    "word": " because",
+                    "start": 10.3,
+                    "end": 10.54,
+                    "probability": 0.9755733609199524
+                },
+                {
+                    "word": " I",
+                    "start": 10.54,
+                    "end": 11.08,
+                    "probability": 0.9580790996551514
+                },
+                {
+                    "word": " don't",
+                    "start": 11.08,
+                    "end": 11.38,
+                    "probability": 0.9659421145915985
+                },
+                {
+                    "word": " like",
+                    "start": 11.38,
+                    "end": 11.64,
+                    "probability": 0.9958156943321228
+                },
+                {
+                    "word": " the",
+                    "start": 11.64,
+                    "end": 11.86,
+                    "probability": 0.9482001066207886
+                },
+                {
+                    "word": " table.",
+                    "start": 11.86,
+                    "end": 12.04,
+                    "probability": 0.9649498462677002
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.22,
+            "end": 14.02,
+            "text": " It's a bit small and stuff.",
+            "tokens": [
+                50972,
+                467,
+                311,
+                257,
+                857,
+                1359,
+                293,
+                1507,
+                13,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27489115397135416,
+            "compression_ratio": 1.7608695652173914,
+            "no_speech_prob": 0.0029040048830211163,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 12.22,
+                    "end": 12.34,
+                    "probability": 0.9546683728694916
+                },
+                {
+                    "word": " a",
+                    "start": 12.34,
+                    "end": 12.44,
+                    "probability": 0.995745837688446
+                },
+                {
+                    "word": " bit",
+                    "start": 12.44,
+                    "end": 12.68,
+                    "probability": 0.9876084327697754
+                },
+                {
+                    "word": " small",
+                    "start": 12.68,
+                    "end": 13.3,
+                    "probability": 0.9916849136352539
+                },
+                {
+                    "word": " and",
+                    "start": 13.3,
+                    "end": 13.52,
+                    "probability": 0.8756084442138672
+                },
+                {
+                    "word": " stuff.",
+                    "start": 13.52,
+                    "end": 14.02,
+                    "probability": 0.9954878687858582
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.72,
+            "end": 20.68,
+            "text": " And if we rearrange the couch here and the TV there, I don't know where we should have",
+            "tokens": [
+                51112,
+                400,
+                498,
+                321,
+                39568,
+                264,
+                16511,
+                510,
+                293,
+                264,
+                3558,
+                456,
+                11,
+                286,
+                500,
+                380,
+                458,
+                689,
+                321,
+                820,
+                362,
+                51390
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27489115397135416,
+            "compression_ratio": 1.7608695652173914,
+            "no_speech_prob": 0.0029040048830211163,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 14.72,
+                    "end": 15.06,
+                    "probability": 0.7263859510421753
+                },
+                {
+                    "word": " if",
+                    "start": 15.06,
+                    "end": 15.3,
+                    "probability": 0.9864791035652161
+                },
+                {
+                    "word": " we",
+                    "start": 15.3,
+                    "end": 15.6,
+                    "probability": 0.9830176830291748
+                },
+                {
+                    "word": " rearrange",
+                    "start": 15.6,
+                    "end": 16.12,
+                    "probability": 0.9840887784957886
+                },
+                {
+                    "word": " the",
+                    "start": 16.12,
+                    "end": 16.36,
+                    "probability": 0.992792010307312
+                },
+                {
+                    "word": " couch",
+                    "start": 16.36,
+                    "end": 16.6,
+                    "probability": 0.9936404824256897
+                },
+                {
+                    "word": " here",
+                    "start": 16.6,
+                    "end": 17.04,
+                    "probability": 0.9782504439353943
+                },
+                {
+                    "word": " and",
+                    "start": 17.04,
+                    "end": 17.56,
+                    "probability": 0.8173514008522034
+                },
+                {
+                    "word": " the",
+                    "start": 17.56,
+                    "end": 17.8,
+                    "probability": 0.897732675075531
+                },
+                {
+                    "word": " TV",
+                    "start": 17.8,
+                    "end": 17.86,
+                    "probability": 0.9760344624519348
+                },
+                {
+                    "word": " there,",
+                    "start": 17.86,
+                    "end": 18.36,
+                    "probability": 0.9946830868721008
+                },
+                {
+                    "word": " I",
+                    "start": 18.9,
+                    "end": 18.96,
+                    "probability": 0.9813719987869263
+                },
+                {
+                    "word": " don't",
+                    "start": 18.96,
+                    "end": 19.16,
+                    "probability": 0.9971210956573486
+                },
+                {
+                    "word": " know",
+                    "start": 19.16,
+                    "end": 19.36,
+                    "probability": 0.9900426864624023
+                },
+                {
+                    "word": " where",
+                    "start": 19.36,
+                    "end": 19.48,
+                    "probability": 0.78615802526474
+                },
+                {
+                    "word": " we",
+                    "start": 19.48,
+                    "end": 19.68,
+                    "probability": 0.9907091856002808
+                },
+                {
+                    "word": " should",
+                    "start": 19.68,
+                    "end": 20.36,
+                    "probability": 0.9920411705970764
+                },
+                {
+                    "word": " have",
+                    "start": 20.36,
+                    "end": 20.68,
+                    "probability": 0.9802474975585938
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.68,
+            "end": 25.22,
+            "text": " the table that is not in the way of our experience.",
+            "tokens": [
+                51390,
+                264,
+                3199,
+                300,
+                307,
+                406,
+                294,
+                264,
+                636,
+                295,
+                527,
+                1752,
+                13,
+                51628
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.27489115397135416,
+            "compression_ratio": 1.7608695652173914,
+            "no_speech_prob": 0.0029040048830211163,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 20.68,
+                    "end": 21.02,
+                    "probability": 0.843696117401123
+                },
+                {
+                    "word": " table",
+                    "start": 21.02,
+                    "end": 21.36,
+                    "probability": 0.9961830973625183
+                },
+                {
+                    "word": " that",
+                    "start": 21.36,
+                    "end": 21.68,
+                    "probability": 0.9360867738723755
+                },
+                {
+                    "word": " is",
+                    "start": 21.68,
+                    "end": 22.04,
+                    "probability": 0.9445133209228516
+                },
+                {
+                    "word": " not",
+                    "start": 22.04,
+                    "end": 22.36,
+                    "probability": 0.9957084655761719
+                },
+                {
+                    "word": " in",
+                    "start": 22.36,
+                    "end": 22.72,
+                    "probability": 0.991952121257782
+                },
+                {
+                    "word": " the",
+                    "start": 22.72,
+                    "end": 22.92,
+                    "probability": 0.9985137581825256
+                },
+                {
+                    "word": " way",
+                    "start": 22.92,
+                    "end": 23.32,
+                    "probability": 0.9989467263221741
+                },
+                {
+                    "word": " of",
+                    "start": 23.32,
+                    "end": 24.26,
+                    "probability": 0.9625856876373291
+                },
+                {
+                    "word": " our",
+                    "start": 24.26,
+                    "end": 24.56,
+                    "probability": 0.9877433776855469
+                },
+                {
+                    "word": " experience.",
+                    "start": 24.56,
+                    "end": 25.22,
+                    "probability": 0.9855605959892273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

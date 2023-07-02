@@ -1,0 +1,55 @@
+{
+    "text": " I'm sorry, I'm not.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.06,
+            "end": 0.58,
+            "text": " I'm sorry, I'm not.",
+            "tokens": [
+                50364,
+                286,
+                478,
+                2597,
+                11,
+                286,
+                478,
+                406,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8007362539117987,
+            "compression_ratio": 0.76,
+            "no_speech_prob": 0.49129530787467957,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 0.06,
+                    "end": 0.28,
+                    "probability": 0.7256013453006744
+                },
+                {
+                    "word": " sorry,",
+                    "start": 0.28,
+                    "end": 0.36,
+                    "probability": 0.9800287485122681
+                },
+                {
+                    "word": " I'm",
+                    "start": 0.5,
+                    "end": 0.58,
+                    "probability": 0.41930828988552094
+                },
+                {
+                    "word": " not.",
+                    "start": 0.58,
+                    "end": 0.58,
+                    "probability": 0.4033377468585968
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

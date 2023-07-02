@@ -1,0 +1,47 @@
+{
+    "text": " Okay, nice, nice.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.28,
+            "end": 1.4,
+            "text": " Okay, nice, nice.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1481,
+                11,
+                1481,
+                13,
+                50434
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5456051296657987,
+            "compression_ratio": 0.85,
+            "no_speech_prob": 0.18891167640686035,
+            "words": [
+                {
+                    "word": " Okay,",
+                    "start": 0.28,
+                    "end": 0.68,
+                    "probability": 0.6971152424812317
+                },
+                {
+                    "word": " nice,",
+                    "start": 0.94,
+                    "end": 1.14,
+                    "probability": 0.9872810244560242
+                },
+                {
+                    "word": " nice.",
+                    "start": 1.32,
+                    "end": 1.4,
+                    "probability": 0.9954506754875183
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

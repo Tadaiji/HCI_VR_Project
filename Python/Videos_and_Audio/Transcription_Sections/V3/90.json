@@ -1,0 +1,159 @@
+{
+    "text": " Are we done? Yeah, we can offer. We can stop if you guys want.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.1,
+            "end": 0.84,
+            "text": " Are we done?",
+            "tokens": [
+                50364,
+                2014,
+                321,
+                1096,
+                30,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4852091598510742,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.22459717094898224,
+            "words": [
+                {
+                    "word": " Are",
+                    "start": 0.1,
+                    "end": 0.58,
+                    "probability": 0.38683241605758667
+                },
+                {
+                    "word": " we",
+                    "start": 0.58,
+                    "end": 0.74,
+                    "probability": 0.9719160199165344
+                },
+                {
+                    "word": " done?",
+                    "start": 0.74,
+                    "end": 0.84,
+                    "probability": 0.9831293225288391
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.34,
+            "end": 2.36,
+            "text": " Yeah, we can offer.",
+            "tokens": [
+                50414,
+                865,
+                11,
+                321,
+                393,
+                2626,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4852091598510742,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.22459717094898224,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 1.34,
+                    "end": 1.76,
+                    "probability": 0.6527048349380493
+                },
+                {
+                    "word": " we",
+                    "start": 1.9,
+                    "end": 1.9,
+                    "probability": 0.8550561666488647
+                },
+                {
+                    "word": " can",
+                    "start": 1.9,
+                    "end": 2.06,
+                    "probability": 0.9201385974884033
+                },
+                {
+                    "word": " offer.",
+                    "start": 2.06,
+                    "end": 2.36,
+                    "probability": 0.6259158253669739
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.62,
+            "end": 4.14,
+            "text": " We can stop if you guys want.",
+            "tokens": [
+                50464,
+                492,
+                393,
+                1590,
+                498,
+                291,
+                1074,
+                528,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4852091598510742,
+            "compression_ratio": 0.9841269841269841,
+            "no_speech_prob": 0.22459717094898224,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 2.62,
+                    "end": 2.7,
+                    "probability": 0.9553220868110657
+                },
+                {
+                    "word": " can",
+                    "start": 2.7,
+                    "end": 3.16,
+                    "probability": 0.9925541281700134
+                },
+                {
+                    "word": " stop",
+                    "start": 3.16,
+                    "end": 3.42,
+                    "probability": 0.8954071998596191
+                },
+                {
+                    "word": " if",
+                    "start": 3.42,
+                    "end": 3.6,
+                    "probability": 0.7793996334075928
+                },
+                {
+                    "word": " you",
+                    "start": 3.6,
+                    "end": 3.74,
+                    "probability": 0.9848384857177734
+                },
+                {
+                    "word": " guys",
+                    "start": 3.74,
+                    "end": 3.9,
+                    "probability": 0.9456508755683899
+                },
+                {
+                    "word": " want.",
+                    "start": 3.9,
+                    "end": 4.14,
+                    "probability": 0.9959087371826172
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

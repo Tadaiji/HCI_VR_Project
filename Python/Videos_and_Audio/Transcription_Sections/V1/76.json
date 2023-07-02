@@ -1,0 +1,69 @@
+{
+    "text": " how could we forget the Pajaruk?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.76,
+            "text": " how could we forget the Pajaruk?",
+            "tokens": [
+                50364,
+                577,
+                727,
+                321,
+                2870,
+                264,
+                430,
+                1805,
+                289,
+                2034,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9938819591815655,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.09303358197212219,
+            "words": [
+                {
+                    "word": " how",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.4716273248195648
+                },
+                {
+                    "word": " could",
+                    "start": 0.42,
+                    "end": 0.6,
+                    "probability": 0.980961263179779
+                },
+                {
+                    "word": " we",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.99310302734375
+                },
+                {
+                    "word": " forget",
+                    "start": 0.78,
+                    "end": 1.02,
+                    "probability": 0.9970310926437378
+                },
+                {
+                    "word": " the",
+                    "start": 1.02,
+                    "end": 1.26,
+                    "probability": 0.9519834518432617
+                },
+                {
+                    "word": " Pajaruk?",
+                    "start": 1.26,
+                    "end": 1.76,
+                    "probability": 0.22807128494605422
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

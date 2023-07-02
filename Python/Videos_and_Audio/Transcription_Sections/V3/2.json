@@ -1,0 +1,31 @@
+{
+    "text": "zione.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.44,
+            "text": "zione.",
+            "tokens": [
+                50364,
+                19706,
+                13,
+                50421
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.0309295654296875,
+            "compression_ratio": 0.42857142857142855,
+            "no_speech_prob": 0.4798608124256134,
+            "words": [
+                {
+                    "word": "zione.",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 5.97219013798167e-07
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

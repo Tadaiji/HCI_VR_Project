@@ -1,0 +1,30 @@
+{
+    "text": " We",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.02,
+            "text": " We",
+            "tokens": [
+                50364,
+                492,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8774006366729736,
+            "compression_ratio": 0.2,
+            "no_speech_prob": 0.8366248607635498,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 0.0,
+                    "end": 0.02,
+                    "probability": 0.02792891301214695
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

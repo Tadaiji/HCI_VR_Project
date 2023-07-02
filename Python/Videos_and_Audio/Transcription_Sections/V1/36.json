@@ -1,0 +1,1263 @@
+{
+    "text": " Well, we cannot throw everything out. You cannot like throw everything out. The thing is this chair was from my late grandma and also from my great grandma. They all used to sit on this chair, read stories, and I grew up listening all the stories from her. And I all the time keep this chair with me. So I cannot throw this chair. Of course, the color is a little bit old, but the memories are really precious for me. So I cannot just throw this chair. And also these plants, they are really good. And this pot, it is basically a Chinese pot. And when some of our known person, especially my dog, which died last month, his ashes are still there in that Chinese pot. So I don't want to throw it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.7,
+            "end": 3.76,
+            "text": " Well, we cannot throw everything out.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                321,
+                2644,
+                3507,
+                1203,
+                484,
+                13,
+                50548
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.7,
+                    "end": 1.26,
+                    "probability": 0.43839383125305176
+                },
+                {
+                    "word": " we",
+                    "start": 0.68,
+                    "end": 1.82,
+                    "probability": 0.6248165965080261
+                },
+                {
+                    "word": " cannot",
+                    "start": 1.82,
+                    "end": 2.4,
+                    "probability": 0.85439133644104
+                },
+                {
+                    "word": " throw",
+                    "start": 2.4,
+                    "end": 2.82,
+                    "probability": 0.9874775409698486
+                },
+                {
+                    "word": " everything",
+                    "start": 2.82,
+                    "end": 3.26,
+                    "probability": 0.982177734375
+                },
+                {
+                    "word": " out.",
+                    "start": 3.26,
+                    "end": 3.76,
+                    "probability": 0.9847856760025024
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.12,
+            "end": 7.04,
+            "text": " You cannot like throw everything out.",
+            "tokens": [
+                50548,
+                509,
+                2644,
+                411,
+                3507,
+                1203,
+                484,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 4.12,
+                    "end": 4.38,
+                    "probability": 0.5287268161773682
+                },
+                {
+                    "word": " cannot",
+                    "start": 4.38,
+                    "end": 4.94,
+                    "probability": 0.9558471441268921
+                },
+                {
+                    "word": " like",
+                    "start": 4.94,
+                    "end": 6.0,
+                    "probability": 0.3911331593990326
+                },
+                {
+                    "word": " throw",
+                    "start": 6.0,
+                    "end": 6.46,
+                    "probability": 0.8756327629089355
+                },
+                {
+                    "word": " everything",
+                    "start": 6.46,
+                    "end": 6.78,
+                    "probability": 0.9922645092010498
+                },
+                {
+                    "word": " out.",
+                    "start": 6.78,
+                    "end": 7.04,
+                    "probability": 0.9868828654289246
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.2,
+            "end": 11.28,
+            "text": " The thing is this chair was from my late grandma",
+            "tokens": [
+                50714,
+                440,
+                551,
+                307,
+                341,
+                6090,
+                390,
+                490,
+                452,
+                3469,
+                15766,
+                50942
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 7.2,
+                    "end": 7.24,
+                    "probability": 0.9391279220581055
+                },
+                {
+                    "word": " thing",
+                    "start": 7.24,
+                    "end": 7.42,
+                    "probability": 0.9904234409332275
+                },
+                {
+                    "word": " is",
+                    "start": 7.42,
+                    "end": 8.04,
+                    "probability": 0.9979006052017212
+                },
+                {
+                    "word": " this",
+                    "start": 8.04,
+                    "end": 8.5,
+                    "probability": 0.5884356498718262
+                },
+                {
+                    "word": " chair",
+                    "start": 8.5,
+                    "end": 8.98,
+                    "probability": 0.9790113568305969
+                },
+                {
+                    "word": " was",
+                    "start": 8.98,
+                    "end": 9.66,
+                    "probability": 0.9721643924713135
+                },
+                {
+                    "word": " from",
+                    "start": 9.66,
+                    "end": 9.86,
+                    "probability": 0.9947275519371033
+                },
+                {
+                    "word": " my",
+                    "start": 9.86,
+                    "end": 10.12,
+                    "probability": 0.9980620741844177
+                },
+                {
+                    "word": " late",
+                    "start": 10.12,
+                    "end": 10.68,
+                    "probability": 0.9911419153213501
+                },
+                {
+                    "word": " grandma",
+                    "start": 10.68,
+                    "end": 11.28,
+                    "probability": 0.9053961038589478
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.28,
+            "end": 13.64,
+            "text": " and also from my great grandma.",
+            "tokens": [
+                50942,
+                293,
+                611,
+                490,
+                452,
+                869,
+                15766,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 11.28,
+                    "end": 12.04,
+                    "probability": 0.8263803124427795
+                },
+                {
+                    "word": " also",
+                    "start": 12.04,
+                    "end": 12.5,
+                    "probability": 0.8893963694572449
+                },
+                {
+                    "word": " from",
+                    "start": 12.5,
+                    "end": 12.76,
+                    "probability": 0.9862291812896729
+                },
+                {
+                    "word": " my",
+                    "start": 12.76,
+                    "end": 12.94,
+                    "probability": 0.9981892704963684
+                },
+                {
+                    "word": " great",
+                    "start": 12.94,
+                    "end": 13.2,
+                    "probability": 0.9868038296699524
+                },
+                {
+                    "word": " grandma.",
+                    "start": 13.2,
+                    "end": 13.64,
+                    "probability": 0.8241233229637146
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.1,
+            "end": 17.78,
+            "text": " They all used to sit on this chair, read stories,",
+            "tokens": [
+                51064,
+                814,
+                439,
+                1143,
+                281,
+                1394,
+                322,
+                341,
+                6090,
+                11,
+                1401,
+                3676,
+                11,
+                51254
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 14.1,
+                    "end": 14.36,
+                    "probability": 0.9881799221038818
+                },
+                {
+                    "word": " all",
+                    "start": 14.36,
+                    "end": 14.62,
+                    "probability": 0.9928426742553711
+                },
+                {
+                    "word": " used",
+                    "start": 14.62,
+                    "end": 14.86,
+                    "probability": 0.981212317943573
+                },
+                {
+                    "word": " to",
+                    "start": 14.86,
+                    "end": 15.04,
+                    "probability": 0.9993149042129517
+                },
+                {
+                    "word": " sit",
+                    "start": 15.04,
+                    "end": 15.24,
+                    "probability": 0.9989511966705322
+                },
+                {
+                    "word": " on",
+                    "start": 15.24,
+                    "end": 15.5,
+                    "probability": 0.9970155954360962
+                },
+                {
+                    "word": " this",
+                    "start": 15.5,
+                    "end": 15.98,
+                    "probability": 0.998055100440979
+                },
+                {
+                    "word": " chair,",
+                    "start": 15.98,
+                    "end": 16.44,
+                    "probability": 0.9975470900535583
+                },
+                {
+                    "word": " read",
+                    "start": 17.08,
+                    "end": 17.22,
+                    "probability": 0.9766007661819458
+                },
+                {
+                    "word": " stories,",
+                    "start": 17.22,
+                    "end": 17.78,
+                    "probability": 0.9941913485527039
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.9,
+            "end": 21.16,
+            "text": " and I grew up listening all the stories from her.",
+            "tokens": [
+                51254,
+                293,
+                286,
+                6109,
+                493,
+                4764,
+                439,
+                264,
+                3676,
+                490,
+                720,
+                13,
+                51430
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 17.9,
+                    "end": 18.06,
+                    "probability": 0.9866008162498474
+                },
+                {
+                    "word": " I",
+                    "start": 18.06,
+                    "end": 18.26,
+                    "probability": 0.9914090037345886
+                },
+                {
+                    "word": " grew",
+                    "start": 18.26,
+                    "end": 18.5,
+                    "probability": 0.9971643090248108
+                },
+                {
+                    "word": " up",
+                    "start": 18.5,
+                    "end": 19.06,
+                    "probability": 0.9988481998443604
+                },
+                {
+                    "word": " listening",
+                    "start": 19.06,
+                    "end": 19.38,
+                    "probability": 0.9873140454292297
+                },
+                {
+                    "word": " all",
+                    "start": 19.38,
+                    "end": 19.86,
+                    "probability": 0.6472145318984985
+                },
+                {
+                    "word": " the",
+                    "start": 19.86,
+                    "end": 20.18,
+                    "probability": 0.9330780506134033
+                },
+                {
+                    "word": " stories",
+                    "start": 20.18,
+                    "end": 20.46,
+                    "probability": 0.9992222785949707
+                },
+                {
+                    "word": " from",
+                    "start": 20.46,
+                    "end": 20.78,
+                    "probability": 0.9979584217071533
+                },
+                {
+                    "word": " her.",
+                    "start": 20.78,
+                    "end": 21.16,
+                    "probability": 0.997287392616272
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 21.24,
+            "end": 23.26,
+            "text": " And I all the time keep this chair with me.",
+            "tokens": [
+                51430,
+                400,
+                286,
+                439,
+                264,
+                565,
+                1066,
+                341,
+                6090,
+                365,
+                385,
+                13,
+                51524
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 21.24,
+                    "end": 21.56,
+                    "probability": 0.7955764532089233
+                },
+                {
+                    "word": " I",
+                    "start": 21.56,
+                    "end": 21.62,
+                    "probability": 0.9122605323791504
+                },
+                {
+                    "word": " all",
+                    "start": 21.62,
+                    "end": 21.8,
+                    "probability": 0.915703535079956
+                },
+                {
+                    "word": " the",
+                    "start": 21.8,
+                    "end": 21.98,
+                    "probability": 0.9965276122093201
+                },
+                {
+                    "word": " time",
+                    "start": 21.98,
+                    "end": 22.16,
+                    "probability": 0.9979838132858276
+                },
+                {
+                    "word": " keep",
+                    "start": 22.16,
+                    "end": 22.38,
+                    "probability": 0.9551718831062317
+                },
+                {
+                    "word": " this",
+                    "start": 22.38,
+                    "end": 22.66,
+                    "probability": 0.992879331111908
+                },
+                {
+                    "word": " chair",
+                    "start": 22.66,
+                    "end": 22.86,
+                    "probability": 0.9977079629898071
+                },
+                {
+                    "word": " with",
+                    "start": 22.86,
+                    "end": 23.08,
+                    "probability": 0.999352753162384
+                },
+                {
+                    "word": " me.",
+                    "start": 23.08,
+                    "end": 23.26,
+                    "probability": 0.9992777705192566
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 23.26,
+            "end": 25.06,
+            "text": " So I cannot throw this chair.",
+            "tokens": [
+                51524,
+                407,
+                286,
+                2644,
+                3507,
+                341,
+                6090,
+                13,
+                51632
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 23.26,
+                    "end": 23.42,
+                    "probability": 0.9897332787513733
+                },
+                {
+                    "word": " I",
+                    "start": 23.42,
+                    "end": 23.56,
+                    "probability": 0.866933286190033
+                },
+                {
+                    "word": " cannot",
+                    "start": 23.56,
+                    "end": 24.08,
+                    "probability": 0.8969376087188721
+                },
+                {
+                    "word": " throw",
+                    "start": 24.08,
+                    "end": 24.42,
+                    "probability": 0.9953318238258362
+                },
+                {
+                    "word": " this",
+                    "start": 24.42,
+                    "end": 24.76,
+                    "probability": 0.9968173503875732
+                },
+                {
+                    "word": " chair.",
+                    "start": 24.76,
+                    "end": 25.06,
+                    "probability": 0.9520133137702942
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 25.64,
+            "end": 27.6,
+            "text": " Of course, the color is a little bit old,",
+            "tokens": [
+                51632,
+                2720,
+                1164,
+                11,
+                264,
+                2017,
+                307,
+                257,
+                707,
+                857,
+                1331,
+                11,
+                51744
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.20831157610966608,
+            "compression_ratio": 1.7971014492753623,
+            "no_speech_prob": 0.05829408019781113,
+            "words": [
+                {
+                    "word": " Of",
+                    "start": 25.64,
+                    "end": 25.88,
+                    "probability": 0.9262966513633728
+                },
+                {
+                    "word": " course,",
+                    "start": 25.88,
+                    "end": 26.08,
+                    "probability": 0.9962540864944458
+                },
+                {
+                    "word": " the",
+                    "start": 26.08,
+                    "end": 26.32,
+                    "probability": 0.9920199513435364
+                },
+                {
+                    "word": " color",
+                    "start": 26.32,
+                    "end": 26.5,
+                    "probability": 0.9419251084327698
+                },
+                {
+                    "word": " is",
+                    "start": 26.5,
+                    "end": 26.78,
+                    "probability": 0.9964876174926758
+                },
+                {
+                    "word": " a",
+                    "start": 26.78,
+                    "end": 26.9,
+                    "probability": 0.6851771473884583
+                },
+                {
+                    "word": " little",
+                    "start": 26.9,
+                    "end": 27.06,
+                    "probability": 0.9985125660896301
+                },
+                {
+                    "word": " bit",
+                    "start": 27.06,
+                    "end": 27.38,
+                    "probability": 0.9972413778305054
+                },
+                {
+                    "word": " old,",
+                    "start": 27.38,
+                    "end": 27.6,
+                    "probability": 0.9931120276451111
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2760,
+            "start": 27.6,
+            "end": 30.58,
+            "text": " but the memories are really precious for me.",
+            "tokens": [
+                50364,
+                457,
+                264,
+                8495,
+                366,
+                534,
+                12406,
+                337,
+                385,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 27.6,
+                    "end": 27.9,
+                    "probability": 0.5943267941474915
+                },
+                {
+                    "word": " the",
+                    "start": 27.9,
+                    "end": 28.28,
+                    "probability": 0.9248090386390686
+                },
+                {
+                    "word": " memories",
+                    "start": 28.28,
+                    "end": 28.6,
+                    "probability": 0.9919211864471436
+                },
+                {
+                    "word": " are",
+                    "start": 28.6,
+                    "end": 28.98,
+                    "probability": 0.996161699295044
+                },
+                {
+                    "word": " really",
+                    "start": 28.98,
+                    "end": 29.74,
+                    "probability": 0.9292147755622864
+                },
+                {
+                    "word": " precious",
+                    "start": 29.74,
+                    "end": 30.04,
+                    "probability": 0.9981675148010254
+                },
+                {
+                    "word": " for",
+                    "start": 30.04,
+                    "end": 30.3,
+                    "probability": 0.8761016726493835
+                },
+                {
+                    "word": " me.",
+                    "start": 30.3,
+                    "end": 30.58,
+                    "probability": 0.9992008805274963
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2760,
+            "start": 30.64,
+            "end": 34.08,
+            "text": " So I cannot just throw this chair.",
+            "tokens": [
+                50510,
+                407,
+                286,
+                2644,
+                445,
+                3507,
+                341,
+                6090,
+                13,
+                50720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 30.64,
+                    "end": 30.78,
+                    "probability": 0.9326995015144348
+                },
+                {
+                    "word": " I",
+                    "start": 30.78,
+                    "end": 30.88,
+                    "probability": 0.8851252198219299
+                },
+                {
+                    "word": " cannot",
+                    "start": 30.88,
+                    "end": 31.26,
+                    "probability": 0.8361271023750305
+                },
+                {
+                    "word": " just",
+                    "start": 31.26,
+                    "end": 32.52,
+                    "probability": 0.8569180369377136
+                },
+                {
+                    "word": " throw",
+                    "start": 32.52,
+                    "end": 33.4,
+                    "probability": 0.8955085277557373
+                },
+                {
+                    "word": " this",
+                    "start": 33.4,
+                    "end": 33.66,
+                    "probability": 0.992343008518219
+                },
+                {
+                    "word": " chair.",
+                    "start": 33.66,
+                    "end": 34.08,
+                    "probability": 0.9780699014663696
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2760,
+            "start": 35.3,
+            "end": 37.88,
+            "text": " And also these plants, they are really good.",
+            "tokens": [
+                50720,
+                400,
+                611,
+                613,
+                5972,
+                11,
+                436,
+                366,
+                534,
+                665,
+                13,
+                50878
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 35.3,
+                    "end": 35.54,
+                    "probability": 0.9058270454406738
+                },
+                {
+                    "word": " also",
+                    "start": 35.54,
+                    "end": 35.92,
+                    "probability": 0.9874148964881897
+                },
+                {
+                    "word": " these",
+                    "start": 35.92,
+                    "end": 36.38,
+                    "probability": 0.8696193099021912
+                },
+                {
+                    "word": " plants,",
+                    "start": 36.38,
+                    "end": 36.78,
+                    "probability": 0.9800153374671936
+                },
+                {
+                    "word": " they",
+                    "start": 36.92,
+                    "end": 37.26,
+                    "probability": 0.8871806263923645
+                },
+                {
+                    "word": " are",
+                    "start": 37.26,
+                    "end": 37.44,
+                    "probability": 0.7586104273796082
+                },
+                {
+                    "word": " really",
+                    "start": 37.44,
+                    "end": 37.66,
+                    "probability": 0.998024582862854
+                },
+                {
+                    "word": " good.",
+                    "start": 37.66,
+                    "end": 37.88,
+                    "probability": 0.9994738698005676
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2760,
+            "start": 38.16,
+            "end": 41.02,
+            "text": " And this pot, it is basically a Chinese pot.",
+            "tokens": [
+                50878,
+                400,
+                341,
+                1847,
+                11,
+                309,
+                307,
+                1936,
+                257,
+                4649,
+                1847,
+                13,
+                51056
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 38.16,
+                    "end": 38.2,
+                    "probability": 0.9590886831283569
+                },
+                {
+                    "word": " this",
+                    "start": 38.2,
+                    "end": 38.54,
+                    "probability": 0.9586735963821411
+                },
+                {
+                    "word": " pot,",
+                    "start": 38.54,
+                    "end": 38.88,
+                    "probability": 0.9691337943077087
+                },
+                {
+                    "word": " it",
+                    "start": 39.24,
+                    "end": 39.52,
+                    "probability": 0.9326493144035339
+                },
+                {
+                    "word": " is",
+                    "start": 39.52,
+                    "end": 39.76,
+                    "probability": 0.9603813290596008
+                },
+                {
+                    "word": " basically",
+                    "start": 39.76,
+                    "end": 40.08,
+                    "probability": 0.9954082369804382
+                },
+                {
+                    "word": " a",
+                    "start": 40.08,
+                    "end": 40.36,
+                    "probability": 0.997933030128479
+                },
+                {
+                    "word": " Chinese",
+                    "start": 40.36,
+                    "end": 40.66,
+                    "probability": 0.9949777722358704
+                },
+                {
+                    "word": " pot.",
+                    "start": 40.66,
+                    "end": 41.02,
+                    "probability": 0.9176719188690186
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2760,
+            "start": 41.5,
+            "end": 45.14,
+            "text": " And when some of our known person,",
+            "tokens": [
+                51056,
+                400,
+                562,
+                512,
+                295,
+                527,
+                2570,
+                954,
+                11,
+                51286
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 41.5,
+                    "end": 41.8,
+                    "probability": 0.9915253520011902
+                },
+                {
+                    "word": " when",
+                    "start": 41.8,
+                    "end": 42.18,
+                    "probability": 0.9139741063117981
+                },
+                {
+                    "word": " some",
+                    "start": 42.18,
+                    "end": 42.72,
+                    "probability": 0.995617151260376
+                },
+                {
+                    "word": " of",
+                    "start": 42.72,
+                    "end": 43.76,
+                    "probability": 0.9940047860145569
+                },
+                {
+                    "word": " our",
+                    "start": 43.76,
+                    "end": 44.06,
+                    "probability": 0.9766988754272461
+                },
+                {
+                    "word": " known",
+                    "start": 44.06,
+                    "end": 44.3,
+                    "probability": 0.9465299248695374
+                },
+                {
+                    "word": " person,",
+                    "start": 44.3,
+                    "end": 45.14,
+                    "probability": 0.9604844450950623
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2760,
+            "start": 46.32,
+            "end": 48.9,
+            "text": " especially my dog, which died last month,",
+            "tokens": [
+                51286,
+                2318,
+                452,
+                3000,
+                11,
+                597,
+                4539,
+                1036,
+                1618,
+                11,
+                51450
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " especially",
+                    "start": 46.32,
+                    "end": 46.52,
+                    "probability": 0.9838694930076599
+                },
+                {
+                    "word": " my",
+                    "start": 46.52,
+                    "end": 46.92,
+                    "probability": 0.9894619584083557
+                },
+                {
+                    "word": " dog,",
+                    "start": 46.92,
+                    "end": 47.12,
+                    "probability": 0.9982859492301941
+                },
+                {
+                    "word": " which",
+                    "start": 47.3,
+                    "end": 47.46,
+                    "probability": 0.9941469430923462
+                },
+                {
+                    "word": " died",
+                    "start": 47.46,
+                    "end": 47.96,
+                    "probability": 0.9254340529441833
+                },
+                {
+                    "word": " last",
+                    "start": 47.96,
+                    "end": 48.42,
+                    "probability": 0.9732984304428101
+                },
+                {
+                    "word": " month,",
+                    "start": 48.42,
+                    "end": 48.9,
+                    "probability": 0.9878102540969849
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2760,
+            "start": 49.48,
+            "end": 52.24,
+            "text": " his ashes are still there in that Chinese pot.",
+            "tokens": [
+                51450,
+                702,
+                32942,
+                366,
+                920,
+                456,
+                294,
+                300,
+                4649,
+                1847,
+                13,
+                51594
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " his",
+                    "start": 49.48,
+                    "end": 49.68,
+                    "probability": 0.9954511523246765
+                },
+                {
+                    "word": " ashes",
+                    "start": 49.68,
+                    "end": 49.96,
+                    "probability": 0.9976139068603516
+                },
+                {
+                    "word": " are",
+                    "start": 49.96,
+                    "end": 50.22,
+                    "probability": 0.989096999168396
+                },
+                {
+                    "word": " still",
+                    "start": 50.22,
+                    "end": 50.5,
+                    "probability": 0.9993608593940735
+                },
+                {
+                    "word": " there",
+                    "start": 50.5,
+                    "end": 50.96,
+                    "probability": 0.9983898401260376
+                },
+                {
+                    "word": " in",
+                    "start": 50.96,
+                    "end": 51.38,
+                    "probability": 0.9622274041175842
+                },
+                {
+                    "word": " that",
+                    "start": 51.38,
+                    "end": 51.56,
+                    "probability": 0.9624072313308716
+                },
+                {
+                    "word": " Chinese",
+                    "start": 51.56,
+                    "end": 51.94,
+                    "probability": 0.9989708662033081
+                },
+                {
+                    "word": " pot.",
+                    "start": 51.94,
+                    "end": 52.24,
+                    "probability": 0.9490711092948914
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2760,
+            "start": 52.56,
+            "end": 54.36,
+            "text": " So I don't want to throw it.",
+            "tokens": [
+                51594,
+                407,
+                286,
+                500,
+                380,
+                528,
+                281,
+                3507,
+                309,
+                13,
+                51700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.18827486562204884,
+            "compression_ratio": 1.6180904522613064,
+            "no_speech_prob": 0.019007036462426186,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 52.56,
+                    "end": 52.78,
+                    "probability": 0.9789461493492126
+                },
+                {
+                    "word": " I",
+                    "start": 52.78,
+                    "end": 53.08,
+                    "probability": 0.9202153086662292
+                },
+                {
+                    "word": " don't",
+                    "start": 53.08,
+                    "end": 53.3,
+                    "probability": 0.9948286712169647
+                },
+                {
+                    "word": " want",
+                    "start": 53.3,
+                    "end": 53.46,
+                    "probability": 0.9951648712158203
+                },
+                {
+                    "word": " to",
+                    "start": 53.46,
+                    "end": 53.68,
+                    "probability": 0.9984320998191833
+                },
+                {
+                    "word": " throw",
+                    "start": 53.68,
+                    "end": 53.94,
+                    "probability": 0.996965229511261
+                },
+                {
+                    "word": " it.",
+                    "start": 53.94,
+                    "end": 54.36,
+                    "probability": 0.8903397917747498
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

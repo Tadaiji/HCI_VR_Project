@@ -1,0 +1,74 @@
+{
+    "text": " Yeah, it was too expensive and handmade.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.14,
+            "text": " Yeah, it was too expensive and handmade.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                309,
+                390,
+                886,
+                5124,
+                293,
+                39446,
+                13,
+                50570
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5948468844095866,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.37696924805641174,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.94,
+                    "probability": 0.3255265951156616
+                },
+                {
+                    "word": " it",
+                    "start": 1.88,
+                    "end": 1.88,
+                    "probability": 0.6093733310699463
+                },
+                {
+                    "word": " was",
+                    "start": 1.88,
+                    "end": 2.34,
+                    "probability": 0.9475952982902527
+                },
+                {
+                    "word": " too",
+                    "start": 2.34,
+                    "end": 2.64,
+                    "probability": 0.9368579983711243
+                },
+                {
+                    "word": " expensive",
+                    "start": 2.64,
+                    "end": 3.42,
+                    "probability": 0.9947931170463562
+                },
+                {
+                    "word": " and",
+                    "start": 3.42,
+                    "end": 3.76,
+                    "probability": 0.763234555721283
+                },
+                {
+                    "word": " handmade.",
+                    "start": 3.76,
+                    "end": 4.14,
+                    "probability": 0.755832314491272
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

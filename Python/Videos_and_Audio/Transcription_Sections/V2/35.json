@@ -1,0 +1,502 @@
+{
+    "text": " But I'd still say we should move it behind me on this wall. And just to have more room for people and gatherings. But I think we have to discuss if we have enough room after that. In the whole living room. Because when we keep the old couch and sofa and buy a new one which is",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 2.04,
+            "end": 8.4,
+            "text": " But I'd still say we should move it behind me on this wall.",
+            "tokens": [
+                50364,
+                583,
+                286,
+                1116,
+                920,
+                584,
+                321,
+                820,
+                1286,
+                309,
+                2261,
+                385,
+                322,
+                341,
+                2929,
+                13,
+                50784
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47304093210320725,
+            "compression_ratio": 1.4137931034482758,
+            "no_speech_prob": 0.2604065537452698,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 2.04,
+                    "end": 2.84,
+                    "probability": 0.3049715459346771
+                },
+                {
+                    "word": " I'd",
+                    "start": 2.84,
+                    "end": 3.42,
+                    "probability": 0.809731125831604
+                },
+                {
+                    "word": " still",
+                    "start": 3.42,
+                    "end": 3.64,
+                    "probability": 0.9935867786407471
+                },
+                {
+                    "word": " say",
+                    "start": 3.64,
+                    "end": 4.18,
+                    "probability": 0.998551070690155
+                },
+                {
+                    "word": " we",
+                    "start": 4.18,
+                    "end": 4.48,
+                    "probability": 0.9524550437927246
+                },
+                {
+                    "word": " should",
+                    "start": 4.48,
+                    "end": 4.74,
+                    "probability": 0.9866542220115662
+                },
+                {
+                    "word": " move",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.7020685076713562
+                },
+                {
+                    "word": " it",
+                    "start": 5.02,
+                    "end": 5.4,
+                    "probability": 0.9600632190704346
+                },
+                {
+                    "word": " behind",
+                    "start": 5.4,
+                    "end": 6.02,
+                    "probability": 0.9591680765151978
+                },
+                {
+                    "word": " me",
+                    "start": 6.02,
+                    "end": 6.9,
+                    "probability": 0.9649942517280579
+                },
+                {
+                    "word": " on",
+                    "start": 6.9,
+                    "end": 7.66,
+                    "probability": 0.412289559841156
+                },
+                {
+                    "word": " this",
+                    "start": 7.66,
+                    "end": 7.96,
+                    "probability": 0.9935046434402466
+                },
+                {
+                    "word": " wall.",
+                    "start": 7.96,
+                    "end": 8.4,
+                    "probability": 0.99179607629776
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.78,
+            "end": 14.98,
+            "text": " And just to have more room for people and gatherings.",
+            "tokens": [
+                50784,
+                400,
+                445,
+                281,
+                362,
+                544,
+                1808,
+                337,
+                561,
+                293,
+                36247,
+                13,
+                51128
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47304093210320725,
+            "compression_ratio": 1.4137931034482758,
+            "no_speech_prob": 0.2604065537452698,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.78,
+                    "end": 8.86,
+                    "probability": 0.3541739583015442
+                },
+                {
+                    "word": " just",
+                    "start": 8.86,
+                    "end": 8.96,
+                    "probability": 0.973578691482544
+                },
+                {
+                    "word": " to",
+                    "start": 8.96,
+                    "end": 9.16,
+                    "probability": 0.9861193895339966
+                },
+                {
+                    "word": " have",
+                    "start": 9.16,
+                    "end": 9.3,
+                    "probability": 0.9983980059623718
+                },
+                {
+                    "word": " more",
+                    "start": 9.3,
+                    "end": 11.26,
+                    "probability": 0.9947709441184998
+                },
+                {
+                    "word": " room",
+                    "start": 11.26,
+                    "end": 12.16,
+                    "probability": 0.555615246295929
+                },
+                {
+                    "word": " for",
+                    "start": 12.16,
+                    "end": 13.14,
+                    "probability": 0.994768500328064
+                },
+                {
+                    "word": " people",
+                    "start": 13.14,
+                    "end": 13.76,
+                    "probability": 0.9832646250724792
+                },
+                {
+                    "word": " and",
+                    "start": 13.76,
+                    "end": 14.42,
+                    "probability": 0.95866858959198
+                },
+                {
+                    "word": " gatherings.",
+                    "start": 14.42,
+                    "end": 14.98,
+                    "probability": 0.9823696613311768
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.62,
+            "end": 25.42,
+            "text": " But I think we have to discuss if we have enough room after that.",
+            "tokens": [
+                51128,
+                583,
+                286,
+                519,
+                321,
+                362,
+                281,
+                2248,
+                498,
+                321,
+                362,
+                1547,
+                1808,
+                934,
+                300,
+                13,
+                51636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47304093210320725,
+            "compression_ratio": 1.4137931034482758,
+            "no_speech_prob": 0.2604065537452698,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 17.62,
+                    "end": 18.46,
+                    "probability": 0.4767620861530304
+                },
+                {
+                    "word": " I",
+                    "start": 18.46,
+                    "end": 20.08,
+                    "probability": 0.4845956265926361
+                },
+                {
+                    "word": " think",
+                    "start": 20.08,
+                    "end": 20.3,
+                    "probability": 0.9980219602584839
+                },
+                {
+                    "word": " we",
+                    "start": 20.3,
+                    "end": 20.36,
+                    "probability": 0.9873892068862915
+                },
+                {
+                    "word": " have",
+                    "start": 20.36,
+                    "end": 20.5,
+                    "probability": 0.978097140789032
+                },
+                {
+                    "word": " to",
+                    "start": 20.5,
+                    "end": 20.56,
+                    "probability": 0.9976971745491028
+                },
+                {
+                    "word": " discuss",
+                    "start": 20.56,
+                    "end": 21.08,
+                    "probability": 0.9919052124023438
+                },
+                {
+                    "word": " if",
+                    "start": 21.08,
+                    "end": 21.32,
+                    "probability": 0.9360082745552063
+                },
+                {
+                    "word": " we",
+                    "start": 21.32,
+                    "end": 21.52,
+                    "probability": 0.9898822903633118
+                },
+                {
+                    "word": " have",
+                    "start": 21.52,
+                    "end": 21.96,
+                    "probability": 0.9908578991889954
+                },
+                {
+                    "word": " enough",
+                    "start": 21.96,
+                    "end": 22.56,
+                    "probability": 0.996982991695404
+                },
+                {
+                    "word": " room",
+                    "start": 22.56,
+                    "end": 23.42,
+                    "probability": 0.9735280871391296
+                },
+                {
+                    "word": " after",
+                    "start": 23.42,
+                    "end": 25.14,
+                    "probability": 0.213450625538826
+                },
+                {
+                    "word": " that.",
+                    "start": 25.14,
+                    "end": 25.42,
+                    "probability": 0.9673668742179871
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 26.7,
+            "end": 28.0,
+            "text": " In the whole living room.",
+            "tokens": [
+                51636,
+                682,
+                264,
+                1379,
+                2647,
+                1808,
+                13,
+                51776
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47304093210320725,
+            "compression_ratio": 1.4137931034482758,
+            "no_speech_prob": 0.2604065537452698,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 26.7,
+                    "end": 26.94,
+                    "probability": 0.3561106026172638
+                },
+                {
+                    "word": " the",
+                    "start": 26.94,
+                    "end": 27.04,
+                    "probability": 0.9597257971763611
+                },
+                {
+                    "word": " whole",
+                    "start": 27.04,
+                    "end": 27.28,
+                    "probability": 0.4725209176540375
+                },
+                {
+                    "word": " living",
+                    "start": 27.28,
+                    "end": 27.58,
+                    "probability": 0.9618344306945801
+                },
+                {
+                    "word": " room.",
+                    "start": 27.58,
+                    "end": 28.0,
+                    "probability": 0.9962254762649536
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 2800,
+            "start": 28.46,
+            "end": 34.02,
+            "text": " Because when we keep the old couch and sofa and buy a new one which is",
+            "tokens": [
+                50364,
+                1436,
+                562,
+                321,
+                1066,
+                264,
+                1331,
+                16511,
+                293,
+                28668,
+                293,
+                2256,
+                257,
+                777,
+                472,
+                597,
+                307,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49857435728374283,
+            "compression_ratio": 1.0294117647058822,
+            "no_speech_prob": 0.8363531827926636,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 28.46,
+                    "end": 29.18,
+                    "probability": 0.163400337100029
+                },
+                {
+                    "word": " when",
+                    "start": 29.18,
+                    "end": 29.54,
+                    "probability": 0.8071509599685669
+                },
+                {
+                    "word": " we",
+                    "start": 29.54,
+                    "end": 30.08,
+                    "probability": 0.9853518605232239
+                },
+                {
+                    "word": " keep",
+                    "start": 30.08,
+                    "end": 30.66,
+                    "probability": 0.9627609252929688
+                },
+                {
+                    "word": " the",
+                    "start": 30.66,
+                    "end": 30.92,
+                    "probability": 0.9388784170150757
+                },
+                {
+                    "word": " old",
+                    "start": 30.92,
+                    "end": 31.34,
+                    "probability": 0.9786878824234009
+                },
+                {
+                    "word": " couch",
+                    "start": 31.34,
+                    "end": 31.92,
+                    "probability": 0.8257204294204712
+                },
+                {
+                    "word": " and",
+                    "start": 31.92,
+                    "end": 32.34,
+                    "probability": 0.4800876975059509
+                },
+                {
+                    "word": " sofa",
+                    "start": 32.34,
+                    "end": 32.6,
+                    "probability": 0.6821208000183105
+                },
+                {
+                    "word": " and",
+                    "start": 32.6,
+                    "end": 33.24,
+                    "probability": 0.8105047345161438
+                },
+                {
+                    "word": " buy",
+                    "start": 33.24,
+                    "end": 33.5,
+                    "probability": 0.8368476629257202
+                },
+                {
+                    "word": " a",
+                    "start": 33.5,
+                    "end": 33.68,
+                    "probability": 0.9832507967948914
+                },
+                {
+                    "word": " new",
+                    "start": 33.68,
+                    "end": 33.82,
+                    "probability": 0.9966787099838257
+                },
+                {
+                    "word": " one",
+                    "start": 33.82,
+                    "end": 33.92,
+                    "probability": 0.9846510887145996
+                },
+                {
+                    "word": " which",
+                    "start": 33.92,
+                    "end": 34.02,
+                    "probability": 0.5989342331886292
+                },
+                {
+                    "word": " is",
+                    "start": 34.02,
+                    "end": 34.02,
+                    "probability": 0.8192155957221985
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
