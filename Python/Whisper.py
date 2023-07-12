@@ -55,13 +55,11 @@ def get_speakers(audio: str):
         print("login")
         notebook_login()
 
-    print("pipeline")
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
                                         use_auth_token=access_token)
-    print("dz")
     dz = pipeline(audio)  
 
-    with open("diarization.txt", "w") as text_file:
+    with open("Videos_and_Audio/diarization.txt", "w") as text_file:
         text_file.write(str(dz))
     
     print(*list(dz.itertracks(yield_label = True))[:10], sep="\n")
@@ -186,7 +184,11 @@ def combine_speakers_transcribtion(groups):
         for c in captions:
             start = shift + c['start'] * 1000.0 
             start = start / 1000.0   #time resolution ot youtube is Second.            
-            end = (shift + c['end'] * 1000.0) / 1000.0      
+            end = (shift + c['end'] * 1000.0) / 1000.0
+            if(end < 0):
+                start = 0
+            if (end < 0):
+                end = 0
             text.append(f'[{timeStr(start)} --> {timeStr(end)}] [{speaker}] {c["text"]}\n')
 
             #for i, w in enumerate(c['words']):
@@ -196,7 +198,7 @@ def combine_speakers_transcribtion(groups):
                 #text.append(f'{w["word"]}')
             text.append('\n')
 
-    with open(r"Videos_and_Audio/Transcription_Sections/capspeaker.txt", "w", encoding='utf-8') as file:
+    with open(r"Videos_and_Audio/capspeaker.txt", "w", encoding='utf-8') as file:
         s = "".join(text)
         file.write(s)
         print(s+'\n')
@@ -243,14 +245,14 @@ def timeStr(t):
 
 
 ################# Program #################
-#print("Making .wav file")
-#get_wav("Videos_and_Audio/Test2.mp4")
+print("Making .wav file")
+get_wav("Videos_and_Audio/HCI_2.mp4")
 
-#print("Finding speakers")
-#get_speakers(r"Videos_and_Audio/Test2.mp4.wav")
+print("Finding speakers")
+get_speakers(r"Videos_and_Audio/HCI_2.wav")
 
 print("Grouping speakers")
-groups = grouping_diarization(r"diarization.txt", r"Videos_and_Audio/Test2.mp4.wav")
+groups = grouping_diarization(r"Videos_and_Audio/diarization.txt", r"Videos_and_Audio/HCI_2.wav")
 
 print("Transcribing (This might take a while without CUDA support)")
 transcribe(groups) # takes ages without GPU Acceleration even for the 4 min video. In CPU I think it is pretty much 1:1. Transcribing 4 mins takes 4 mins (maybe a bit less)

@@ -106,7 +106,8 @@ def generateFfmpeg(timestamps: list, input_path:str, output_path:str):
         ffmpeg_timestamps.append(s)
 
     #Video Stuff
-    command = "ffmpeg -i " + input_path + " -b:v 60M -vf \"select='"
+    #command = "ffmpeg -i " + input_path + " -b:v 60M -vf \"select='"
+    command = "ffmpeg -i " + input_path + " -vf \"select='"
     for ffmpeg_timestamp in ffmpeg_timestamps:
         command += ffmpeg_timestamp + "+"
     command = command[:-1] #remove the last +
@@ -127,8 +128,8 @@ def cutVideo(command: str):
 if __name__ == '__main__':
     #test_timestamps = [[0, 10], [15, 20], [25, 50]]
     test_timestamps = getTimestamps(r"Videos_and_Audio/summary3.txt")
-    input_path = r'Videos_and_Audio/HCI_Videos/HCI_3.mp4'
-    output_path = 'HCI_3_Cut_HD_3.mp4'
+    input_path = r'Videos_and_Audio/HCI_Videos/HCI_3_V2.mp4'
+    output_path = 'HCI_3_Cut_UHD.mp4'
     command = generateFfmpeg(test_timestamps,input_path,output_path)
     print(command)
     cutVideo(command)
